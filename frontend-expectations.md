@@ -7,7 +7,8 @@ More to come.
 - `this` keyword
 - Closure
 - ES6
-- Functional & composing functions eg. `map`, `filter`, `reduce`, etc.
+- Functional functions like `map`, `filter`, `reduce`, etc.
+- Avoid `for` loop
 - Immutable datastructure
 
 ### Useful resources
