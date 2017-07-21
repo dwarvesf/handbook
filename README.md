@@ -1,5 +1,5 @@
 # handbook
-Dwarves Foundation handbook
+Dwarves Foundation handbook.
 
 ## Sections
 
