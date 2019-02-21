@@ -25,7 +25,8 @@ No one is taking responsibility for marketing. We are still looking for the righ
 Under **Linh** leadership, Nam and Bich are working closely and responsible for all the partnership inquiry from our customers. They also help to expand the business connection. 
 
 ### Design
-The design group is lead by**Han**and consists of 2 teams:
+The design group is lead by **Han** and consists of 2 teams:
+
 #### Product Designer
 **Ly** and Tam heads up product strategy and works on new features of every product that we build at Dwarves Foundation. They look for insights into customer behavior using a variety of methods and play a key role in helping inform product direction and how we work. 
 
