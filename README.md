@@ -36,6 +36,10 @@ If you’re reading this just after joining the company, it’s particularly on 
 * [Marketing Assets](marketing-assets.md)
 * [FAQ](faq.md)
 
+**Process**
+* [Leave Request](guides/leave-request.md)
+* [Assets](guides/assets.md)
+
 ## Credits
 
-This handbook is a custom version of [Basecamp](https://github.com/basecamp/handbook) Employee Handbook.
+Our handbook was inspired from [Basecamp](https://github.com/basecamp/handbook) and customized by the Dwarves team. We love the concise content and the way they organize the handbook.

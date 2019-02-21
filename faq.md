@@ -10,7 +10,7 @@ It’s like ‘đ-ô-p’ with a ‘tr’ in between -> /đ-tr-ô-p/
 
 * Just in case people don’t get it? 
 
-We can give them the alias email**@d.foundation**
+We can give them the alias email **@d.foundation**
 
 * Do we have a theme song? 
 

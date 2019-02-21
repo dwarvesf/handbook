@@ -32,7 +32,7 @@ We don't offer things like Foosball tables, catered meals in the office, and oth
 On Fridays, we work to make ourselves, the company and our community better by learning new tools and techniques, working on open source, blogging, creating new products, volunteering our time, and more.
 The more you contribute, the more bonus you get up to no limits.
 
-### Expense Account
+### Expense
 The company will pay for any work-related expenses, such as software, or office supplies. If you have any doubts about whether or not to expense something, just ask. When you do buy something, get a receipt. Take a photo of that receipt, and send the photo to the Admin at operation@d.foundation for the reimbursements via the paycheck.
 
 ### Employee Liquidity Pool
