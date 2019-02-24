@@ -69,6 +69,7 @@ That means setting your direction when one isn’t given. Determining what needs
 
 ## A typical working day
 * 9 am Monday, there is an Operation meeting between the head of all the team. They check up the status and list out what they need to do this week.
+
 Basecamp sends out the Digest email about recent activities.
 Basecamp start questioning “What will you be working on this week?”
 
@@ -89,8 +90,6 @@ We believe that a happy person can deliver 10x quality output compared to others
 We encourage the team to work remotely. We want our Dwarves to wake up at 7 am on the beach, grab a coffee and start doing the job that they love. Or spending the day in a coffee shop downtown to be more socialized. Or take their time to breathe the fresh air in Da Lat or Chiang Mai. Or the Dwarves can choose to stay at home with their kids at the cozy working corner to enjoy the alone-zone, best zone to focus and get things done. 
 
 ![](img/remote.jpeg)
-
-We encourage the team to work remotely. We want to build amazing things with autonomy, self-direction, and a healthy work-life balance. We offer flexible work schedules for all of our employees and unlimited PTO. We also believe that if a job allows for it, you should work wherever you are happiest. 
 
 It's also important to note this privilege is on a case-by-case basis and you need the approval from the lead.
 
