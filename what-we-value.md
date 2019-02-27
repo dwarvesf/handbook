@@ -3,19 +3,9 @@ Before anything else, values come first. The value is important to us. They are 
 
 Our core values guide our strategies and individual actions so that we create a company whose character is as radical as our work. 
 
-## Craftsmanship
-
-## Innovation
-- Curiosity
-
-## Sustainability
-- Think long-term
-- Do the right things
-
-## Team
-- Autonomy
-- Collaboration
-- Integrity
+- **Craftsmanship**: We work toward perfection in every single piece that we produce. We are proud of the well-crafted software that we develop together.
+- **Teamwork**: Teamwork is all about trust and collaboration. Having someone in the team mean we can rely on this person.
+- **Sustainable**: We think long-term. We do not believe in rushing for project and working overtime. We believe in working sustainably and balanced so that we are a happy bunch of sane workers. Software requires good brains to create good codes and good processes.
 
 # Culture Code
 There is no such specific guide for culture code. So many of these employee handbook projects turn out to be ideal-case prescriptions rather than real-world descriptions. They cover all the ways people should act, not the ways they actually do. That’s a sham. Let’s not write a handbook like that. **Let’s keep it honest.**
