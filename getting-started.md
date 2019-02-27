@@ -5,6 +5,8 @@ Getting started at Dwarves Foundation can be overwhelming. Different roles have 
 
 Your Dwarves buddy, your Ops buddy, and your manager are all here to help.  There is no set time period for most training periods, but most people are up to speed in about 3 months.
 
+![](/img/dwarves.png)
+
 ## Your Peers
 Usually, when you start a new job in an office, it’s clear who does what. In a remote company, it’s a little less clear. Even when you know [who does what](who-does-what.md), it’s still nice to have a work buddy to ping when you don’t know where to turn. So we set up a [Fortress system](https://fort.dwarves.foundation). 
 
