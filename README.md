@@ -31,7 +31,7 @@ If you’re reading this just after joining the company, it’s particularly on 
 * [Tools & Systems](tools-and-systems.md)
 
 #### Guides & Resources
-* [A Note About Moonlighting](moonlighting.md)
+* [Moonlighting](moonlighting.md)
 * [Effective Meeting](effective-meeting.md)
 * [Security Rules](security-rules.md)
 * [Places to Work](places-to-work.md)
@@ -45,3 +45,7 @@ If you’re reading this just after joining the company, it’s particularly on 
 ## Credits
 
 Our handbook was inspired from [Basecamp](https://github.com/basecamp/handbook) and customized by the Dwarves team. We love the concise content and the way they organize the handbook.
+
+## Contributing
+
+We love pull requests. If you have something you want to add or remove, please open a new pull request. Please leave all PRs open for at least a week to get feedback from everyone.
