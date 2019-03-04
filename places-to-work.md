@@ -1,13 +1,13 @@
 ## Places to work
 ### Noise Levels
-If you’re doing creative work, research suggests you’ll want to be surrounded by**ambient noise**. A café or co-working space is the perfect choice in this case.
+If you’re doing creative work, research suggests you’ll want to be surrounded by **ambient noise**. A café or co-working space is the perfect choice in this case.
 If you need to focus on a specific task, however, you’re going to want silence as [quiet spaces help us focus on straightforward tasks](http://well.blogs.nytimes.com/2013/06/21/how-the-hum-of-a-coffee-shop-can-boost-creativity/) .
 
 * Coffitivity:  [https://coffitivity.com](https://coffitivity.com/)  |  [https://soundcloud.com/coffitivity](https://soundcloud.com/coffitivity) 
 * Noizio:  [http://noiz.io](http://noiz.io/) 
 * Rainy mood:  [http://rainymood.com](http://rainymood.com/) 
 
-In other studies, people has found that exposure to certain colors can play a role as well. Switching the color of your computer’s background screen to blue enhances performance on creative tasks, for example, while making it red helps with detail-oriented tasks. Large, open rooms with high ceilings may also promote creative thinking, they found.
+In other studies, people have found that exposure to certain colors can play a role as well. Switching the color of your computer’s background screen to blue enhances performance on creative tasks, for example, while making it red helps with detail-oriented tasks. Large, open rooms with high ceilings may also promote creative thinking, they found.
 
 ### At home
 * Dedicated Workspace: separate your workspace from your living space
