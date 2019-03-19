@@ -42,10 +42,15 @@ If you’re reading this just after joining the company, it’s particularly on 
 * [Leave Request](guides/leave-request.md)
 * [Assets](guides/assets.md)
 
+## Contributing
+
+We love pull requests. If you have something you want to add or remove, please open a new pull request. Please leave all PRs open for at least a week to get feedback from everyone.
+
 ## Credits
 
 Our handbook was inspired from [Basecamp](https://github.com/basecamp/handbook) and customized by the Dwarves team. We love the concise content and the way they organize the handbook.
 
-## Contributing
+## License
 
-We love pull requests. If you have something you want to add or remove, please open a new pull request. Please leave all PRs open for at least a week to get feedback from everyone.
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+@ [Dwarves Foundation](https://d.foundation)
