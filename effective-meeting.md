@@ -13,11 +13,11 @@ All team members should make themselves available for face-to-face meetings betw
 
 #### Responsiblities in the meeting
 * Everyone is encouraged to contribute ideas to address problems and come up with solutions
-* If you do not agree with anything in the meeting, please raise and resolve it. After the agreement comes out, we must follow what we agreed in the meeting to execute it. The team does not accept any execution out of the agreement.
+* If you do not agree with anything in the meeting, please raise and resolve it. After the agreement comes out, we have to follow what we agreed in the meeting to execute it. The team does not accept any execution out of the agreement.
 
 #### Prerequisites for successful meetings
 The following things are pre-requisites for successful group work:
 * A fast, reliable internet connection. Remote employees should make all efforts to mitigate video call lag.
-* A quiet and private (must be if the condition meets) place to take meetings. If the meeting team is sitting with other people because the limit of office space, the others who are not invited to the meeting have to respect the meeting team, do not join the discussion or contribute any idea. Do not babble.
+* A quiet and private (must be if the condition meets) place to take meetings. If the meeting team is sitting with other people because of the limit of office space, the others who are not invited to the meeting have to respect the meeting team, please do not join the discussion or contribute any idea. Do not babble.
 
 If you’re planning to work with another person on the team (i.e., for a meeting during meeting hours or to pair program), you should make sure these are available.
