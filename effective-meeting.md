@@ -11,7 +11,7 @@ All team members should make themselves available for face-to-face meetings betw
 * If you’re attending a meeting remotely, you should join the video call before a meeting begins. It’s your responsibility to ensure this is possible — this means being in a quiet place with a fast internet connection before the meeting starts. Calling into a meeting via phone or from a public place is unacceptable.
 * For some meetings, voice calls will be sufficient - this decision is up to the meeting organizer when they create the meeting.
 
-### Responsiblities in the meeting
+#### Responsiblities in the meeting
 * Everyone is encouraged to contribute ideas to address problems and come up with solutions
 * If you do not agree with anything in the meeting, please raise and resolve it. After the agreement comes out, we must follow what we agreed in the meeting to execute it. The team does not accept any execution out of the agreement.
 
