@@ -41,6 +41,7 @@ If you’re reading this just after joining the company, it’s particularly on 
 **Process**
 * [Leave Request](guides/leave-request.md)
 * [Assets](guides/assets.md)
+* [Email Communication and Use](guides/email-communication-and-uses.md)
 
 ## Contributing
 
