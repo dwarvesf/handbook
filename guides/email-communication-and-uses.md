@@ -47,7 +47,3 @@ As it sounds, accounting@d.foundation is all for the issue that relates to money
 
 Miner email is used by our Developers to create an account and log in all of our mobile applications for mobile testing.
 Whenever a problem or bug comes in our app, a notification should be dropped at this email.
-
-#### 6. thug@d.foundation
-
-Thug email is used by our DevOps to maintain and manage the server system.
