@@ -64,7 +64,7 @@ We have a short note on this topic [Moonlighting](moonlighting.md)
 
 * Where can I copy the email signature?
 
-We build a small web app for it: [sign.daf.ug](https://sign.daf.ug)
+We build a small web app for it: [sign.d.foundation](https://sign.d.foundation)
 
 * How to raise an issue?
 

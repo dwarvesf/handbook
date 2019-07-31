@@ -57,8 +57,6 @@ https://outline.d.foundation
 ### Slack
 Slack is the secondary communication tool that we use to collaborate with the customer. The Dwarves will join with the customer team on the Shared Channel.
 
-https://dwarvesv.slack.com
-
 ### Zoho CRM
 The sales team adapts Zoho CRM as their primary system to keep track of the deal status and client information. This allows the sales team to tweak and measure its performance independently. All the data can be extracted after that.
 
