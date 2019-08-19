@@ -3,7 +3,7 @@
 ## Expectation
 Getting started at Dwarves Foundation can be overwhelming. Different roles have different expectation. Get to know [who does what](who-does-what.md)  to warm up. There are a lot of little details, a number of big tasks, you’re learning a new job and new coworkers, and you’re likely doing all these things while working remotely. 
 
-Your Dwarves buddy, your Ops buddy, and your manager are all here to help.  There is no set time period for most training periods, but most people are up to speed in about 3 months.
+Your Dwarves buddy, your Ops buddy, and your manager are all here to help.  There is no set time period for most training periods, but most people are up to speed in about 2 months.
 
 ![](/img/dwarves.png)
 
@@ -15,14 +15,13 @@ When you start, you’ll be assigned a buddy. They’ll introduce themselves, an
 ## Setting up your machine
 Your buddy helps you with day-to-day questions you might have, but someone on our Ops team will help you set up all the accounts you need to work at Dwarves Foundation. 
 
-Before you start,  your manager will set up a Basecamp dedicated to your on-boarding called "Welcome, [your name]!". When you start, you'll have access to that Basecamp. In it, you'll see to-dos linking to accounts or services that you need to set up -- an external hard drive, 2FA for various accounts, Dropbox, and private wi-fi to name a few. You'll also see things that your Ops buddy or manager need to set up -- Basecamp (obvi), Email, and Gitlab, among a whole list of other things. 
+Before you start,  your manager will set up a Basecamp dedicated to your on-boarding called "Welcome, [your name]!". When you start, you'll have access to that Basecamp. In it, you'll see to-dos linking to accounts or services that you need to set up -- an 1Password account, 2FA for various accounts, and private wi-fi to name a few. You'll also see things that your Ops buddy or manager need to set up -- Basecamp (obvi), Email, and Gitlab, among a whole list of other things. 
 
 ## The Checklist
 
-- [ ] Sign Contract
-- [ ] Submit Information
-- [ ] Receive Employee Handbook
 - [ ] Attend the orientation meeting
+- [ ] Submit Information
+- [ ] Receive [Employee Handbook](https://github.com/dwarvesf/handbook)
 - [ ] Know your peers
 - [ ] Know who does what
 - [ ] Know how we work
@@ -44,6 +43,7 @@ Before you start,  your manager will set up a Basecamp dedicated to your on-boar
 - [ ] Gitlab
 
 **Designers**
+
 - [ ] Dribbble
 - [ ] InVision
 - [ ] Whimsical
