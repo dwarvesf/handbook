@@ -7,10 +7,13 @@ Expectations are the responsibility defined for each role. If you are qualified 
 
 ## Beyond a role
 The expectations define the bar for the role, but what about going above and beyond? We would love everyone in the company to go above and beyond these expectations. In fact we pretty much expect everyone in the company to be meeting them and then asking us what more they can do to help.
-When we see people pushing the limits of their current role, and **when we see people already fulfilling other roles** we will jump on this as soon as we notice to **offer up extra activities** or even a new role.
+
+When we see people pushing the limits of their current role, and when we see people already fulfilling other roles we will jump on this as soon as we notice to offer up extra activities or even a new role.
 We want to foster a culture where everybody feels empowered to do their role and as they feel comfortable and ready to push in any direction they wish.
 
 Below you’ll find a list of the major groups and teams within the company. They’re listed in alphabetical order by group name first and then, when relevant, by team. Inside groups/teams, people are in listed alphabetical order by last name, and the most senior people in a group/team are shown in bold.
+
+Visit the organization chart at bit.ly/df-org-chart
 
 ### Business
 The business development group is lead by **Linh** and responsible for every aspect of growth. The business group consists of three teams:
