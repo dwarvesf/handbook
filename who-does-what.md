@@ -42,11 +42,11 @@ The design group is lead by Khai and consists of 2 teams:
 
 #### Product Designer
 
-**Ngoc** and **Ly** heads up product strategy and works on new features of every product that we build at Dwarves Foundation. They look for insights into customer behavior using a variety of methods and play a key role in helping inform product direction and how we work. 
+**Ngoc**, **Ly** and **Giang** heads up product strategy and works on new features of every product that we build at Dwarves Foundation. They look for insights into customer behavior using a variety of methods and play a key role in helping inform product direction and how we work. 
 
 #### Visual Designer
 
-**Anh** is our lead visual designer. Along with **Thao**, they are responsible for all the look & feels on every product that we made, [dwarves.foundation](https://dwarves.foundation), [dwarves.careers](https://dwarves.careers), [golang.org.vn](https://golang.org.vn), and any other public-facing properties like the post on Medium, the team picture on Facebook, etc. 
+**Anh** is our lead visual designer. Along with **Thanh**, they are responsible for all the look & feels on every product that we made, [dwarves.foundation](https://dwarves.foundation), [dwarves.careers](https://dwarves.careers), [golang.org.vn](https://golang.org.vn), and any other public-facing properties like the post on Medium, the team picture on Facebook, etc. 
 
 ### Executive
 
@@ -67,8 +67,9 @@ Han is our CEO. He’s principally responsible for setting the overall direction
 
 **Duyen** is an admin assistant. She assists An with all administrative operations, and her primarily responsible for coordinating the details for our meetups. She is another great person to ping if you don’t know where to go with a question.
 
-**Recruiter**
-**Van **is our new hire for the position of HR development. Under the collaboration between Van & Duyen, hopefully every dwarves can match our standard and happily achieve their goals.
+#### Recruiter
+
+**Van** is our new hire for the position of HR development. Under the collaboration between Van & Duyen, hopefully every dwarves can match our standard and happily achieve their goals.
 
 ### Programming
 
@@ -86,16 +87,16 @@ The backend engineers are responsible for the user-facing backend systems and th
 
 #### Mobile & Desktop
 
-Working on the native applications for Android, iOS, and MacOS, the mobile team is lead by **Trung** and is responsible for those user-facing systems. That was only possible because we dedicated solid teams to both efforts. Phuc, Thanh & Khanh are 
+Working on the native applications for Android, iOS, and MacOS, the mobile team is lead by **Trung** and is responsible for those user-facing systems. That was only possible because we dedicated solid teams to both efforts. Phuc, Thanh & Khanh are part of the mobile development team.
 
 #### QA
 
-Before we ship a new feature, **Phuong** our resident bug squashers. Their job is to break things, so we know what needs fixing. They run rolling tests on all web and mobile versions for quality control. Few things ship without their stamp of quality approval.
+Before we ship a new feature, **Phuong** & **Anh** our resident bug squashers. Their job is to break things, so we know what needs fixing. They run rolling tests on all web and mobile versions for quality control. Few things ship without their stamp of quality approval.
 
 #### Web
 
-The web team is lead by **Huy G** and **Thanh P**. They are responsible for the user-facing system in the web front. They work across multiple products and ensure the user experience. Minh, Diem, Nguyen, Nghia, Hang, Phuong are part of the web team.
+The web team is lead by **Huy G**, **Minh T** and **Thanh P**. They are responsible for the user-facing system in the web front. They work across multiple products and ensure the user experience. Minh L, Diem, Nguyen, Nghia, Hang, Phuong are part of the web team.
 
 ### Technical Operations
 
-Dwarves Foundation and its customers infrastructure operate across different cloud platforms. Keeping the lights on with great reliability is the foremost mission of the Technical Operations team or SRE, and they’re op-fully amazing at doing it. **Quang ** is team lead and he works with **Phuc N** to make sure our infras stays healthy.
+Dwarves Foundation and its customers infrastructure operate across different cloud platforms. Keeping the lights on with great reliability is the foremost mission of the Technical Operations team or SRE, and they’re op-fully amazing at doing it. **Quang** is team lead and he works with **Phuc N** to make sure our infras stays healthy.
