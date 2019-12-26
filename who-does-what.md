@@ -98,4 +98,4 @@ The web team is lead by **Huy G** and **Thanh P**. They are responsible for the 
 
 ### Technical Operations
 
-Dwarves Foundation and its customers infrastructure operate across different cloud platforms. Keeping the lights on with great reliability is the foremost mission of the Technical Operations team or SRE, and they’re op-fully amazing at doing it. **Quang **is team lead and he works with **Phuc N** to make sure our infras stays healthy.
+Dwarves Foundation and its customers infrastructure operate across different cloud platforms. Keeping the lights on with great reliability is the foremost mission of the Technical Operations team or SRE, and they’re op-fully amazing at doing it. **Quang ** is team lead and he works with **Phuc N** to make sure our infras stays healthy.
