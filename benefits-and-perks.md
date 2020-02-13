@@ -4,7 +4,7 @@ Since the majority of Dwarves Foundation employees work in Saigon, this section 
 ### Continuing Education Allowance
 You will always grow by learning and playing with new and cool technologies. From books to conferences, you’ll get a yearly budget for your individual learning and development goals. 
 
-If you’re interested in taking classes that you feel improve you professionally or personally, you have a $300 annual stipend to do so. Some people take courses directly related to their career, while some take photography lessons or learn a musical instrument. It’s up to you; the point is to learn something that you feel enriches you as a person and employee.
+If you’re interested in taking classes that you feel improve you professionally or personally, you have a $300 annual stipend to do so. Some people take courses directly related to their career, while some take photography lessons or learn a musical instrument. It’s up to you; the point is to learn something that you feel enriches you as a person and employee. This benefit is applied to any Full-time Dwarf.
 
 ### Conference
 In the case of conferences, the company will pay 50% of all expenses for approved job-related conferences and seminars. If you’re speaking at the conference, we’ll pay 100% of the expenses.
@@ -23,7 +23,7 @@ We encourage the team to work remotely. We want to build amazing things with aut
 It's also important to note this privilege is on a case-by-case basis and you need the approval from the lead.
 
 ### Healthcare
-We provide comprehensive medical and life insurance for our full-time members. We want to make sure that you don't have to worry about your life and contributing to things that matter. By default, we pay for the default package as provided by Vietnam regulation. If you are in need to upgrade the insurance package, you can talk to the Admin.
+We provide comprehensive medical and life insurance for our full-time members. We want to make sure that you don't have to worry about your life and contributing to things that matter. By default, we pay for the insurance package provided by Bao Viet. If you are in need to upgrade the insurance package, you can talk to the Admin. FYI visit shorturl.at/gFJSV  to discover An Gia Insurance Silver package
 
 ### No Office Traps
 We don't offer things like Foosball tables, catered meals in the office, and other “perks” designed to keep you at work for all of your waking hours. We were hoping you could put in 8 quality hours then go live your life, rest, and recharge so you can come back fresh to do it again.
@@ -44,7 +44,7 @@ If you don’t want to be just tenured employees, you can own the company. As pa
 ### Employee Referral Bonus
 We usually hire and to keep the quality bar, the Dwarves are encouraged to recommend friends that you think they match with the team. We believe your suggestions should be helpful as you have to know the person.
 
-The company will pay a one month salary as a referral bonus to any employee who refers an applicant to our company who is hired by the company to a full-time position. The bonus is paid upon completion of the newly hired employee’s first 90 days of employment. The referring employee must still be employed with the company at the time the bonus is to be given.
+The company will pay a referral bonus to any employee who refers an applicant to our company who is hired by the company to a full-time position. The bonus is separately paid two times, once upon completion of the newly hired employee’s probation pass, the rest after 6 months from the first payment. The referring employee must still be employed with the company at the time the bonus is to be given.
 
 ### Flexible Working Days
 For a variety of reasons, people may choose to work fewer days per week than the usual Monday to Friday. It’s not encouraging but wherever possible we aim to enable this. Your paycheck and any bonus will be pro-rated as a percentage of a five day week. For example, if you opt to work 4 out of 5 days, your salary and any bonus would be reduced by 20%. 
@@ -58,18 +58,7 @@ We do not have a specific start time. Likewise, there isn’t a time we expect e
 
 It's also important to note this privilege is on a case-by-case basis and you need the approval from the lead. It’s worth noting most of our employment contracts with staff do in fact have set contractual hours. This is so we can withdraw this privilege if necessary.
 
-For some people that prefer to have a fixed working schedule, we recommend to start at 8 am and end at 5 pm.
-
-### Profit Sharing [Proposal]
-In 2020, Dwarves Foundation begins offering profit sharing to employees if we gain significant growth that year. The system is based on two questions at the end of every year.
-1. Was this year our most profitable year ever?
-2. If yes, then how much better did we do than the previous best year? 20% of that profit will be split amongst employees.
-If you’ve been working here for 2-5 years, you get one cut of the profit share, and if you’ve been working here for 5+ years, you get two cuts of the share. So, the more people who work at Dwarves Foundation for 2+ years, the more pieces of pie there are to distribute.
-
-For example, if we made 200k in profit this year
-* 100k will be put to company capital
-* 60k as the dividend payment
-* 40k as profit sharing
+For some people that prefer to have a fixed working schedule, we recommend to start at 9.30 am and end at 6.30 pm.
 
 ### Paid Time Off
 Dwarves Foundation offers two weeks of paid vacation, a few extra personal days to use at your discretion, and the official national holidays every year. This is a guideline, so if you need a couple of extra days, no problem. We don’t track your days off; we use the honor system. Just make sure to check with your team before taking an extended absence, so they’re not left in the lurch.
@@ -77,10 +66,10 @@ Dwarves Foundation offers two weeks of paid vacation, a few extra personal days 
 We don’t track sick days either. If you’re under the weather, take the time you need to feel better. We recognize, too, that your mental health is just as important as your physical health. Consider taking a mental health day every now and again when you’re feeling overwhelmed or mentally fatigued.
 
 ### Short-term Disability
-On top of Paid Time Off, the company offers a self-funded short-term disability (STD) plan to all its employees. If you fall ill or injure yourself and are unable to work because of it, let us know, and you can take 30 days off at 75% pay. If after that, you’re still unable to work, the STD policy kicks in, and you’ll continue to earn 50% of your pay until you’re better, up to 3 months off. These days are an emergency reserve, in addition to your vacation/sick time described above. If after this period, you still cannot work, talk to your manager, An, or Han, and we will discuss what comes next on a case-by-case basis.
+On top of Paid Time Off, the company offers a self-funded short-term disability (STD) plan to all its employees. If you fall ill or injure yourself and are unable to work because of it, let us know, and you can take 30 days off at 75% pay. If after that, you’re still unable to work, the STD policy kicks in, and you’ll continue to earn 50% of your pay until you’re better, up to 6 months off. These days are an emergency reserve, in addition to your vacation/sick time described above. If after this period, you still cannot work, talk to your manager, An, or Han, and we will discuss what comes next on a case-by-case basis.
 
 ### Sabbatical
-Every three years, employees are eligible to take a one-month-long paid sabbatical. Just give a heads-up preferably three months in advance so that we can coordinate the work-load accordingly.
+Every three years, employees are eligible to take one week long paid sabbatical and the following week fully remote. Just give a heads-up preferably three months in advance so that we can coordinate the work-load accordingly.
 
 ### Parental Leave
-When you welcome a new child, we encourage you to take up to 16 weeks leave for primary caregivers and up to 2 weeks of discontinuity leave as a secondary caregiver at 100% paid salary. You may also choose to take an additional eight weeks to leave unpaid.
+When you are going to welcome a new child, we encourage you to take up to 6 months leave for primary caregivers with not more than 2 months before giving birth. For the father, it is allowed up to 5 days of leave as a secondary caregiver. And if you have twins, you can take up to 10 fully paid days off. All parental leaves are at 100% base salary.
