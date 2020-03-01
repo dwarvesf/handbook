@@ -1,9 +1,27 @@
 # Getting Started
 
 ## Expectation
-Getting started at Dwarves Foundation can be overwhelming. Different roles have different expectation. Get to know [who does what](who-does-what.md)  to warm up. There are a lot of little details, a number of big tasks, you’re learning a new job and new coworkers, and you’re likely doing all these things while working remotely. 
+
+Welcome onboard. Getting started at Dwarves Foundation can be overwhelming. Different roles have different expectation. Get to know [who does what](who-does-what.md)  to warm up. There are a lot of little details, a number of big tasks, you’re learning a new job and new coworkers, and you’re likely doing all these things while working remotely. 
 
 Your Dwarves buddy, your Ops buddy, and your manager are all here to help.  There is no set time period for most training periods, but most people are up to speed in about 2 months.
+
+During the first probation period, your primary goals are **Ready for the job** and **get along with your peers.**
+
+#### Be ready for the job
+
+- Your interview is a screening round for us. Every assumption we made will be pulled out for judgment.
+- The first 2 weeks could be easy if everything goes well. Your performance will tell.
+- The following 6 weeks might be harsh, as we love to have like-minded people around.
+
+#### Get along with your peers
+
+- Learn & adapt to how the team behaves through the Culture Book.
+- It’s essential to check out those books: Rework & Remote
+- We work remotely. It could be hard to know the others. Be open on the team Campfire so people can know you better.
+- We love to discuss the technology, software & design practices, also internet funny kinds of stuff.
+- Small talks are okay but don’t do it always.
+- Respect is earned, not given. The Dwarves admire the manager of one and who are strong in their fields.
 
 ![](/img/dwarves.png)
 
