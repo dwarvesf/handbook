@@ -35,9 +35,9 @@ Payroll is run by An, and Han does the transfer. If you’ve got a query on your
 
 ## Performance Review
 
-We perform bi-yearly reviews in July and January. Everyone who has been with the company at least 90 days and completed the [IDP batch](how-we-work.md#idp) gets a review. The primary purpose of these reviews is to give feedback on career path advancement and recognize accomplishments. We wrap up our January reviews in time to make promotion related pay adjustments effective January 1st. We follow a simple process:
+We perform bi-yearly reviews in July and January. Everyone who has been with the company at least 90 days and completed the training courses gets a review. The primary purpose of these reviews is to give feedback on career path advancement and recognize accomplishments. We wrap up our January reviews in time to make promotion related pay adjustments effective Feb 1st. We follow a simple process:
 
 * Everyone writes up a 1-2 page summary and sends it to the head of their team.
-* The head of your team reviews your summary and prepares their thoughts.  He schedules a one-hour meeting to discuss.
+* The head of your team reviews your summary and prepares their thoughts. He schedules a one-hour meeting to discuss.
 
 The head of your team will reach out to you when it’s time for you to write up your review. Of course, you can (and should) ask for feedback as often as you’d like it. The Performance Indicator is usually the summary of *Responsible, Teamwork and Mastery*
