@@ -1,6 +1,6 @@
 ### Marketing Assets
 
-- Profile: https://d.foundation/profile
+- About: https://d.foundation/about
 - Logo & Icon: https://d.foundation/presskit
 
 ### Company
