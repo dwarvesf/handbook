@@ -4,7 +4,7 @@
 
 Welcome onboard. Getting started at Dwarves Foundation can be overwhelming. Different roles have different expectation. Get to know [who does what](who-does-what.md)  to warm up. There are a lot of little details, a number of big tasks, you’re learning a new job and new coworkers, and you’re likely doing all these things while working remotely. 
 
-Your Dwarves buddy, your Ops buddy, and your manager are all here to help.  There is no set time period for most training periods, but most people are up to speed in about 2 months.
+Your Dwarves buddy, your Ops buddy, and your manager are all here to help. There is no set time period for most training periods, but most people are up to speed in about 2 months.
 
 During the first probation period, your primary goals are **Ready for the job** and **get along with your peers.**
 

@@ -1,13 +1,15 @@
 # Public-facing channel
 ### Website
 - Foundation: [dwarves.foundation](https://dwarves.foundation)
+- Ventures: [dwarves.ventures](https://dwarves.ventures)
 - Careers: [dwarves.careers](https://dwarves.careers)
-- Alumni: [alumni.dwarves.foundation](https://alumni.dwarves.foundation)
 
 ### Social Network
 - Instagram: https://instagram.com/dwarves.foundation
 - Facebook: https://facebook.com/dwarvesf
 - Twitter: [@dwarvesf](https://twitter.com/dwarvesf)
+- Keybase: [keybase.io/team/dwarvesf.alumni](https://keybase.io/team/dwarvesf.alumni)
+
 
 # Tools & Systems
 Besides the customer-facing applications, like the different versions of the website, we have a number of internal systems that help us support, report, and operate the company. They are as follows:
@@ -21,6 +23,12 @@ https://dwarvesv.1password.com
 Basecamp is where daily work happens. We use Basecamp for task tracking and team discussion. Its workflow encourages real productivity and avoids distraction.
 
 https://3.basecamp.com/4108948/
+
+### Outline
+Outline is a web-based knowledge hub for our team. You can find helpful resources and guides in Outline. This handbook was also written and stored in Outline.
+
+https://outline.d.foundation
+
 
 ### Email & Storage
 G Suite is a set of the business tool provided by Google that we subscribe to.
@@ -48,11 +56,6 @@ https://github.com/dwarvesf
 Mastodon is an open source social network inspired by Twitter that allows the Dwarves to keep in touch with the alumni network. The platform helps us keep the data safe and ad-free.
 
 https://masto.d.foundation
-
-### Outline
-Outline is an open source and web-based knowledge hub for a growing team. You can find helpful resources and guides in Outline. This handbook was also written and stored in Outline.
-
-https://outline.d.foundation
 
 ### Slack
 Slack is the secondary communication tool that we use to collaborate with the customer. The Dwarves will join with the customer team on the Shared Channel.
