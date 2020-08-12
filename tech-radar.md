@@ -1,4 +1,4 @@
-# FAQ
+# Radar
 
 ## What is Dwarves TechRadar?
 

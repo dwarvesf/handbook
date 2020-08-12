@@ -6,3 +6,7 @@ That’s what we mean when we say marketing is everyone’s responsibility, and 
 It also means that you’re strongly encouraged to help share your thoughts, experiences, and learnings on [Medium](https://medium.com/dwarves-foundation), our blog. 
 
 The vast majority of our customers come from word of mouth and much of that word comes from people in our audience. This is an audience we’ve been educating and entertaining for 5 years and counting, and your voice is part of us now, whether you like it or not. Tell us and our audience what you have to say.
+
+---
+
+> Next: [Who does what](who-does-what.md)

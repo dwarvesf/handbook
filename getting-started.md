@@ -2,9 +2,11 @@
 
 ## Expectation
 
-Welcome onboard. Getting started at Dwarves Foundation can be overwhelming. Different roles have different expectation. Get to know [who does what](who-does-what.md)  to warm up. There are a lot of little details, a number of big tasks, you’re learning a new job and new coworkers, and you’re likely doing all these things while working remotely. 
+Welcome onboard. Getting started at Dwarves Foundation can be overwhelming. Different roles have different expectation. Get to know [who does what](who-does-what.md) to warm up. There are a lot of little details, a number of big tasks, you’re learning a new job and new coworkers, and you’re likely doing all these things while working remotely. 
 
 Your Dwarves buddy, your Ops buddy, and your manager are all here to help. There is no set time period for most training periods, but most people are up to speed in about 2 months.
+
+## The first probation period
 
 During the first probation period, your primary goals are **Ready for the job** and **get along with your peers.**
 
@@ -16,14 +18,14 @@ During the first probation period, your primary goals are **Ready for the job** 
 
 #### Get along with your peers
 
-- Learn & adapt to how the team behaves through the Culture Book.
-- It’s essential to check out those books: Rework & Remote
+- Learn & adapt to how the team behaves through the Culture section.
+- It’s essential to check out those books: Remote & Rework
 - We work remotely. It could be hard to know the others. Be open on the team Campfire so people can know you better.
 - We love to discuss the technology, software & design practices, also internet funny kinds of stuff.
 - Small talks are okay but don’t do it always.
 - Respect is earned, not given. The Dwarves admire the manager of one and who are strong in their fields.
 
-![](/img/dwarves.png)
+> More on [second period](routine.md)
 
 ## Your Peers
 Usually, when you start a new job in an office, it’s clear who does what. In a remote company, it’s a little less clear. Even when you know [who does what](who-does-what.md), it’s still nice to have a work buddy to ping when you don’t know where to turn. So we set up a [Fortress system](https://fort.dwarves.foundation). 
@@ -39,13 +41,13 @@ Before you start,  your manager will set up a Basecamp dedicated to your on-boar
 
 - [ ] Attend the orientation meeting
 - [ ] Submit Information
-- [ ] Receive [Employee Handbook](https://github.com/dwarvesf/handbook)
 - [ ] Know your peers
 - [ ] Know who does what
 - [ ] Know how we work
 - [ ] Know how we spend money
 - [ ] Sign up for [services](tools-and-systems.md) 
 - [ ] Set up your devices
+- [ ] Receive [Dwarves Handbook](https://github.com/dwarvesf/handbook)
 
 **Everyone**
 
@@ -63,5 +65,11 @@ Before you start,  your manager will set up a Basecamp dedicated to your on-boar
 **Designers**
 
 - [ ] Dribbble
-- [ ] InVision
+- [ ] Figma
 - [ ] Whimsical
+
+---
+
+![](/img/dwarves.png)
+
+> Next: [You are Dwarves Foundation](dwarves-foundation-is-you.md)

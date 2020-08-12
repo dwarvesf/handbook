@@ -28,7 +28,7 @@ Empower Innovation with Software Craftsmanship
 
 * Do we have HR?
 
-We don’t have the HR department. We aim to build a flat and transparent organization where everything runs around the mission. The team takes care of hiring and training their team members.
+We don’t have the HR department. We aim to build a flat and transparent organization where everything runs around the mission. The Ops team takes care of hiring and training their team members.
 We only have an admin to take care of the paperwork. If you have any question, you can ask your team lead or the admin.
 
 * Which date will we receive the salary/paycheck/allowance?
@@ -68,4 +68,11 @@ We build a small web app for it: [sign.d.foundation](https://sign.d.foundation)
 
 * How to raise an issue?
 
-Depend on the particular circumstances, you can follow the section [Raising an Issue](how-we-work.md#raising-an-issue) or just post a pitch to Basecamp
+Depend on the particular circumstances, you can follow the section [Raising an Issue](how-we-work.md#raising-an-issue) or just post a pitch to Basecamp.
+
+We also have the anonymous feedback form for those who're shy. Check the Woodland HQ message board.
+
+---
+
+## Do and don't
+
