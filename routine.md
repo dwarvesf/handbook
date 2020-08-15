@@ -65,11 +65,11 @@ Yes, it's hard to survive in the software industry without discovering new thing
 
 ## The second period
 
-Come back here when you passed the first probation. I hope you are getting well with your peers. Make it through the first period guarantee you a job. But to join the force, it requires more than that you need to make it through the second.
+Come back here when you passed the first probation. I hope you are getting well with your peers. Make it through the first period guarantee you a job. But to join the force, it requires more than that cuz you need to make through the second.
 
-We started this team with a purpose. It's an innovation powering. The long-term goal is to create an engine for innovation where new ideas happen, we can develop things & bring positive impacts. We want to make this place an environment where engineers can spend their time working with disruptive startups and be cool at the same time.
+We started this team with a purpose. It's an innovation powering. The long-term goal is to create an engine for innovation where new ideas happen, we can develop things & bring positive impacts via massive software distribution. We want to make this place an environment where engineers can spend their time working with disruptive startups and be cool at the same time.
 
-To achieve that, it requires a lot of hard work and commitment. That's why we always look for like-minded people, who with the same vision, DNA and same synergy.
+To achieve that, it requires a lot of hard work and commitment. We work around the clock toward that goal. It's why we always look for like-minded people, who with the same vision, DNA and same synergy.
 
 Find your purpose here. 
 People who don't find a sense of purpose don't find us so well.
