@@ -1,15 +1,17 @@
 # Benefits & Perks
 Since the majority of Dwarves Foundation employees work in Saigon, this section is written with that as the default. Some benefits don’t make sense in other countries. We will try our best to provide comparable benefits and perks as it makes sense, though.
 
-### Continuing Education Allowance
-You will always grow by learning and playing with new and cool technologies. From books to conferences, you’ll get a yearly budget for your individual learning and development goals.
-
-If you’re interested in taking classes that you feel improve you professionally or personally, you have a $300 annual stipend to do so. Some people take courses directly related to their career, while some take photography lessons or learn a musical instrument. It’s up to you; the point is to learn something that you feel enriches you as a person and employee. This benefit is applied to any Full-time Dwarf.
-
 ### Conference
 In the case of conferences, the company will pay 50% of all expenses for approved job-related conferences and seminars. If you’re speaking at the conference, we’ll pay 100% of the expenses.
 
-To get approval to attend a conference, submit a request to the Admin. In your request, provide as much detail as possible about the dates of the conference, your total expected out of office time, the costs of attending, the benefits expected to be gained by attending, any potential disruption to client work, etc.
+To get approval to attend a conference, submit a request to the Admin. In your request, provide as much detail as possible about the dates of the conference, your total expected out of office time, the costs of attending, the benefits expected to be gained by attending, any potential disruption to client work, etc. We will check on a case-by-case basis.
+
+### Continuing Education Allowance
+You will always grow by learning and playing with new and cool technologies. From books to conferences, you’ll get a yearly budget for your learning and development goals.
+
+If you’re interested in taking classes that you feel improve you professionally or personally, you have a $300 annual stipend to do so. Some people take courses directly related to their careers while taking photography lessons or learning a musical instrument. It’s up to you; the point is to learn something that you feel enriches you as a person and employee. 
+
+This benefit is applied to any full-time Dwarf who has been here for more than 6 months.
 
 ### Commission
 The company will pay a commission on revenues it receives from each project which the employee procures. The commission will consist of 5% of the gross revenues for the project. This may be split amongst multiple sales-people. A project does not have to have a sales-person.
