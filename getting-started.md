@@ -4,6 +4,9 @@
 
 Welcome onboard. Getting started at Dwarves Foundation can be overwhelming. Different roles have different expectation. Get to know [who does what](who-does-what.md) to warm up. There are a lot of little details, a number of big tasks, you’re learning a new job and new coworkers, and you’re likely doing all these things while working remotely. 
 
+At the orientation meeting, we will let you know what we expect you during the probation period. Please ask your Ops buddy or your manager if the mist is covering something. Working Remote is a blessing, but it could turn out a burden. Make sure that you get the idea of [how we work](how-we-work.md) here after walking out of the Orientation meeting.
+
+
 Your Dwarves buddy, your Ops buddy, and your manager are all here to help. There is no set time period for most training periods, but most people are up to speed in about 2 months.
 
 ## The first probation period
