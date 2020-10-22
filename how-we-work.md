@@ -83,11 +83,19 @@ We believe that a happy person can deliver 10x quality output compared to others
 
 > We don’t want to manage your chairs.  
 
-We encourage the team to work remotely. We want our Dwarves to wake up at 7 am on the beach, grab a coffee and start doing the job that they love. Or spending the day in a coffee shop downtown to be more socialized. Or take their time to breathe the fresh air in Da Lat or Chiang Mai. Or the Dwarves can choose to stay at home with their kids at the cozy working corner to enjoy the alone-zone, best zone to focus and get things done. 
+We encourage the team to work remotely. We want our Dwarves to wake up on the beach in the morning, grab a cup of coffee, and start doing the job that they love—or spending the day in a coffee shop downtown to be more socialized. Or take their time to breathe the fresh air in Da Lat, Chiang Mai, or stay at home with their kids at the cozy working-corner to enjoy the alone-zone, best zone to focus and get things done.
+
+> With great power comes great responsibility. 
+
+With managers of one comes to remote working culture. We truly rely on everyone at Dwarves Foundation and believe that we can do the works we all love: deliver the tech know-how to the world.
 
 ![](img/remote.jpeg)
 
-It's also important to note this privilege is on a case-by-case basis and you need the approval from the lead.
+## Project Onboard
+We have plenty of projects at Dwarves. During project onboarding, we will make sure the newcomers get the ideas about the project types, whether it's a [Ventures](https://dwarves.ventures/) project, a CSR (Corporate social responsibility) project, or a typical Tech partner one.
+
+Each type of project will have specific expectations on Milestone's understanding, deliverables, and output quality. Craftmanship is a thing; put your pride into every single line of code and deliverables.
+
 
 ## We head toward craftsmanship
 Software Craftsmanship is all about putting responsibility, professionalism, pragmatism and pride back into software development.
