@@ -6,20 +6,20 @@ Welcome onboard. Getting started at Dwarves Foundation can be overwhelming. Diff
 
 At the orientation meeting, we will let you know what we expect you during the probation period. Please ask your Ops buddy or your manager if the mist is covering something. Working Remote is a blessing, but it could turn out a burden. Make sure that you get the idea of [how we work](how-we-work.md) here after walking out of the Orientation meeting.
 
-
 Your Dwarves buddy, your Ops buddy, and your manager are all here to help. There is no set time period for most training periods, but most people are up to speed in about 2 months.
 
 ## The first probation period
 
 During the first probation period, your primary goals are **Ready for the job** and **get along with your peers.**
 
-#### Be ready for the job
-
+### Be ready for the job
 - Your interview is a screening round for us. Every assumption we made will be pulled out for judgment.
 - The first 2 weeks could be easy if everything goes well. Your performance will tell.
 - The following 6 weeks might be harsh, as we love to have like-minded people around.
 
-#### Get along with your peers
+We’ll have a review check every 2 weeks to evaluate your progress and how you get along. Please feel free to raise up any question towards the work and the team to take the next suitable action.
+
+### Get along with your peers
 
 - Learn & adapt to how the team behaves through the Culture section.
 - It’s essential to check out those books: Remote & Rework
@@ -33,32 +33,30 @@ During the first probation period, your primary goals are **Ready for the job** 
 ## Your Peers
 Usually, when you start a new job in an office, it’s clear who does what. In a remote company, it’s a little less clear. Even when you know [who does what](who-does-what.md), it’s still nice to have a work buddy to ping when you don’t know where to turn. So we set up a [Fortress system](https://fort.dwarves.foundation). 
 
-When you start, you’ll be assigned a buddy. They’ll introduce themselves, and they’re totally willing to point you in the right direction when you need it. Of course, everyone is available to help, but it’s nice to have a dedicated best work friend.
-
-## Setting up your machine
-Your buddy helps you with day-to-day questions you might have, but someone on our Ops team will help you set up all the accounts you need to work at Dwarves Foundation. 
-
-Before you start,  your manager will set up a Basecamp dedicated to your on-boarding called "Welcome, [your name]!". When you start, you'll have access to that Basecamp. In it, you'll see to-dos linking to accounts or services that you need to set up -- an 1Password account, 2FA for various accounts, and private wi-fi to name a few. You'll also see things that your Ops buddy or manager need to set up -- Basecamp (obvi), Email, and Gitlab, among a whole list of other things. 
-
-## The Checklist
-
 - [ ] Attend the orientation meeting
 - [ ] Submit Information
+- [ ] Receive [Employee Handbook](https://github.com/dwarvesf/handbook)
 - [ ] Know your peers
 - [ ] Know who does what
 - [ ] Know how we work
 - [ ] Know how we spend money
-- [ ] Sign up for [services](tools-and-systems.md) 
+- [ ] Know your peers
+- [ ] Know who does what 
+- [ ] Know how we work
+- [ ] Know how we spend money
+- [ ] Sign up for [services](https://tools-and-systems.)
 - [ ] Set up your devices
 - [ ] Receive [Dwarves Handbook](https://github.com/dwarvesf/handbook)
 
+## Setting up your machine
+Before you start,  your manager will set up a Basecamp dedicated to your on-boarding called "Welcome, [your name]!". When you start, you'll have access to that Basecamp. In it, you'll see to-dos linking to accounts or services that you need to set up -- an 1Password account, 2FA for various accounts, and private wi-fi to name a few. You'll also see things that your Ops buddy or manager need to set up -- Basecamp (obvi), Email, and Gitlab, among a whole list of other things. 
+
 **Everyone**
 
-- [ ] 1Password
 - [ ] Basecamp
 - [ ] Email
-- [ ] Fortress
-- [ ] Outline
+- [ ] [Fortress](https://fort.d.foundation/)
+- [ ] [Outline](https://outline.d.foundation/)
 
 **Engineers**
 
@@ -71,7 +69,18 @@ Before you start,  your manager will set up a Basecamp dedicated to your on-boar
 - [ ] Figma
 - [ ] Whimsical
 
----
+## The Checklist
+
+- [ ] Submit Information
+- [ ] Read Employee Handbook
+- [ ] Attend the orientation meeting
+- [ ] Know your peers
+- [ ] Know who does what
+- [ ] Know how we work
+- [ ] Know how we spend money
+- [ ] Designer's Competency Map
+- [ ] Sign up for services
+- [ ] Set up your devices
 
 ![](/img/dwarves.png)
 
