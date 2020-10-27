@@ -96,7 +96,3 @@ In case you request for further checkup, a 5-25% discount will be applied for fu
 When you are going to welcome a new child, we encourage you to take up to 6 months leave for primary caregivers with not more than 2 months before giving birth. For the father, it is allowed up to 5 days of leave as a secondary caregiver. And if you have twins, you can take up to 10 fully paid days off. All parental leaves are at 100% base salary.
 
 These benefits only applied for full time Dwarves who have been on-boarded for more than 6 months in advance of pregnancy (internship and probation period are not included)
-
-This policy applies for female employees with Dwarves LLC contract (39.200.000VND). Female employees with Dwarves Foundation contract will benefit from Vietnamese Social Insurance (33.200.000VND).
-
-For further detail, please check out this file: [Parental Leave](https://bit.ly/35CNTRh)
