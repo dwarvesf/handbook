@@ -1,6 +1,6 @@
 # Asset Request
 
-Company assets appear as the equipage for employees to get the job done precisely. We are delighted to know if you can spend your spare time gnawing our library or using our devices to find other alternatives way of getting the code tested. So these steps are here to taken in case you wonder how you can fully utilize our resource. 
+Company assets appear as the equip for employees to get the job done precisely. We are delighted to know if you can spend your time gnawing our library or using our devices, as long as it follows these protocols. 
 
 ### 1. Borrowing
 We use Basecamp the team communication tool. Woodland is where public things happen. In the **[Request](https://3.basecamp.com/4108948/buckets/9403032/todolists/1557155199)** list in Todo, create a ticket with this format:
