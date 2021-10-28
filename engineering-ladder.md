@@ -2,7 +2,7 @@
 
 This framework allows software engineering managers to have meaningful conversations with their direct reports around the expectations of each position and how to plan for the next level in their career ladder. You can find the spreadsheet version [here](https://docs.google.com/spreadsheets/d/1oT2u-cZ4u7ls-V3abmBiddjaZgGTUXBncycxVkyg4Jg/edit?usp=sharing).
 
-Whether an engineer is on the IC track or the manager track, their growths will be heavily relied on the four aspects including technical, execution, influence and collaboration/communication.
+Whether an engineer is on the IC track or the manager track, their growth will heavily rely on the four aspects including technical, execution, influence, and collaboration/communication.
 
 ### Technical
 
@@ -18,7 +18,7 @@ This aspect focus on technical skills, including an engineer’s mastery, best p
 
 ### Execution
 
-This aspect relfects how an engineer gets things done: planning, scoping, estimation skills, getting unstuck, taking ownership, strategic alignment, product/business understanding, and vision.
+This aspect reflects how an engineer gets things done: planning, scoping, estimation skills, getting unstuck, taking ownership, strategic alignment, product/business understanding, and vision.
 
 | Maturity level | Description                                                                                 |
 | -------------- | ------------------------------------------------------------------------------------------- |
@@ -52,7 +52,7 @@ This aspect emphasizes teamwork, communication skills, asking for and giving fee
 | Company        | Makes an impact on the whole tech organization.                                             |
 | Community      | Well represent the company in the tech community.                                           |
 
-The technical and execution aspect are the "adder" attribues, whereas the influence and collaboration/communication are the "multiplier" attributes. As an engineer advances to a more senior role, the importance gradually shifts to the "multiplier" attributes.
+The technical and execution aspects are the "adder" attributes, whereas the influence and collaboration/communication are the "multiplier" attributes. As an engineer advances to a more senior role, the importance gradually shifts to the "multiplier" attributes.
 
 ## IC track
 
@@ -63,7 +63,7 @@ A junior engineer is expected to develop professional and technical expertise. A
 **Technical**
 
 - Has engineering and programming foundation.
-- Focus on growing as an engineer, learning existing tools, resources and processes.
+- Focus on growing as an engineer, learning existing tools, resources, and processes.
 
 **Execution**
 
@@ -83,7 +83,7 @@ A junior engineer is expected to develop professional and technical expertise. A
 
 ### Mid-level Engineer
 
-An engineer who enters this level will be well developed professional and technical expertise. Their influence affects quality and timeline of part of product or service.
+An engineer who enters this level will be well-developed professional and technical expertise. Their influence affects quality and timeline of part of product or service.
 
 **Technical**
 
@@ -101,14 +101,14 @@ An engineer who enters this level will be well developed professional and techni
 
 **Influence**
 
-- Works to become proficient in giving great reviews of their peers work. This includes being respectful, thorough, thoughtful, flexible, and not pedantic.
+- Works to become proficient in giving great reviews of their peer's work. This includes being respectful, thorough, thoughtful, flexible, and not pedantic.
 
 **Collaboration & communication**
 
 - Gives timely, helpful feedback to peers and managers
-- Communicates assumptions and gets clarification on tasks up front to minimize the need for rework
+- Communicates assumptions and gets clarification on tasks up-front to minimize the need for rework
 - Solicits feedback from others and is eager to find ways to improve
-- Understands how their work fits in to the larger project and identifies problems with requirements
+- Understands how their work fits into the larger project and identifies problems with requirements
 
 ### Senior Engineer
 
@@ -122,16 +122,16 @@ A senior engineer will be seen to act professionally with competence. They resol
 
 **Execution**
 
-- Understand the scope and relationshops of large features and production stack for their area.
+- Understand the scope and relationships of large features and production stack for their area.
 - Persistent in the face of roadblocks; dispatches them efficiently, pulling in others as necessary. Requires minimal direction/oversight.
 - End-to-end responsibility on projects of increasing complexity; contributes to common code.
-- Takes the initiative to fix issues before being assigned them. Seeks empirical evidence through proof of concepts, tests and external research.
+- Takes the initiative to fix issues before being assigned them. Seeks empirical evidence through proof of concepts, tests, and external research.
 - Delivers complex products to QA that they believe are well-baked and bug-free.
 
 **Influence**
 
 - Mentors junior engineers via pairing, design review, and code review.
-- Support the growth of my teammates by taking into account their skills, backgrounds and working styles.
+- Support the growth of my teammates by taking into account their skills, backgrounds, and working styles.
 - Learning to interview and assess candidates to help build a diverse and talented team. Consistently provide timely, detailed, and evidence-based interview feedback.
 
 **Collaboration & communication**
@@ -155,11 +155,11 @@ A staff engineer will be expected to resolve most issues and problems. Their dec
 
 - Go-to expert in one area of the codebase; understands the broad architecture of the entire system.
 - Scopes and stages work into well-defined milestones to avoid a monolithic deliverable.
-- Regularly delivers software on-time and is constantly working to make accurate estimates and deliver on those estimates.
+- Regularly delivers software on time and is constantly working to make accurate estimates and deliver on those estimates.
 - Known for drama-free launches.
 - Owns the technical testing and performance plan for their projects.
 - Sets direction at the project/service level and consistently influences decision-making at the Pillar level.
-- Idenitifies and proactively tackles technical debt before it grows into debt that requires significant up-front work to resolve.
+- Identifies and proactively tackles technical debt before it grows into debt that requires significant up-front work to resolve.
 - Consistently able to reduce the complexity of projects, services, and processes in order to get more done with less work.
 
 **Influence**
@@ -181,19 +181,19 @@ Note: to get promoted into Staff level, most people will take on some tech lead 
 
 ### Principle Engineer
 
-An engineer at this level has shown wide range of experience. They are looked to as a thoughtful leader and technical guru. They help develop department objectives from company strategies.
+An engineer at this level has shown a wide range of experience. They are looked to as a thoughtful leader and technical guru. They help develop department objectives from company strategies.
 
 **Technical**
 
 - Setting Technical Direction.
 - Anticipates broad technical change and ensures DF is always ahead of the curve.
 - Able to recognize and make trade-offs with respect to the whole system.
-- Understands deeply the entire architecure for a major part of business and is able to articulate clearly the scaling and reliability limits of that area.
+- Understands deeply the entire architecture for a major part of business and is able to articulate clearly the scaling and reliability limits of that area.
 
 **Execution**
 
 - Consistently delivers large systems involving one or more teams' contribution on time at a high level of quality.
-- Quickly breaks down complex problems into potention solutions, knowns, and unknowns, in order to get to solid resolutions faster.
+- Quickly breaks down complex problems into potential solutions, knowns, and unknowns, in order to get to solid resolutions faster.
 - Capable of debugging the hairiest problems that the team encounters.
 
 **Influence**
@@ -215,7 +215,7 @@ An engineer at this level has shown wide range of experience. They are looked to
 
 ### Tech Lead
 
-This is not a ladder role but a set of responsibilities that may be taken by any engineer at the mid level or above. A tech lead is expected to get involved in managing a particular project and reponsible for the quality of its technical delivery.
+This is not a ladder role but a set of responsibilities that may be taken by any engineer at the mid level or above. A tech lead is expected to get involved in managing a particular project and responsible for the quality of its technical delivery.
 
 **Technical**
 
@@ -233,7 +233,7 @@ This is not a ladder role but a set of responsibilities that may be taken by any
 **Collaboration & communication**
 
 - Makes independent decisions for the team; is actively learning how to handle difficult management situations.
-- When the tech lead is acting as the reporting manager to others, the tech lead is expected to meet regularly with their direct reports, provide frequent feedback on their work, help the individuals set goals and work with the engineering lead or director to ensure employee growth and retention goals.
+- When the tech lead is acting as the reporting manager to others, the tech lead is expected to meet regularly with their direct reports, provide frequent feedback on their work, help the individuals set goals, and work with the engineering lead or director to ensure employee growth and retention goals.
 - Helps organize and facilitate productive feedback and feedback sessions with stakeholders.
 
 ### Engineering Lead
@@ -254,7 +254,7 @@ An engineering lead is expected to work with the team to drive great execution (
 **Influence**
 
 - Excels at getting the team to focus on the highest-impact projects.
-- Cultivate a great culture where team members can do their best work. Promote ownership and accountability, learning and teaching, good decision making, and a push for very high standards.
+- Cultivate a great culture where team members can do their best work. Promote ownership and accountability, learning and teaching, good decision-making, and a push for very high standards.
 - Able to lead recruiting efforts and determine headcount for their team.
 - Being a line manager to support the growth of lead engineer.
 
@@ -262,8 +262,8 @@ An engineering lead is expected to work with the team to drive great execution (
 
 - Develops a quality playbook for your teams and area(s) of ownership, including standards for pull requests, code reviews, testing, and monitoring.
 - Manages independently; communicates context to the team and surfaces requirements to upper management.
-- Sets clear expectations for team members; solicits, synthesizes and delivers feedback.
-- Communicates timeline, scope and technical concerns to pillar partners.
+- Sets clear expectations for team members; solicits, synthesizes, and delivers feedback.
+- Communicates timeline, scope, and technical concerns to pillar partners.
 - Leads delivery of major initiatives on clear timelines.
 - Able to identify areas of strategic technical debt and provide cost/benefit analysis for eliminating this debt and suggested timelines for how to prioritize it.
 - Comfortable managing team members with different skill sets and technical areas of focus.
