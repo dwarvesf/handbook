@@ -40,11 +40,20 @@ We usually hire, and to keep the quality bar, the Dwarves are encouraged to reco
 The company will pay a referral bonus to any employee who refers an applicant to our company hired by the company to a full-time position. The bonus is only applicable once the applicant successfully becomes a full-time Dwarves and is a part of at least one project. 
 The referring employee must still be employed with the company when the bonus is to be given.
 
+### Employee Profit-Sharing 
+Dwarves sometime offer 5 - 10% of its annual company profits with employees, which is distributed in shares based on tenure. Profits are distributed after the books are closed on the previous fiscal year, usually around March.
+This model is eligible to participate after two years of working at Dwarves Foundation. The Program does not have any set expiration date, but the company reserves the right to amend it or cancel it at any time. You forfeit your shares in the profit sharing program if you resign or are terminated from Dwarves.
+
 ### Paid Time Off
 Dwarves Foundation offers two weeks of paid vacation, a few extra personal days to use at your discretion, and the official national holidays every year. This is a guideline, so no problem if you need a couple of extra days. We don't track your days off; we use the honor system. Just make sure to check with your team before taking an extended absence so they're not left in the lurch.
 
 ### Short-term Disability
 On top of Paid Time Off, the company offers a self-funded short-term disability (STD) plan to all its employees. If you fall ill or injure yourself and cannot work because of it, let us know, and you can take 30 days off at 75% pay. If after that, you're still unable to work, the STD policy kicks in, and you'll continue to earn 50% of your salary until you're better, up to 6 months off. These days are an emergency reserve, in addition to your vacation/sick time described above. If you still cannot work after this period, talk to your manager, and we will discuss what comes next on a case-by-case basis.
+
+### Flight Tickets to Dwarves Hubs
+We encourage our teammates to try out the Dwarves Hubs across the country. Besides the HQ in HCMC, Dwarves Hubs are also located in Da Lat & Da Nang. 
+We provide a package of flight ticket 4 times a year, with a maximum amount of 2.000.000 VND for each travel time. With a borderless software firm, we believe that giving people the flexibility to try out the work hubs and visit their teammates is a must. 
+
 
 ### Annual Healthcare
 We do have Bao Viet insurance, but we wish to provide more healthcare services beyond that. This annual healthcare supports the Dwarves with a healthcare package of 3.000.000VND, takes place annually around February or March, which includes:
