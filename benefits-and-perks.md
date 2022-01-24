@@ -56,7 +56,7 @@ We provide a package of flight ticket 4 times a year, with a maximum amount of 2
 
 
 ### Annual Healthcare
-We do have Bao Viet insurance, but we wish to provide more healthcare services beyond that. This annual healthcare supports the Dwarves with a healthcare package of 3.000.000VND, takes place annually around February or March, which includes:
+We do have Bao Viet insurance, but we wish to provide more healthcare services beyond that. This annual healthcare supports the Dwarves with a healthcare package of 4.000.000VND, takes place annually around February or March, which includes:
 
 - Overall healthcare checkup
 - Cancer screening
