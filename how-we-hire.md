@@ -47,4 +47,4 @@ Those programs were designed with the purpose to give an opportunity for candida
 ## Referral
 We usually hire and to keep the quality bar, the Dwarves are encouraged to recommend friends that you think they match with the team. We think your suggestions should be helpful as you have to know the person.
 
-We also want to spend the bonus on you rather than the headhunting agency.  Once the referral get successfully covnerted into a full-time position and deplyed to a project, the referrer will receive 2% of the project service fee. This bonus is paid upon completion of the project invoice. The referrer must still be employed with the company when the bonus is to be given. 
+We also want to spend the bonus on you rather than the headhunting agency.  Once the referral get successfully converted into a full-time position and deployed to a project, the referrer will receive 2% of the project service fee. This bonus is paid upon completion of the project invoice. The referrer must still be employed with the company when the bonus is to be given. 
