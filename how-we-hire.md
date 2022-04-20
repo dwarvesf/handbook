@@ -53,6 +53,6 @@ This bonus is paid upon completion of the project invoice. The referrer must sti
 Let's take this for example:
 
 - A refers B to Dwarves Foundation 
-- B gets deployed into project C, with a monthly project service fee of $2500
+- B works on project C, with a monthly service fee of $5000
 - Clients pay the invoice for project C
-- A receives a referral bonus of $50
+- A receives a referral bonus of $100
