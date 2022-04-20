@@ -54,5 +54,4 @@ Let's take this for example:
 
 - A refers B to Dwarves Foundation 
 - B works on project C, with a monthly service fee of $5000
-- Clients pay the invoice for project C
-- A receives a referral bonus of $100
+- Every time clients finish the monthly invoice for project C, A will receive a referral bonus of $100
