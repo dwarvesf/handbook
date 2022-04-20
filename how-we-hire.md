@@ -45,6 +45,13 @@ Those programs were designed with the purpose to give an opportunity for candida
 ![](img/internship.png)
 
 ## Referral
-We usually hire and to keep the quality bar, the Dwarves are encouraged to recommend friends that you think they match with the team. We think your suggestions should be helpful as you have to know the person. 
+We usually hire and to keep the quality bar, the Dwarves are encouraged to recommend friends that you think they match with the team. We think your suggestions should be helpful as you have to know the person.
 
-We also want to spend the bonus on you rather than the headhunting agency. The company will pay a one month salary as a referral bonus to any employee who refers an applicant to our company who is hired by the company to a full-time position. The bonus is paid upon completion of the newly hired employee’s first 90 days of employment. The referring employee must still be employed with the company at the time the bonus is to be given.
+We also want to spend the bonus on you rather than the headhunting agency.  Once the referral get successfully converted into a full-time position and deployed to a project, the referrer will receive 2% of the project service fee. 
+This bonus is paid upon completion of the project invoice. The referrer must still be employed with the company when the bonus is to be given. 
+
+Let's take this for example:
+
+- A refers B to Dwarves Foundation 
+- B works on project C, with a monthly service fee of $5000
+- Every time clients finish the monthly invoice for project C, A will receive a referral bonus of $100
