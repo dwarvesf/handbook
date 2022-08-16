@@ -72,6 +72,10 @@ Depend on the particular circumstances, you can follow the section [Raising an I
 
 We also have the anonymous feedback form for those who're shy. Check the Woodland HQ message board.
 
+* I referred B. B already passed probation and finished his third month at Dwarves, why haven't I received a referral bonus? 
+
+We want to ensure the quality bar so sometimes peeps will join the projects labeled as a shadow to learn under their mentor/lead rather than to officially deploy into the project. For these cases, you'll receive your bonus until B is fully converted into a full-time position at the project, and clients are charged for his/ her billable hours. For more information, you can check out [How We Hire](https://github.com/dwarvesf/handbook/blob/master/how-we-hire.md#referral). 
+
 ---
 
 ## Do and don't
