@@ -72,6 +72,10 @@ Depend on the particular circumstances, you can follow the section [Raising an I
 
 We also have the anonymous feedback form for those who're shy. Check the Woodland HQ message board.
 
+* My friend who I referred to the company has already completed her probation period and finished her first month with the company. Why have I not received my referral bonus? 
+
+Our goal is to ensure that projects meet our quality standards. We may ask an engineer to join a project as a supporter at first, in order to learn the ropes under his or her mentor/lead. As soon as the engineer is ready to work on his or her own, we'll convert him or her into a full-time team member and begin charging clients for his or her billable hours. For more information, please check out [How We Hire](https://github.com/dwarvesf/handbook/blob/master/how-we-hire.md#referral).  
+
 ---
 
 ## Do and don't
