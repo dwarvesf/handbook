@@ -74,7 +74,7 @@ We also have the anonymous feedback form for those who're shy. Check the Woodlan
 
 * My friend who I referred to the company has already completed her probation period and finished her first month with the company. Why have I not received my referral bonus? 
 
-We want to ensure the quality bar so sometimes peeps will join the projects labeled as a shadow to learn under their mentor/lead rather than to officially deploy into the project. For these cases, you'll receive your bonus until B is fully converted into a full-time position at the project, and clients are charged for his/ her billable hours. For more information, you can check out [How We Hire](https://github.com/dwarvesf/handbook/blob/master/how-we-hire.md#referral). 
+Our goal is to ensure that projects meet our quality standards. We may ask an engineer to join a project as a supporter at first, in order to learn the ropes under his or her mentor/lead. As soon as the engineer is ready to work on his or her own, we'll convert him or her into a full-time team member and begin charging clients for his or her billable hours. For more information, please check out [How We Hire](https://github.com/dwarvesf/handbook/blob/master/how-we-hire.md#referral).  
 
 ---
 
