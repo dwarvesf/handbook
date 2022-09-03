@@ -1,4 +1,4 @@
-# Friday's Showcase
+# Showcase
 
 Every Friday afternoon, everyone in the company is invited to gather on Discord for internal demos of projects teams have been working on. This tradition was founded by Engineering, but anyone (from Design, Product,...) is welcome to participate.
 
