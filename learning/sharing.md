@@ -6,9 +6,11 @@ The goal of what is shared at Dwarves is not just to make more people learn new 
 
 It's not hard to notice that there are quite a few professional programmers who are terrible teachers. There are often two reasons for this: they either don't know how to teach, or they have never learned how to learn from others. When you share knowledge with others, you need to understand your own shortcomings as well as your strengths so that you can explain them effectively. There will sometimes be a "criticism session" where others point out any mistakes or room for improvement in your presentation. It will help you recognize and strengthen those weaknesses in yourself by letting you see where your explanations fall short with respect to other people's questions or ideas.
 
+For this reason, we encourage everyone at Dwarves to share their ideas and learn from each other. This is how we grow as a company.
+
 ## Sharing guideline
 
-When you share, follow the following guidelines.
+When you share, follow the guidelines.
 
 - Do not tackle a subject that is too broad or complex. Instead, choose a narrow one that will keep your audience interested.
 - Sharing time is less than 60 mins is the best.
