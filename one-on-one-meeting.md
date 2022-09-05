@@ -10,7 +10,7 @@ When scheduling a 1:1 with someone, be sure to clarify that this is not an updat
 
 ## Agenda, Notes, and Action Items
 
-To have a productive conversation, the key is to come into the meeting with some ideas in mind for what will be discussed. Remember that it is your mentee's meeting and he should be asked to prepare an outline. This will force him to think about what topics need to be covered in advance of the meeting so that it will be more focused and covered in depth. Managers can contribute items too but your mentee's agenda should always take a front seat.
+To have a productive conversation, it's best if you come into the meeting with some ideas in mind for what will be discussed. If you are the mentee, remember this meeting is for you so you should be the person to prepare the outline. Managers can contribute items too, but ultimately your agenda should take a front seat.
 
 After the 1:1, take notes on what you discussed and add action items for things both of you committed to, so that when you meet again you can review them and see how things progressed.
 
