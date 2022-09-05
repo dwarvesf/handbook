@@ -1,40 +1,36 @@
 # 1 on 1
 
-The strong relationship between managers and employees is the cornerstone of organizational culture. One-on-one meetings are the way to establish these relationships. This page will take you through how we conduct a one-on-one at Dwarves Foundation as well as some tips to keep the meeting productive within your team.
+Our culture is founded upon the strong relationships between people. One-on-one meetings are the way to establish these relationships. Every manager has a 1-1 with each of their direct reports once a week, or whenever convenient for both parties involved. This page will take you through how we conduct a one-on-one at Dwarves Foundation as well as some tips to keep the meeting productive.
 
 ## The first meeting
 
-The first 1:1 meeting is your chance to establish a pattern and standard of how you and your report feel good about the future and how you two want to interact. In [this post](https://larahogan.me/blog/first-one-on-one-questions/), Lara Hogan had a list of questions to ask in an initial 1:1. We borrow those questions to discuss in our first meeting too.
+The first one-on-one meeting is your chance to set a pattern and standard of how you and your manager feel good about the future and how you two want to interact. In [this post](https://larahogan.me/blog/first-one-on-one-questions/), Lara Hogan had a list of questions to ask in an initial one-on-one. We borrow those questions to discuss in our first meeting too.
 
-Make sure your report understands 1:1 is not a project update when you send the invite because the employee may have never had 1:1 meetings at their previous job(s).
+When scheduling a 1:1 with someone, be sure to clarify that this is not an update on project status. People who have not had 1:1 meetings at previous jobs may be confused by this invitation.
 
 ## Agenda, Notes, and Action Items
 
-In order to have a productive conversation, the key is to come into the meeting with some ideas in mind for what will be in the discussion. Remember it's your direct report meeting so he should be asked to prepare the outline. It's important because it forces him to think about the topics to discuss in advance so the meeting will be more focused and covered. You can contribute items too but your mentee's agenda should always take a front seat to yours.
+To have a productive conversation, the key is to come into the meeting with some ideas in mind for what will be discussed. Remember that it is your mentee's meeting and he should be asked to prepare an outline. This will force him to think about what topics need to be covered in advance of the meeting so that it will be more focused and covered in depth. Managers can contribute items too but your mentee's agenda should always take a front seat.
 
-At the end of the 1:1, you should take notes on what you discussed and add action items for things you both committed to, so that the following meeting you can review them and see how things progressed.
+After the 1:1, take notes on what you discussed and add action items for things both of you committed to, so that when you meet again you can review them and see how things progressed.
 
 ## In the meeting
 
-The purpose of a 1:1 meeting is to listen and clarify. As their managers, you need to encourage them to be super open and honest about what's working and not working. It's crucial to not let your reports make the mistake of telling you what they thought you want to hear instead of what they actually felt.
+During one-on-one meetings, it's important to focus on listening and understanding. If you are the manager, you need to encourage your reports to be open and honest about what's working and not working. Essentially, this means not letting your reports make the mistake of telling you what they thought you want to hear instead of what they actually felt.
 
-Also, it's important to change your mindset too, to stop treating a 1:1 meeting as a regular meeting. If you can turn the meetings into casual talk, they will end up yielding much better conversations.
+In addition, it is important to change one's mindset as well. To stop treating a one-on-one meeting as a formal meeting, and instead turn them into conversations. Such meetings will end up yielding better results.
 
 ## What to discuss
 
-There is a wide range of topics to be covered in a 1:1 meeting. The following are some good starting points:
+There is a wide range of subjects to be covered in a 1:1 meeting, including but not limited to the following:
 
 - **Big picture:** any questions about the company’s direction and changes. People need to know what's going on at the company so they know best how to contribute and feel invested in the company's success.
-- **Feedback:** right feedback will improve the performance of your team. If you want your people to perform well, you have to give feedback to them regularly. It's hard for your reports to follow the right path if they don't know your standards and expectations.
-- **Career:** career growth and development is always the top concern of employees. Take the time to bring up any skills your mentee wants to improve on, new things he wants to try, or a new role he aspires to.
-- **Personal:** one-one-ones create mutual understanding and connection. It's normal to talk a bit about seemingly irrelevant topics— a new read, a recent trip.
+- **Feedback:** the secret to outstanding performance is a regular flow of feedback. As people strive to improve the quality of their work, it's hard for them to follow the right path if they don't know what standards and expectations they need to meet.
+- **Career:** career growth and development is always a top concern for people in the workplace. Whenever possible, take the time to bring up any skills you'd like to improve upon, new things you'd like to try, or a new role you aspire to.
+- **Personal:** one-on-one conversations foster mutual understanding and connection. It's normal to talk a bit about seemingly irrelevant topics—a new read, a recent trip—to get to know someone better.
 
 ## Time and Schedule
 
-The exact cadence and timing of a 1:1 vary widely by individual but a good default is weekly and a half-hour meeting. Try to not let the gap be longer than 2 weeks. The goal of 1:1s is building relationships, and that's hard to do if you don't speak frequently.
+The frequency and duration of 1:1 meetings varies between individuals. A good default is weekly and half an hour long. Try to keep the gap between meetings no longer than two weeks. The goal of 1:1s is building relationships, which takes time; it's hard to get close to someone if you don't speak frequently.
 
 Once the calendar is set, make sure you never cancel a 1:1. It's fine to reschedule sometimes but cancellation is a sign of letting people think you don't value their time. `DO NOT MAKE THE MISTAKE`.
-
-## Caveats
-
-Don't be surprised if you feel like your 1:1 meetings are going nowhere. Chances are your subordinate feels the same way. Generally, people who think 1:1 meetings are a bad idea have been victim to ad hoc, unstructured 1:1 meetings, when those meetings should have been devoted to sharing ideas and work directions, were actually spent on status updates and personal preferences. Watch them out because they are the first warning signs of your failure as a manager.
