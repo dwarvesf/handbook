@@ -1,5 +1,16 @@
+---
+title: Making a Career
+date: 2019-09-21
+description: 
+authors: 
+tags: 
+menu: handbook
+hide_frontmatter: true
+hide_title: true
+pinned: false
+type:
+---
 # Making a Career
-
 The average tenure of employees working at many technology companies today is shockingly low. At both Amazon, Google and other companies, it’s [just around one year](http://www.techrepublic.com/blog/career-management/tech-companies-have-highest-turnover-rate/). At Dwarves Foundation, it’s just around three years as of late 2018. That’s something to be proud of, and something to ensure endures. When you work at Dwarves Foundation, it should be feasible to think about this as the place for making a life-long career.
 
 ## Mastery & Titles
@@ -34,7 +45,6 @@ The data is reviewed once per year at the end of January. If it’s warranted, t
 Payroll is run by An, and Han does the transfer. If you’ve got a query on your salary, you can talk to An.
 
 ## Performance Review
-
 We perform bi-yearly reviews in July and January. Everyone who has been with the company at least 90 days and completed the training courses gets a review. The primary purpose of these reviews is to give feedback on career path advancement and recognize accomplishments. We wrap up our January reviews in time to make promotion related pay adjustments effective Feb 1st. We follow a simple process:
 
 * Everyone writes up a 1-2 page summary and sends it to the head of their team.

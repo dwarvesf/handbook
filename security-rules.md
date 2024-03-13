@@ -1,3 +1,15 @@
+---
+title: Security Rules
+date: 2019-02-21
+description: 
+authors: 
+tags: 
+menu: handbook
+hide_frontmatter: true
+hide_title: true
+pinned: false
+type:
+---
 ## Basic Security
 Keeping laptops and phones secure is vitally important. We're a software company and many of us have access to secure systems (both our own and our customers).
 
@@ -33,7 +45,6 @@ We all use personal mobile devices, so your options are either not to add any co
 - [ ] Use a tool like GnuPG to encrypt passwords if you need to share them with somebody.
 
 ## Security Report
-
 When someone finds a possible security issue in our software, we encourage them to report it to our <security@d.foundation> email address.
 
 When an email comes in through this channel, reply quickly with confirmation (and CC <security@d.foundation> so others know that it has been handled) and the information for our PGP key, which is located at <https://d.foundation/security>.

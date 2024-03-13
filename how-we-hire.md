@@ -1,3 +1,15 @@
+---
+title: How We Hire
+date: 2019-02-21
+description: 
+authors: 
+tags: 
+menu: handbook
+hide_frontmatter: true
+hide_title: true
+pinned: false
+type:
+---
 # How we hire
 Hiring means we need help. We only hire people who tell us what to do, not the other way around. We always look for long-term teammates that why we want to ensure the new hire is a value fit and culture fit. 
 
@@ -15,7 +27,6 @@ You want someone who’s capable of building something from scratch and seeing i
 Several Dwarves will talk to the candidates to walk them through 5 rounds
 
 ### Screen CV
-
 - CV evaluation
 - Social Check & Personas Check (via reference & phone screening)
 - Based on our current Personas Ratio, we will decide whether or not to move forward

@@ -1,7 +1,18 @@
+---
+title: Getting Started
+date: 2019-02-21
+description: 
+authors: 
+tags: 
+menu: handbook
+hide_frontmatter: true
+hide_title: true
+pinned: false
+type:
+---
 # Getting Started
 
 ## Expectation
-
 Welcome onboard. Getting started at Dwarves Foundation can be overwhelming. Different roles have different expectation. Get to know [who does what](who-does-what.md) to warm up. There are a lot of little details, a number of big tasks, you’re learning a new job and new coworkers, and you’re likely doing all these things while working remotely. 
 
 At the orientation meeting, we will let you know what we expect you during the probation period. Please ask your Ops buddy or your manager if the mist is covering something. Working Remote is a blessing, but it could turn out a burden. Make sure that you get the idea of [how we work](how-we-work.md) here after walking out of the Orientation meeting.
@@ -9,7 +20,6 @@ At the orientation meeting, we will let you know what we expect you during the p
 Your Dwarves buddy, your Ops buddy, and your manager are all here to help. There is no set time period for most training periods, but most people are up to speed in about 2 months.
 
 ## The first probation period
-
 During the first probation period, your primary goals are **Ready for the job** and **get along with your peers.**
 
 ### Be ready for the job
@@ -20,7 +30,6 @@ During the first probation period, your primary goals are **Ready for the job** 
 We’ll have a review check every 2 weeks to evaluate your progress and how you get along. Please feel free to raise up any question towards the work and the team to take the next suitable action.
 
 ### Get along with your peers
-
 - Learn & adapt to how the team behaves through the Culture section.
 - It’s essential to check out those books: Remote & Rework
 - We work remotely. It could be hard to know the others. Be open on the team Campfire so people can know you better.
@@ -70,7 +79,6 @@ Before you start,  your manager will set up a Basecamp dedicated to your on-boar
 - [ ] Whimsical
 
 ## The Checklist
-
 - [ ] Submit Information
 - [ ] Read Employee Handbook
 - [ ] Attend the orientation meeting
@@ -82,6 +90,6 @@ Before you start,  your manager will set up a Basecamp dedicated to your on-boar
 - [ ] Sign up for services
 - [ ] Set up your devices
 
-![](/img/dwarves.png)
+![](img/dwarves.png)
 
 > Next: [You are Dwarves Foundation](dwarves-foundation-is-you.md)

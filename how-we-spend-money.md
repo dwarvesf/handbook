@@ -1,5 +1,16 @@
+---
+title: How we spend money
+date: 2019-02-21
+description: 
+authors: 
+tags: 
+menu: handbook
+hide_frontmatter: true
+hide_title: true
+pinned: false
+type:
+---
 # How we spend money
-
 We do the business to provide engineering capabilities to help customers on their business. A part of the benefits package is the Stock Option Plan, and the money is the sensitive topic in most companies, but we want you to understand so you could commit your best to make Dwarves Foundation a right place to work.
 
 Besides the paycheck that we agreed on the employment contract, the revenue split into a various portion

@@ -1,3 +1,15 @@
+---
+title: Benefits & Perks
+date: 2019-02-21
+description: 
+authors: 
+tags: 
+menu: handbook
+hide_frontmatter: true
+hide_title: true
+pinned: 
+type:
+---
 # Benefits & Perks
 Since most Dwarves Foundation employees work in Saigon, this section is written with that as the default. Some benefits don't make sense in other countries. We will try our best to provide comparable benefits and perks as it makes sense, though.
 
@@ -52,12 +64,11 @@ On top of Paid Time Off, the company offers a self-funded short-term disability 
 
 ### Flight Tickets to Dwarves Hubs
 We encourage our teammates to try out the Dwarves Hubs across the country. Besides the HQ in HCMC, Dwarves Hubs are also located in Da Lat & Da Nang. 
-We provide a package of flight ticket 4 times a year, with a maximum amount of 2.000.000 VND for each travel time. With a borderless software firm, we believe that giving people the flexibility to try out the work hubs and visit their teammates is a must. 
 
+We provide a package of flight ticket 4 times a year, with a maximum amount of 2.000.000 VND for each travel time. With a borderless software firm, we believe that giving people the flexibility to try out the work hubs and visit their teammates is a must. 
 
 ### Annual Healthcare
 We do have Bao Viet insurance, but we wish to provide more healthcare services beyond that. This annual healthcare supports the Dwarves with a healthcare package of 4.000.000VND, takes place annually around February or March, which includes:
-
 - Overall healthcare checkup
 - Cancer screening
 - Female & Male healthcare

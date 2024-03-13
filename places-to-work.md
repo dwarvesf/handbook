@@ -1,3 +1,15 @@
+---
+title: Places to work
+date: 2019-02-21
+description: 
+authors: 
+tags: 
+menu: handbook
+hide_frontmatter: true
+hide_title: true
+pinned: false
+type:
+---
 ## Places to work
 ### Noise Levels
 If you’re doing creative work, research suggests you’ll want to be surrounded by**ambient noise**. A café or co-working space is the perfect choice in this case.
@@ -25,6 +37,7 @@ In other studies, people has found that exposure to certain colors can play a ro
 
 ### Cafe
 [Working Cafe](https://www.notion.so/943409144680499da1a5a21993b33170) 
+
 #### Saigon
 * Camellia Tea & Coffee
 * The Vintage Emporium

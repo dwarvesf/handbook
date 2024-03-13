@@ -1,5 +1,16 @@
+---
+title: How We Work
+date: 2017-07-21
+description: 
+authors: 
+tags: 
+menu: handbook
+hide_frontmatter: true
+hide_title: true
+pinned: false
+type:
+---
 # How we work
-
 Hopefully, before joining us, you have discovered a bit about our activities here as a team. In the below sections, we won't repeat what has been out in our public and try to keep it short.
 
 ## We do Agile
@@ -22,7 +33,7 @@ All the meetings could be found on Basecamp Schedule.
 
 #### All-hands meeting
 The all-hands meeting happens at the end of every cycle. The Dwarves look back and decide what to do next.
- 
+
 #### Team meeting
 At the same time, you are a member of either Programmer, Designer, Operation or Business team. We have a team meeting on the last Friday of the month to sit down together. This is the guideline so if in any particular circumstances the team lead can require to adjust the number of meetings.
 
@@ -66,7 +77,6 @@ In particular, if you have a grievance with a leader and feel unable to raise it
 If they can’t help to resolve, you can talk to Han.
 
 ## 1001 types of Check-ins and Icebreaker questions
-
 Seen any good movie lately? What's one thing inspire you lately? Something you recently discovered? How was your day? Any good piece of English to share? Any new recipe that we should try out?
 
 Of course, you won't have to answer precisely each one of them. None of us does. We prefer it to happen naturally. So don't be surprised if you see a question is paused, but an answer still pops up. That's normal.
@@ -95,7 +105,6 @@ With managers of one comes to remote working culture. We truly rely on everyone 
 We have plenty of projects at Dwarves. During project onboarding, we will make sure the newcomers get the ideas about the project types, whether it's a [Ventures](https://dwarves.ventures/) project, a CSR (Corporate social responsibility) project, or a typical Tech partner one.
 
 Each type of project will have specific expectations on Milestone's understanding, deliverables, and output quality. Craftmanship is a thing; put your pride into every single line of code and deliverables.
-
 
 ## We head toward craftsmanship
 Software Craftsmanship is all about putting responsibility, professionalism, pragmatism and pride back into software development.

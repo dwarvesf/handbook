@@ -1,3 +1,15 @@
+---
+title: Who does what
+date: 2019-02-21
+description: 
+authors: 
+tags: 
+menu: handbook
+hide_frontmatter: true
+hide_title: true
+pinned: false
+type:
+---
 # Who does what
 Figuring out whom to bring a particular issue or question to shouldn’t be a guessing game. Most concerns fall pretty clearly within the responsibility of a specific team at Dwarves Foundation, and the head of that team should be the first point of contact. At the same time, every single person who works at Dwarves Foundation is approachable and friendly, more than willing to point you in the right direction. If you have a question, you’re probably not the first, so speak up!
 
@@ -41,7 +53,6 @@ We have one C-level executive at Dwarves Foundation.
 Han is our CEO. He’s principally responsible for setting the overall direction of the company. He was the founder who started Dwarves Ventures, the ventures builder that led to Dwarves Foundation, back in 2014. As the company keeps growing, he also helps to recruit and fills up the missing pieces.
 
 ### Operation
-
 #### People Ops
 **Van** is our person for HR development. Under the collaboration between Van & Huy N, hopefully every dwarf can match our standard and happily achieve their goals. Van is also an admin assistant. She is another great person to ping if you don’t know where to go with a question.
 
@@ -49,7 +60,6 @@ Han is our CEO. He’s principally responsible for setting the overall direction
 **Khai** is taking the probation to lead the Design team and to look after the design folks. **Huy N** can be looked as the bridge between operation team and engineer team. Along with Khai, Huy will work with Han to make working at Dwarves Foundation an excellent experience for its employees. Huy is often the best person to tap first, when you don’t know whom to talk to about a problem in your career path, mission.
 
 ### Programming
-
 #### Engineering Director
 **Huy G & Huy N** are one of the early staffs and they are helping to guide & manage the whole technical group. They're responsible for setting the technical direction of our products, run technology and look after the engineering folks. The group consists of four teams:
 

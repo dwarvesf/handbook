@@ -1,4 +1,17 @@
+---
+title: Tools and Systems
+date: 2019-02-21
+description: 
+authors: 
+tags: 
+menu: handbook
+hide_frontmatter: true
+hide_title: true
+pinned: false
+type:
+---
 # Public-facing channel
+
 ### Website
 - Foundation: [dwarves.foundation](https://dwarves.foundation)
 - Ventures: [dwarves.ventures](https://dwarves.ventures)
@@ -9,7 +22,6 @@
 - Facebook: https://facebook.com/dwarvesf
 - Twitter: [@dwarvesf](https://twitter.com/dwarvesf)
 - Keybase: [keybase.io/team/dwarvesf.alumni](https://keybase.io/team/dwarvesf.alumni)
-
 
 # Tools & Systems
 Besides the customer-facing applications, like the different versions of the website, we have a number of internal systems that help us support, report, and operate the company. They are as follows:
@@ -28,7 +40,6 @@ https://3.basecamp.com/4108948/
 Outline is a web-based knowledge hub for our team. You can find helpful resources and guides in Outline. This handbook was also written and stored in Outline.
 
 https://outline.d.foundation
-
 
 ### Email & Storage
 G Suite is a set of the business tool provided by Google that we subscribe to.

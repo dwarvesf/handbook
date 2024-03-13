@@ -1,3 +1,15 @@
+---
+title: Moonlighting
+date: 2019-02-21
+description: 
+authors: 
+tags: 
+menu: handbook
+hide_frontmatter: true
+hide_title: true
+pinned: false
+type:
+---
 ## Moonlighting
 Moonlighting means working other professional, paid jobs outside of your work at Dwarves Foundation. It’s not a black and white topic. There are one-time gigs, other pursuits, or opportunities that help you grow and make life interesting. We want to support that. However, we want to make sure professional endeavors outside of Dwarves Foundation don’t create conflicts of interest or affect your time, dedication, or performance at Dwarves Foundation. So it’s a delicate balance.
 With that in mind, here are some examples of what we’d consider OK and what we would consider a conflict of interest and not OK:
