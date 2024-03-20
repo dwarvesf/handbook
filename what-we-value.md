@@ -1,5 +1,5 @@
 ---
-title: what-we-value
+title: What we value
 date: 2019-02-21
 description: 
 authors: 
