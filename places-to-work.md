@@ -3,6 +3,7 @@ title: Places to work
 date: 2019-02-21
 description: 
 authors: 
+- duy
 tags: 
 menu: handbook
 hide_frontmatter: true
