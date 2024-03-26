@@ -90,6 +90,6 @@ Before you start,  your manager will set up a Basecamp dedicated to your on-boar
 - [ ] Sign up for services
 - [ ] Set up your devices
 
-![](img/dwarves.png)
+![](assets/getting-started_dwarves.png)
 
 > Next: [You are Dwarves Foundation](dwarves-foundation-is-you.md)
