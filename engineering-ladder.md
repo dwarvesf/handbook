@@ -5,6 +5,9 @@ description:
 authors:
   - thanh
 tags: 
+- career
+- software engineer
+- handbook
 menu: handbook
 hide_frontmatter: true
 hide_title: true
