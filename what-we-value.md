@@ -24,7 +24,7 @@ There is no such specific guide for culture code. So many of these employee hand
 
 We believe the culture is defined by whom we hire, what we promote and encourage. It is dynamic, and it should expand like our business. We welcome its change as long as we still stay on the ground. Just like we want people to contribute new skills and ideas, we want people to contribute to the new culture.
 
-![](assets/what-we-value_culture.png)
+![](assets/what-we-value_culture.webp)
 
 A few other things that we observed over the last few years:
 - [**No asshole rules**](https://www.amazon.com/Asshole-Rule-Civilized-Workplace-Surviving/dp/0446698202): no matter how great a candidate may be, being an asshole is an automatic deal-breaker.
@@ -38,7 +38,7 @@ At Dwarves, you are the manager of yourself. Things you produce add up to our va
 
 So, live your value with the Dwarves. You are encouraged to contribute your knowledge and value to the team. 
 
-![](https://imgs.xkcd.com/comics/indecision.png)
+![](assets/what-we-value_indecision.webp)
 
 ### Team > I
 Working in a team is like riding a boat, it requires collaboration. The team need heroes, and there should be an 'I' in the team, but the only way to make the boat go fast is perfect coordination, it also means perfect teamwork and synchronization. The skillset is essential, but it isn't as important as vision and coordination. The 'I' must be unselfish and think about the team first. 
@@ -49,7 +49,7 @@ As a team member, it's important to remember that no one is perfect; everyone ha
 
 We effectively have an environment in which competition and collaboration co-exist and feed off each other. Competition, synchronization or collaborating perfectly; make the boat go fast is always the main point. Remember, even if you work harder than anyone else, if you lose synchronization, you slow the boat down.
 
-![](https://imgs.xkcd.com/comics/i_in_team.png)
+![](assets/what-we-value_i_in_team.webp)
     
 
 ### It's not about you
@@ -59,14 +59,14 @@ The Dwarves is more like an idealogy. When we start this company, we think about
 
 The portion split accordingly. We have rules for the Dwarves who are in that same path, who also want to contribute and make the next products feasible. We work together as a team for a greater good because as soon as it becomes about the individual, things begin to fall apart.
 
-![](https://imgs.xkcd.com/comics/team_effort.png)
+![](assets/what-we-value_team_effort.webp)
 
 ### Like-minded people
 We started this team with a purpose. It's an innovation powering. The long-term goal is to create an engine for innovation where new ideas happen, we can develop things & bring positive impacts. We want to make this place an environment where engineers can spend their time working with disruptive startups and be cool at the same time.
 
 To achieve that, it requires a lot of hard work and commitment. That's why we always look for like-minded people, who with the same vision, DNA and same synergy. The ones which are distinctive, different, can see things in their bare form and be optimistic about the future are the right people we'd love to work with.
 
-![](https://imgs.xkcd.com/comics/those_not_present.png)
+![](assets/what-we-value_those_not_present.webp)
 
 ### Unique Value
 When it comes to hiring, we look at the good part of every person. We hire for the unique value. This is what you could bring to the table. This is what makes you different from other team members and me.
@@ -75,7 +75,7 @@ Being different from others is always a source of value. The difference can be a
 
 We must be an organization where those specialities are well respected and leveraged, rather than having stereotyped technical skill evaluations like school exams.
 
-![](https://imgs.xkcd.com/comics/the_difference.png)
+![](assets/what-we-value_the_difference.webp)
 
 ### EQ is underrated
 We have seen so many cases where smart engineers with high IQ failed while some others yield positive results. Most of the time, it is communication.
@@ -84,7 +84,7 @@ At times, Clients often tell us what *feature* needed to be done rather than wha
 
 As a software firm, it is our job to convince and recommend *solution*. Features, tasks and bugs live in one side of a coin where technical matters and solution are already identified. Train your mind to be able to see the real big picture.
 
-![](https://imgs.xkcd.com/comics/misinterpretation.png)
+![](assets/what-we-value_misinterpretation.webp)
 
 ---
 
@@ -95,7 +95,7 @@ At Dwarves, we favour building over talk. Working with other Dwarves, we prefer 
 
 The culture we are pursuing is the combination between the unconventional spirit and the will to do the right things in every piece of our decision, not just follow the existing of which has been said for years.
 
-![](https://imgs.xkcd.com/comics/efficiency_2x.png)
+![](assets/what-we-value_efficiency_2x.webp)
 
 ## Work
 ### Remote Working
@@ -105,7 +105,7 @@ But that doesn't mean things can go off the track. Flexible working time can be 
 
 It doesn't matter if it happens in the kitchen, or on your way to the beach. Work happens when you are ready, and we want you to manage it at your own terms fully. Just make sure you know when thing happen and what to do about it. That's all we need. 
 
-![](https://imgs.xkcd.com/comics/time_management.png)
+![](assets/what-we-value_time_management.webp)
     
 
 ### Around the clock
@@ -118,14 +118,14 @@ Time is the only real currency that we have. All the techniques we applied, all 
 
 Software is eating the world. The thing we did today the machine can help to do it tomorrow. Having the engineering power aside, if we know how to use them efficiently, we can utilize them for most of our tedious work and focus on things that matter. Try not to repeat yourself. 
 
-![](https://imgs.xkcd.com/comics/is_it_worth_the_time.png)
+![](assets/what-we-value_is_it_worth_the_time.webp)
 
 ### 70/50
 The Dwarvish magic is purely technological know-how. The Dwarves often spend their free-time on hobby projects or new technology.
 
 The 20% we put more into our work is the extra effort to increase the chance to reach a new height. The total of 120% is our commitment. It's encouraging for most of us and not required. The 20% more are rewarded when things we build or explore hit the market or bring values to the customers.
 
-![](https://imgs.xkcd.com/comics/opportunity.png)
+![](assets/what-we-value_opportunity.webp)
 
 ### Purpose-driven
 It's all about the result, thus every action or decision should either bring us closer to the goal. Working with the client as the consultant, we should be aware of what makes a successful collaboration.
@@ -136,7 +136,7 @@ Remote clients are always worried about whether we can deliver. No updates are a
 - Be a team player over "task worker".
 - Favour open discussion and alternative recommendation instead of rejection over customer's requests
 
-![](https://imgs.xkcd.com/comics/making_progress.png)
+![](assets/what-we-value_making_progress.webp)
 
 ### How we do business
 In working with others, we don't look for business, we look for partnership. We value lifetime partners. A deal could come and go, the market could come and go, but trusted clients will stay. When you worked with someone else, once people know that we can actually deliver well-crafted output, nobody wants to take another adventure to check out other options or vendors. It's not worth the extra effort to do that.
@@ -145,7 +145,7 @@ Same as networking and collaboration, doing business is about giving, not taking
 
 Unfortunately, many people do not have this perception when it comes to dealing business. People often view business as "what can you do to support me?", rather than "what can we do to grow together?" perspective. Maybe it was because the modern world has been filled with doubts and skeptic, or maybe it was because of the bitter past experience when they chose the wrong partners, modern business owners tend to focus more on getting the fast, instant goods, rather than investing in a long-term, sustainable plan.
 
-![](https://imgs.xkcd.com/comics/brontosaurus.png)
+![](assets/what-we-value_brontosaurus.webp)
 
 ### Delegators are dead-weight    
 Everybody works. With a small team, you need people who are going to do work, not delegate work. Everyone's got to be producing. No one can be above the work.
@@ -154,7 +154,7 @@ That means you need to avoid hiring delegators, those people who love telling ot
 
 Delegators love to pull people into meetings, too. In fact, meetings are a delegator's best friend. That's where he gets to seem important. Meanwhile, everyone else who attends is pulled away from getting real work done."
 
-![](https://imgs.xkcd.com/comics/meeting_2x.png)
+![](assets/what-we-value_meeting_2x.webp)
 
 ### Effective over productive
 Being productive is about occupying your time—filling your schedule to the brim and getting as much done as you can. Being effective is about finding more of your time unoccupied and open for other things besides work. We don't believe in busyness. We believe in effectiveness. 
@@ -163,7 +163,7 @@ In a certain amount of time, we always try to work on things what create the mos
 
 Know your priority and do things that matter.
 
-![](https://imgs.xkcd.com/comics/the_general_problem.png)
+![](assets/what-we-value_the_general_problem.webp)
 
 ## Engineering Culture
 We build a company where software engineering could shine, innovative products are shipped and change the world for the better.
@@ -173,7 +173,7 @@ Software engineering is an engineering discipline that's applied to the developm
 
 Not applying software engineering methods results in more expensive, less reliable software, and it can be vital in the long term, as the changes come in, the costs will dramatically increase.
 
-![](https://imgs.xkcd.com/comics/flow_charts.png)
+![](assets/what-we-value_flow_charts.webp)
      
 
 ### Not a replaceable cog
@@ -186,7 +186,7 @@ If you have a great idea and the will to make it work, you can create great chan
 
 If your idea makes the most sense, that's what we'll do, regardless of your role or seniority.
 
-![](https://imgs.xkcd.com/comics/good_code.png)
+![](assets/what-we-value_good_code.webp)
     
 
 ### Lean approach
@@ -200,9 +200,9 @@ Favour boring solutions and legacy tooling for real benefits over shiny, over-hy
 
 Be practical, don't waste time and effort on uncertainties.
 
-![](https://imgs.xkcd.com/comics/simple_answers.png)
+![](assets/what-we-value_simple_answers.webp)
 
-![](https://imgs.xkcd.com/comics/automation.png)
+![](assets/what-we-value_automation.webp)
 
 ### Think long-term
 How to know if we make the right decision?
@@ -214,12 +214,12 @@ Every decision we make today can lead to an impact in the future. The technology
 
 We grant everyone at Dwarves the rights to make a decision as long as it benefits the whole in the long run, rather than the individual or a blink of an eye. It is the balance of one who walks a tightrope.
 
-![](https://imgs.xkcd.com/comics/move_fast_and_break_things.png)
+![](assets/what-we-value_move_fast_and_break_things.webp)
 
 ---
 
 ## Toward the future
-![](https://imgs.xkcd.com/comics/future.png)
+![](assets/what-we-value_future.webp)
     
 
 ### Thought on software
@@ -233,13 +233,13 @@ Tech industry is the destination and interference zone between sectors. It's the
 
 It's the tunnel to the future. The performance and survival of a large number of organizations now depend on their ability to integrate digital at the heart of their business strategy. The world can't operate without software.
 
-![](https://imgs.xkcd.com/comics/voting_software.png)
+![](assets/what-we-value_voting_software.webp)
 
 ### Build the resilient future
 The humankind is standing in front of a huge opportunity to increase the boundary of many sectors. The future we are heading to is full of excitement and dynamic. Without the ability to judge what is good for the later generation, we may encourage action with bad impact unintentionally.
 
 So as an ambitious team who is going to co-create the future together with startups and makers, we should always be aware of our actions and think long-term. It's the only way to prevent us from making the wrong decision and create a sustainable future.
 
-![](https://imgs.xkcd.com/comics/skynet.png)
+![](assets/what-we-value_skynet.webp)
 
-![](https://imgs.xkcd.com/comics/rtfm.png)
+![](assets/what-we-value_rtfm.webp)

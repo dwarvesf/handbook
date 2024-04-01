@@ -98,7 +98,7 @@ To achieve that, it requires a lot of hard work and commitment. We work around t
 Find your purpose here.
 People who don't find a sense of purpose don't find us so well.
 
-![](https://imgs.xkcd.com/comics/napoleon.png)
+![](assets/routine_napoleon.webp)
 
 ---
 
