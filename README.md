@@ -11,7 +11,7 @@ So many of these employee handbook projects turn out to be ideal-case prescripti
 
 If you’re reading this just after joining the company, it’s particularly on you. It’s harder for us slowly-boiled frogs who’ve been with the Dwarves for a while to spot the broken ways. Please take advantage of that glorious, shiny ignorance of being new, and question things.
 
-![](assets/readme_team.png)
+![](assets/readme_team.webp)
 
 ## Sections
 * [Dwarves Foundation Is You](dwarves-foundation-is-you.md)

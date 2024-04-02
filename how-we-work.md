@@ -99,7 +99,7 @@ We encourage the team to work remotely. We want our Dwarves to wake up on the be
 
 With managers of one comes to remote working culture. We truly rely on everyone at Dwarves Foundation and believe that we can do the works we all love: deliver the tech know-how to the world.
 
-![](assets/how-we-work_remote.jpeg)
+![](assets/how-we-work_remote.webp)
 
 ## Project Onboard
 We have plenty of projects at Dwarves. During project onboarding, we will make sure the newcomers get the ideas about the project types, whether it's a [Ventures](https://dwarves.ventures/) project, a CSR (Corporate social responsibility) project, or a typical Tech partner one.
