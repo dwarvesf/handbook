@@ -8,7 +8,7 @@ tags:
   - culture
   - handbook
   - employee
-menu: 
+menu:
 hide_frontmatter: false
 hide_title: false
 pinned: false

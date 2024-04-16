@@ -8,7 +8,7 @@ tags:
   - employee
   - handbook
   - operations
-menu: 
+menu:
 hide_frontmatter: false
 hide_title: false
 pinned: false

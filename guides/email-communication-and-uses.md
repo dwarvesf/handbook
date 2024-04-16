@@ -6,8 +6,8 @@ authors:
   - duy
 tags: 
   - team
-  - employee
   - handbook
+  - employee
 menu: 
 hide_frontmatter: false
 hide_title: false
