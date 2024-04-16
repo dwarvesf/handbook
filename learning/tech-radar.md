@@ -3,7 +3,12 @@ title: Dwarves Radar Program
 date: 2022-10-19
 description: 
 authors: 
+  - thanh
+  - tom
 tags: 
+  - techradar
+  - software engineer
+  - technology
 menu: 
 hide_frontmatter: false
 hide_title: false

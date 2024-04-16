@@ -2,8 +2,12 @@
 title: Sharing
 date: 2022-09-05
 description: 
-authors: 
+authors:
+  - han 
 tags: 
+  - guideline
+  - culture
+  - team
 menu: 
 hide_frontmatter: true
 hide_title: true

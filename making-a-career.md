@@ -3,7 +3,11 @@ title: Making a Career
 date: 2019-09-21
 description: 
 authors: 
+  - han
 tags: 
+  - career
+  - software engineer
+  - employee
 menu: handbook
 hide_frontmatter: true
 hide_title: true
