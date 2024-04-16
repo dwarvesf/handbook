@@ -3,11 +3,11 @@ title: Getting Started
 date: 2019-02-21
 description: 
 authors: 
-- han
+  - han
 tags: 
-- handbook
-- hiring
-- employee
+  - handbook
+  - hiring
+  - employee
 menu: handbook
 hide_frontmatter: true
 hide_title: true

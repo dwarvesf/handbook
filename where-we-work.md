@@ -3,11 +3,11 @@ title: Where we work
 date: 2019-02-21
 description: 
 authors: 
-- duy
+  - duy
 tags: 
-- remote
-- work
-- team
+  - remote
+  - work
+  - team
 menu: handbook
 hide_frontmatter: true
 hide_title: true

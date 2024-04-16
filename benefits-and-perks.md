@@ -2,13 +2,13 @@
 title: Benefits & Perks
 date: 2019-02-21
 description: 
-authors: 
-- han
-- duy
+authors:
+  - han
+  - duy
 tags: 
-- handbook
-- employee
-- team
+  - handbook
+  - employee
+  - team
 menu: handbook
 hide_frontmatter: true
 hide_title: true

@@ -3,11 +3,11 @@ title: Who does what
 date: 2019-02-21
 description: 
 authors: 
-- han
+  - han
 tags: 
-- team
-- handbook
-- employee
+  - team
+  - handbook
+  - employee
 menu: handbook
 hide_frontmatter: true
 hide_title: true

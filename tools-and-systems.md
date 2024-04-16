@@ -3,11 +3,11 @@ title: Tools and Systems
 date: 2019-02-21
 description: 
 authors: 
-- han
+  - han
 tags: 
-- tooling
-- employee
-- handbook
+  - tooling
+  - employee
+  - handbook
 menu: handbook
 hide_frontmatter: true
 hide_title: true

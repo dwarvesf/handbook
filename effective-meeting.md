@@ -3,11 +3,11 @@ title: Effective Meeting
 date: 2019-02-21
 description: 
 authors: 
-- han
+  - han
 tags: 
-- handbook
-- performance
-- team
+  - handbook
+  - performance
+  - team
 menu: handbook
 hide_frontmatter: true
 hide_title: true

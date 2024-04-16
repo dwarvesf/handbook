@@ -3,11 +3,11 @@ title: How We Work
 date: 2017-07-21
 description: 
 authors: 
-- han
+  - han
 tags: 
-- operations
-- handbook
-- management
+  - operations
+  - handbook
+  - management
 menu: handbook
 hide_frontmatter: true
 hide_title: true

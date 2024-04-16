@@ -3,11 +3,11 @@ title: Email Communication and Use
 date: 2019-04-17
 description: 
 authors: 
-- duy
+  - duy
 tags: 
-- team
-- employee
-- handbook
+  - team
+  - employee
+  - handbook
 menu: 
 hide_frontmatter: false
 hide_title: false

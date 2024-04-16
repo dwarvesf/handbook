@@ -3,11 +3,11 @@ title: Continuing Education Allowance
 date: 2021-04-19
 description: 
 authors: 
-- duy
+  - duy
 tags: 
-- culture
-- handbook
-- employee
+  - culture
+  - handbook
+  - employee
 menu: 
 hide_frontmatter: false
 hide_title: false

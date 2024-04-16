@@ -3,11 +3,11 @@ title: Leave Request
 date: 2019-02-21
 description: 
 authors: 
-- duy
+  - duy
 tags: 
-- employee
-- handbook
-- operations
+  - employee
+  - handbook
+  - operations
 menu: 
 hide_frontmatter: false
 hide_title: false

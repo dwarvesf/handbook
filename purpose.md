@@ -3,11 +3,11 @@ title: Purpose
 date: 2020-07-01
 description: 
 authors: 
-- han
+  - han
 tags: 
-- team
-- handbook
-- employee
+  - team
+  - handbook
+  - employee
 menu: handbook
 hide_frontmatter: true
 hide_title: true
