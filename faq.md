@@ -14,7 +14,6 @@ hide_title: true
 pinned: false
 type:
 ---
-# FAQ
 
 1. How to pronounce the company name? 
    Dwarf is one of the hardest words to pronounce to the non-English speaker, but that’s what made we special. Checkout [how to pronounce dwarf on YouTube](https://youtu.be/3MJ1_blsY_s) 

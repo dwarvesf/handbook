@@ -13,7 +13,7 @@ hide_title: true
 pinned: false
 type:
 ---
-### Marketing Assets
+
 - About: https://d.foundation/about
 - Logo & Icon: https://d.foundation/presskit
 

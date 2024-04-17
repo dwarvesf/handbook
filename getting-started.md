@@ -14,7 +14,6 @@ hide_title: true
 pinned: false
 type:
 ---
-# Getting Started
 
 ## Expectation
 Welcome onboard. Getting started at Dwarves Foundation can be overwhelming. Different roles have different expectation. Get to know [who does what](who-does-what.md) to warm up. There are a lot of little details, a number of big tasks, you’re learning a new job and new coworkers, and you’re likely doing all these things while working remotely. 

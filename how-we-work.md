@@ -14,7 +14,7 @@ hide_title: true
 pinned: false
 type:
 ---
-# How we work
+
 Hopefully, before joining us, you have discovered a bit about our activities here as a team. In the below sections, we won't repeat what has been out in our public and try to keep it short.
 
 ## We do Agile
@@ -35,13 +35,13 @@ In between each cycle, we spend a week cooling down. That’s the time to deal w
 ## Meeting
 All the meetings could be found on Basecamp Schedule. 
 
-#### All-hands meeting
+### All-hands meeting
 The all-hands meeting happens at the end of every cycle. The Dwarves look back and decide what to do next.
 
-#### Team meeting
+### Team meeting
 At the same time, you are a member of either Programmer, Designer, Operation or Business team. We have a team meeting on the last Friday of the month to sit down together. This is the guideline so if in any particular circumstances the team lead can require to adjust the number of meetings.
 
-#### Project meeting
+### Project meeting
 Every project has its meeting schedule. It should follow the company Cycles and Scrum guideline with at least Sprint Planning Meeting and Sprint Retrospective Meeting.
 
 ## Communication

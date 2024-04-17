@@ -14,7 +14,7 @@ hide_title: true
 pinned: false
 type:
 ---
-# Engineering Ladder
+
 One of the biggest challenges in people management is determining whether your engineers are growing in their careers. While large companies have established career ladders, most companies sacrifice them to stay “flatter” and “more agile”. In reality, there’s no such thing as a “flat” organization—having one means that people don’t spend time talking about or thinking about levels and promotions because there are so many other things to do. However, one of the main reasons people move out is because they experience stagnation in their careers.
 
 We often talk about how to scale our organization, and how to build innovative products but it’s impossible if we cannot retain our talents and have a high standard to look for new joins. For all of those reasons, we wrote [this ladder](https://docs.google.com/spreadsheets/d/1oT2u-cZ4u7ls-V3abmBiddjaZgGTUXBncycxVkyg4Jg/edit#gid=0) to enable software engineering managers to have meaningful conversations with their direct reports about the expectations of each position and how to plan for the next level in their careers without compromising consistency in external recruiting.

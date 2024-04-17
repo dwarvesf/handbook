@@ -14,7 +14,7 @@ hide_title: true
 pinned: false
 type:
 ---
-# 1 on 1
+
 Our culture is founded upon the strong relationships between people. One-on-one meetings are the way to establish these relationships. Every manager has a 1-1 with each of their direct reports once a week, or whenever convenient for both parties involved. This page will take you through how we conduct a one-on-one at Dwarves Foundation as well as some tips to keep the meeting productive.
 
 ## The first meeting
