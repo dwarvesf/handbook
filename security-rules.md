@@ -9,9 +9,9 @@ tags:
 - guideline
 menu: handbook
 hide_frontmatter: true
-hide_title: true
+hide_title: false
 pinned: false
-type:
+type: guides
 ---
 
 ## Basic Security

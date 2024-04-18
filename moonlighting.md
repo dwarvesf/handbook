@@ -15,7 +15,9 @@ pinned: false
 type:
 ---
 
-Moonlighting means working other professional, paid jobs outside of your work at Dwarves Foundation. It’s not a black and white topic. There are one-time gigs, other pursuits, or opportunities that help you grow and make life interesting. We want to support that. However, we want to make sure professional endeavors outside of Dwarves Foundation don’t create conflicts of interest or affect your time, dedication, or performance at Dwarves Foundation. So it’s a delicate balance.
+Moonlighting means working other professional, paid jobs outside of your work at Dwarves Foundation. It’s not a black and white topic. There are one-time gigs, other pursuits, or opportunities that help you grow and make life interesting. We want to support that. 
+
+However, we want to make sure professional endeavors outside of Dwarves Foundation don’t create conflicts of interest or affect your time, dedication, or performance at Dwarves Foundation. So it’s a delicate balance.
 With that in mind, here are some examples of what we’d consider OK and what we would consider a conflict of interest and not OK:
 
 ### OK
@@ -32,7 +34,7 @@ With that in mind, here are some examples of what we’d consider OK and what we
 4. Be aggressive in marketing your availability for side work. If something comes to you through a friend or some connection, fine, but aggressively promoting something on the side will ultimately result in a conflict of interest here at work.
 5. Take on anything outside of work that’ll pull attention from work. For example, if you wanted to launch an app, but the app requires providing timely customer support to people who use the app, that’s going to eat into your day here at work. That would ultimately be a problem.
 
-### In general
+## In general
 Here are a few guiding principles about whether something could be a problem:
 * Is it competitive?
 * Does it occupy a disproportionate amount of your time?

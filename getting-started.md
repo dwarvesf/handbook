@@ -1,18 +1,19 @@
 ---
 title: Getting Started
 date: 2019-02-21
-description: 
+description: Getting started at Dwarves Foundation can be overwhelming. Different roles have different expectation. Get to know who does what to warm up. There are a lot of little details, a number of big tasks, you’re learning a new job and new coworkers, and you’re likely doing all these things while working remotely.
 authors: 
   - han
 tags: 
   - handbook
   - hiring
   - employee
+  - team
 menu: handbook
 hide_frontmatter: true
-hide_title: true
+hide_title: false
 pinned: false
-type:
+type: handbook
 ---
 
 ## Expectation
@@ -42,7 +43,7 @@ We’ll have a review check every 2 weeks to evaluate your progress and how you 
 
 > More on [second period](routine.md)
 
-## Your Peers
+#### Your Peers
 Usually, when you start a new job in an office, it’s clear who does what. In a remote company, it’s a little less clear. Even when you know [who does what](who-does-what.md), it’s still nice to have a work buddy to ping when you don’t know where to turn. So we set up a [Fortress system](https://fort.dwarves.foundation). 
 
 - [ ] Attend the orientation meeting
@@ -60,7 +61,7 @@ Usually, when you start a new job in an office, it’s clear who does what. In a
 - [ ] Set up your devices
 - [ ] Receive [Dwarves Handbook](https://github.com/dwarvesf/handbook)
 
-## Setting up your machine
+### Setting up your machine
 Before you start,  your manager will set up a Basecamp dedicated to your on-boarding called "Welcome, [your name]!". When you start, you'll have access to that Basecamp. In it, you'll see to-dos linking to accounts or services that you need to set up -- an 1Password account, 2FA for various accounts, and private wi-fi to name a few. You'll also see things that your Ops buddy or manager need to set up -- Basecamp (obvi), Email, and Gitlab, among a whole list of other things. 
 
 **Everyone**
@@ -81,7 +82,7 @@ Before you start,  your manager will set up a Basecamp dedicated to your on-boar
 - [ ] Figma
 - [ ] Whimsical
 
-## The Checklist
+### The Checklist
 - [ ] Submit Information
 - [ ] Read Employee Handbook
 - [ ] Attend the orientation meeting

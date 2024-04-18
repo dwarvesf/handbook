@@ -12,7 +12,7 @@ menu: handbook
 hide_frontmatter: true
 hide_title: true
 pinned: false
-type:
+type: handbook
 ---
 
 ### Office

@@ -9,8 +9,8 @@ tags:
   - performance
   - team
 menu: handbook
-hide_frontmatter: true
-hide_title: true
+hide_frontmatter: false
+hide_title: false
 pinned: false
 type:
 ---

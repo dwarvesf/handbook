@@ -1,15 +1,16 @@
 ---
 title: How we keep things on track
 date: 2019-03-13
-description: 
+description: Building an effective company is like building good software.
 authors: 
   - han
 tags: 
   - handbook
   - employee
+  - team
 menu: handbook
 hide_frontmatter: true
-hide_title: true
+hide_title: false
 pinned: false
 type:
 ---
@@ -19,8 +20,9 @@ type:
 - Then we implement the specs.
 - After that, we test and make sure everything works correctly. So, first we need to define the specs, in this case:
 
-## Define standard for the company
+### Define standard for the company
 We already produced our [playbook](https://github.com/dwarvesf/playbook) as the specs so that our company has a base to run on. It's a place where the newcomer learns new stuff, the current members have a reference for the information that they needed.
+
 Compliance is actually the quality control (quality assurance) to make sure that the company is running exactly how it should be:
 
 - It is not a one time work but will continue throughout the company life, as well as envolving overtime when the company grows to maintain the standard.
@@ -35,7 +37,7 @@ From the playbook, we will produce a compliance checklist:
 ### Compliance checklist
 Compliance checklists are being built, the very first version is stored [here](https://docs.google.com/spreadsheets/d/16HtA3skVpEdDpuJ9UEkPb5Ae_SK6IiJ5Czfl_94XqN4/edit#gid=0) which include the checklist for the **Projects** that we are running. It will be expanded to all other aspects of the company. The compliance process will be executed with the compliance plan:
 
-### Compliance Execution plan
+#### Compliance Execution plan
 Every month, the compliance checklist will be sent out to the person in charge of the project (it would be either in parallel OR incremental based on the company state). After they have answered all of the questions in the checklist, these will be the result:
 
 - Problems: These are the items that did NOT follow the standard

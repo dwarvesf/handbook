@@ -8,11 +8,11 @@ tags:
   - employee
   - handbook
   - operations
-menu:
+menu: handbook
 hide_frontmatter: false
 hide_title: false
 pinned: false
-type:
+type: guides
 ---
 
 A consistent on leave process prevents a company from being accidentally disrupted when an employee request to be absent. 
@@ -33,6 +33,7 @@ For example, if engineer Khiem Vo is planning to have his day off on both Jan 4t
 
 ### Notify and verification
 The mentor should notify Project Manager by email and cc Operation/ HR Department for their counsel of approval. 
+
 In case the responsibility of this employee is involved in any project, a contingency strategy should be applied in order to prevent the working process from being interrupted or blocked. 
 
 ### Approval / Denial
@@ -46,4 +47,5 @@ An email of announcement should be sent from the mentor to the employee, Project
 ### Holiday
 1-2 weeks before holiday starts, Operation/HR will send official announcement via email to all clients about the holiday period. After that 2-3 days before holiday starts, Project Manager or Leader of the project need to remind clients again informally via Slack or other communication channels of that project.
 
-Note: During Holiday day or day off, unless it's stated as URGENT, we should NOT response to client on that day.
+>
+> Note: During Holiday day or day off, unless it's stated as URGENT, we should NOT response to client on that day.

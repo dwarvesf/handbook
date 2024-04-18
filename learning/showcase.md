@@ -1,18 +1,18 @@
 ---
 title: Showcase
 date: 2022-09-05
-description: 
+description: Every Friday afternoon, everyone in the company is invited to gather on Discord for internal demos of projects teams have been working on
 authors: 
   - han
 tags: 
   - software engineer
   - showcase
   - performance
-menu: 
+menu: handbook
 hide_frontmatter: false
 hide_title: false
 pinned: false
-type:
+type: learning
 ---
 
 Every Friday afternoon, everyone in the company is invited to gather on Discord for internal demos of projects teams have been working on. This tradition was founded by Engineering, but anyone (from Design, Product,...) is welcome to participate.

@@ -9,11 +9,12 @@ tags:
   - software engineer
   - employee
   - team
+  - handbook
 menu: handbook
 hide_frontmatter: true
-hide_title: true
+hide_title: false
 pinned: false
-type:
+type: handbook
 ---
 
 ## Empower Innovation with Software Craftsmanship
@@ -27,7 +28,7 @@ Another motivation for Dwarves Foundation was the lack of respect that service f
 
 **This is where Dwarves Foundation comes in**
 
-Despite the fact that service firms scale linearly, their ultimate size is capped and small, they don’t have life-changing exits for their founders, we start Dwarves Foundation as we want to build things right. I’ve always felt that companies like Dwarves Foundation are more important to the economy than the mildly pejorative phrase used to describe them.
+ Despite the fact that service firms scale linearly, their ultimate size is capped and small, they don’t have life-changing exits for their founders, we start Dwarves Foundation as we want to build things right. I’ve always felt that companies like Dwarves Foundation are more important to the economy than the mildly pejorative phrase used to describe them.
 
 **Dwarves Foundation is an innovation service firm**
 

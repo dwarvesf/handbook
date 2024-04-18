@@ -1,16 +1,17 @@
 ---
 title: How We Work
 date: 2017-07-21
-description: 
+description: Hopefully, before joining us, you have discovered a bit about our activities here as a team. In the below sections, we won't repeat what has been out in our public and try to keep it short.
 authors: 
   - han
 tags: 
   - operations
   - handbook
   - management
+  - employee
 menu: handbook
 hide_frontmatter: true
-hide_title: true
+hide_title: false
 pinned: false
 type:
 ---
@@ -69,14 +70,15 @@ Han and An is the team evaluating pitches for inclusion in the next cycle. Befor
 ## Raising an Issue
 From time to time people may have problems or concerns about their colleagues, customers, company leadership, work environment and so forth. We want everyone in the team to be empowered to raise an issue and have it dealt with swiftly and fairly.
 
-- Have a conversation with the person involved
+- Have a conversation with the person involved:
 
-The first thing you can do, if you feel comfortable and able, raises the issue directly with the person concerned. This direct and informal approach is encouraged, and we expect your colleagues who are approached responsibly to respond similarly. This approach may be particularly appropriate in dealing with matters of speech and expression, where individuals may not be aware that their behavior is causing distress.
+  The first thing you can do, if you feel comfortable and able, raises the issue directly with the person concerned. This direct and informal approach is encouraged, and we expect your colleagues who are approached responsibly to respond similarly. This approach may be particularly appropriate in dealing with matters of speech and expression, where individuals may not be aware that their behavior is causing distress.
 
-- Ask a colleague to intervene on your behalf
-
-You may ask a colleague or leader to intervene informally on your behalf. In some situations, you may not feel able to approach the person or people involved directly and so going via a third party to raise your concern for you informally is another option available to you.
-In particular, if you have a grievance with a leader and feel unable to raise it directly, you should raise this issue either with another leader or with a colleague who can raise it with a leader for you.
+- Ask a colleague to intervene on your behalf:
+  
+  You may ask a colleague or leader to intervene informally on your behalf. In some situations, you may not feel able to approach the person or people involved directly and so going via a third party to raise your concern for you informally is another option available to you.
+  
+  In particular, if you have a grievance with a leader and feel unable to raise it directly, you should raise this issue either with another leader or with a colleague who can raise it with a leader for you.
 
 If they can’t help to resolve, you can talk to Han.
 
@@ -85,7 +87,7 @@ Seen any good movie lately? What's one thing inspire you lately? Something you r
 
 Of course, you won't have to answer precisely each one of them. None of us does. We prefer it to happen naturally. So don't be surprised if you see a question is paused, but an answer still pops up. That's normal.
 
-### With managers of one
+## With managers of one
 Managing at Dwarves Foundation is a part-time occupation, next to being involved with doing the work itself. This means we rely on everyone at Dwarves Foundation to do a lot of self-management. People who do this well qualify as [managers of one](https://signalvnoise.com/posts/1430-hire-managers-of-one), and we strive for every one senior or above to embody this principle fully.
 
 That means setting your direction when one isn’t given. Determining what needs to be done, and doing it, without waiting for someone to tell you to. A manager of one will spend their time well when left to their own devices. There’s always more work to be done, always more initiatives to kick off, always more improvement to be had.

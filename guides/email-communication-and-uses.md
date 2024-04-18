@@ -8,11 +8,11 @@ tags:
   - team
   - handbook
   - employee
-menu: 
+menu: handbook
 hide_frontmatter: false
 hide_title: false
 pinned: false
-type:
+type: guides
 ---
 
 We use email as our formal tool for both internal and external communication.

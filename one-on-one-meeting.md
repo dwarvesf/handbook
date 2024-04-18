@@ -1,7 +1,7 @@
 ---
 title: One on one meeting
 date: 2021-11-01
-description: 
+description: Our culture is founded upon the strong relationships between people. One-on-one meetings are the way to establish these relationships.
 authors: 
   - han
 tags: 
@@ -10,7 +10,7 @@ tags:
   - performance
 menu: handbook
 hide_frontmatter: true
-hide_title: true
+hide_title: false
 pinned: false
 type:
 ---
