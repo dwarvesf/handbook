@@ -51,5 +51,6 @@ We love pull requests. If you have something you want to add or remove, please o
 Our handbook was inspired from [Basecamp](https://github.com/basecamp/handbook) and customized by the Dwarves team. We love the concise content and the way they organize the handbook.
 
 ## License
-Creative Commons Attribution 4.0 International (CC BY 4.0)
-@ [Dwarves Foundation](https://d.foundation)
+Creative Commons Attribution 4.0 International (CC BY 4.0) 
+
+@[Dwarves Foundation](https://d.foundation)

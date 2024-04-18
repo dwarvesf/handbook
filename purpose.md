@@ -10,10 +10,11 @@ tags:
   - employee
 menu: handbook
 hide_frontmatter: true
-hide_title: true
+hide_title: false 
 pinned: false
-type:
+type: handbook
 ---
+
 ## Where we are heading
 We start with purpose. The mankind is here today because of 4 billion years of continuous evolution from a single cell to homo sapiens, through the stone age to bronze, iron, medieval to post-classical and renaissance. The nations and our civilization were built on production, on building. 
 

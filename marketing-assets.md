@@ -7,13 +7,14 @@ authors:
 tags: 
   - handbook
   - company
+  - employee
 menu: handbook
 hide_frontmatter: true
-hide_title: true
+hide_title: false
 pinned: false
-type:
+type: handbook
 ---
-### Marketing Assets
+
 - About: https://d.foundation/about
 - Logo & Icon: https://d.foundation/presskit
 

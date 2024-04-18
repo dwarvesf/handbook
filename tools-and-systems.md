@@ -10,12 +10,12 @@ tags:
   - handbook
 menu: handbook
 hide_frontmatter: true
-hide_title: true
+hide_title: false
 pinned: false
-type:
+type: guides
 ---
-# Public-facing channel
 
+## Public-facing channel
 ### Website
 - Foundation: [dwarves.foundation](https://dwarves.foundation)
 - Ventures: [dwarves.ventures](https://dwarves.ventures)
@@ -27,7 +27,7 @@ type:
 - Twitter: [@dwarvesf](https://twitter.com/dwarvesf)
 - Keybase: [keybase.io/team/dwarvesf.alumni](https://keybase.io/team/dwarvesf.alumni)
 
-# Tools & Systems
+## Tools & Systems
 Besides the customer-facing applications, like the different versions of the website, we have a number of internal systems that help us support, report, and operate the company. They are as follows:
 
 ### 1Password
