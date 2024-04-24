@@ -1,7 +1,7 @@
 ---
 title: Getting Started
 date: 2019-02-21
-description: 
+description: Welcome onboard. Getting started at Dwarves Foundation can be overwhelming. Different roles have different expectation.
 authors: 
   - han
 tags: 
@@ -10,11 +10,10 @@ tags:
   - employee
 menu: handbook
 hide_frontmatter: true
-hide_title: true
+hide_title: false
 pinned: false
-type:
+type: handbook
 ---
-# Getting Started
 
 ## Expectation
 Welcome onboard. Getting started at Dwarves Foundation can be overwhelming. Different roles have different expectation. Get to know [who does what](who-does-what.md) to warm up. There are a lot of little details, a number of big tasks, you’re learning a new job and new coworkers, and you’re likely doing all these things while working remotely. 
@@ -96,4 +95,5 @@ Before you start,  your manager will set up a Basecamp dedicated to your on-boar
 
 ![](assets/getting-started_dwarves.webp)
 
+---
 > Next: [You are Dwarves Foundation](dwarves-foundation-is-you.md)

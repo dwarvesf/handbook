@@ -1,7 +1,7 @@
 ---
 title: Marketing Assets
 date: 2019-02-21
-description: 
+description: Dwarves marketing assets
 authors: 
   - han
 tags: 
@@ -9,11 +9,11 @@ tags:
   - company
 menu: handbook
 hide_frontmatter: true
-hide_title: true
+hide_title: false
 pinned: false
-type:
+type: handbook
 ---
-### Marketing Assets
+
 - About: https://d.foundation/about
 - Logo & Icon: https://d.foundation/presskit
 

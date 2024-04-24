@@ -1,7 +1,7 @@
 ---
 title: How We Work
 date: 2017-07-21
-description: 
+description: Hopefully, before joining us, you have discovered a bit about our activities here as a team. In the below sections, we won't repeat what has been out in our public and try to keep it short.
 authors: 
   - han
 tags: 
@@ -10,11 +10,11 @@ tags:
   - management
 menu: handbook
 hide_frontmatter: true
-hide_title: true
+hide_title: false
 pinned: false
-type:
+type: handbook
 ---
-# How we work
+
 Hopefully, before joining us, you have discovered a bit about our activities here as a team. In the below sections, we won't repeat what has been out in our public and try to keep it short.
 
 ## We do Agile
@@ -35,13 +35,13 @@ In between each cycle, we spend a week cooling down. That’s the time to deal w
 ## Meeting
 All the meetings could be found on Basecamp Schedule. 
 
-#### All-hands meeting
+### All-hands meeting
 The all-hands meeting happens at the end of every cycle. The Dwarves look back and decide what to do next.
 
-#### Team meeting
+### Team meeting
 At the same time, you are a member of either Programmer, Designer, Operation or Business team. We have a team meeting on the last Friday of the month to sit down together. This is the guideline so if in any particular circumstances the team lead can require to adjust the number of meetings.
 
-#### Project meeting
+### Project meeting
 Every project has its meeting schedule. It should follow the company Cycles and Scrum guideline with at least Sprint Planning Meeting and Sprint Retrospective Meeting.
 
 ## Communication
@@ -66,16 +66,15 @@ There’ll always be more pitches than we have time to field, though. So it’s 
 
 Han and An is the team evaluating pitches for inclusion in the next cycle. Before the start of every cycle.
 
-## Raising an Issue
+## Raising an issue
 From time to time people may have problems or concerns about their colleagues, customers, company leadership, work environment and so forth. We want everyone in the team to be empowered to raise an issue and have it dealt with swiftly and fairly.
 
-- Have a conversation with the person involved
+- Have a conversation with the person involved\
+   The first thing you can do, if you feel comfortable and able, raises the issue directly with the person concerned. This direct and informal approach is encouraged, and we expect your colleagues who are approached responsibly to respond similarly. This approach may be particularly appropriate in dealing with matters of speech and expression, where individuals may not be aware that their behavior is causing distress.
 
-The first thing you can do, if you feel comfortable and able, raises the issue directly with the person concerned. This direct and informal approach is encouraged, and we expect your colleagues who are approached responsibly to respond similarly. This approach may be particularly appropriate in dealing with matters of speech and expression, where individuals may not be aware that their behavior is causing distress.
-
-- Ask a colleague to intervene on your behalf
-
-You may ask a colleague or leader to intervene informally on your behalf. In some situations, you may not feel able to approach the person or people involved directly and so going via a third party to raise your concern for you informally is another option available to you.
+- Ask a colleague to intervene on your behalf\
+   You may ask a colleague or leader to intervene informally on your behalf. In some situations, you may not feel able to approach the person or people involved directly and so going via a third party to raise your concern for you informally is another option available to you.
+   
 In particular, if you have a grievance with a leader and feel unable to raise it directly, you should raise this issue either with another leader or with a colleague who can raise it with a leader for you.
 
 If they can’t help to resolve, you can talk to Han.

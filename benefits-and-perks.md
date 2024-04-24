@@ -1,7 +1,7 @@
 ---
 title: Benefits & Perks
 date: 2019-02-21
-description: 
+description: Since most Dwarves Foundation employees work in Saigon, this section is written with that as the default. Some benefits don't make sense in other countries. We will try our best to provide comparable benefits and perks as it makes sense, though...
 authors:
   - han
   - duy
@@ -11,11 +11,11 @@ tags:
   - team
 menu: handbook
 hide_frontmatter: true
-hide_title: true
+hide_title: false
 pinned: 
-type:
+type: handbook
 ---
-# Benefits & Perks
+
 Since most Dwarves Foundation employees work in Saigon, this section is written with that as the default. Some benefits don't make sense in other countries. We will try our best to provide comparable benefits and perks as it makes sense, though.
 
 ## Team Growth
@@ -55,10 +55,12 @@ You can own the company if you don't want to be just tenured employees. As part 
 We usually hire, and to keep the quality bar, the Dwarves are encouraged to recommend friends that you think they match with the team. We believe your suggestions should be helpful as you have to know the person.
 
 The company will pay a referral bonus to any employee who refers an applicant to our company hired by the company to a full-time position. The bonus is only applicable once the applicant successfully becomes a full-time Dwarves and is a part of at least one project. 
+
 The referring employee must still be employed with the company when the bonus is to be given.
 
 ### Employee Profit-Sharing 
 Dwarves sometime offer 5 - 10% of its annual company profits with employees, which is distributed in shares based on tenure. Profits are distributed after the books are closed on the previous fiscal year, usually around March.
+
 This model is eligible to participate after two years of working at Dwarves Foundation. The Program does not have any set expiration date, but the company reserves the right to amend it or cancel it at any time. You forfeit your shares in the profit sharing program if you resign or are terminated from Dwarves.
 
 ### Paid Time Off
@@ -85,4 +87,4 @@ If you request further checkup, a 5-25% discount will be applied for full-time e
 ### Parental Leave
 When you welcome a new child, we encourage you to take up to 6 months leave for primary caregivers not more than 2 months before giving birth. The father is allowed up to 5 days of leave as a secondary caregiver. And if you have twins, you can take up to 10 fully paid days off. All parental leaves are at 100% base salary.
 
-These benefits only applied for full-time Dwarves who have been on-boarded for more than 6 months in advance of pregnancy (internship and probation period are omitted)
+These benefits only applied for full-time Dwarves who have been on-boarded for more than 6 months in advance of pregnancy (internship and probation period are omitted).

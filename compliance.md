@@ -1,21 +1,21 @@
 ---
 title: How we keep things on track
 date: 2019-03-13
-description: 
+description: Building an effective company is like building good software.
 authors: 
   - han
 tags: 
   - handbook
   - employee
+  - performance
 menu: handbook
 hide_frontmatter: true
-hide_title: true
+hide_title: false
 pinned: false
-type:
+type: handbook
 ---
-# How we keep things on track
 
-## Building an effective company is like building good software:
+## Building an effective company is like building good software
 - First, we define the specs.
 - Then we implement the specs.
 - After that, we test and make sure everything works correctly. So, first we need to define the specs, in this case:
@@ -34,7 +34,7 @@ How do we check if the standard is being followed?
 From the playbook, we will produce a compliance checklist:
 
 ## Compliance checklist
-Compliance checklists are being built, the very first version is stored [here](https://docs.google.com/spreadsheets/d/16HtA3skVpEdDpuJ9UEkPb5Ae_SK6IiJ5Czfl_94XqN4/edit#gid=0) which include the checklist for the **Projects** that we are running. It will be expanded to all other aspects of the company. The compliance process will be executed with the compliance plan:
+Compliance checklists are being built, the very first version is stored [here](https://memo.d.foundation/newsletter/project-compliance/) which include the checklist for the **Projects** that we are running. It will be expanded to all other aspects of the company. The compliance process will be executed with the compliance plan:
 
 ## Compliance Execution plan
 Every month, the compliance checklist will be sent out to the person in charge of the project (it would be either in parallel OR incremental based on the company state). After they have answered all of the questions in the checklist, these will be the result:

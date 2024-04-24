@@ -1,7 +1,7 @@
 ---
-title: What we value
+title: What We Value
 date: 2019-02-21
-description: 
+description: Our core values guide our strategies and individual actions so that we create a company whose character is as radical as our work. 
 authors: 
   - han
   - duy
@@ -11,11 +11,11 @@ tags:
   - team
 menu: handbook
 hide_frontmatter: true
-hide_title: true
+hide_title: false
 pinned: false
-type:
+type: handbook
 ---
-# What we value
+
 Before anything else, values come first. The value is important to us. They are what we proud of. They help guide us when we are facing a difficult decision. They will be the things you like about what we do at Dwarves Foundation and how we do it.
 
 Our core values guide our strategies and individual actions so that we create a company whose character is as radical as our work. 
@@ -24,7 +24,7 @@ Our core values guide our strategies and individual actions so that we create a 
 - **Teamwork**: Teamwork is all about trust and collaboration. Having someone in the team mean we can rely on this person.
 - **Sustainable**: We think long-term. We do not believe in rushing for project and working overtime. We believe in working sustainably and balanced so that we are a happy bunch of sane workers. Software requires good brains to create good codes and good processes.
 
-# Culture Code
+## Culture Code
 There is no such specific guide for culture code. So many of these employee handbook projects turn out to be ideal-case prescriptions rather than real-world descriptions. They cover all the ways people should act, not the ways they actually do. That’s a sham. Let’s not write a handbook like that. **Let’s keep it honest.**
 
 We believe the culture is defined by whom we hire, what we promote and encourage. It is dynamic, and it should expand like our business. We welcome its change as long as we still stay on the ground. Just like we want people to contribute new skills and ideas, we want people to contribute to the new culture.
@@ -56,7 +56,6 @@ We effectively have an environment in which competition and collaboration co-exi
 
 ![](assets/what-we-value_i_in_team.webp)
     
-
 ### It's not about you
 Everything that happens here is not about anyone in this company. It's not about the CEO, the core team or anyone. They are here because they want to join forces to accomplish the mission of craftsmanship in software engineering. They want to pursue the ultimate goal of empowering innovation.
 
@@ -91,8 +90,6 @@ As a software firm, it is our job to convince and recommend *solution*. Features
 
 ![](assets/what-we-value_misinterpretation.webp)
 
----
-
 ### You are what you do
 People see you through your action, not talks. Be a doer. We craft software and stuff. We want to bring positive impact to the world through software. 
 
@@ -112,7 +109,6 @@ It doesn't matter if it happens in the kitchen, or on your way to the beach. Wor
 
 ![](assets/what-we-value_time_management.webp)
     
-
 ### Around the clock
 We work for the future of ourselves and the future of this team. We care about the quality of the work we produce rather than the number of hours worked. We do not have a specific start time or time to leave the office. 
 
@@ -180,7 +176,6 @@ Not applying software engineering methods results in more expensive, less reliab
 
 ![](assets/what-we-value_flow_charts.webp)
      
-
 ### Not a replaceable cog
 In every software, the engineering team is one of the most crucial factors to make it successful. Software is more of artisanship, and software engineers aren't a replaceable cog.
 
@@ -193,7 +188,6 @@ If your idea makes the most sense, that's what we'll do, regardless of your role
 
 ![](assets/what-we-value_good_code.webp)
     
-
 ### Lean approach
 Lean philosophy regards everything, not adding values to the customer as waste. In order to eliminate waste, one should be able to recognize it. Partially done work, extra processes like paperwork and features not often used by customers are waste. Rework, or unnecessarily complex solutions are waste. Waiting for other activities, teams, processes is waste. Managerial overhead not producing real values is waste.
 
@@ -221,12 +215,9 @@ We grant everyone at Dwarves the rights to make a decision as long as it benefit
 
 ![](assets/what-we-value_move_fast_and_break_things.webp)
 
----
-
 ## Toward the future
 ![](assets/what-we-value_future.webp)
     
-
 ### Thought on software
 The world is running on software. Software is all around us, yet few people think much about the many ways that software impacts the world every day. Software is used by businesses to communicate worldwide. It is used to operate some of the most complex medical machines. The software also helps make life convenient.
 
