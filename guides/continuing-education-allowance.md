@@ -1,20 +1,20 @@
 ---
 title: Continuing Education Allowance
 date: 2021-04-19
-description: 
+description: You will always grow by learning and playing with new and cool technologies. From books to conferences, you’ll get a yearly budget for your learning and development goals.
 authors: 
   - duy
 tags: 
   - culture
   - handbook
   - employee
-menu:
+menu: memo
 hide_frontmatter: false
 hide_title: false
 pinned: false
-type:
+type: guidelines
 ---
-# Continuing Education Allowance
+
 You will always grow by learning and playing with new and cool technologies. From books to conferences, you’ll get a yearly budget for your learning and development goals.
 
 If you’re interested in taking classes that you feel improve you professionally or personally, you have a $300 annual stipend to do so. Some people take courses directly related to their careers while taking photography lessons or learning a musical instrument. It’s up to you; the point is to learn something that you feel enriches you as a person and employee.

@@ -1,19 +1,22 @@
 ---
 title: Places to work
 date: 2019-02-21
-description: 
+description: If you’re doing creative work, research suggests you’ll want to be surrounded by ambient noise. A café or co-working space is the perfect choice in this case. If you need to focus on a specific task, however, you’re going to want silence as [quiet spaces help us focus on straightforward tasks.
 authors: 
   - duy
 tags: 
+- remote
+- team
+- handbook
 menu: handbook
 hide_frontmatter: true
-hide_title: true
+hide_title: false
 pinned: false
 type:
 ---
-## Places to work
+
 ### Noise Levels
-If you’re doing creative work, research suggests you’ll want to be surrounded by**ambient noise**. A café or co-working space is the perfect choice in this case.
+If you’re doing creative work, research suggests you’ll want to be surrounded by **ambient noise**. A café or co-working space is the perfect choice in this case.
 If you need to focus on a specific task, however, you’re going to want silence as [quiet spaces help us focus on straightforward tasks](http://well.blogs.nytimes.com/2013/06/21/how-the-hum-of-a-coffee-shop-can-boost-creativity/) .
 
 * Coffitivity:  [https://coffitivity.com](https://coffitivity.com/)  |  [https://soundcloud.com/coffitivity](https://soundcloud.com/coffitivity) 

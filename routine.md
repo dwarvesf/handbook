@@ -1,7 +1,7 @@
 ---
-title: Routine
+title: Work Routine
 date: 2020-08-12
-description:
+description: We work in an 8-week cycle at Dwarves Foundation. There are typically six cycles to a year. This fixed cadence serves to give us an internal sense of urgency, work as a scope hammer to keep projects from ballooning and provide a regular interval to decide what we’re working on.
 authors:
   - han
 tags:
@@ -12,10 +12,8 @@ menu: handbook
 hide_frontmatter: true
 hide_title: true
 pinned: false
-type:
+type: handbook
 ---
-
-# Work routine
 
 As stated in [how we work](how-we-work.md), we keep the team small and follow the agile philosophy at scale.
 

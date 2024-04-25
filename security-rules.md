@@ -1,24 +1,26 @@
 ---
 title: Security Rules
 date: 2019-02-21
-description: 
+description: Keeping laptops and phones secure is vitally important. We're a software company and many of us have access to secure systems (both our own and our customers). The following guidelines apply to how we physically secure our laptops and mobile devices that may contain customer or user data.
 authors: 
+- han
 tags: 
 - security
 - employee
 - guideline
 menu: handbook
 hide_frontmatter: true
-hide_title: true
+hide_title: false
 pinned: false
-type:
+type: handbook
 ---
+
 ## Basic Security
 Keeping laptops and phones secure is vitally important. We're a software company and many of us have access to secure systems (both our own and our customers).
 
 The following guidelines apply to how we physically secure our laptops and mobile devices that may contain customer or user data.
 
-#### General
+### General
 - [ ] Make a note of serial numbers, model information
 - [ ] Two Factor Authentication and strong passwords
 - [ ] Keep your operating system and applications up to date
@@ -26,7 +28,7 @@ The following guidelines apply to how we physically secure our laptops and mobil
 - [ ] Don't leave your devices unattended in an unsecured area.
 - [ ] Install a device tracking and remote data wipe tool such as Prey.
 
-#### Desktop
+### Desktop
 - [ ] [Encrypt your hard drive](https://support.apple.com/en-gb/HT204837)
 - [ ] Mac users must add [a firmware password](https://support.apple.com/en-gb/HT204455) 
 - [ ] Non Mac users must add a BIOS password
@@ -36,7 +38,7 @@ The following guidelines apply to how we physically secure our laptops and mobil
 - [ ] Only work from company laptops or follow BYOD policy
 - [ ] [Install iCloud/Find My Mac](https://www.icloud.com/)
 
-#### Mobile
+### Mobile
 We all use personal mobile devices, so your options are either not to add any company accounts to your phone (this includes Slack, Gmail etc), or to follow the checklist below.
 - [ ] Ideally disable finger print login (or at least have TouchID on).
 - [ ] [Create a 6 digit passcode (or better)](http://www.cnet.com/uk/how-to/secure-your-ios-device-with-a-six-digit-passcode-on-ios-9/) 

@@ -1,7 +1,7 @@
 ---
-title: Purpose
+title: What We Are Heading
 date: 2020-07-01
-description: 
+description: We're on our journey to build an organization that empowers next innovation. The long-term goal is to create an engine for innovation where new ideas happen, we can develop things & bring positive impacts to the world.
 authors: 
   - han
 tags: 
@@ -10,11 +10,11 @@ tags:
   - employee
 menu: handbook
 hide_frontmatter: true
-hide_title: true
+hide_title: false
 pinned: false
-type:
+type: handbook
 ---
-## Where we are heading
+
 We start with purpose. The mankind is here today because of 4 billion years of continuous evolution from a single cell to homo sapiens, through the stone age to bronze, iron, medieval to post-classical and renaissance. The nations and our civilization were built on production, on building. 
 
 Every time we look back at what we are as a race; in the beginning, we feel motivated by what the ancestors have done. There is only one way to honor their legacy and to create the future we want for our own children and grandchildren, and that's to build.

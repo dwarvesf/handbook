@@ -1,7 +1,7 @@
 ---
 title: How We Hire
 date: 2019-02-21
-description: 
+description: Hiring means we need help. We only hire people who tell us what to do, not the other way around. We always look for long-term teammates that why we want to ensure the new hire is a value fit and culture fit.
 authors: 
   - han
 tags: 
@@ -10,11 +10,11 @@ tags:
   - operations
 menu: handbook
 hide_frontmatter: true
-hide_title: true
+hide_title: false
 pinned: false
-type:
+type: handbook
 ---
-# How we hire
+
 Hiring means we need help. We only hire people who tell us what to do, not the other way around. We always look for long-term teammates that why we want to ensure the new hire is a value fit and culture fit. 
 
 ## We hire with goal

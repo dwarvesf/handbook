@@ -1,7 +1,7 @@
 ---
-title: Who does what
+title: Who Does What
 date: 2019-02-21
-description: 
+description: Figuring out whom to bring a particular issue or question to shouldn’t be a guessing game. Most concerns fall pretty clearly within the responsibility of a specific team at Dwarves Foundation, and the head of that team should be the first point of contact.
 authors: 
   - han
 tags: 
@@ -10,11 +10,11 @@ tags:
   - employee
 menu: handbook
 hide_frontmatter: true
-hide_title: true
+hide_title: false
 pinned: false
-type:
+type: handbook
 ---
-# Who does what
+
 Figuring out whom to bring a particular issue or question to shouldn’t be a guessing game. Most concerns fall pretty clearly within the responsibility of a specific team at Dwarves Foundation, and the head of that team should be the first point of contact. At the same time, every single person who works at Dwarves Foundation is approachable and friendly, more than willing to point you in the right direction. If you have a question, you’re probably not the first, so speak up!
 
 ## Expectation
@@ -22,6 +22,7 @@ Expectations are the responsibility defined for each role. If you are qualified 
 
 ## Beyond a role
 The expectations define the bar for the role, but what about going above and beyond? We would love everyone in the company to go above and beyond these expectations. In fact we pretty much expect everyone in the company to be meeting them and then asking us what more they can do to help.
+
 When we see people pushing the limits of their current role, and **when we see people already fulfilling other roles** we will jump on this as soon as we notice to **offer up extra activities** or even a new role.
 We want to foster a culture where everybody feels empowered to do their role and as they feel comfortable and ready to push in any direction they wish.
 
@@ -53,7 +54,7 @@ The design group is lead by Khai and consists of 2 teams:
 ### Executive
 We have one C-level executive at Dwarves Foundation.
 
-#### CEO
+### CEO
 Han is our CEO. He’s principally responsible for setting the overall direction of the company. He was the founder who started Dwarves Ventures, the ventures builder that led to Dwarves Foundation, back in 2014. As the company keeps growing, he also helps to recruit and fills up the missing pieces.
 
 ### Operation
@@ -79,7 +80,7 @@ Before we ship a new feature, **Quynh**, our resident bug squashers. Their job i
 #### Web
 The web team is lead by **Huy G**, **Minh T** and **Thanh P**. They are responsible for the user-facing system on the web front. They work across multiple products and ensure the user experience.
 
-### Infras
+#### Infras
 Dwarves Foundation and its customer's infrastructure operate across different cloud platforms. Keeping the lights on with high reliability is the foremost mission of the Infras operations team or SRE, and they're op-fully amazing at doing it. **Quang** is team lead and he works with **Nam N** to make sure our infrastructure stays healthy.
 
 ---
