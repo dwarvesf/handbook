@@ -1,7 +1,7 @@
 ---
 title: Dwarves Radar Program
 date: 2022-10-19
-description: 
+description: The Dwarves have a spinning radar. This radar is how we assess and adopt new technology. Throughout the years, we observe the tech industry and pick out the most promising tech to put into the radar to begin the assessment process.
 authors: 
   - thanh
   - tom
@@ -9,13 +9,13 @@ tags:
   - techradar
   - software engineer
   - technology
-menu: 
+menu: playground
 hide_frontmatter: false
 hide_title: false
 pinned: false
-type:
+type: tech-radar
 ---
-# Dwarves Radar Program
+
 The Dwarves have a spinning radar. This radar is how we assess and adopt new technology. Throughout the years, we observe the tech industry and pick out the most promising tech to put into the radar to begin the assessment process.
 
 Our tech radar is highly motivated by ThoughtWork’s vision of the technology radar, which is a visual document of industry changes we find interesting as well as of what tech we have trialed and adopted in our company. The output goal of our tech radar is to create publications on what tech we see in our projects.
