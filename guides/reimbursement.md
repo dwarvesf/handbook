@@ -7,7 +7,7 @@ authors:
 tags: 
   - employee
   - handbook
-menu: memo
+menu: playground
 hide_frontmatter: false
 hide_title: false
 pinned: false

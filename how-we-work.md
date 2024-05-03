@@ -69,10 +69,12 @@ Han and An is the team evaluating pitches for inclusion in the next cycle. Befor
 ## Raising an issue
 From time to time people may have problems or concerns about their colleagues, customers, company leadership, work environment and so forth. We want everyone in the team to be empowered to raise an issue and have it dealt with swiftly and fairly.
 
-- Have a conversation with the person involved\
+- **Have a conversation with the person involved**
+
    The first thing you can do, if you feel comfortable and able, raises the issue directly with the person concerned. This direct and informal approach is encouraged, and we expect your colleagues who are approached responsibly to respond similarly. This approach may be particularly appropriate in dealing with matters of speech and expression, where individuals may not be aware that their behavior is causing distress.
 
-- Ask a colleague to intervene on your behalf\
+- **Ask a colleague to intervene on your behalf**
+
    You may ask a colleague or leader to intervene informally on your behalf. In some situations, you may not feel able to approach the person or people involved directly and so going via a third party to raise your concern for you informally is another option available to you.
    
 In particular, if you have a grievance with a leader and feel unable to raise it directly, you should raise this issue either with another leader or with a colleague who can raise it with a leader for you.

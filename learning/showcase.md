@@ -1,20 +1,20 @@
 ---
 title: Showcase
 date: 2022-09-05
-description: 
+description: Every Friday afternoon, everyone in the company is invited to gather on Discord for internal demos of projects teams have been working on. This tradition was founded by Engineering, but anyone (from Design, Product,...) is welcome to participate.
 authors: 
   - han
 tags: 
   - software engineer
   - showcase
   - performance
-menu: 
+menu: playground
 hide_frontmatter: false
 hide_title: false
 pinned: false
-type:
+type: handbook
 ---
-# Showcase
+
 Every Friday afternoon, everyone in the company is invited to gather on Discord for internal demos of projects teams have been working on. This tradition was founded by Engineering, but anyone (from Design, Product,...) is welcome to participate.
 
 We value the importance of sharing our work with other people at Dwarves. **We hold demos and celebrate our craftsmanship, insight, and learning with others**. And it's a chance for people who don't work directly on development to feel included in the process.

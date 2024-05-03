@@ -8,7 +8,7 @@ tags:
   - culture
   - handbook
   - employee
-menu: memo
+menu: playground
 hide_frontmatter: false
 hide_title: false
 pinned: false
@@ -22,4 +22,3 @@ If you’re interested in taking classes that you feel improve you professionall
 This benefit is applied to any full-time Dwarf who has been here for more than 6 months.
 
 The request should follow this format in: Basecamp > Woodland > [Request](https://3.basecamp.com/4108948/buckets/9403032/todolists/1557155199)
-

@@ -8,7 +8,7 @@ tags:
   - employee
   - handbook
   - operations
-menu: memo
+menu: playground
 hide_frontmatter: false
 hide_title: false
 pinned: false
