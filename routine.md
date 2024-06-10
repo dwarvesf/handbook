@@ -8,11 +8,8 @@ tags:
   - performance
   - handbook
   - employee
-menu: handbook
 hide_frontmatter: true
 hide_title: true
-pinned: false
-type: handbook
 ---
 
 As stated in [how we work](how-we-work.md), we keep the team small and follow the agile philosophy at scale.

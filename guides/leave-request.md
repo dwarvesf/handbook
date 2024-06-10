@@ -8,11 +8,6 @@ tags:
   - employee
   - handbook
   - operations
-menu: memo
-hide_frontmatter: false
-hide_title: false
-pinned: false
-type: guidelines
 ---
 
 A consistent on leave process prevents a company from being accidentally disrupted when an employee request to be absent. 

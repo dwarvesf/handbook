@@ -8,11 +8,7 @@ tags:
   - career
   - software engineer
   - employee
-menu: handbook
 hide_frontmatter: true
-hide_title: false
-pinned: false
-type: handbook
 ---
 
 The average tenure of employees working at many technology companies today is shockingly low. At both Amazon, Google and other companies, it’s [just around one year](http://www.techrepublic.com/blog/career-management/tech-companies-have-highest-turnover-rate/). At Dwarves Foundation, it’s just around three years as of late 2018. That’s something to be proud of, and something to ensure endures. When you work at Dwarves Foundation, it should be feasible to think about this as the place for making a life-long career.

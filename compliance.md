@@ -8,11 +8,7 @@ tags:
   - handbook
   - employee
   - performance
-menu: handbook
 hide_frontmatter: true
-hide_title: false
-pinned: false
-type: handbook
 ---
 
 ## Building an effective company is like building good software

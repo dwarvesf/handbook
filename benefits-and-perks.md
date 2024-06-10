@@ -9,11 +9,7 @@ tags:
   - handbook
   - employee
   - team
-menu: handbook
 hide_frontmatter: true
-hide_title: false
-pinned: 
-type: handbook
 ---
 
 Since most Dwarves Foundation employees work in Saigon, this section is written with that as the default. Some benefits don't make sense in other countries. We will try our best to provide comparable benefits and perks as it makes sense, though.

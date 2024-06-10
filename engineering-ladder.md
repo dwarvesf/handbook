@@ -8,11 +8,7 @@ tags:
 - career
 - software engineer
 - handbook
-menu: handbook
 hide_frontmatter: true
-hide_title: false
-pinned: false
-type: handbook
 ---
 
 One of the biggest challenges in people management is determining whether your engineers are growing in their careers. While large companies have established career ladders, most companies sacrifice them to stay “flatter” and “more agile”. In reality, there’s no such thing as a “flat” organization—having one means that people don’t spend time talking about or thinking about levels and promotions because there are so many other things to do. However, one of the main reasons people move out is because they experience stagnation in their careers.

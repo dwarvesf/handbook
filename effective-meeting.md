@@ -8,11 +8,7 @@ tags:
   - handbook
   - performance
   - team
-menu: handbook
 hide_frontmatter: true
-hide_title: false
-pinned: false
-type: handbook
 ---
 
 To increase flexibility in how and where employees at Dwarves work, we agree on a shared set of constraints for group work and meetings.

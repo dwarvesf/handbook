@@ -8,11 +8,7 @@ tags:
   - handbook
   - employee
   - performance
-menu: handbook
 hide_frontmatter: true
-hide_title: false
-pinned: false
-type: handbook
 ---
 
 Moonlighting means working other professional, paid jobs outside of your work at Dwarves Foundation. It’s not a black and white topic. There are one-time gigs, other pursuits, or opportunities that help you grow and make life interesting. We want to support that. 

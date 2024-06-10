@@ -8,11 +8,7 @@ tags:
 - remote
 - team
 - handbook
-menu: handbook
 hide_frontmatter: true
-hide_title: false
-pinned: false
-type:
 ---
 
 ### Noise Levels

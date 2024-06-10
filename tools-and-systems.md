@@ -8,11 +8,7 @@ tags:
   - tooling
   - employee
   - handbook
-menu: handbook
 hide_frontmatter: true
-hide_title: False
-pinned: false
-type: handbook
 ---
 
 ## Public-facing channel

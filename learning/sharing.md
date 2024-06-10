@@ -8,11 +8,8 @@ tags:
   - guideline
   - culture
   - team
-menu: 
 hide_frontmatter: true
 hide_title: true
-pinned: false
-type:
 ---
 # Sharing
 At Dwarves Foundation, we believe that sharing is an important part of our culture. We share almost everything: every week, a lot of events are open to the public, and some of them are recorded so that anyone can watch the videos to learn. It may seem strange to share so much, but there are good reasons for it.

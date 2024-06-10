@@ -8,11 +8,7 @@ tags:
 - security
 - employee
 - guideline
-menu: handbook
 hide_frontmatter: true
-hide_title: false
-pinned: false
-type: handbook
 ---
 
 ## Basic Security

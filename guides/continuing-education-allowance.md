@@ -8,11 +8,6 @@ tags:
   - culture
   - handbook
   - employee
-menu: memo
-hide_frontmatter: false
-hide_title: false
-pinned: false
-type: guidelines
 ---
 
 You will always grow by learning and playing with new and cool technologies. From books to conferences, you’ll get a yearly budget for your learning and development goals.

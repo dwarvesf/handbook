@@ -9,11 +9,7 @@ tags:
   - software engineer
   - employee
   - team
-menu: handbook
 hide_frontmatter: true
-hide_title: false
-pinned: false
-type: handbook
 ---
 
 ## Empower Innovation with Software Craftsmanship

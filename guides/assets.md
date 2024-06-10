@@ -4,11 +4,6 @@ date: 2019-02-21
 description: 
 authors: 
 tags: 
-menu: 
-hide_frontmatter: false
-hide_title: false
-pinned: false
-type:
 ---
 # Asset Request
 Company assets equips us to get the job done. We are delighted to know if you can spend your time gnawing our library or using our devices, as long as it follows these protocols. 

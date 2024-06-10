@@ -9,11 +9,7 @@ tags:
   - culture
   - handbook
   - team
-menu: handbook
 hide_frontmatter: true
-hide_title: false
-pinned: false
-type: handbook
 ---
 
 Before anything else, values come first. The value is important to us. They are what we proud of. They help guide us when we are facing a difficult decision. They will be the things you like about what we do at Dwarves Foundation and how we do it.

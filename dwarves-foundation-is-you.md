@@ -8,11 +8,7 @@ tags:
   - handbook
   - employee
   - team
-menu: handbook
 hide_frontmatter: true
-hide_title: false
-pinned: false
-type: handbook
 ---
 
 Everyone working at Dwarves Foundation represents Dwarves Foundation. When a customer gets a response from Quang on support, Quang is Dwarves Foundation. When a customer reads a tweet by Huy that our systems are upgrading, Huy is Dwarves Foundation. When an engineer talks to you at a meetup, you are Dwarves Foundation. In those situations, all the other stuff we do to cultivate our best image is secondary. What’s right in front of someone in a time of need is what they’ll remember.

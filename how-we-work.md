@@ -8,11 +8,7 @@ tags:
   - operations
   - handbook
   - management
-menu: handbook
 hide_frontmatter: true
-hide_title: false
-pinned: false
-type: handbook
 ---
 
 Hopefully, before joining us, you have discovered a bit about our activities here as a team. In the below sections, we won't repeat what has been out in our public and try to keep it short.

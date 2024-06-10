@@ -8,11 +8,7 @@ tags:
   - team
   - handbook
   - employee
-menu: handbook
 hide_frontmatter: true
-hide_title: false
-pinned: false
-type: handbook
 ---
 
 Figuring out whom to bring a particular issue or question to shouldn’t be a guessing game. Most concerns fall pretty clearly within the responsibility of a specific team at Dwarves Foundation, and the head of that team should be the first point of contact. At the same time, every single person who works at Dwarves Foundation is approachable and friendly, more than willing to point you in the right direction. If you have a question, you’re probably not the first, so speak up!

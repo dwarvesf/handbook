@@ -7,11 +7,7 @@ authors:
 tags: 
   - handbook
   - company
-menu: handbook
 hide_frontmatter: true
-hide_title: false
-pinned: false
-type: handbook
 ---
 
 - About: https://d.foundation/about

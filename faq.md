@@ -8,11 +8,7 @@ tags:
   - handbook
   - employee
   - team
-menu: handbook
 hide_frontmatter: true
-hide_title: false
-pinned: false
-type: handbook
 ---
 
 1. How to pronounce the company name? \

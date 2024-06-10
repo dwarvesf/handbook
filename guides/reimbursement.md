@@ -7,11 +7,6 @@ authors:
 tags: 
   - employee
   - handbook
-menu: memo
-hide_frontmatter: false
-hide_title: false
-pinned: false
-type: guidelines
 ---
 
 Sometimes the situation calls for realtime payment. Team lunch, device purchase, house cleaning, monthly drinking water. Normally, we pay it forward and claim those expense later. The reimbursement will be included in your payroll of that month.
