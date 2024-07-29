@@ -56,8 +56,8 @@ As our employees demand having a credit card or borrowing from the bank, which r
 1. **How does the team provide proof of income letter?**
 
     We will provide either or both types of the contract, depending on the individual, to certify your monthly income: 
-a) a US contract 
-b) a Vietnam contract 
+    a) a US contract 
+    b) a Vietnam contract 
 
 2. **Who should I contact to get the proof of income?**
   
@@ -72,16 +72,17 @@ Dwarves Team uses Google Mail service to provide a true mailbox for members work
 
 1. **How to access email alias?**
 
-- You can access the email alias when you are an official member of Dwarves Foundation.
+- You can access the email alias when you are an official member of Dwarves Foundation. You will have a walkthrough about this with the ops team. 
 - Open a ticket, and ping Quang to activate the alias.
-- Follow the instructions here to add the alias to your email
+- Follow the [instructions](https://memo.d.foundation/playground/01_literature/configure-the-company-email/) here to add the alias to your email
 
 2. **How to send email using alias?**
 
-- Make sure you follow this instruction and setup this email successfully.
+- Make sure you follow this [instruction](https://memo.d.foundation/playground/01_literature/configure-the-company-email/) and setup this email successfully.
 - Open the New Message box, select the alias that you want to send from
     
     ![](https://i.postimg.cc/MGfDhBBd/Clean-Shot-2024-07-25-at-15-49-49-2x.png)
+  
 ### Benefit 
 
 #### Education Allowance
@@ -167,8 +168,8 @@ Sometimes Wise proceeds transactions randomly to make sure they are clean, so it
 2. **How about my career path?** 
     You can check up the [Making a Career](making-a-career.md) section where we’ve mapped our trajectory of mastery to *six different levels*.
 
-3. **What are we heading to this year?** 
-    Planning is guessing. It’s why we don’t really have a business plan. However, we do have an all-hands meeting every two months that you can join and get updated.
+3. **What are we heading to this month?** 
+    Planning is guessing. It’s why we don’t really have a business plan. However, we do have an all-hands meeting every months that you can join and get updated.
 
 4. **Can I work on my friend project?** 
     We have a short note on this topic [Moonlighting](moonlighting.md)
