@@ -81,7 +81,7 @@ Dwarves Team uses Google Mail service to provide a true mailbox for members work
 - Make sure you follow this [instruction](https://memo.d.foundation/playground/01_literature/configure-the-company-email/) and setup this email successfully.
 - Open the New Message box, select the alias that you want to send from
     
-    ![](https://i.postimg.cc/MGfDhBBd/Clean-Shot-2024-07-25-at-15-49-49-2x.png)
+    ![](assets/faq_clean-shot-2024-07-25-at-15-49-49-2x.webp)
   
 ### Benefit 
 
@@ -102,7 +102,7 @@ If you're interested in taking classes that you feel will improve you profession
 
   To get approval, you need to provide some form of output, such as a certificate (for courses) or a report (for conferences). Once approved, you will receive the reimbursement through [Woodland > Expense.](https://3.basecamp.com/4108948/buckets/9403032/todolists/1557155199)
 
-  ![](https://i.postimg.cc/264x5f2W/FQAs-education-allowance.png)
+  ![](assets/faq_fqas-education-allowance.webp)
 
 #### Bao Minh Insurance
 [Bao Minh Insurance](https://www.baominh.com.vn/) is a health insurance provided by Bao Minh Company. All employees have a quota for medical check-ups based on specific categories.
