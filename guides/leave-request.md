@@ -26,11 +26,11 @@ We segment the request based on the urgency of the request.
 
 For every request, employee must log in on the company's Basecamp channel and create a ticket on **On-leave Request** list and assign the ticket to project manager, account manager and project lead, with the detailed format as below:
 
-![](https://i.postimg.cc/gJqYbN9q/Clean-Shot-2024-08-01-at-17-33-57-2x.png)
+![](assets/leave-request_clean-shot-2024-08-01-at-17-33-57-2x.webp)
 
 For example, if engineer Khiem Vo is planning to have his day off on both Jan 4th and Jan 5th, the request must be submitted 4 days in advance, which is Jan 1st. And the mentor of Khiem Vo is Huy Nguyen. The request should be:
 
-![](https://i.postimg.cc/ydzVG2G8/Clean-Shot-2024-08-01-at-17-34-52-2x.png)
+![](assets/leave-request_clean-shot-2024-08-01-at-17-34-52-2x.webp)
 
 ### Notify and verification
 The mentor should notify Project Manager by email and cc Operation Department for their counsel of approval. 
