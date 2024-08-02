@@ -12,7 +12,7 @@ tags:
 
 A consistent leave process prevents a company from being accidentally disrupted when an employee requests to be absent.
 
-At our workplace, every time an employee submits a request for leave or remote work, whether it is for a half-shift or a full-day absence, the process must follow these steps:
+At our workplace, every time an employee submits a request for leave, whether it is for a half-shift or a full-day absence, the process must follow these steps:
 
 ### Before Request Submission
 Employees need to discuss with the client and the team in advance to align tasks so their absence affects the project as little as possible.
@@ -27,10 +27,10 @@ We segment the requests based on the urgency:
 For every request, employees must log in to Basecamp, go to Woodland channel and create a ticket on the On-leave Request list, assigning the ticket to the project manager, account manager, and project lead, with the following format:
 
 - List: On-Leave Requests
-- Ticket format: Name | Type of absence (off/remote) | Date | Shift (if any)
+- Ticket format: Name | Type of absence (off) | Date | Shift (if any)
 - Assign to: Mentor or Product Manager
 
-For example, if Thanh Pham plans to have his day off on both Jul 9th and Jul 12th, the request must be submitted 8 days in advance, on Jul 1st. If Thanh Pham's mentor is Han Ngo, the request should be formatted as follows:
+For example, if Thanh Pham plans to have his day off on both Jul 9th to 12th, the request must be submitted 8 days in advance, on Jul 1st. If Thanh Pham's mentor is Han Ngo, the request should be formatted as follows:
 
 ![](assets/leave-request_clean-shot-2024-08-01-at-17-34-52-2x.webp)
 
@@ -38,7 +38,7 @@ For example, if Thanh Pham plans to have his day off on both Jul 9th and Jul 12t
 After submitting the request, the line manager and leader will discuss the request with the employee, align the workload and resources, and design a working process to prevent interruption.
 
 ### Approval/ Denial
-If the request is approved, the manager will mark the ticket as done and note the employee's return date. Basecamp will inform the client and everyone involved via an email of approval, along with a Google Calendar schedule.
+If the request is approved, the manager will mark the ticket as done and note the employee's return date. Basecamp will inform the everyone involved via an email of approval, along with a Google Calendar schedule. Since the client can't receive Basecamp notification, employee or manager must send an email to inform client about the leave request. 
 
 If the request is denied, the manager or lead is required to note the reason in the ticket.
 
