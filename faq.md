@@ -221,9 +221,11 @@ Essentially, anyone participating in project consulting will receive a bonus. If
    
   The bonus from the client is evenly distributed among all members participating in the project, including the account manager, project manager (PM), and delivery manager (DM).
 
-**What is the responsibility of the Project Lead**
+**What is the responsibility of the Project Lead?**
 
-If the lead receives a bonus but other team members do not, it's because the lead has extra responsibilities and a bigger role in the project's success. The lead manages the project, makes key decisions, and ensures goals are met, which justifies the additional pay. The team might review and share the bonus policy for transparency and motivation.
+If the lead receives a bonus but other team members do not, it's because the lead has extra responsibilities and a bigger role in the project's success. 
+
+The lead manages the project, makes key decisions, and ensures goals are met, which justifies the additional pay. The team might review and share the bonus policy for transparency and motivation.
     
 **What are the criteria for receiving an account/project bonus?**
 
