@@ -8,6 +8,7 @@ tags:
   - software engineer
   - showcase
   - performance
+hide_frontmatter: true
 hide_title: true
 ---
 

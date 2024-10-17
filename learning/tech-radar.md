@@ -1,7 +1,7 @@
 ---
 title: Dwarves Radar Program
 date: 2022-10-19
-description:
+description: Learn about Dwarves tech radar structure, inspired by ThoughtWorks
 authors:
   - thanh
   - tom
@@ -9,7 +9,11 @@ tags:
   - techradar
   - software engineer
   - technology
+hide_frontmatter: true
+hide_title: true
 ---
+
+# Dwarves Radar Program
 
 The Dwarves have a spinning radar. This radar is how we assess and adopt new technology. Throughout the years, we observe the tech industry and pick out the most promising tech to put into the radar to begin the assessment process.
 
