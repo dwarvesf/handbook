@@ -1,17 +1,19 @@
 ---
 title: Sharing
 date: 2022-09-05
-description: 
+description: Discover Dwarves culture of sharing knowledge and skills. Learn why sharing is crucial for personal and professional growth, how it improves communication and learning abilities, and get guidelines for effective presentations
 authors:
-  - han 
-tags: 
+  - thanh
+tags:
   - guideline
   - culture
   - team
 hide_frontmatter: true
 hide_title: true
 ---
+
 # Sharing
+
 At Dwarves Foundation, we believe that sharing is an important part of our culture. We share almost everything: every week, a lot of events are open to the public, and some of them are recorded so that anyone can watch the videos to learn. It may seem strange to share so much, but there are good reasons for it.
 
 The goal of what is shared at Dwarves is not just to make more people learn new technology or knowledge, but to improve the ability of the presenter to communicate their understanding, which will in turn improve their ability to create new things.
@@ -21,7 +23,9 @@ It's not hard to notice that there are quite a few professional programmers who 
 For this reason, we encourage everyone at Dwarves to share their ideas and learn from each other. This is how we grow as a company.
 
 ## Sharing guideline
+
 When you share, follow the guidelines.
+
 - Do not tackle a subject that is too broad or complex. Instead, choose a narrow one that will keep your audience interested.
 - Sharing time is less than 60 mins is the best.
 - English languages for slides is preferable.
