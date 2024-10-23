@@ -1,7 +1,7 @@
 # Dwarves Foundation Employee Handbook
 Before 2019, we didn’t have a handbook. In those first five years, when a new person joined the company, they were expected to figure things out for themselves. However, when we grew from a company of 10, 20 employees to a company of over 40, our “introduction by immersion” style stopped working. New hires felt lost and isolated, and their first weeks or even months on the job were stressful because of it. There’s as much to unlearn as there is to learn. Prior to this handbook, navigating that path was both somewhat random and almost entirely oral. 
 
-**So, this is where we’ll try to share what’s worth knowing** about the Dwarves, the company, our culture, our process, and our history. It’s a guide to understanding what people are talking about whether it’s okay to take your vacation when you’ve only been with us for few months (yes), what a benefits package look like, and hopefully everything in-between.
+**So, this is where we’ll try to share what’s worth knowing** about the Dwarves, the company, our culture, our process, and our history. It’s a guide to understanding what people are talking about whether it’s okay to take your vacation when you’ve only been with us for a few months (yes), what a benefits package looks like, and hopefully everything in between.
 
 This handbook also offers us an opportunity to clarify who we are as a company. What do we stand for? How should we work? Codifying those beliefs into a handbook makes them tangible and, most importantly, editable. 
 
@@ -31,7 +31,7 @@ If you’re reading this just after joining the company, it’s particularly on 
 
 #### Guides & Resources
 * [Moonlighting](moonlighting.md)
-* [Effective Meeting](handbook/effective-meeting.md)
+* [Effective Meeting](effective-meeting.md)
 * [Security Rules](security-rules.md)
 * [Places to Work](places-to-work.md)
 * [Marketing Assets](marketing-assets.md)
@@ -48,7 +48,7 @@ If you’re reading this just after joining the company, it’s particularly on 
 We love pull requests. If you have something you want to add or remove, please open a new pull request. Please leave all PRs open for at least a week to get feedback from everyone.
 
 ## Credits
-Our handbook was inspired from [Basecamp](https://github.com/basecamp/handbook) and customized by the Dwarves team. We love the concise content and the way they organize the handbook.
+Our handbook was inspired by [Basecamp](https://github.com/basecamp/handbook) and customized by the Dwarves team. We love the concise content and the way they organize the handbook.
 
 ## License
 Creative Commons Attribution 4.0 International (CC BY 4.0)
