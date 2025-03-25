@@ -1,47 +1,95 @@
 ---
-title: How we keep things on track
-date: 2019-03-13
-description: Building an effective company is like building good software.
-authors: 
-  - han
-tags: 
+title: Compliance
+date: 2024-01-02
+description: Our commitment to ethical standards and compliance
+authors:
+  - tieubao
+tags:
   - handbook
-  - employee
-  - performance
+  - policies
 hide_frontmatter: true
 ---
 
-## Building an effective company is like building good software
-- First, we define the specs.
-- Then we implement the specs.
-- After that, we test and make sure everything works correctly. So, first we need to define the specs, in this case:
+## Our approach to compliance
 
-## Define standard for the company
-We already produced our [playbook](https://github.com/dwarvesf/playbook) as the specs so that our company has a base to run on. It's a place where the newcomer learns new stuff, the current members have a reference for the information that they needed.
-Compliance is actually the quality control (quality assurance) to make sure that the company is running exactly how it should be:
+At Dwarves Foundation, we're committed to upholding the highest ethical standards and complying with all laws and regulations. This section outlines our key policies and guidelines to help you understand what we expect from everyone on our team.
 
-- It is not a one time work but will continue throughout the company life, as well as envolving overtime when the company grows to maintain the standard.
-- It is not a one person work but the whole team effort:
-	- We need every team member to review, contribute, suggest changes to our current playbook so it is up-to-date and follow the standard. This is our official agreement of the whole team on how things should be done
-	- We need every leader of the project to be aware of the standard and actually implement it.
-	- We need the whole team to do it right and is strong enough to give advise for our customer.
+## Code of conduct
 
-How do we check if the standard is being followed?
-From the playbook, we will produce a compliance checklist:
+Our code of conduct defines how we work together as a team. It's simple: treat others with respect, act with integrity, and follow our core values.
 
-## Compliance checklist
-Compliance checklists are being built, the very first version is stored [here](https://memo.d.foundation/newsletter/project-compliance/) which include the checklist for the **Projects** that we are running. It will be expanded to all other aspects of the company. The compliance process will be executed with the compliance plan:
+### Anti-harassment
 
-## Compliance Execution plan
-Every month, the compliance checklist will be sent out to the person in charge of the project (it would be either in parallel OR incremental based on the company state). After they have answered all of the questions in the checklist, these will be the result:
+We maintain a zero-tolerance policy for harassment of any kind. This includes, but isn't limited to:
 
-- Problems: These are the items that did NOT follow the standard
-- Reasons: Why those problems occurred
-- PIC: Person in charge of the problem when it occurred
-- Action: Action required to fix the problem
-- Assigned to: The person that will perform the action to fix the problem
+- Offensive comments related to gender, gender identity, age, sexual orientation, disability, physical appearance, race, or religion
+- Deliberate intimidation, stalking, or following
+- Harassing photography or recording
+- Sustained disruption of talks or other events
+- Inappropriate physical contact
+- Unwelcome sexual attention
 
-**We entirely trust the integrity and ethics of the person in charge of the project to provide their input for the check list**. However, to make sure all the other team member are also aware of the standard, we will *randomly* pick a junior/fresher of the team and verify those questions to see if they understand. This is not to point finger to someone, but to encourage the new member of the team to be familiar with the standard of the team.
+If you experience or witness harassment, please report it immediately to your team lead or Han. All reports will be handled with strict confidentiality and appropriate action will be taken.
 
-## Results
-Like in the software development, QC/QA duties are to find the defect in the places that the Engineers are not aware of not to blame the Engineer but rather **to improve the quality of the work**. Compliance checklist is made so that we can fix the potential problems that will reduce our outcome quality. It's the responsibility of each individual to maintain the standard and there will be Hall of Fame, Wall of Shame to those whose are NOT following the standard.
+### Anti-corruption
+
+Corruption and bribery have no place in our organization. We strictly prohibit:
+
+- Offering or accepting bribes
+- Making facilitation payments
+- Engaging in activities that create conflicts of interest
+- Improperly influencing government officials
+
+All financial transactions must be transparent, accurately recorded, and properly documented.
+
+### Data privacy
+
+We respect the privacy of our team members, clients, and partners. When handling personal data:
+
+- Only collect data that's necessary for business purposes
+- Store it securely and limit access to authorized personnel
+- Only use data for its intended purpose
+- Comply with all applicable privacy laws
+
+If you're uncertain about handling personal data, please consult with your team lead.
+
+## Reporting concerns
+
+If you become aware of any potential violations of our compliance policies, you have a responsibility to speak up. We offer several channels for reporting concerns:
+
+1. Speak directly with your team lead
+2. Contact Han
+3. Email <ops@d.foundation>
+
+We prohibit retaliation against anyone who reports concerns in good faith. Your identity will be protected to the extent possible, and all reports will be thoroughly investigated.
+
+## Consequences of non-compliance
+
+We take compliance very seriously. Violations of our policies may result in:
+
+- Verbal or written warnings
+- Performance improvement plans
+- Termination of employment or contract
+- Legal action when applicable
+
+The specific consequences will depend on the severity of the violation and will be determined on a case-by-case basis.
+
+## Training and awareness
+
+We believe education is key to maintaining compliance. All team members will receive:
+
+- Initial compliance training during onboarding
+- Regular updates on policy changes
+- Refresher training annually
+
+Stay engaged with these materials—they're crucial for our collective success and reputation.
+
+## Our commitment to improvement
+
+Our compliance program is continuously evolving. We welcome your feedback on how we can strengthen our approach. If you have suggestions, please share them with your team lead or email <ops@d.foundation>.
+
+Remember, compliance isn't just about following rules—it's about building a culture of integrity that benefits everyone. Each of us plays a vital role in upholding our standards and protecting our reputation.
+
+---
+
+> Next: [Moonlighting](moonlighting.md)

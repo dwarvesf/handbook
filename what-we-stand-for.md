@@ -1,51 +1,62 @@
 ---
 title: What we stand for
 date: 2019-02-21
-description: Building an innovation startup requires lots of different things, and it is tough. Most of them have to deal with business development, legal, fundraising, team recruitment, and product development at the same time. Tech startups need to move fast and break things.
+description: How we empower innovation through software craftsmanship and build products that matter
 authors: 
-  - han
+  - tieubao
   - duy
 tags: 
-  - software engineer
-  - employee
-  - team
+  - handbook
+  - purpose
 hide_frontmatter: true
 ---
 
 ## Empower Innovation with Software Craftsmanship
-Innovation happens. There are many startups found and raise fund every day. They focus on making significant positive changes, impact millions of people, lead to breakthroughs and support the foundation of economic growth.
 
-Building an innovation startup requires lots of different things, and it is tough. Most of them have to deal with business development, legal, fundraising, team recruitment, and product development at the same time. Tech startups need to move fast and break things. 
+Innovation happens constantly. Every day, startups form and secure funding to pursue their visions, striving to create positive change, impact millions of lives, achieve breakthroughs, and build foundations for economic growth.
 
-At some points, growing a startup needs a strong and experienced team behind. The software team that can help to design the system, design the database, produce the well-crafted software, keep the system stable, avoid the technical debt and deliver values is one of the critical pieces to solve the puzzle.
+But building an innovative startup is incredibly challenging. Founders juggle business development, legal considerations, fundraising, team building, and product development simultaneously. They need to move quickly and often "break things" along the way.
 
-Another motivation for Dwarves Foundation was the lack of respect that service firms receive. Most software companies out there focus on digital transformation and consultancy. The nature of the business with a tight deadline and budget force them to do tricks. They hit and run. The codebase and software they produced are full of crap, and it damages our pride. 
+As these startups grow, they eventually need a strong, experienced team behind them. This is where we come in, providing the software expertise that helps design robust systems, create effective databases, produce well-crafted code, maintain stability, avoid technical debt, and deliver real value. We're a critical piece of the innovation puzzle.
 
-**This is where Dwarves Foundation comes in**<br>
-Despite the fact that service firms scale linearly, their ultimate size is capped and small, they don’t have life-changing exits for their founders, we start Dwarves Foundation as we want to build things right. I’ve always felt that companies like Dwarves Foundation are more important to the economy than the mildly pejorative phrase used to describe them.
+## Why we created Dwarves Foundation
 
-**Dwarves Foundation is an innovation service firm**<br>
- We have been building an organization with high standard software practices and business growth capabilities, helping tech startups, entrepreneurs and makers deliver their innovative software product since 2013.
+We started Dwarves Foundation partly in response to the lack of respect that service firms often receive. Many software companies focus solely on digital transformation and consultancy, operating under tight deadlines and budgets that force them to cut corners. They "hit and run," leaving behind codebases full of problems, an approach that damages our professional pride.
 
-**We stand for the craftsmanship in software development**<br> More than telling people how to do things, as a firm, we take responsibility for collaboratively creating the product of innovation with the client. We value the long-term partnership, and we brought the economic impact through massive product distribution and brought to the market by the clients. 
+Despite the limitations of service firms, linear scaling, smaller ultimate size, and fewer opportunities for life-changing exits, we built Dwarves Foundation because we believe in building things right. Companies like ours are more vital to the economy than they're often given credit for.
 
-This is what we do here. It takes many forms, and we’re always working towards better software craftsmanship.
+## An innovation service firm
 
-## The name: Dwarves
-![](assets/what-we-stand-for_yggdrasill.webp)
+Since 2013, we've been building an organization with high software development standards and strong business growth capabilities. We help tech startups, entrepreneurs, and makers deliver innovative software products that make a difference.
 
-It begins in Norse Mythology. After the executed of Ymir, the very first giant of the universe, by Odin has conceived a whole new universe. In the new world, Yggdrasill is a giant ash tree located at the center cradles the nine realms of the cosmos.
+## Champions of software craftsmanship
 
-Dwarf is the small and misshapen creatures that originated as maggots from Ymir’s corpse. They dwell in the mountains deep down in the dark underground of **Svartalfheim**. Dwarves are wisdom, natural good at smithing, mining, and crafting. They are well known for being the best blacksmiths throughout the nine worlds, not only do they have natural abilities to craft weapons and jewelry. They are also excellent engineers and architects.
+Rather than simply telling people how to build software, we take responsibility for collaboratively creating innovative products with our clients. We value long-term partnerships that generate economic impact through quality software that reaches the market through our clients.
 
-Dwarvish magic was fundamentally technological know how. They had an unusually high level of skill. There was no shimmering light around the Dwarves, just first rate workmanship. Dwarves greatly pride themselves in their craftsmanship, be it smithing or anything else.
+This commitment to craftsmanship takes many forms, and we're constantly working to improve our approach.
 
-The dwarf is an example of a creature who has the ability that surpasses the known world, presaging the rise of a universe beyond this physical realm. Whatever their origin, the dwarf’s existence plays a role in expanding the imagination.
+## Our name: The Dwarves
 
-Aspiring to create a positive breakthrough that can be able to rewrite the new world, we chose the name Dwarves Foundation as the commitment to the vision that we follow.
+![Norse mythology's Yggdrasill tree](assets/yggdrasill.webp)
 
-At our woodland, the Dwarves are encouraged to thoroughly assess and evaluate the product quality before handing it to the customers. By participate in every detail of the work, we take craftsmanship as one of the most fundamental factors of the career transformation for engineers. World-class products require world-class engineers and craftsmanship is what makes it done. Craftsmanship is what flows among the team spirit, or does not exist at all.
+Our name has roots in Norse mythology. After Odin executed Ymir, the first giant of the universe, he created a new cosmos centered around Yggdrasill, a massive ash tree that cradles the nine realms.
 
-We choose innovation to be one of our core values that form ideas to affect the general society undoubtedly. Innovation is not for geniuses working alone, it is an activity that requires the team effort. Being innovative is a part to approach the new era. What that rewards, what can I say, can genuinely lead to significantly remodel the cosmo.
+Dwarves began as small creatures originating from Ymir's corpse. They made their home in the mountains deep underground in Svartalfheim. These beings possessed natural wisdom and exceptional skills in smithing, mining, and crafting. They became renowned as the finest blacksmiths across the nine worlds, excelling not just in creating weapons and jewelry, but also as engineers and architects.
 
-![](assets/what-we-stand-for_dwarves.webp)
+The magic of the Dwarves wasn't flashy or showy, it was their extraordinary technical knowledge and craftsmanship. There was no shimmering light surrounding them, just exceptional workmanship. They took immense pride in their craft, whether smithing or any other pursuit.
+
+Dwarves represent beings whose abilities transcend the known world, pointing toward possibilities beyond the physical realm. Their existence expands our imagination of what's possible.
+
+## Living our values
+
+We chose the name "Dwarves Foundation" as a commitment to our vision of creating positive breakthroughs that can reshape the world. In our woodland, we encourage thorough assessment and evaluation of product quality before delivery to customers.
+
+By participating in every detail of our work, we make craftsmanship a fundamental element in the professional development of our engineers. Creating world-class products requires world-class engineers, and craftsmanship is what makes this possible. Craftsmanship flows through our team spirit, or doesn't exist at all.
+
+We've chosen innovation as a core value because we believe in forming ideas that positively impact society. Innovation isn't the work of isolated geniuses, it's an activity requiring team effort. Being innovative helps us approach the new era we're building together. The rewards of this approach can genuinely help remodel our world.
+
+![Dwarves Foundation team](assets/dwarves-team.webp)
+
+---
+
+> Next: [The Purpose](purpose.md)

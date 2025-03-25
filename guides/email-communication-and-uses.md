@@ -1,5 +1,5 @@
 ---
-title: Email Communication and Use
+title: Email communication and use
 date: 2019-04-17
 description: 
 authors: 

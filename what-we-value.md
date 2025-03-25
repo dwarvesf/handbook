@@ -1,237 +1,259 @@
 ---
-title: What We Value
+title: What we value
 date: 2019-02-21
 description: Our core values guide our strategies and individual actions so that we create a company whose character is as radical as our work. 
 authors: 
-  - han
+  - tieubao
   - duy
 tags: 
-  - culture
   - handbook
-  - team
+  - culture
 hide_frontmatter: true
 ---
 
-Before anything else, values come first. The value is important to us. They are what we proud of. They help guide us when we are facing a difficult decision. They will be the things you like about what we do at Dwarves Foundation and how we do it.
+Values come first. They guide our decisions, shape our culture, and define who we are as a company. They're what we're proud of and what helps us navigate difficult choices. They'll likely be what you appreciate most about working with us at Dwarves Foundation.
 
-Our core values guide our strategies and individual actions so that we create a company whose character is as radical as our work. 
+Our core values guide both our strategic direction and our day-to-day actions, creating a company whose character is as distinctive as our work:
 
-- **Craftsmanship**: We work toward perfection in every single piece that we produce. We are proud of the well-crafted software that we develop together.
-- **Teamwork**: Teamwork is all about trust and collaboration. Having someone in the team mean we can rely on this person.
-- **Sustainable**: We think long-term. We do not believe in rushing for project and working overtime. We believe in working sustainably and balanced so that we are a happy bunch of sane workers. Software requires good brains to create good codes and good processes.
+- **Craftsmanship**: We pursue excellence in everything we create. We take pride in developing well-crafted software together.
+- **Teamwork**: We build on trust and collaboration. Being part of our team means we can rely on you, and you can rely on us.
+- **Sustainability**: We think long-term. We don't believe in rushing projects or working excessive hours. We value balanced, sustainable work that keeps us healthy, happy, and producing our best.
 
-## Culture Code
-There is no such specific guide for culture code. So many of these employee handbook projects turn out to be ideal-case prescriptions rather than real-world descriptions. They cover all the ways people should act, not the ways they actually do. That’s a sham. Let’s not write a handbook like that. **Let’s keep it honest.**
+## Our culture code
 
-We believe the culture is defined by whom we hire, what we promote and encourage. It is dynamic, and it should expand like our business. We welcome its change as long as we still stay on the ground. Just like we want people to contribute new skills and ideas, we want people to contribute to the new culture.
+There's no rigid formula for culture. Too many company handbooks present idealized versions of how people should act rather than honest descriptions of how they actually do. We're committed to keeping it real.
 
-![](assets/what-we-value_culture.webp)
+We believe culture emerges from who we hire, what we celebrate, and what we encourage. It's dynamic and evolves with our organization. We welcome change as long as we remain grounded in our core values. Just as we want people to contribute new skills and ideas, we welcome their contributions to our evolving culture.
 
-A few other things that we observed over the last few years:
-- [**No asshole rules**](https://www.amazon.com/Asshole-Rule-Civilized-Workplace-Surviving/dp/0446698202): no matter how great a candidate may be, being an asshole is an automatic deal-breaker.
-- **False Positives are ok. False Negatives are not**: we prefer to not have you in the team rather than letting a wrong person affect the others.
+![Company culture](assets/value-culture.webp)
+
+Over the years, we've developed a few additional principles:
+
+- [**No asshole rule**](https://www.amazon.com/Asshole-Rule-Civilized-Workplace-Surviving/dp/0446698202): No matter how talented a candidate may be, being difficult or toxic is an automatic disqualifier.
+- **False positives are acceptable, false negatives are not**: We'd rather pass on a potentially good hire than bring in someone who might harm our team dynamics.
 
 ## People
-### It all started with people
-Yes, it does. Everything only makes sense with us, the human at the centre of it. Everything we want to accomplish starts with our will. Any ideas of how to make a better future begin with us. This company focuses on innovation, and those result only matter if they benefit us. We are in the centre and are the beginning of everything.
 
-At Dwarves, you are the manager of yourself. Things you produce add up to our value. Your action in front of others represents our image. Your belief impacts team culture. When things went wrong, we look into the team and the inner self, rather than pointing the finger. After all, we human are the cause of any consequences. That's our point of view. 
+### It starts with people
 
-So, live your value with the Dwarves. You are encouraged to contribute your knowledge and value to the team. 
+Everything begins with us, humans. All we want to accomplish starts with our will and vision. Our ideas for creating a better future begin with people. While we focus on innovation, those results only matter if they benefit people. We are the center and beginning of everything we do.
 
-![](assets/what-we-value_indecision.webp)
+At Dwarves, you manage yourself. What you create adds to our collective value. How you act represents our image. Your beliefs influence our culture. When things go wrong, we look inward rather than casting blame. Ultimately, we humans create our own consequences.
 
-### Team > I
-Working in a team is like riding a boat, it requires collaboration. The team need heroes, and there should be an 'I' in the team, but the only way to make the boat go fast is perfect coordination, it also means perfect teamwork and synchronization. The skillset is essential, but it isn't as important as vision and coordination. The 'I' must be unselfish and think about the team first. 
+So, bring your values and contribute your knowledge to our team. We're better because of what each person brings.
 
-As a team member, it's important to remember that no one is perfect; everyone has something that they could improve upon, including yourself. So, be supportive. Offer constructive criticism. Listen, listen, listen. People who always talk, but never listen will be stunted in growth.
+![Decision making](assets/value-decisions.webp)
+
+### The team comes first
+
+Working with us is like rowing a boat together, requiring perfect coordination. While we need individuals with excellent skills, the team's success depends on synchronization more than individual heroics. The skillset matters, but vision and coordination matter more. Every individual must think of the team first.
+
+As a team member, remember that everyone has room to grow, including yourself. Be supportive. Offer constructive feedback. And most importantly, listen. Those who only talk without listening limit their own growth.
 
 > "Everyone you will ever meet knows something you don't." — Bill Nye
 
-We effectively have an environment in which competition and collaboration co-exist and feed off each other. Competition, synchronization or collaborating perfectly; make the boat go fast is always the main point. Remember, even if you work harder than anyone else, if you lose synchronization, you slow the boat down.
+We've created an environment where healthy competition and collaboration coexist and strengthen each other. Whether competing or collaborating, making the boat move faster is always the goal. Remember, even if you work harder than anyone else, if you're not in sync with the team, you'll slow everyone down.
 
-![](assets/what-we-value_i_in_team.webp)
-    
-### It's not about you
-Everything that happens here is not about anyone in this company. It's not about the CEO, the core team or anyone. They are here because they want to join forces to accomplish the mission of craftsmanship in software engineering. They want to pursue the ultimate goal of empowering innovation.
+![The I in team](assets/value-teamwork.webp)
 
-The Dwarves is more like an idealogy. When we start this company, we think about how cool it is to make the idealogy happens, how cool it is to bring impact to the world and make a meaningful living.
+### Beyond the individual
 
-The portion split accordingly. We have rules for the Dwarves who are in that same path, who also want to contribute and make the next products feasible. We work together as a team for a greater good because as soon as it becomes about the individual, things begin to fall apart.
+What happens at Dwarves isn't about any single person, not the CEO, not the core team, not anyone. We're all here because we want to unite our efforts to achieve excellence in software engineering and empower innovation.
 
-![](assets/what-we-value_team_effort.webp)
+The Dwarves is more like an ideology than a conventional company. When we started, we were excited about making this ideology real, creating positive impact, and building meaningful livelihoods.
 
-### Like-minded people
-We started this team with a purpose. It's an innovation powering. The long-term goal is to create an engine for innovation where new ideas happen, we can develop things & bring positive impacts. We want to make this place an environment where engineers can spend their time working with disruptive startups and be cool at the same time.
+Our resources are allocated accordingly. We establish guidelines for everyone pursuing this shared path, everyone who wants to contribute and make innovative products possible. We work together toward a greater good because when it becomes about individuals alone, things fall apart.
 
-To achieve that, it requires a lot of hard work and commitment. That's why we always look for like-minded people, who with the same vision, DNA and same synergy. The ones which are distinctive, different, can see things in their bare form and be optimistic about the future are the right people we'd love to work with.
+![Team effort](assets/value-collaboration.webp)
 
-![](assets/what-we-value_those_not_present.webp)
+### Finding like-minded people
 
-### Unique Value
-When it comes to hiring, we look at the good part of every person. We hire for the unique value. This is what you could bring to the table. This is what makes you different from other team members and me.
+We founded this team with purpose: to power innovation. Our long-term goal is to create an environment where new ideas flourish, where we develop meaningful technologies and create positive impact. We aim to build a place where engineers can work with groundbreaking startups while enjoying what they do.
 
-Being different from others is always a source of value. The difference can be anything. The way of thinking could be different. The vision of technology. The methodology of operations. Presentation skills. Communication skills. Leadership. The speed of prototyping. Emotional understanding of others. Anything can be the difference.
+Achieving this vision requires significant dedication and commitment. That's why we seek like-minded people who share our vision, DNA, and energy. We value those who think differently, see things clearly, and remain optimistic about the future.
 
-We must be an organization where those specialities are well respected and leveraged, rather than having stereotyped technical skill evaluations like school exams.
+![Like-minded people](assets/value-like-minded.webp)
 
-![](assets/what-we-value_the_difference.webp)
+### Valuing uniqueness
 
-### EQ is underrated
-We have seen so many cases where smart engineers with high IQ failed while some others yield positive results. Most of the time, it is communication.
+When hiring, we look for what makes each person special. We hire for unique value, for what you bring to the table that differentiates you from others.
 
-At times, Clients often tell us what *feature* needed to be done rather than what *problem* they wanted to solve. Failing to see it through will lead us to a stage where it is technically impossible to do the *feature* while there many other possible approaches to the original *problem*. This one, along with many similar cases is why Clients (and people) prefer working with someone (or company) to another.
+Being different is always valuable. These differences can take many forms: thinking style, technology vision, operational approach, presentation skills, communication ability, leadership capability, prototyping speed, emotional intelligence, or countless other qualities.
 
-As a software firm, it is our job to convince and recommend *solution*. Features, tasks and bugs live in one side of a coin where technical matters and solution are already identified. Train your mind to be able to see the real big picture.
+We strive to be an organization that respects and leverages these unique qualities rather than reducing people to standardized technical evaluations like school exams.
 
-![](assets/what-we-value_misinterpretation.webp)
+![Unique values](assets/value-uniqueness.webp)
 
-### You are what you do
-People see you through your action, not talks. Be a doer. We craft software and stuff. We want to bring positive impact to the world through software. 
+### The importance of emotional intelligence
 
-At Dwarves, we favour building over talk. Working with other Dwarves, we prefer to work with one who brings value to the table and make things happen.
+We've seen many brilliant engineers with high IQs struggle while others with strong emotional intelligence succeed. Often, the difference comes down to communication.
 
-The culture we are pursuing is the combination between the unconventional spirit and the will to do the right things in every piece of our decision, not just follow the existing of which has been said for years.
+Clients frequently tell us what feature they want rather than what problem they need to solve. Failing to see beyond their request can lead to situations where implementing the requested feature becomes technically impossible, while alternative approaches to the underlying problem remain unexplored. This dynamic explains why clients prefer working with some teams over others.
 
-![](assets/what-we-value_efficiency_2x.webp)
+As a software firm, our job is to recommend solutions, not just implement features. Technical tasks, bugs, and features are just one side of the coin; understanding the real problem is the other. Train yourself to see the bigger picture.
 
-## Work
-### Remote Working
-We feel no need to manage your chair. In other words, we have better things to do than to track you down to every single minute. Meetings are for decision making. Ideas and planning should be conducted personally.
+![Communication skills](assets/value-communication.webp)
 
-But that doesn't mean things can go off the track. Flexible working time can be a double-edged sword. It allows you to start and end thing at whenever you feel like it, which is why we want the Dwarves to know exactly how their day will transpire. What needs to be done. What's left to clean up. 
+### Actions over words
 
-It doesn't matter if it happens in the kitchen, or on your way to the beach. Work happens when you are ready, and we want you to manage it at your own terms fully. Just make sure you know when thing happen and what to do about it. That's all we need. 
+People judge you by what you do, not what you say. Be a doer. We craft software to create positive impact.
 
-![](assets/what-we-value_time_management.webp)
-    
-### Around the clock
-We work for the future of ourselves and the future of this team. We care about the quality of the work we produce rather than the number of hours worked. We do not have a specific start time or time to leave the office. 
+At Dwarves, we value building over talking. We prefer to work with those who contribute tangible value and make things happen.
 
-The Dwarves are working in a different timezone. We stay in touch around the clock. The Dwarves are around when you need them. Just don't try to take advantage of someone's balance.
+We pursue a culture that balances unconventional thinking with doing the right thing in every decision, not simply following established patterns.
 
-### Toward automation
-Time is the only real currency that we have. All the techniques we applied, all the new technologies we learned at Dwarves Foundation help to save time and make automation easier. If there is anything happened more than 3 times and a dozen more in the future, we find a way to automate it. 
+![Efficiency and action](assets/value-efficiency.webp)
 
-Software is eating the world. The thing we did today the machine can help to do it tomorrow. Having the engineering power aside, if we know how to use them efficiently, we can utilize them for most of our tedious work and focus on things that matter. Try not to repeat yourself. 
+## How we work
 
-![](assets/what-we-value_is_it_worth_the_time.webp)
+### Remote by default
 
-### 70/50
-The Dwarvish magic is purely technological know-how. The Dwarves often spend their free-time on hobby projects or new technology.
+We don't micromanage your physical presence. We have more important priorities than tracking your location minute by minute. We reserve meetings for decision-making, while ideas and planning can happen asynchronously.
 
-The 20% we put more into our work is the extra effort to increase the chance to reach a new height. The total of 120% is our commitment. It's encouraging for most of us and not required. The 20% more are rewarded when things we build or explore hit the market or bring values to the customers.
+However, flexibility requires responsibility. Flexible work arrangements are powerful but require self-management. You need to know what must be done each day, what's a priority, and what can wait.
 
-![](assets/what-we-value_opportunity.webp)
+Work can happen anywhere, whether in your kitchen or at the beach. We want you to manage your work on your terms. Just make sure you know what needs to happen and how you'll accomplish it.
 
-### Purpose-driven
-It's all about the result, thus every action or decision should either bring us closer to the goal. Working with the client as the consultant, we should be aware of what makes a successful collaboration.
+![Time management](assets/value-time-mgmt.webp)
 
-Remote clients are always worried about whether we can deliver. No updates are assumed no "working". We don't manage chairs, but not everyone does. Transparency and detailed planning/report help. Insist on (meaningless) daily meetings for updates is a sign of trust issue and cargo cult agile.
+### Quality over hours
 
-- Remember to make the development progress as transparent as possible
-- Be a team player over "task worker".
-- Favour open discussion and alternative recommendation instead of rejection over customer's requests
+We work for our collective future. We care about the quality of what we produce rather than the number of hours worked. We don't enforce specific start or end times.
 
-![](assets/what-we-value_making_progress.webp)
+Our team operates across different time zones, staying connected around the clock. Dwarves are available when needed, but we respect each other's work-life balance. Don't take advantage of someone's availability.
 
-### How we do business
-In working with others, we don't look for business, we look for partnership. We value lifetime partners. A deal could come and go, the market could come and go, but trusted clients will stay. When you worked with someone else, once people know that we can actually deliver well-crafted output, nobody wants to take another adventure to check out other options or vendors. It's not worth the extra effort to do that.
+### Automation mindset
 
-Same as networking and collaboration, doing business is about giving, not taking. We tend to pay upfront in many cases, we give what we have before asking anything back.
+Time is our most precious resource. The techniques and technologies we embrace at Dwarves Foundation help us save time through automation. If something happens more than three times and will likely recur, we find a way to automate it.
 
-Unfortunately, many people do not have this perception when it comes to dealing business. People often view business as "what can you do to support me?", rather than "what can we do to grow together?" perspective. Maybe it was because the modern world has been filled with doubts and skeptic, or maybe it was because of the bitter past experience when they chose the wrong partners, modern business owners tend to focus more on getting the fast, instant goods, rather than investing in a long-term, sustainable plan.
+As software transforms the world, tasks we perform today can be automated tomorrow. With our engineering capabilities, we can eliminate repetitive work and focus on what truly matters. Don't repeat yourself.
 
-![](assets/what-we-value_brontosaurus.webp)
+![Automation value](assets/value-time-investment.webp)
 
-### Delegators are dead-weight    
-Everybody works. With a small team, you need people who are going to do work, not delegate work. Everyone's got to be producing. No one can be above the work.
+### Going beyond expectations
 
-That means you need to avoid hiring delegators, those people who love telling others what to do. Delegators are dead weight for a small team. They clog the pipes for others by coming up with busywork. And when they run out of work to assign, they make up more—regardless of whether it needs to be done.
+The Dwarves often spend their free time exploring new technologies and working on side projects. This extra effort extends our capabilities and increases our chances of reaching new heights.
 
-Delegators love to pull people into meetings, too. In fact, meetings are a delegator's best friend. That's where he gets to seem important. Meanwhile, everyone else who attends is pulled away from getting real work done."
+Putting in that additional 20% effort represents our commitment to excellence. While not required, it's encouraged and rewarded when the things we build bring value to customers or reach the market successfully.
 
-![](assets/what-we-value_meeting_2x.webp)
+![Opportunity and growth](assets/value-opportunity.webp)
 
-### Effective over productive
-Being productive is about occupying your time—filling your schedule to the brim and getting as much done as you can. Being effective is about finding more of your time unoccupied and open for other things besides work. We don't believe in busyness. We believe in effectiveness. 
+### Purpose-driven work
 
-In a certain amount of time, we always try to work on things what create the most value possible. Between signal & noise, we always try to pick the signal and waive the noise.
+We focus on results, ensuring every action brings us closer to our goals. When consulting with clients, we must understand what makes a collaboration successful.
 
-Know your priority and do things that matter.
+Remote clients often worry about delivery. Without updates, they assume no progress. While we don't monitor where you work, transparency is crucial. Detailed planning and regular reports build trust. Insisting on daily status meetings often indicates trust issues rather than effective agile practices.
 
-![](assets/what-we-value_the_general_problem.webp)
+To succeed with clients:
 
-## Engineering Culture
-We build a company where software engineering could shine, innovative products are shipped and change the world for the better.
+- Make development progress as transparent as possible
+- Be a team player, not just a "task worker"
+- Favor open discussion and alternative recommendations over simply rejecting client requests
 
-### Engineering Discipline
-Software engineering is an engineering discipline that's applied to the development of software in a systematic approach.
+![Progress measurement](assets/value-progress.webp)
 
-Not applying software engineering methods results in more expensive, less reliable software, and it can be vital in the long term, as the changes come in, the costs will dramatically increase.
+### Building partnerships, not transactions
 
-![](assets/what-we-value_flow_charts.webp)
-     
-### Not a replaceable cog
-In every software, the engineering team is one of the most crucial factors to make it successful. Software is more of artisanship, and software engineers aren't a replaceable cog.
+In our work with others, we pursue partnerships, not just business. We value lifetime relationships. While deals and markets come and go, trusted clients remain. Once people experience our well-crafted work, they rarely want to risk working with alternatives. The quality speaks for itself.
 
-People have an assembly line mindset leftover from the industrial age. Don't believe the one-size-fits-all interview process with white-boarding problems. These serve to grind away the individuality and make us feel like an assembly line worker.
+Similar to networking, business is about giving before taking. We often contribute value upfront before asking for anything in return.
 
-### The best idea wins
-If you have a great idea and the will to make it work, you can create great changes. Nothing is off-limits — we're continually looking for improvements in our people, our processes, and our products. All voices are equal here — we hire people to have opinions and perspectives. 
+Unfortunately, many approach business asking "what can you do for me?" rather than "how can we grow together?" Whether due to skepticism or past disappointments, many business owners focus on immediate gains rather than investing in sustainable, long-term relationships.
 
-If your idea makes the most sense, that's what we'll do, regardless of your role or seniority.
+![Business partnership](assets/value-partnership.webp)
 
-![](assets/what-we-value_good_code.webp)
-    
-### Lean approach
-Lean philosophy regards everything, not adding values to the customer as waste. In order to eliminate waste, one should be able to recognize it. Partially done work, extra processes like paperwork and features not often used by customers are waste. Rework, or unnecessarily complex solutions are waste. Waiting for other activities, teams, processes is waste. Managerial overhead not producing real values is waste.
+### Everyone contributes directly
 
-Approach and process are not so much important than a fulfilled goal - the only matter. As such, fancy tools and cumbersome procedures are likely to bring more problems than helping us moving forward.
+Everybody works. In a small team, we need people who do the work, not just assign it. Everyone must contribute directly. No one stands above the actual work.
 
-During work, always remember that you are the manager of one. You should be aware of what is success and what is the priority of a specific period. There's always someone who will give false directions or noise. Catch the signal and waive the noise. 
+This means avoiding "delegators," people who primarily tell others what to do. They create bottlenecks by generating busywork and making up new tasks when they run out of things to assign, regardless of actual needs.
 
-Favour boring solutions and legacy tooling for real benefits over shiny, over-hyped new toys .eg "Hacker News trending", "10k Github stars in X days" or "faster than Y framework".
+Delegators gravitate toward meetings, where they appear important while pulling others away from productive work.
 
-Be practical, don't waste time and effort on uncertainties.
+![Effective meetings](assets/value-meetings.webp)
 
-![](assets/what-we-value_simple_answers.webp)
+### Effectiveness over busyness
 
-![](assets/what-we-value_automation.webp)
+Being productive means filling your schedule and completing many tasks. Being effective means having more unoccupied time for things beyond work. We value effectiveness, not busyness.
 
-### Think long-term
-How to know if we make the right decision?
+We focus on creating the most value possible in the time available. Between signal and noise, we choose signal and filter out distractions.
 
-Every action could create a continuous pair of cause and effect. 
-When we make any decision, we follow a shared framework among the Dwarves. As everything here is not about you, it's about the majority. 
+Know your priorities and focus on what truly matters.
 
-Every decision we make today can lead to an impact in the future. The technology we endorse, the solution we choose to solve the problem; The founder we backed, the startup we invest into; The people we work with, the way we treat the client. It also includes how we talk about ourselves, the attitude toward peers.
+![Focus on effectiveness](assets/value-effectiveness.webp)
 
-We grant everyone at Dwarves the rights to make a decision as long as it benefits the whole in the long run, rather than the individual or a blink of an eye. It is the balance of one who walks a tightrope.
+## Engineering culture
 
-![](assets/what-we-value_move_fast_and_break_things.webp)
+We're building a company where software engineering excellence shines, where innovative products ship and change the world for the better.
 
-## Toward the future
-![](assets/what-we-value_future.webp)
-    
-### Thought on software
-The world is running on software. Software is all around us, yet few people think much about the many ways that software impacts the world every day. Software is used by businesses to communicate worldwide. It is used to operate some of the most complex medical machines. The software also helps make life convenient.
+### Engineering discipline
 
-Software is eating the world. Whatever the future holds, it is a good bet that software will remain an essential part of it. As computer software becomes more sophisticated, it will help people with more complex challenges.
+Software engineering applies systematic approaches to software development. Without proper methods, software becomes more expensive and less reliable over time. As changes accumulate, costs increase dramatically.
 
-In the future, the software may even help us to regulate and improve our own bodies. Today's wearable technology and implanted medical devices are just the beginning of what the next generation of software can do.
+![Engineering discipline](assets/value-engineering.webp)
 
-Tech industry is the destination and interference zone between sectors. It's the most fast-pacing environment and the future where human will put all the effort to push its boundary.
+### Valuing craftspeople
 
-It's the tunnel to the future. The performance and survival of a large number of organizations now depend on their ability to integrate digital at the heart of their business strategy. The world can't operate without software.
+In every software project, the engineering team is critical to success. Software development is more craft than assembly line, and engineers aren't interchangeable parts.
 
-![](assets/what-we-value_voting_software.webp)
+The assembly line mindset is an industrial age relic. We reject standardized interview processes with arbitrary whiteboard problems that diminish individuality and treat engineers as replaceable components.
 
-### Build the resilient future
-The humankind is standing in front of a huge opportunity to increase the boundary of many sectors. The future we are heading to is full of excitement and dynamic. Without the ability to judge what is good for the later generation, we may encourage action with bad impact unintentionally.
+### Meritocracy of ideas
 
-So as an ambitious team who is going to co-create the future together with startups and makers, we should always be aware of our actions and think long-term. It's the only way to prevent us from making the wrong decision and create a sustainable future.
+If you have a great idea and the determination to implement it, you can create significant change. Nothing is off-limits. We constantly seek improvements in our people, processes, and products. Every voice matters, regardless of role or seniority.
 
-![](assets/what-we-value_skynet.webp)
+If your idea makes the most sense, that's what we'll pursue.
 
-![](assets/what-we-value_rtfm.webp)
+![Quality code](assets/value-quality.webp)
+
+### Lean thinking
+
+The lean philosophy considers anything that doesn't add customer value as waste. To eliminate waste, we must recognize it. Partially completed work, unnecessary processes, unused features, rework, overly complex solutions, waiting time, and management overhead not producing real value all qualify as waste.
+
+Results matter more than approach or process. Fancy tools and complicated procedures often create more problems than they solve.
+
+Always remember you're the manager of one. Know what success looks like and what your priorities are. There will always be distractions and misleading directions. Focus on the signal and filter out the noise.
+
+Favor proven, straightforward solutions over shiny new technologies chasing popularity. Be practical and don't waste effort on uncertainties.
+
+![Simple solutions](assets/value-simplicity.webp)
+
+![Automation focus](assets/value-automation.webp)
+
+### Long-term thinking
+
+How do we know if we're making the right decisions?
+
+Every action creates chains of cause and effect. When making decisions, we follow a shared framework based on collective benefit rather than individual gain.
+
+Today's decisions impact our future. The technologies we adopt, the solutions we implement, the founders we support, the startups we invest in, the people we hire, and how we treat clients all create lasting impacts. Even how we talk about ourselves and our attitude toward peers matters.
+
+Everyone at Dwarves has the authority to make decisions as long as they benefit the whole organization in the long run rather than serving short-term individual interests. It's like walking a tightrope, requiring careful balance.
+
+![Long-term thinking](assets/value-long-term.webp)
+
+## Building the future
+
+![Looking to the future](assets/value-future.webp)
+
+### Software's expanding role
+
+Software runs our world. It surrounds us, though few people consider how deeply it impacts daily life. Businesses use software to communicate globally. It operates complex medical equipment. It makes our lives more convenient in countless ways.
+
+Software is transforming every industry. Whatever the future holds, software will remain essential. As it becomes more sophisticated, it will help us tackle increasingly complex challenges.
+
+In the future, software may even help regulate and improve our bodies. Today's wearable devices and medical implants are just the beginning of what next-generation software will enable.
+
+The tech industry sits at the intersection of all sectors. It's our fastest-evolving environment and the frontier where humanity pushes boundaries. It's our pathway to the future. Organizations increasingly depend on integrating digital technology into their core strategies. Our world can no longer function without software.
+
+![Software impact](assets/value-software-impact.webp)
+
+### Creating a resilient future
+
+Humanity faces tremendous opportunities to expand possibilities across sectors. The future ahead is dynamic and exciting. Without carefully considering the impact of our actions on future generations, we risk unintentionally causing harm.
+
+As an ambitious team co-creating the future with startups and makers, we must remain mindful of our actions and maintain a long-term perspective. This awareness helps us avoid short-sighted decisions and build a sustainable future.
+
+![Resilient future](assets/value-resilience.webp)
+
+![Documentation importance](assets/value-documentation.webp)

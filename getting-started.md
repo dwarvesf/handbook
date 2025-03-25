@@ -1,95 +1,86 @@
 ---
-title: Getting Started
+title: Getting started
 date: 2019-02-21
-description: Welcome onboard. Getting started at Dwarves Foundation can be overwhelming. Different roles have different expectation.
-authors: 
-  - han
-tags: 
+description: From day one to finding your purpose, your journey with Dwarves Foundation starts here.
+authors:
+  - tieubao
+tags:
   - handbook
-  - hiring
-  - employee
+  - onboarding
 hide_frontmatter: true
 ---
 
-## Expectation
-Welcome onboard. Getting started at Dwarves Foundation can be overwhelming. Different roles have different expectation. Get to know [who does what](who-does-what.md) to warm up. There are a lot of little details, a number of big tasks, you’re learning a new job and new coworkers, and you’re likely doing all these things while working remotely. 
+## What to expect
 
-At the orientation meeting, we will let you know what we expect you during the probation period. Please ask your Ops buddy or your manager if the mist is covering something. Working Remote is a blessing, but it could turn out a burden. Make sure that you get the idea of [how we work](how-we-work.md) here after walking out of the Orientation meeting.
+Welcome aboard! Starting at Dwarves Foundation mixes excitement with challenges. You're learning a new job, meeting new colleagues, and adapting to our remote culture, all at once. It's a lot to take in, but we're here to help you navigate this journey.
 
-Your Dwarves buddy, your Ops buddy, and your manager are all here to help. There is no set time period for most training periods, but most people are up to speed in about 2 months.
+Different roles come with different expectations. Your first step should be getting familiar with [who does what](who-does-what.md) to understand our team structure. During your orientation, we'll clarify what we expect from you during your probation period. If anything seems unclear, don't hesitate to reach out to your Ops buddy or manager, questions are always welcome.
 
-## The first probation period
-During the first probation period, your primary goals are **Ready for the job** and **get along with your peers.**
+Working remotely is both a privilege and a responsibility. Make sure you understand [how we work](how-we-work.md) after your orientation meeting. Remember, your Dwarves buddy, Ops buddy, and manager are all ready to support you. While there's no rigid timeline for getting up to speed, most Dwarves find their rhythm within about two months.
 
-### Be ready for the job
-- Your interview is a screening round for us. Every assumption we made will be pulled out for judgment.
-- The first 2 weeks could be easy if everything goes well. Your performance will tell.
-- The following 6 weeks might be harsh, as we love to have like-minded people around.
+## Getting set up
 
-We’ll have a review check every 2 weeks to evaluate your progress and how you get along. Please feel free to raise up any question towards the work and the team to take the next suitable action.
+When you join, your manager will create a Basecamp space called "Welcome, [your name]!" to guide your onboarding. There, you'll find to-dos for accounts you need to set up, like 1Password and enabling 2FA for various services. You'll also see tasks assigned to your Ops buddy or manager for setting up essential tools like Basecamp, email, and GitHub access.
 
-### Get along with your peers
-- Learn & adapt to how the team behaves through the Culture section.
-- It’s essential to check out those books: Remote & Rework
-- We work remotely. It could be hard to know the others. Be open on the team Campfire so people can know you better.
-- We love to discuss the technology, software & design practices, also internet funny kinds of stuff.
-- Small talks are okay but don’t do it always.
-- Respect is earned, not given. The Dwarves admire the manager of one and who are strong in their fields.
+Your onboarding checklist includes:
 
-> More on [second period](routine.md)
-
-## Your Peers
-Usually, when you start a new job in an office, it’s clear who does what. In a remote company, it’s a little less clear. Even when you know [who does what](who-does-what.md), it’s still nice to have a work buddy to ping when you don’t know where to turn. So we set up a [Fortress system](https://fort.dwarves.foundation). 
-
+- [ ] Submit your information
 - [ ] Attend the orientation meeting
-- [ ] Submit Information
-- [ ] Receive [Employee Handbook](https://github.com/dwarvesf/handbook)
-- [ ] Know your peers
-- [ ] Know who does what
-- [ ] Know how we work
-- [ ] Know how we spend money
-- [ ] Know your peers
-- [ ] Know who does what 
-- [ ] Know how we work
-- [ ] Know how we spend money
-- [ ] Sign up for [services](https://tools-and-systems.)
+- [ ] Learn who does what
+- [ ] Understand how we work
 - [ ] Set up your devices
-- [ ] Receive [Dwarves Handbook](https://github.com/dwarvesf/handbook)
+- [ ] Sign up for [services](tools-and-systems.md)
+- [ ] Receive the Dwarves Handbook
 
-## Setting up your machine
-Before you start,  your manager will set up a Basecamp dedicated to your on-boarding called "Welcome, [your name]!". When you start, you'll have access to that Basecamp. In it, you'll see to-dos linking to accounts or services that you need to set up -- an 1Password account, 2FA for various accounts, and private wi-fi to name a few. You'll also see things that your Ops buddy or manager need to set up -- Basecamp (obvi), Email, and Gitlab, among a whole list of other things. 
+### Essential accounts to set up
 
-**Everyone**
-
-- [ ] Basecamp
+- [ ] Discord
+- [ ] GitHub
+- [ ] Memo
 - [ ] Email
-- [ ] [Fortress](https://fort.d.foundation/)
-- [ ] [Outline](https://outline.d.foundation/)
+- [ ] Basecamp
+- [ ] Fortress
 
-**Engineers**
+![Dwarves team onboarding](assets/team-welcome.webp)
 
-- [ ] Github
-- [ ] Gitlab
+## Your first probation period
 
-**Designers**
+During your first probation period, focus on two primary goals: becoming job-ready and building relationships with your teammates.
 
-- [ ] Dribbble
-- [ ] Figma
-- [ ] Whimsical
+### Becoming job-ready
 
-## The Checklist
-- [ ] Submit Information
-- [ ] Read Employee Handbook
-- [ ] Attend the orientation meeting
-- [ ] Know your peers
-- [ ] Know who does what
-- [ ] Know how we work
-- [ ] Know how we spend money
-- [ ] Designer's Competency Map
-- [ ] Sign up for services
-- [ ] Set up your devices
+The interview process was just the beginning, now it's time to demonstrate your capabilities in action. Your first two weeks might feel relatively smooth as you're getting oriented. The following six weeks will be more demanding, as we challenge you to show how you think and work.
 
-![](assets/getting-started_dwarves.webp)
+We conduct review checks every two weeks to assess your progress and how you're integrating with the team. These check-ins are your opportunity to raise questions about the work or the team, helping us adjust course if needed.
+
+### Building team relationships
+
+Understanding our culture is essential to working effectively with your colleagues:
+
+- Take time to learn and adapt to how the team operates, our Culture section is a valuable resource.
+- Reading Remote & Rework will give you helpful context about our working philosophy.
+- Since we work remotely, being active in our team Campfire channel helps others get to know you.
+- We enjoy discussions about technology, software practices, design principles, and occasionally sharing internet humor.
+- Small talk is fine in moderation, but substance matters most.
+- At Dwarves, respect comes from competence and self-management. We value people who are strong in their fields and can manage their own work effectively.
+
+## Connecting with your peers
+
+In a traditional office, it's obvious who does what. In a remote company, these boundaries can blur. Even when you understand [who does what](who-does-what.md), having a work buddy to reach out to when you're uncertain is invaluable. That's why we've established the [Fortress](https://fortress.d.foundation) system.
+
+## Finding your purpose
+
+Congratulations on making it through your first probation period! While clearing this milestone secures your position, truly joining our team requires something deeper, finding your purpose within our mission.
+
+We founded Dwarves with a clear vision: to power innovation and co-create the future. We believe software will remain an essential part of that future, which is why we focus on exceptional software delivery, new tech products, and their potential impact.
+
+Building an innovation engine where new ideas flourish requires dedicated people committed to the long game. We work tirelessly toward this goal, which is why we seek teammates who share our vision, DNA, and energy.
+
+The most fulfilled Dwarves discover their personal purpose within our collective mission. They find meaning in crafting exceptional software, solving challenging problems, and creating tools that empower others. Those who don't connect with a sense of purpose typically don't thrive here.
+
+![Finding purpose in work](assets/purpose-quote.webp)
+
+As you move forward, ask yourself: How does your work contribute to our shared vision? What impact do you want to make? Where do your talents and passions intersect with our goals? Finding these answers transforms a job into a calling.
 
 ---
 > Next: [You are Dwarves Foundation](dwarves-foundation-is-you.md)

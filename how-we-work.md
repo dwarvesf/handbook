@@ -1,114 +1,128 @@
 ---
-title: How We Work
+title: How we work
 date: 2017-07-21
-description: Hopefully, before joining us, you have discovered a bit about our activities here as a team. In the below sections, we won't repeat what has been out in our public and try to keep it short.
+description: We organize our work in 8-week cycles with a focus on autonomy and craftsmanship. This framework helps us deliver high-quality software while maintaining flexibility and work-life balance.
 authors: 
-  - han
-tags: 
-  - operations
+  - tieubao
+tags:
   - handbook
-  - management
+  - workflow
 hide_frontmatter: true
 ---
 
-Hopefully, before joining us, you have discovered a bit about our activities here as a team. In the below sections, we won't repeat what has been out in our public and try to keep it short.
+## Our approach to work
 
-## We do Agile
-We build software. The way we see it is a collaboration between multiple people in the team with sufficient knowledge on the domain and clearly understand the project vision that they can quickly adapt to the changes in the market. We adopt the Agile philosophy at this level.
+Before joining us, you likely discovered a bit about how we operate as a team. This section expands on that foundation, highlighting the key aspects of our work philosophy without repeating information available elsewhere.
 
-Also, based on that philosophy, we apply the Scrum framework, which we find out a good fit for us. There are no specific roles in the team at the beginning. There is only the team member who has autonomy and responsibility to meet the goals of the sprint. And there is the Scrum master who is the team member turning into a coach. He works to remove any impediments that are obstructing the team from achieving its sprint goals. The role was supposed to be temporary. A mature team doesn’t need a permanent coach.
+## Embracing agile principles
 
-## Cycles
-We work in an 8-week cycle at Dwarves Foundation. There are typically six cycles to a year. This fixed cadence serves to give us an internal sense of urgency, work as a scope hammer to keep projects from ballooning and provide a regular interval to decide what we’re working on.
+We build software through collaboration among team members who understand the domain and project vision. This shared understanding helps us adapt quickly to market changes. We embrace agile philosophy at its core, focusing on the principles rather than rigid practices.
 
-The idea is not that everything we ever decide to work on has to take eight weeks or can be completed in that time. However, rather that we think about how we can break big projects into smaller ones that can be done in that amount of time, and that we bundle smaller things into a presentable scope of work that can be discussed.
+The Scrum framework fits us well. When starting a project, we don't assign specific roles. Each team member has both autonomy and responsibility to meet sprint goals. The Scrum master emerges naturally from within the team as a coach who removes obstacles. This role is temporary; a mature team eventually outgrows the need for a permanent coach.
 
-A budget thus limits work, and the budget focuses our discussion about what’s reasonable and what’s not. When a project starts slipping on its budget, the first approach should be to scope hammer the domain – and certainly not make it up by working more hours! Most things we work on can fit within eight weeks.
+## Our 8-week cycles
 
-## Cooldown
-In between each cycle, we spend a week cooling down. That’s the time to deal with various backlogs or bug smashes, writing up what we worked on, and figuring out what we should tackle next. It’s some times tempting to add cooldown onto the end of the cycles, as a way to fit in more work. However, the goal is to resist this temptation. Yes, sometimes a little spill-over will happen, but it’s helpful to think about the end of the normal cycle as “pencils down.” That means that by week 4 of a normal cycle, we should be winding down, getting ready to launch, make sure QA is lined up, and all the other work that happens during and after the launch of new projects.
+We organize our work in 8-week cycles, typically running six cycles per year. This fixed timeframe creates a healthy sense of urgency, prevents scope creep, and provides regular intervals to reassess priorities.
 
-## Meeting
-All the meetings could be found on Basecamp Schedule. 
+The goal isn't to fit everything within eight weeks. Rather, we break larger projects into manageable chunks that can be completed in this timeframe. We bundle smaller tasks into cohesive work packages that can be clearly discussed and evaluated.
 
-### All-hands meeting
-The all-hands meeting happens at the end of every cycle. The Dwarves look back and decide what to do next.
+Think of time constraints as a budget that focuses our conversations about what's reasonable. When a project starts slipping, we first look to reduce scope rather than extend hours. Most of our work can be successfully structured within these eight-week boundaries.
 
-### Team meeting
-At the same time, you are a member of either Programmer, Designer, Operation or Business team. We have a team meeting on the last Friday of the month to sit down together. This is the guideline so if in any particular circumstances the team lead can require to adjust the number of meetings.
+## Cooldown periods
 
-### Project meeting
-Every project has its meeting schedule. It should follow the company Cycles and Scrum guideline with at least Sprint Planning Meeting and Sprint Retrospective Meeting.
+Between cycles, we take a week to cool down. This is when we address backlogs, fix bugs, document completed work, and plan our next priorities. It's tempting to use this time to extend the previous cycle, but we resist that impulse.
 
-## Communication
-It’s hard to keep up on what everyone is doing and what it means if you just watch the stream of latest activity scrolling along in Basecamp. (It’s also a waste of time and source of stress to even try.) Instead, we have four chief mechanisms for keeping everyone in the loop about the work that’s going on.
+We treat the end of a normal cycle as "pencils down" time. By week 4, we should be winding down, preparing to launch, arranging quality assurance, and handling other post-launch activities.
 
-First, there’s the daily question of What did you work on today?, which supplies the nitty gritty details, but as a personal narrative. They’re a great conversation starter if you see someone working on something you either care about or want to learn more about. Please do use them as such! You’re obliged to answer this question at least twice a week when you’re not out.
+## Meeting structure
 
-Second, there’s the weekly question of What will you be working on this week?, which details your intentions for the coming week. Everyone is obliged to answer this question when they’re not out.
+All our scheduled meetings appear on Basecamp. Here are the key gatherings that structure our work:
 
-Third, there are heartbeats. These are the team versions of What did you work on this cycle? This is where we summarize and celebrate the work that’s been done. Every team lead is obliged to write or designate someone on the team to write, this account one week after a cycle has ended.
+### All-hands meetings
 
-Fourth, and finally, there are the kickoffs. These are the team version of What are you going to work on the next cycle? This is where the plan for the coming eight weeks is presented. Every team lead is obliged to write or designate someone on the team to write, this account before the start of the new cycle.
+We hold all-hands meetings at the end of each cycle. The entire team reviews what we've accomplished and determines our next priorities.
 
-These mechanisms work together to free individuals and teams to run their days and cycles with confidence and independence. We have six opportunities per year to make big decisions about what to work on, and the rest of the time should chiefly be spent carrying out those short-term plans. By having clear expectations for communication, it’s easier for everyone to build trust in where we’re going and why.
+### Team meetings
 
-## Pitches
-Whether you work on product development or not, your voice and observations can help determine what we should be working on. The way to exert this influence is through pitches.
+You'll belong to one of our functional teams: Programming, Design, Operations, or Business. Each team meets on the last Friday of the month. Team leads may adjust meeting frequency based on specific needs.
 
-**Write-up your idea of a new thing, an issue in daily work**, a change to a feature, or any other product development you think we should be considered as a fully considered post (the more specific, the better). This gives the whole company a chance to consider and respond to the idea, and then we’ll have the idea encapsulated in a post, available for reference at any time.
+### Project meetings
 
-There’ll always be more pitches than we have time to field, though. So it’s important to have realistic expectations about what will happen after you posted your pitch. The default is simply that everyone involved with product development (and probably most everyone else in the company) will read and consider your pitch. That’s a win right there. Even if the full pitch doesn’t make it in, it can impact other product decisions by shining light on a weak point.
+Each project follows its own meeting schedule, aligned with our cycle and Scrum framework. At minimum, each project includes Sprint Planning and Sprint Retrospective meetings.
 
-Han and An is the team evaluating pitches for inclusion in the next cycle. Before the start of every cycle.
+## Communication approach
 
-## Raising an issue
-From time to time people may have problems or concerns about their colleagues, customers, company leadership, work environment and so forth. We want everyone in the team to be empowered to raise an issue and have it dealt with swiftly and fairly.
+Following every activity in Basecamp can be overwhelming and unproductive. Instead, we've developed four primary ways to keep everyone informed:
 
-- Have a conversation with the person involved\
-   The first thing you can do, if you feel comfortable and able, raises the issue directly with the person concerned. This direct and informal approach is encouraged, and we expect your colleagues who are approached responsibly to respond similarly. This approach may be particularly appropriate in dealing with matters of speech and expression, where individuals may not be aware that their behavior is causing distress.
+1. **Daily updates**: The "What did you work on today?" question provides detailed, personal narratives about ongoing work. These updates spark conversations about topics you care about or want to learn from. While not required daily, please respond at least twice weekly when you're working.
 
-- Ask a colleague to intervene on your behalf\
-   You may ask a colleague or leader to intervene informally on your behalf. In some situations, you may not feel able to approach the person or people involved directly and so going via a third party to raise your concern for you informally is another option available to you.
-   
-In particular, if you have a grievance with a leader and feel unable to raise it directly, you should raise this issue either with another leader or with a colleague who can raise it with a leader for you.
+2. **Weekly intentions**: The "What will you be working on this week?" question outlines your plans for the coming week. Everyone should answer this when they're not out of office.
 
-If they can’t help to resolve, you can talk to Han.
+3. **Heartbeats**: These team summaries answer "What did you work on this cycle?" They celebrate accomplishments and synthesize completed work. Team leads write or assign someone to write these summaries one week after a cycle ends.
 
-## 1001 types of Check-ins and Icebreaker questions
-Seen any good movie lately? What's one thing inspire you lately? Something you recently discovered? How was your day? Any good piece of English to share? Any new recipe that we should try out?
+4. **Kickoffs**: These team plans address "What are you going to work on next cycle?" They outline the coming eight weeks of work. Team leads write or assign someone to write these before each new cycle begins.
 
-Of course, you won't have to answer precisely each one of them. None of us does. We prefer it to happen naturally. So don't be surprised if you see a question is paused, but an answer still pops up. That's normal.
+These communication practices allow individuals and teams to work with confidence and independence. We have six major decision points yearly to determine priorities, with the remaining time focused on execution. Clear communication expectations build trust in our direction and process.
 
-### With managers of one
-Managing at Dwarves Foundation is a part-time occupation, next to being involved with doing the work itself. This means we rely on everyone at Dwarves Foundation to do a lot of self-management. People who do this well qualify as [managers of one](https://signalvnoise.com/posts/1430-hire-managers-of-one), and we strive for every one senior or above to embody this principle fully.
+## Pitching ideas
 
-That means setting your direction when one isn’t given. Determining what needs to be done, and doing it, without waiting for someone to tell you to. A manager of one will spend their time well when left to their own devices. There’s always more work to be done, always more initiatives to kick off, always more improvement to be had.
+Everyone can help shape what we work on, regardless of their role. The way to influence our direction is through pitches.
 
-## Remote
-With the deep understanding that Work-Life balance is the real deal. We decided to pick this style of remote working as a primary way to work for the whole company. And everyone can choose to follow it or not. It’s optional but highly recommended.
+Develop your idea for a new feature, workflow improvement, or any product development as a detailed post. The more specific, the better. This gives everyone a chance to consider and respond. Having your idea captured in writing means it's available for reference anytime.
 
-We believe that a happy person can deliver 10x quality output compared to others. You cannot stay in the room all the time and can be creative at the same time. People should have the right to use the time of their own and to work anywhere as long as it does not violate the company values.
+We always have more pitches than we can pursue, so maintain realistic expectations about what happens after you share yours. At minimum, everyone involved in product development will read and consider your pitch. That alone is valuable. Even if your complete idea isn't implemented, it may influence other decisions by highlighting areas needing attention.
 
-> We don’t want to manage your chairs.  
+Han and An evaluate pitches for inclusion in upcoming cycles before each cycle begins.
 
-We encourage the team to work remotely. We want our Dwarves to wake up on the beach in the morning, grab a cup of coffee, and start doing the job that they love—or spending the day in a coffee shop downtown to be more socialized. Or take their time to breathe the fresh air in Da Lat, Chiang Mai, or stay at home with their kids at the cozy working-corner to enjoy the alone-zone, best zone to focus and get things done.
+## Raising concerns
 
-> With great power comes great responsibility. 
+Occasionally, team members may have concerns about colleagues, clients, leadership, or the work environment. We want everyone to feel empowered to raise issues and have them addressed promptly and fairly.
 
-With managers of one comes to remote working culture. We truly rely on everyone at Dwarves Foundation and believe that we can do the works we all love: deliver the tech know-how to the world.
+Here's how to approach concerns:
 
-![](assets/how-we-work_remote.webp)
+1. **Direct conversation**: If you feel comfortable, speak directly with the person involved. We encourage this direct, informal approach and expect colleagues to respond constructively. This works particularly well for communication issues where someone may not realize their behavior is causing distress.
 
-## Project Onboard
-We have plenty of projects at Dwarves. During project onboarding, we will make sure the newcomers get the ideas about the project types, whether it's a [Ventures](https://dwarves.ventures/) project, a CSR (Corporate social responsibility) project, or a typical Tech partner one.
+2. **Ask for intervention**: If direct conversation isn't appropriate, ask a colleague or leader to intervene informally on your behalf. This is especially helpful when you're uncomfortable approaching someone directly.
 
-Each type of project will have specific expectations on Milestone's understanding, deliverables, and output quality. Craftmanship is a thing; put your pride into every single line of code and deliverables.
+If you have concerns about a leader and don't feel comfortable raising them directly, speak with another leader or ask a colleague to raise the issue for you.
 
-## We head toward craftsmanship
-Software Craftsmanship is all about putting responsibility, professionalism, pragmatism and pride back into software development.
+If these approaches don't resolve the issue, please speak with Han.
 
-Craftsmanship is not enough to guarantee the success of a project but the lack of it can be the main cause of its failure. 
+## Our check-in approach
+
+"Seen any good movies lately?" "What's something that inspired you recently?" "Found any new recipes worth trying?" Our check-in questions vary widely and are meant to foster natural connection.
+
+Don't feel obligated to answer every question we pose. None of us do. We prefer organic engagement, so don't be surprised if you see a question without immediate responses, or responses appearing out of sequence. That's perfectly normal and part of our authentic communication style.
+
+## Valuing self-management
+
+At Dwarves, management is a part-time role that complements hands-on work. We rely heavily on each person's ability to self-manage. Those who excel at this become what we call "managers of one," and we aim for everyone at senior level or above to embody this quality.
+
+What does being a manager of one mean in practice? It means setting your own direction when none is given. It means identifying what needs to be done and doing it without waiting for instructions. When left to their own devices, effective self-managers use their time productively. There's always more work to tackle, more initiatives to launch, more improvements to make.
+
+## Remote-first approach
+
+We deeply value work-life balance and have embraced remote work as our primary operating model. This approach is optional but highly recommended.
+
+Why? Happy people deliver significantly better results. Creativity suffers when you're confined to the same space day after day. We believe everyone should control their time and work environment as long as they uphold our company values.
+
+We don't want to manage your physical presence. We want our team to have the freedom to wake up at the beach, grab coffee, and start doing work they love. Or to spend the day in a downtown café for social interaction. Or to breathe fresh air in Da Lat or Chiang Mai, or create a cozy workspace at home with their children nearby.
+
+With this freedom comes substantial responsibility. Our remote culture works because we trust each team member to deliver the technical expertise our clients expect.
+
+![Remote work at Dwarves](assets/remote-work.webp)
+
+## Project onboarding
+
+We work on diverse projects at Dwarves. During onboarding, we ensure new team members understand the project type, whether it's a [Ventures](https://dwarves.ventures/) project, Corporate Social Responsibility (CSR) initiative, or typical Tech Partner engagement.
+
+Each project type carries specific expectations regarding milestone understanding, deliverables, and quality standards. We take craftsmanship seriously, encouraging everyone to take pride in every line of code and every deliverable they produce.
+
+## Our craftsmanship philosophy
+
+Software Craftsmanship represents our commitment to responsibility, professionalism, pragmatism, and pride in software development.
+
+While craftsmanship alone doesn't guarantee a project's success, its absence is often the primary cause of failure. We strive to embody this philosophy in everything we build.
 
 ---
 

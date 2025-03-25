@@ -1,18 +1,35 @@
 ---
-title: What We Are Heading
+title: Our purpose
 date: 2020-07-01
-description: We're on our journey to build an organization that empowers next innovation. The long-term goal is to create an engine for innovation where new ideas happen, we can develop things & bring positive impacts to the world.
+description: We serve a single purpose, to empower innovations and co-create the next big things.
 authors: 
-  - han
+  - tieubao
 tags: 
-  - team
   - handbook
-  - employee
+  - purpose
 hide_frontmatter: true
 ---
 
-We start with purpose. The mankind is here today because of 4 billion years of continuous evolution from a single cell to homo sapiens, through the stone age to bronze, iron, medieval to post-classical and renaissance. The nations and our civilization were built on production, on building. 
+We serve a single purpose: To empower innovations and co-create the next big things.
 
-Every time we look back at what we are as a race; in the beginning, we feel motivated by what the ancestors have done. There is only one way to honor their legacy and to create the future we want for our own children and grandchildren, and that's to build.
+## Driven by purpose
 
-We're on our journey to build an organization that empowers next innovation. The long-term goal is to create an engine for innovation where new ideas happen, we can develop things & bring positive impacts to the world. To achieve that kind of environment, we fully understand it requires a lot of hard work and commitment. Hopefully, doing what we are doing should help bring prosperity, make a meaningful living and enrich humankind.
+Our journey begins with purpose. Humanity exists today because of four billion years of continuous evolution, from single cells to homo sapiens, through the stone age, bronze age, iron age, medieval period, and into the renaissance. Our civilization and nations were built on production, on creating, on building.
+
+When we look back at our history as a species, we feel motivated by what our ancestors accomplished. There's only one way to honor their legacy and create the future we want for our children and grandchildren: to build.
+
+## Our vision
+
+We're on a journey to build an organization that empowers the next wave of innovation. Our long-term goal is to create an engine for innovation, an environment where new ideas flourish, where we can develop meaningful technologies and bring positive impacts to the world.
+
+We understand that achieving this kind of environment requires significant hard work and commitment. It's not an easy path, but it's one worth taking. By doing what we do, we hope to help bring prosperity, create meaningful livelihoods, and enrich humanity's future.
+
+## Looking ahead
+
+The work we do today shapes tomorrow's landscape. Every line of code we write, every product we help launch, every team we strengthen contributes to a future where technology serves human needs and expands human potential.
+
+This vision guides our decisions, from the projects we take on to the people we bring into our team. We're building not just software, but a legacy of innovation that extends beyond our immediate horizon.
+
+When you join Dwarves Foundation, you become part of this larger purpose, creating an environment where innovation thrives and meaningful change becomes possible.
+
+![Dwarves Foundation team](assets/team-photo.webp)

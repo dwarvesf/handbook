@@ -13,7 +13,7 @@ hide_frontmatter: true
 hide_title: true
 ---
 
-# Dwarves Radar Program
+## Dwarves Radar Program
 
 The Dwarves have a spinning radar. This radar is how we assess and adopt new technology. Throughout the years, we observe the tech industry and pick out the most promising tech to put into the radar to begin the assessment process.
 

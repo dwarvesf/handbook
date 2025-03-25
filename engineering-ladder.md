@@ -1,13 +1,12 @@
 ---
-title: Engineering Ladder
+title: Engineering ladder
 date: 2021-11-01
 description: One of the biggest challenges in people management is determining whether your engineers are growing in their careers.
 authors:
   - thanh
 tags: 
-- career
-- software engineer
-- handbook
+  - careers
+  - handbook
 hide_frontmatter: true
 ---
 
@@ -16,6 +15,7 @@ One of the biggest challenges in people management is determining whether your e
 We often talk about how to scale our organization, and how to build innovative products but it’s impossible if we cannot retain our talents and have a high standard to look for new joins. For all of those reasons, we wrote [this ladder](https://docs.google.com/spreadsheets/d/1oT2u-cZ4u7ls-V3abmBiddjaZgGTUXBncycxVkyg4Jg/edit#gid=0) to enable software engineering managers to have meaningful conversations with their direct reports about the expectations of each position and how to plan for the next level in their careers without compromising consistency in external recruiting.
 
 ## How to read the ladder
+
 The purpose of the ladder is to create a structure that would allow people to see the big picture, but also dive into details as needed. Even if you do not know all of the details about one step, you should be able to get an idea of what engineers will focus on at that level. The ladder consists of five parts:
 
 - **Engineering aspects**: four key outcomes that every engineer should achieve. We wanted to be very clear from the start that the elements must be opinionated, in line with our beliefs that they will reinforce our core values and create a successful organization:

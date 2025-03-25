@@ -1,5 +1,5 @@
 ---
-title: Leave Request
+title: Leave request
 date: 2024-08-20
 description: A consistent on leave process prevents a company from being accidentally disrupted when an employee request to be absent. 
 authors: 
@@ -31,7 +31,7 @@ Discuss your leave with the client and team in advance to align tasks and minimi
 
 For example, if Thanh Pham plans to have his day off on both Jul 9th to 12th, the request must be submitted 8 days in advance, on Jul 1st. If Thanh Pham's mentor is Han Ngo, the request should be formatted as follows:
 
-![](assets/leave-request_clean-shot-2024-08-01-at-17-34-52-2x.webp)
+![Leave request form example](assets/leave-request-calendar.webp)
 
 ### Verification & Notification
 After submitting the request, the line manager and leader will discuss the request with you. They will work with you to align the workload and resources to ensure the project remains on track. A working process will be designed to prevent any interruptions during your absence.

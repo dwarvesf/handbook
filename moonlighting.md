@@ -1,41 +1,49 @@
 ---
 title: Moonlighting
 date: 2019-02-21
-description: Moonlighting means working other professional, paid jobs outside of your work at Dwarves Foundation. It’s not a black and white topic. There are one-time gigs, other pursuits, or opportunities that help you grow and make life interesting. We want to support that. 
+description: Our approach to side projects and work outside Dwarves Foundation
 authors: 
-  - han
+  - tieubao
 tags: 
   - handbook
-  - employee
-  - performance
 hide_frontmatter: true
 ---
 
-Moonlighting means working other professional, paid jobs outside of your work at Dwarves Foundation. It’s not a black and white topic. There are one-time gigs, other pursuits, or opportunities that help you grow and make life interesting. We want to support that. 
+## Balancing outside work
 
-However, we want to make sure professional endeavors outside of Dwarves Foundation don’t create conflicts of interest or affect your time, dedication, or performance at Dwarves Foundation. So it’s a delicate balance.
+Moonlighting means working on professional, paid jobs outside your work at Dwarves Foundation. We recognize this isn't a black-and-white topic. One-time gigs, personal pursuits, and opportunities that help you grow can make life more interesting and fulfilling. We want to support these endeavors.
 
-With that in mind, here are some examples of what we’d consider OK and what we would consider a conflict of interest and not OK:
+At the same time, we need to ensure outside work doesn't create conflicts of interest or affect your focus, dedication, or performance at Dwarves Foundation. Finding this balance requires thoughtful consideration.
 
-### OK
-1. An occasional side gig, free or paid, for someone you know. For example, if you want to work on a friend’s website or a design or writing project for something you’re involved with, that’s fine.
-2. An occasional speaking gig, free or paid. Is someone going to pay you to give a talk somewhere? That’s fine as long as it doesn’t involve multiple days off for travel (unless you use your vacation time against this travel time).
-3. A side business that’s different from your day job, as long as the commitment is only a few hours a week. If you come to work exhausted because you’re trying to start a full-time business on the side, it’s going to impact your performance here.
-4. Serve as an advisor for another company, or be on board, as long as there’s no conflict of interest. The time commitment must be under a few hours a month. Also, if there’s a scheduling conflict, Dwarves Foundation gets priority.
-5. Do volunteer or occasional pro-bono work for a cause you’re actively involved with. A little work here and there is fine, but, for example, becoming an organization’s full-time web designer and being on the hook to work during your standard work day, etc., would not be OK.
+## Activities we support
 
-### Not OK
-1. You can’t work full time or part time for another company in our industry. If you’re unclear about what our industry is, and you have a specific situation you’d like to talk about, ping Han or An.
-2. Go out on a regular speaking circuit tour which is going to require multiple days of travel multiple times a year. That’s too disruptive to our work schedule and your fellow teammates.
-3. Consult for other companies in our industry where there may be a conflict of interest (a competitor, a product tangentially related to Dwarves Foundation, etc.).
-4. Be aggressive in marketing your availability for side work. If something comes to you through a friend or some connection, fine, but aggressively promoting something on the side will ultimately result in a conflict of interest here at work.
-5. Take on anything outside of work that’ll pull attention from work. For example, if you wanted to launch an app, but the app requires providing timely customer support to people who use the app, that’s going to eat into your day here at work. That would ultimately be a problem.
+Here are some examples of outside work we consider acceptable:
 
-### In general
-Here are a few guiding principles about whether something could be a problem:
-* Is it competitive?
-* Does it occupy a disproportionate amount of your time?
-* Does it require you to be away during times when you’re needed at work?
-* Is it another paid gig that employs the same skills Dwarves Foundation is paying you for?
-In general, we’d like to be lenient within reason, but we’re going to be strict if we see it impact your time, attention, or performance here at work.
-It’s hard to come up with one-size fits all rules. If you’re in doubt, please reach out to Han or An. We’re always happy to spare a moment to give our thoughts on it before you commit.
+1. **Occasional side gigs** for people you know, whether free or paid. If you want to help a friend with their website or contribute to a design or writing project you're involved with, that's fine.
+2. **Speaking engagements**, free or paid. If someone wants to pay you to give a talk, that's acceptable as long as it doesn't require multiple days off for travel (unless you use vacation time for this purpose).
+3. **Side businesses** that differ from your day job, provided the commitment only amounts to a few hours per week. If you're exhausted at work because you're trying to launch a full-time business on the side, that impacts your performance here.
+4. **Advisory roles** for other companies, as long as there's no conflict of interest and the time commitment remains under a few hours per month. When scheduling conflicts arise, Dwarves Foundation takes priority.
+5. **Volunteer or pro-bono work** for causes you care about. Occasional contributions are fine, but becoming an organization's full-time web designer with responsibilities during your standard workday wouldn't be appropriate.
+
+## Activities that create conflicts
+
+Here are situations we consider problematic:
+
+1. **Working for another company in our industry**, either full-time or part-time. If you're unsure about what constitutes our industry and have a specific situation to discuss, please talk with Han or An.
+2. **Regular speaking tours** requiring multiple days of travel several times per year. This level of absence disrupts our work schedule and affects your teammates.
+3. **Consulting for potential competitors** or companies with products related to Dwarves Foundation where conflicts of interest might arise.
+4. **Aggressively marketing yourself** for side work. If opportunities come through friends or connections, that's acceptable, but actively promoting your availability for side work will eventually create conflicts with your work here.
+5. **Outside commitments that divert attention from your work**. For example, launching an app that requires timely customer support would pull focus from your responsibilities at Dwarves Foundation.
+
+## Guiding principles
+
+When considering outside work, ask yourself these questions:
+
+* Is it competitive with what we do?
+* Will it take up too much of your time?
+* Does it require you to be absent during times when your team needs you?
+* Is it another paid opportunity using the same skills Dwarves Foundation is paying you for?
+
+We aim to be reasonable about outside work, but we need to be firm when it affects your time, attention, or performance here.
+
+Since every situation is unique, reach out to Han or An if you're uncertain about a specific opportunity. We're happy to discuss it before you make any commitments.
