@@ -5,9 +5,8 @@ description: At Dwarves Foundation, it’s just around three years as of late 20
 authors:
   - tieubao
 tags:
-  - career
-  - software engineer
-  - employee
+  - handbook
+  - careers
 hide_frontmatter: true
 ---
 

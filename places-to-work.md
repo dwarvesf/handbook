@@ -5,9 +5,8 @@ description: If you’re doing creative work, research suggests you’ll want to
 authors: 
   - duy
 tags: 
-- remote
-- team
-- handbook
+  - remote
+  - handbook
 hide_frontmatter: true
 ---
 
