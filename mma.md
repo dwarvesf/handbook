@@ -37,6 +37,8 @@ Autonomy measures your ability to work independently and take ownership. We valu
 
 Consider: Are you someone who sees what needs to be done and does it? Do you take ownership of your work?
 
+![MMA](assets/mma.svg)
+
 ## How MMA works in practice
 
 We use MMA to guide growth and recognize achievement. Here's how it works:

@@ -1,7 +1,7 @@
 ---
 title: Moonlighting
 date: 2019-02-21
-description: Our approach to side projects and work outside Dwarves Foundation
+description: We support your growth through side projects while ensuring they don't conflict with your work at Dwarves Foundation. This policy helps you balance outside work with your primary responsibilities.
 authors: 
   - tieubao
 tags: 
@@ -29,7 +29,7 @@ Here are some examples of outside work we consider acceptable:
 
 Here are situations we consider problematic:
 
-1. **Working for another company in our industry**, either full-time or part-time. If you're unsure about what constitutes our industry and have a specific situation to discuss, please talk with Han or An.
+1. **Working for another company in our industry**, either full-time or part-time. If you're unsure about what constitutes our industry and have a specific situation to discuss, please talk with Han.
 2. **Regular speaking tours** requiring multiple days of travel several times per year. This level of absence disrupts our work schedule and affects your teammates.
 3. **Consulting for potential competitors** or companies with products related to Dwarves Foundation where conflicts of interest might arise.
 4. **Aggressively marketing yourself** for side work. If opportunities come through friends or connections, that's acceptable, but actively promoting your availability for side work will eventually create conflicts with your work here.
