@@ -1,12 +1,12 @@
 ---
+title: Configure The Company Email
+date: 2022-11-29
+description: null
 tags: 
   - dwarves
   - team
   - process
   - updates
-title: Configure The Company Email
-date: 2022-11-29
-description: null
 ---
 
 ## Make sure you have 2FA enabled

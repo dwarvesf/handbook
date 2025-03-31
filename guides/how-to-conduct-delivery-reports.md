@@ -1,12 +1,12 @@
 ---
-tags:
-  - delivery
-  - reporting
 title: 'How to conduct delivery reports'
 date: 2024-08-01
 description: How we conduct insightful delivery reports that ensure transparency, improve team performance, and enhance client relationships
 authors:
   - thanh
+tags:
+  - delivery
+  - reporting
 ---
 
 Our goal is to allocate resources efficiently, assign the right staff to the right tasks, and address issues appropriately. At a high level, our delivery report will answer three key questions:

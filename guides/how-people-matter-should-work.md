@@ -1,14 +1,14 @@
 ---
-tags: 
-  - people
-  - practice
-  - operations
 title: How People Matter Should Work
 date: 2020-06-24
 description: A philosophical exploration of authentic employee engagement in software companies, focusing on individual contributions, unconventional hiring practices, knowledge sharing culture, and intrinsic motivation rather than superficial happiness metrics.
 authors:
   - tieubao
   - duy
+tags: 
+  - people
+  - practice
+  - operations
 ---
 
 We get to read many articles these days that states '*People are the Core of the Business*', or '*Why People are the Key to Success*', or something like that. Something that polishes the importance of human to the company. Something that emphasizes how HR should do their best to nurture the talents.

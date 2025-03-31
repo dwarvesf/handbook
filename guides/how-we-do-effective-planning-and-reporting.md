@@ -1,13 +1,13 @@
 ---
-tags:
-  - code of conduct
-  - workflow
-  - operations
 title: How we do effective planning and reporting
 date: 2024-04-15
 description: How we do effective planning and reporting at Dwarves
 authors:
   - nikki
+tags:
+  - code of conduct
+  - workflow
+  - operations
 ---
 
 We are now a borderless company with team members working remotely everywhere they want. Clear communication, at least in weekly planning and reporting is required for everyone.

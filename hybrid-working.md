@@ -7,8 +7,6 @@ authors:
 tags:
   - handbook
   - remote
-  - hybrid
-  - culture
 hide_frontmatter: true
 ---
 

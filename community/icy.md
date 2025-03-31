@@ -31,7 +31,7 @@ ICY's value is backed by Bitcoin (BTC) in our treasury. This means your ICY's wo
 
 We maintain two liquidity pools, one for ICY and one for BTC. We add Bitcoin monthly at market prices and mint ICY weekly to reward activities. This setup ensures your ICY maintains real value backed by Bitcoin.
 
-![ICY tipping](assets/icy-tipping.png)
+![ICY tipping feature in Discord](assets/icy-tipping.png)
 
 ## Ways to earn ICY
 
@@ -65,6 +65,8 @@ We love celebrating life events and achievements within our community. These spe
 
 You can contribute to our knowledge base through various activities that help us all learn and grow. This includes sharing valuable links in tech channels, creating fleeting notes to capture initial ideas, writing permanent notes that solidify concepts, completing full topic research that dives deep into subjects, and participating in OGIF (Open Garage Innovation Friday) sessions where we explore new technologies together.
 
+![ICY intro](assets/icy-intro.webp)
+
 ## Using your ICY
 
 Visit [icy.so](https://icy.so) to redeem your ICY. You can:
@@ -80,3 +82,7 @@ ICY runs on the Base chain. You can find our contract at `0xf289e3b222dd42b185b7
 ## What's next for ICY?
 
 We're working on exciting new features for ICY's future development. Our roadmap includes salary advances for full-time team members, enhanced Discord integration for seamless community interaction, direct bank withdrawals to simplify the conversion process, ICY staking opportunities to reward long-term holders, and NFT integration possibilities to expand the ecosystem's utility and creative potential.
+
+---
+
+> Next: [Discord](discord.md)

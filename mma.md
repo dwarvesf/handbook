@@ -62,3 +62,7 @@ This multi-perspective approach ensures a fair and thorough assessment of your g
 MMA helps us build a culture where everyone can find purpose in their work. We celebrate technical excellence and share it freely. People have the freedom to innovate and create, while growth remains continuous and self-directed. We measure impact in both technical and human terms.
 
 Remember: MMA isn't about checking boxesit's about creating an environment where you can thrive while contributing to something meaningful. It's about measuring what matters, not what's easy to count.
+
+---
+
+> Next: [MMA](mma.md)

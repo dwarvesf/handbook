@@ -23,7 +23,7 @@ In other studies, people has found that exposure to certain colors can play a ro
 
 ### At home
 
-* Dedicated Workspace: separate your workspace from your living space
+* Dedicated workspace: separate your workspace from your living space
 * Put some clothes on
 * Fake a Commute
 * Set Your Hours

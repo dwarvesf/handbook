@@ -1,7 +1,7 @@
 ---
 title: Who does what
 date: 2019-02-21
-description: Figuring out whom to bring a particular issue or question to shouldn’t be a guessing game. Most concerns fall pretty clearly within the responsibility of a specific team at Dwarves Foundation, and the head of that team should be the first point of contact.
+description: Figuring out who to ask about a specific issue or question shouldn't be a guessing game. This guide outlines our main areas of focus and who helps lead them.
 authors: 
   - tieubao
 tags: 
@@ -9,92 +9,52 @@ tags:
 hide_frontmatter: true
 ---
 
-Figuring out whom to bring a particular issue or question to shouldn’t be a guessing game. Most concerns fall pretty clearly within the responsibility of a specific team at Dwarves Foundation, and the head of that team should be the first point of contact. At the same time, every single person who works at Dwarves Foundation is approachable and friendly, more than willing to point you in the right direction. If you have a question, you’re probably not the first, so speak up!
+Knowing who to bring a question or issue to should be straightforward. Most things fall within the focus of a specific group or "chair" at Dwarves Foundation. While the people mentioned here are good starting points, remember everyone at Dwarves is approachable and happy to point you in the right direction. If you have a question, ask it – chances are you're not the first.
 
-## Expectation
+## Our expectations
 
-Expectations are the responsibility defined for each role. If you are qualified for the job, we don’t have to tell you what to do. We expect someone in a particular role to ensure the responsible or be actively working towards them.
+We define clear expectations for each role. If you're qualified for the job, we trust you know what needs doing. We expect everyone to take ownership of their responsibilities and actively work towards our shared goals.
 
-## Beyond a role
+## Going beyond your role
 
-The expectations define the bar for the role, but what about going above and beyond? We would love everyone in the company to go above and beyond these expectations. In fact we pretty much expect everyone in the company to be meeting them and then asking us what more they can do to help.
+Meeting expectations is the baseline, but we encourage everyone to go further. We love seeing Dwarves push the boundaries of their roles and even take on responsibilities that might traditionally fall elsewhere. When we notice people stepping up, we actively look for ways to support their growth, whether through new activities or adjusted roles.
 
-When we see people pushing the limits of their current role, and **when we see people already fulfilling other roles** we will jump on this as soon as we notice to **offer up extra activities** or even a new role.
-We want to foster a culture where everybody feels empowered to do their role and as they feel comfortable and ready to push in any direction they wish.
+We foster a culture where you feel empowered in your role and comfortable exploring new directions as you grow.
 
-Below you’ll find a list of the major groups and teams within the company. They’re listed in alphabetical order by group name first and then, when relevant, by team. Inside groups/teams, people are in listed alphabetical order by last name, and the most senior people in a group/team are shown in bold.
+## Our structure: the leading chairs
 
-### Business & Marketing
+Instead of rigid departments, we organize ourselves around key delivery areas or "chairs." This helps us focus on impact and adapt as needed. Here are our main chairs:
 
-The business development group is lead by **Linh** and responsible for every aspect of growth. The business group consists of three teams:
+### Partnership
 
-#### Account
+This chair focuses on building and maintaining strong relationships with our clients and partners. It covers aspects like understanding client needs, ensuring project alignment, and exploring new growth opportunities. **Han** and **Minh** are key contacts here.
 
-The account team responsible for taking care of the clients. When the sales bring back some deals, the account will help to close it, runs the project and ensure its success. **Giang T** is a person you could speak.
+### Delivery
 
-#### Sales
+The delivery chair is all about crafting and shipping high-quality products and technical solutions. **Huy N** helps manage our delivery efforts. This includes:
 
-Under **Linh** leadership, **Nam**, **Duy N** is working closely and responsible for all the partnership inquiry from our customers. They also help to expand the business connection.
+* **Product strategy & design:** Defining product direction and ensuring intuitive, well-designed user experiences. **Anna** contributes significantly to our design efforts.
+* **Engineering:** Building robust backend systems, APIs, web frontends, and mobile/desktop applications. **Thanh P** helps guide our web engineering efforts.
+* **Infrastructure:** Ensuring our systems and our clients' infrastructure are reliable, scalable, and secure. **Quang** helps lead our infrastructure operations (SRE).
+* **Quality assurance:** Rigorously testing our work to catch issues before they reach users.
 
-#### Marketing & PR
+### Learning
 
-We don't have marketing department. No one is taking responsibility for marketing. We are still looking for the right person for the job. At the meantime, **Duy** occasionally spend her time to tell our story and keep the Dwarves public-facing channels updated.
+Continuous learning is core to our craft. This chair ensures we keep growing our skills and sharing knowledge effectively, whether through internal initiatives, documentation, or exploring new technologies. **Tom** heads up our research efforts within this area.
 
-### Design
+### Communication
 
-The design group is lead by Khai and consists of 2 teams:
+This chair focuses on how we tell our story, both internally and externally. It involves sharing updates, maintaining our public presence (like our website and publications), and ensuring clear, transparent communication across the board.
 
-#### UX Designer
+### Engagement
 
-**Ngoc**, **Ly** and **Thanh** heads up product strategy and works on new features of every product that we build at Dwarves Foundation. They look for insights into customer behavior using a variety of methods and play a key role in helping inform product direction and how we work.
+The Engagement chair works to make Dwarves Foundation an excellent place to work. This includes supporting our team's well-being, fostering a positive culture, managing people operations, and helping individuals navigate their career paths and growth within the company. **Huy N** plays a key role here, bridging operations and engineering perspectives, and is often a great first point of contact if you're unsure who to talk to about workplace or career questions.
 
-#### UI Designer
-
-**Anh** is our lead visual designer. Along with **Giang**, they are responsible for all the look & feels on every product that we made, [dwarves.foundation](https://dwarves.foundation), [dwarves.careers](https://dwarves.careers), [golang.org.vn](https://golang.org.vn), and any other public-facing properties like the post on Medium, the team picture on Facebook, etc.
-
-### Executive
-
-We have one C-level executive at Dwarves Foundation.
+## Executive leadership
 
 ### CEO
 
-Han is our CEO. He’s principally responsible for setting the overall direction of the company. He was the founder who started Dwarves Ventures, the ventures builder that led to Dwarves Foundation, back in 2014. As the company keeps growing, he also helps to recruit and fills up the missing pieces.
-
-### Operation
-
-#### People Ops
-
-**Van** is our person for HR development. Under the collaboration between Van & Huy N, hopefully every dwarf can match our standard and happily achieve their goals. Van is also an admin assistant. She is another great person to ping if you don’t know where to go with a question.
-
-#### Technical Ops
-
-**Khai** is taking the probation to lead the Design team and to look after the design folks. **Huy N** can be looked as the bridge between operation team and engineer team. Along with Khai, Huy will work with Han to make working at Dwarves Foundation an excellent experience for its employees. Huy is often the best person to tap first, when you don’t know whom to talk to about a problem in your career path, mission.
-
-### Programming
-
-#### Engineering Director
-
-**Huy G & Huy N** are one of the early staffs and they are helping to guide & manage the whole technical group. They're responsible for setting the technical direction of our products, run technology and look after the engineering folks. The group consists of four teams:
-
-#### Backend
-
-The backend engineers are responsible for the user-facing backend systems and the API. They also help to maintain and shape the fundamentals of engineering. **Huy N** is the team lead and work with Minh, Hieu, Nam, Khiem, Phat, Tay.
-
-#### Mobile & Desktop
-
-Working on the native applications for Android, iOS, and MacOS, the mobile team is lead by **Trung** and is responsible for those user-facing systems. That was only possible because we dedicated solid teams to both efforts. **Phuc** and **Khanh** is also a critical part of the mobile development team.
-
-#### QA
-
-Before we ship a new feature, **Quynh**, our resident bug squashers. Their job is to break things, so we know what needs fixing. They run rolling tests on all web and mobile versions for quality control. Few things ship without their stamp of quality approval.
-
-#### Web
-
-The web team is lead by **Huy G**, **Minh T** and **Thanh P**. They are responsible for the user-facing system on the web front. They work across multiple products and ensure the user experience.
-
-#### Infras
-
-Dwarves Foundation and its customer's infrastructure operate across different cloud platforms. Keeping the lights on with high reliability is the foremost mission of the Infras operations team or SRE, and they're op-fully amazing at doing it. **Quang** is team lead and he works with **Nam N** to make sure our infrastructure stays healthy.
+**Han** is our CEO and founder. He sets the overall direction for Dwarves Foundation, guides our strategy, and helps ensure we have the right people to achieve our vision.
 
 ---
 
