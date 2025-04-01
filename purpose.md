@@ -1,10 +1,11 @@
 ---
 title: Our purpose
+short_title: Purpose
 date: 2020-07-01
 description: We serve a single purpose, to empower innovations and co-create the next big things.
-authors: 
+authors:
   - tieubao
-tags: 
+tags:
   - handbook
   - purpose
 hide_frontmatter: true
@@ -33,3 +34,7 @@ This vision guides our decisions, from the projects we take on to the people we 
 When you join Dwarves Foundation, you become part of this larger purpose, creating an environment where innovation thrives and meaningful change becomes possible.
 
 ![Dwarves Foundation team](assets/team-photo.webp)
+
+---
+
+> Next: [Navigate changes](navigate-changes.md)
