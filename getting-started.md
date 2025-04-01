@@ -1,5 +1,5 @@
 ---
-title: Getting started
+title: 💎 Getting started
 date: 2019-02-21
 description: From day one to finding your purpose, your journey with Dwarves Foundation starts here.
 authors:

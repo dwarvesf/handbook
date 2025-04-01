@@ -1,15 +1,14 @@
 ---
-title: ICY Token
+title: 🧊 ICY Token
 short_title: ICY
 date: 2024-03-21
 description: Discover how ICY, our community token, rewards contributions and builds engagement within the Dwarves ecosystem. Learn how you can earn, use, and benefit from this innovative web3 experiment.
-authors: 
+authors:
   - tieubao
-tags: 
+tags:
   - handbook
-  - community
+  - icy
   - token
-
 ---
 
 ## What is ICY? 🧊
