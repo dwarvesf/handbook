@@ -8,7 +8,7 @@ tags:
   - remote
   - work
   - team
-hide_frontmatter: true
+
 hide_title: true
 ---
 

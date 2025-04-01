@@ -7,7 +7,7 @@ authors:
 tags:
   - handbook
   - onboarding
-hide_frontmatter: true
+
 ---
 
 ## What to expect

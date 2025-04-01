@@ -8,7 +8,7 @@ tags:
   - handbook
   - hiring
   - careers
-hide_frontmatter: true
+
 ---
 
 ## Why we hire the way we do

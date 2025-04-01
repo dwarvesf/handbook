@@ -7,7 +7,7 @@ authors:
 tags:
   - handbook
   - policies
-hide_frontmatter: true
+
 ---
 
 ## Our approach to compliance

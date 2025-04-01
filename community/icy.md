@@ -9,7 +9,7 @@ tags:
   - handbook
   - community
   - token
-hide_frontmatter: true
+
 ---
 
 ## What is ICY? 🧊

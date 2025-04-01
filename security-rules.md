@@ -7,7 +7,7 @@ authors:
 tags: 
     - handbook
     - security
-hide_frontmatter: true
+
 ---
 
 ## Basic Security

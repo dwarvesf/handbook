@@ -6,10 +6,9 @@ authors:
   - innno_
   - monotykamary
 tags:
-  - hybrid-working
-  - team
   - handbook
-hide_frontmatter: true
+  - hybrid-working
+  - guide
 ---
 
 Remote work is great, but there's something about the in-person vibe that helps us learn, share, and connect. To make the most of our hybrid style, we’ve set up an easy check-in process to reward those who pop by the office.

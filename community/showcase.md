@@ -8,7 +8,7 @@ tags:
   - handbook
   - community
   - showcase
-hide_frontmatter: true
+
 ---
 
 ## Showcase: sharing our work

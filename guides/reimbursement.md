@@ -5,8 +5,8 @@ description: Sometimes the situation calls for realtime payment. Team lunch, dev
 authors: 
   - duy
 tags: 
-  - employee
   - handbook
+  - guide
 ---
 
 Sometimes the situation calls for realtime payment. Team lunch, device purchase, house cleaning, monthly drinking water. Normally, we pay it forward and claim those expense later. The reimbursement will be included in your payroll of that month.

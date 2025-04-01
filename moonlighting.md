@@ -6,7 +6,7 @@ authors:
   - tieubao
 tags: 
   - handbook
-hide_frontmatter: true
+
 ---
 
 ## Balancing outside work

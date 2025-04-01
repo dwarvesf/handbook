@@ -8,7 +8,7 @@ authors:
 tags: 
   - handbook
   - purpose
-hide_frontmatter: true
+
 ---
 
 ## Empower Innovation with Software Craftsmanship

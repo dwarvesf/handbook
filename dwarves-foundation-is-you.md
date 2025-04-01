@@ -7,7 +7,7 @@ authors:
 tags: 
   - handbook
   - culture
-hide_frontmatter: true
+
 ---
 
 ## You are our voice

@@ -7,7 +7,7 @@ authors:
 tags:
   - handbook
   - workflow
-hide_frontmatter: true
+
 ---
 
 ## Our approach to work

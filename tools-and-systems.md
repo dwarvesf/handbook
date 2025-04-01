@@ -7,7 +7,7 @@ authors:
 tags: 
   - handbook
   - tooling
-hide_frontmatter: true
+
 ---
 
 ## Public-facing channel

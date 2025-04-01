@@ -1,47 +1,57 @@
 ---
-title: Effective meeting
+title: Effective meetings
 date: 2019-02-21
-description: To increase flexibility in how and where employees at Dwarves work, we agree on a shared set of constraints for group work and meetings.
-authors: 
+description: To make working together flexible and productive, we follow a few simple rules for meetings and group work. Here's how we keep meetings effective.
+authors:
   - tieubao
-tags: 
+tags:
   - handbook
-  - performance
-  - team
-hide_frontmatter: true
+  - meeting
+  - guide
 ---
 
-To increase flexibility in how and where employees at Dwarves work, we agree on a shared set of constraints for group work and meetings.
+To make working together flexible and productive, especially when we're not all in the same place, we follow a few simple rules for meetings and group work. This helps keep things running smoothly.
 
-### Using the right Scheduling tool for meeting
+### Use the right scheduling tool
 
-* For meetings that only include internal recipients, it should be scheduled on Basecamp in the correct project/team and inform the people related. If it is all-hands meeting it should be schedule on Woodlands and inform the whole company.
-* For meetings that have clients or people outside of the organization, an extra invitation should be sent out using Google Calendar
+Choosing the right tool makes scheduling easier:
 
-### Meetings start on time
+* **Internal meetings:** Schedule these on Basecamp within the relevant project or team. Make sure to notify everyone involved. For all-hands meetings, use the main Woodlands Basecamp.
+* **External meetings (with clients, etc.):** Use Basecamp as above, but **also send a Google Calendar invite** to include external folks.
 
-If you’re leading a meeting, it’s your responsibility to start the meeting on time. If you’re attending a meeting, you are responsible for showing up on time.
+### Start on time
 
-### Meetings happen in regular hours
+Simple but crucial: **Meetings start promptly.**
 
-All team members should make themselves available for face-to-face meetings between 10 am - 4 pm, as long as they are scheduled at least 24 hours in advance. If a meeting needs to happen outside of these hours, the meeting organizer should schedule it a week in advance.
+* If you're leading, it's your job to kick things off on time.
+* If you're attending, be ready to join on time.
 
-### Meetings should have a video option
+### Meet during regular hours
 
-* If you’re hosting a meeting with a remote worker invited, it’s your responsibility to provide a video link before the meeting starts for them to join.
-* If you’re attending a meeting remotely, you should join the video call before a meeting begins. It’s your responsibility to ensure this is possible — this means being in a quiet place with a fast internet connection before the meeting starts. Calling into a meeting via phone or from a public place is unacceptable.
-* For some meetings, voice calls will be sufficient - this decision is up to the meeting organizer when they create the meeting.
+We aim for **core meeting hours between 10 am and 4 pm**. Please be available during this window for meetings scheduled **at least 24 hours in advance**.
 
-### Responsiblities in the meeting
+Need to meet outside these hours? The organizer should schedule it **at least a week ahead**.
 
-* Everyone is encouraged to contribute ideas to address problems and come up with solutions
-* If you do not agree with anything in the meeting, please raise and resolve it. After the agreement comes out, we have to follow what we agreed in the meeting to execute it. The team does not accept any execution out of the agreement.
+### Offer a video option (usually)
 
-### Prerequisites for successful meetings
+Video helps connection, especially with remote team members:
 
-The following things are pre-requisites for successful group work:
+* **Hosting with remote attendees?** Provide a video link (e.g., Google Meet) before the meeting starts.
+* **Attending remotely?** Join the video call *before* the start time. Ensure you have a **quiet space and a solid internet connection**. Joining by phone audio only or from a noisy public place isn't ideal.
+* **Voice-only sometimes okay?** Yes, if the organizer decides it's sufficient for that specific meeting.
 
-* A fast, reliable internet connection. Remote employees should make all efforts to mitigate video call lag.
-* A quiet and private (must be if the condition meets) place to take meetings. If the meeting team is sitting with other people because of the limit of office space, the others who are not invited to the meeting have to respect the meeting team, please do not join the discussion or contribute any idea. Do not babble.
+### Responsibilities in the meeting
 
-If you’re planning to work with another person on the team (i.e., for a meeting during meeting hours or to pair program), you should make sure these are available.
+Meetings are a team effort:
+
+* **Contribute:** Everyone should feel empowered to share ideas and solutions.
+* **Speak up:** If you disagree, raise your point during the meeting so it can be discussed and resolved. Once a decision is made, we all commit to following through. We don't go off-script after agreeing.
+
+### Basics for successful meetings
+
+These are essential, especially for remote collaboration:
+
+* **Good internet:** A fast, reliable connection is key. Remote folks should minimize potential lag.
+* **Quiet space:** Find somewhere you can focus and hear clearly. If meeting rooms are limited and you're near others not in the meeting, please respect the ongoing discussion – avoid interrupting or side conversations.
+
+Make sure you have these basics covered if you plan to meet or pair program with teammates.

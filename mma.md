@@ -8,7 +8,7 @@ tags:
   - handbook
   - performance
   - growth
-hide_frontmatter: true
+
 ---
 
 ## Why MMA?

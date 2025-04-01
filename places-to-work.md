@@ -7,7 +7,7 @@ authors:
 tags: 
   - remote
   - handbook
-hide_frontmatter: true
+
 ---
 
 ### Noise Levels

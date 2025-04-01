@@ -1,44 +1,57 @@
 ---
-title: Conduct A Meeting
+title: How to conduct a meeting
 date: 2018-07-10
-description: Meeting has always played an integral part in every corporate office. To optimize a productive meeting, it is vital to conduct individuals gathering without wasting time and directly get to the point, to deliver new information or discuss crucial issues.
-authors: 
+description: Meetings are important, but they need structure to be productive. This guide covers the essentials for running meetings smoothly, respecting everyone's time, and getting things done.
+authors:
   - tieubao
-tags: 
-  - guideline
-  - operations
-  - performance
+tags:
+  - handbook
+  - meeting
+  - guide
 ---
 
-Meeting has always played an integral part in every corporate office. To optimize a productive meeting, it is vital to conduct individuals gathering without wasting time and directly get to the point, to deliver new information or discuss crucial issues.
+Meetings are a staple in our work, helping us share info and tackle issues. But let's be honest, they can easily become time-wasters if not run well. To make them productive, we need a clear process that gets straight to the point.
 
-And that begins with a smooth collaboration between these following essential aspects.
+Here are the key things to get right:
 
-### Timeline
-* Announce meeting time **at least one day** before the meeting happens.
-* Create Google Meet link
-* Sync on Basecamp schedule
-* Notify all related participants.
+### Scheduling & Logistics
 
-### Agenda
-Meetings can often be awry due to a vague agenda. A specific and detailed meeting purpose will save attendees from meaningless gap during those 30 or 60 minutes of gathering. Meeting host’s responsibility is to provide people with the topic that needs to be discussed or argued as attendees must prepare their perspectives and opinions towards it.
+Get the basics sorted ahead of time:
 
-A clarified agenda rewards people with a clarified outcome.
+* **Give notice:** Announce the meeting time **at least one day** beforehand.
+* **Video link:** Create a Google Meet link (or similar).
+* **Sync:** Add the meeting to the relevant Basecamp schedule.
+* **Notify:** Make sure all participants know about it.
 
-### Participants confirmation
-Invited participants are required to submit their confirmation at least three hours before the meeting begins. By the time he or she receives the meeting schedule through email, they are asked to respond with a confirmation of attendance of absence.
+### Clear agenda
 
-Should the participant cannot be able to attend the meeting, a reasonable explanation must be filled in and delivered on the same day.
+Meetings often drift without a clear purpose. A **specific, detailed agenda** prevents wasted time.
 
-### Meeting minute
-With the importance of recording what was done and what needs to be followed up, meeting minutes are considered a great value. It stores things that were discussed and decided, actions that must be taken and people who in charge.
+* **Host's job:** Clearly state the topic(s) for discussion.
+* **Attendee's job:** Come prepared with thoughts and perspectives on the agenda items.
 
-Meeting minutes are usually recorded by a secretary, but at Dwarves, these can be done by any appointed individual and should include the following things:
+A clear agenda leads to clear outcomes. Simple as that.
 
-* Meeting date, time and location
+### Participant confirmation
+
+We need to know who's coming.
+
+* **RSVP:** Please confirm your attendance (or absence) via the meeting invite **at least three hours** before the start time.
+* **Can't make it?** Let the organizer know why, preferably on the same day you receive the invite.
+
+### Meeting notes (Minutes)
+
+Keeping track of what was discussed and decided is crucial. Meeting notes (or minutes) serve as the official record.
+
+* **What they capture:** Decisions made, actions needed, who owns those actions, and deadlines.
+* **Who takes them?** Anyone can be designated to take notes (not just a secretary).
+
+**Good meeting notes include:**
+
+* Date, time, and location (or video link)
 * Meeting purpose
-* Names of attendees and those who were unable to attend
-* Agenda items
-* Concluded decision
-* Actions that need to be done, with deadlines and who it was assigned to
-* Date, time and location of the follow up meeting
+* List of attendees (and absentees)
+* Agenda items discussed
+* Decisions reached
+* Action items (with owners and due dates)
+* Details for any follow-up meeting

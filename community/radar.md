@@ -9,7 +9,7 @@ authors:
 tags:
   - handbook
   - community
-hide_frontmatter: true
+
 ---
 
 ## The Dwarves tech radar program

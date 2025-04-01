@@ -8,7 +8,7 @@ authors:
 tags:
   - handbook
   - purpose
-hide_frontmatter: true
+
 ---
 
 We serve a single purpose: To empower innovations and co-create the next big things.

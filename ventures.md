@@ -7,7 +7,7 @@ authors:
 tags:
   - handbook
   - ventures
-hide_frontmatter: true
+
 ---
 
 These policies have been part of our approach since our early days. If you joined after 2018, this section will help you understand an important part of how we operate beyond client services.
