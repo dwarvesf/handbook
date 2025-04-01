@@ -1,5 +1,6 @@
 ---
-title: Dwarves tech radar program
+title: Tech Radar
+short_title: Radar
 date: 2022-10-19
 description: Our tech radar helps us assess and adopt new technologies, inspired by ThoughtWorks. Learn about its structure and how we use it.
 authors:

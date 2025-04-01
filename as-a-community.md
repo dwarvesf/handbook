@@ -18,11 +18,10 @@ Dwarves Community is melting pot for software engineers, thinkers, learners and 
 Technology is moving at the speed of light, and we want to stay at the forefront. Background or experience doesn’t matter to us, we are more keen on the mindset of always being curious about what’s next in tech, collaborating for the better, learning profusely and sharing unconditionally.
 
 - [ICY](community/icy.md)
-- [Memo]
-- [Discord]
-- [Radar]
-- [Earn]
-- []
+- [Memo](community/memo.md)
+- [Discord](community/discord.md)
+- [Radar](community/radar.md)
+- [Earn](community/earn.md)
 
 ## How our community started
 

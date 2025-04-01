@@ -1,5 +1,6 @@
 ---
 title: Dwarves Network Discord
+short_title: Discord
 date: 2024-03-13
 description: Our Discord isn't just another company server; it's a place for both our team and the wider developer community. This guide explains how it works and where you fit in.
 authors:
@@ -114,8 +115,6 @@ We use our custom token, [`$icy`](icy.md), as the server's primary internal curr
 You earn `$icy` through activity and contributions. Higher engagement leads to more `$icy`, which helps you climb the role ladder.
 
 Achieving certain roles will also eventually grant a boosting NFT, providing tangible value back to our most active members.
-
----
 
 That covers the basics! Feel free to jump into a channel and introduce yourself.
 
