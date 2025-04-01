@@ -1,7 +1,7 @@
 ---
 title: Memo Handbook
 short_title: Memo
-date: 2024-03-21
+date: 2021-03-21
 description: Memo is where we share everything we learn, build, and think about product craftsmanship, engineering, and our culture. It's our commitment to learning in public.
 authors:
   - tieubao
