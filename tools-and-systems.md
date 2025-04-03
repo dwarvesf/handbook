@@ -40,8 +40,8 @@ Basecamp is where daily work happens. We use Basecamp for task tracking and team
 
 G Suite is a set of the business tool provided by Google that we subscribe to.
 
-- Google Email for email service. <https://mail.dwarvesv.com>
-- Google Drive for document cloud storage. <https://drive.dwarvesv.com>
+- Google Email for email service. <https://mail.d.foundation>
+- Google Drive for document cloud storage. <https://drive.d.foundation>
 
 ### Fortress
 

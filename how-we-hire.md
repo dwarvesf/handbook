@@ -7,7 +7,7 @@ authors:
 tags: 
   - handbook
   - hiring
-  - careers
+  - career
 
 ---
 

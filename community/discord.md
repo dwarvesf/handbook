@@ -118,7 +118,7 @@ Achieving certain roles will also eventually grant a boosting NFT, providing tan
 
 That covers the basics! Feel free to jump into a channel and introduce yourself.
 
-See you [on the server!](http://discord.gg/dwarvesv)
+See you [on the server!](http://discord.gg/dfoundation)
 
 ---
 

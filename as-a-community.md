@@ -25,7 +25,7 @@ Technology is moving at the speed of light, and we want to stay at the forefront
 
 ## How our community started
 
-We believe great software comes from working together. Many consulting firms keep knowledge inside their walls. We wanted to try something new. Could we keep clients happy while creating a space for learning and sharing? This led us to create the [Dwarves Network](https://discord.com/invite/dwarvesv), a community that goes beyond our team to include coders, students, and tech lovers who share our passion for good work.
+We believe great software comes from working together. Many consulting firms keep knowledge inside their walls. We wanted to try something new. Could we keep clients happy while creating a space for learning and sharing? This led us to create the [Dwarves Network](https://discord.gg/dfoundation), a community that goes beyond our team to include coders, students, and tech lovers who share our passion for good work.
 
 Discord became our main hub. We set up channels for work and public talks where anyone can join tech discussions. We changed company meetings into community events. Our team all-hands meetings became Monthly Community Calls, where team members and community folks share updates and ideas.
 
@@ -37,7 +37,7 @@ This setup grew through trying things out. Now it's a big part of who we are. We
 
 The Dwarves Network works on a few simple ideas:
 
-[Discord](https://discord.com/invite/dwarvesv) is our main space, with channels set up for different needs. This lets us do focused work while having open tech talks.
+[Discord](https://discord.gg/dfoundation) is our main space, with channels set up for different needs. This lets us do focused work while having open tech talks.
 
 We replaced closed company meetings with open ones. Our Monthly Community Calls and radio talks welcome anyone interested in our work and the tech we use.
 
@@ -82,7 +82,7 @@ If you're part of Dwarves, as an employee or community member, we want your thou
 ## Our Community Channels
 
 - [Memo](https://memo.d.foundation/) - Our knowledge repository
-- [Discord](https://discord.com/invite/dwarvesv) - Our main hub for discussions
+- [Discord](https://discord.gg/dfoundation) - Our main hub for discussions
 - [Github](https://github.com/dwarvesf) - Where we share open source code
 - [Website](https://d.foundation/) - Our official site
 
