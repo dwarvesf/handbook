@@ -72,7 +72,7 @@ Develop your idea for a new feature, workflow improvement, or any product develo
 
 We always have more pitches than we can pursue, so maintain realistic expectations about what happens after you share yours. At minimum, everyone involved in product development will read and consider your pitch. That alone is valuable. Even if your complete idea isn't implemented, it may influence other decisions by highlighting areas needing attention.
 
-Han and An evaluate pitches for inclusion in upcoming cycles before each cycle begins.
+Han evaluates pitches for inclusion in upcoming cycles before each cycle begins.
 
 ## Raising concerns
 

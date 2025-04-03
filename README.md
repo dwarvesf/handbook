@@ -10,8 +10,6 @@ tags:
 hide_title: true
 ---
 
-# Dwarves Handbook
-
 Dwarves are a group of software engineers, designers, and innovation advocates. We serve a single purpose: To empower innovations and co-create the next big things.
 
 ## Welcome to our Handbook
