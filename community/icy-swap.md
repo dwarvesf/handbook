@@ -12,7 +12,7 @@ Ready to convert your ICY to Bitcoin? We've made the process simple and secure. 
 
 ## Getting started
 
-Before you begin, you'll need two things: a Bitcoin (BTC) wallet to receive your funds and some ETH on the Base network for gas fees. Don't have a BTC wallet? No problem! You can set one up using trusted providers like Electrum, Trust Wallet, or UniSat. If you need help with ETH for gas fees, just reach out to our team on the Dwarves Foundation Discord—we're here to help!
+Before you begin, you'll need two things: a Bitcoin (BTC) wallet to receive your funds and some ETH on the Base network for gas fees. Don't have a BTC wallet? No problem! You can set one up using trusted providers like Electrum, Trust Wallet, or UniSat. If you need help with ETH for gas fees, just reach out to our team on the Dwarves Foundation Discord, we're here to help!
 
 ## Step 1: Connect to icy.so
 
@@ -32,7 +32,7 @@ After confirming, you can watch your transaction in the "Recent Transactions" se
 
 ![Transaction tracking interface showing pending status and service fee details](assets/icy-swap-transaction-status.png)
 
-Processing time varies based on network conditions, gas fees paid, and system load. Don't worry if it takes some time—we ensure 100% of transactions are processed.
+Processing time varies based on network conditions, gas fees paid, and system load. Don't worry if it takes some time, we ensure 100% of transactions are processed.
 
 ## Important details to remember
 

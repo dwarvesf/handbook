@@ -1,3 +1,15 @@
+---
+title: Dwarves Handbook
+short_title: 📔 Handbook
+date: 2024-01-02
+description: 
+authors:
+  - tieubao
+tags:
+  - handbook
+hide_title: true
+---
+
 # Dwarves Handbook
 
 Dwarves are a group of software engineers, designers, and innovation advocates. We serve a single purpose: To empower innovations and co-create the next big things.
@@ -10,7 +22,7 @@ When we grew beyond 40 people, we recognized that our "figure it out as you go" 
 
 **So we created this handbook to share what matters.** It covers everything from our values and working practices to vacation policies and office locations. It's both a practical guide and a statement of who we are.
 
-We believe in making the company our best product, which means articulating and refining how we operate. Whatever version you're reading now, it won't be the last. We're committed to keeping it honest, reflecting who we really are—not just who we wish to be.
+We believe in making the company our best product, which means articulating and refining how we operate. Whatever version you're reading now, it won't be the last. We're committed to keeping it honest, reflecting who we really are, not just who we wish to be.
 
 If you've just joined us, you're in a unique position. You can see things we've become blind to. Question what doesn't make sense. Help us see ourselves more clearly.
 

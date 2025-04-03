@@ -2,7 +2,7 @@
 
 At Dwarves Foundation, we believe that learning is one of the most important aspects of any organization. We also believe in creating a culture that fosters learning and innovation.
 
-We want to demonstrate and encourage individual and organizational learning, where both gaining and sharing knowledge is prioritized, valued, and rewarded. Learning is an ongoing process that never ends in our fast-moving industry. The concept of continued learning at Dwarves Foundation has become synonymous with having a growth mindset — a belief in your own ability to change or grow through experience or study.
+We want to demonstrate and encourage individual and organizational learning, where both gaining and sharing knowledge is prioritized, valued, and rewarded. Learning is an ongoing process that never ends in our fast-moving industry. The concept of continued learning at Dwarves Foundation has become synonymous with having a growth mindset ,  a belief in your own ability to change or grow through experience or study.
 
 We want to grow as professionals, so we have built an environment where people feel comfortable asking questions and admitting they don't know everything. We encourage people to seek out opportunities outside of their normal day-to-day work whether that means attending conferences or taking on new projects with other departments within the company.
 

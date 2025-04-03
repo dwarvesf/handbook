@@ -18,7 +18,7 @@ Previously, ICY had a straightforward value proposition. Each ICY was worth exac
 
 ## The new model: Dynamic and Bitcoin-backed
 
-Now, ICY's value is tied to Bitcoin (BTC) through our liquidity pools. We manage two separate pools—one for ICY and one for BTC—and the interaction between these pools determines ICY's value. The initial conversion rate is set at a predetermined ratio, but the value will fluctuate based on BTC's price and pool dynamics.
+Now, ICY's value is tied to Bitcoin (BTC) through our liquidity pools. We manage two separate pools, one for ICY and one for BTC, and the interaction between these pools determines ICY's value. The initial conversion rate is set at a predetermined ratio, but the value will fluctuate based on BTC's price and pool dynamics.
 
 ### What this means for you
 

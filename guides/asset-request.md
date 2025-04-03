@@ -1,49 +1,76 @@
 ---
-title: Assets
+title: Borrowing & requesting company assets
+short_title: Request an asset
 date: 2019-02-21
-description: 
+description: How to borrow company assets like books or devices, or request new ones. Simple steps for getting the gear you need.
 authors: 
-tags: 
+tags: ['handbook', 'assets', 'guide']
 ---
 
-## Asset Request
+Need a piece of gear to get your job done? We've got company assets like books and devices available, and we're happy for you to use them! Here's how the process works for borrowing, returning, and requesting new items.
 
-Company assets equips us to get the job done. We are delighted to know if you can spend your time gnawing our library or using our devices, as long as it follows these protocols.
+### Borrowing company assets
 
-### 1. Borrowing
+Want to borrow something from our library or use a company device? Easy peasy.
 
-We use Basecamp the team communication tool. Woodland is where public things happen. In the **[Request](https://3.basecamp.com/4108948/buckets/9403032/todolists/1557155199)** list in Todo, create a ticket with this format:
+We use **Basecamp** for tracking this. Here's how to make a borrow request:
 
-> Your Name | Type - Name/Id of the asset | Borrowing date | Returning date
-and don't forget to upload a picture of the asset for proof.
+1. Go to the **Woodland** project in Basecamp.
+2. Find the **"Request"** To-Do list ([link here](https://3.basecamp.com/4108948/buckets/9403032/todolists/1557155199)).
+3. Create a new To-Do using this format:
+    > **Your name | Type - Name/Id of the asset | Borrowing date | Returning date**
+4. **Important:** Upload a quick photo of the asset when you pick it up.
+5. Assign the To-Do to **HR**.
 
-e.g.: If Huy wants to spend his weekend with the book Start With Why, he shall create a ticket like this:
+**Example:**
 
-> Huy Nguyen | Book - Start With Why | 19/04/2021 | 26/04/2021
+If Huy wants to borrow the book "Start With Why" for a week, his To-Do would look like this:
 
-and assign HR to handle the request.
+> **Huy Nguyen | Book - Start With Why | 19/04/2021 | 26/04/2021**
 
-We'll get back by the time of returning date. In the event of extending the borrowing time, please help adjust the timeline and drop an update to the comment section.
+(Plus an uploaded photo of the book)
 
-### 2. Returning
+**Need more time?** No problem. Just update the **Returning date** on the To-Do and add a comment to let HR know.
 
-The Dwarves are required to report any problems experienced with the item during the borrowing period. And most of all, we hope you enjoy using it. You will mark done the ticket once the item is returned in full conditions.
+### Returning company assets
 
-### 3. Request
+Got the item back? Great! Here's what to do:
 
-In case you look for something outside our current resource, the Dwarves have all right to ask for a purchase of specialized materials. As long as it fits our budget or does not get us bankrupted, we've got you covered.
+1. **Report any issues:** Did you have any problems with the item while you had it? Please add a comment to the Basecamp To-Do detailing any issues.
+2. **Return the item:** Bring it back to the office.
+3. **Mark the To-Do as done:** Once the item is back safely and in good condition, mark your request To-Do as complete in Basecamp.
 
-**3.1. Requesting**
-The requesting process is not much different from the borrowing one, with a reasonable purpose. If the item bypasses our budget, we'd prefer to suggest an alternative option.
+We hope you found the asset useful!
 
-- List: Asset Requests
-- Huy Nguyen | Book - Start With Why |
-- Note: for further understanding in inspiration
+### Requesting a new asset purchase
 
-and assign HR for approval.
+Looking for something specific that we don't currently have? You can absolutely request that the company purchase it! As long as it's reasonable and fits within our budget, we'll do our best to get it for you.
 
-### 3.2. Processing
+### Making the request
 
-HR will handle this part from now on. Once the approval is made, HR will have the item ordered and get you notified when it is ready to use.
+The process is similar to borrowing:
 
-By this stage, HR will also mark done on the ticket to wrap up the process.
+1. Go to the **Woodland** project in Basecamp.
+2. Find the **"Asset Requests"** To-Do list.
+3. Create a new To-Do like this:
+    > **Your name | Item type - Item name/description | Reason for request**
+4. Assign the To-Do to **HR**.
+
+**Example:**
+
+> **Huy Nguyen | Book - Start With Why | Note: For further understanding in inspiration**
+
+* **Be specific:** Provide details like the exact name, model, or link if possible.
+* **Explain the 'why':** Briefly explain how this item will help you or the team.
+* **Budget:** If it's an expensive item that might be over budget, HR might discuss alternative options with you.
+
+### What happens next?
+
+HR takes it from here:
+
+1. **Review:** HR will review the request and the budget.
+2. **Approval:** If approved, HR will order the item.
+3. **Notification:** You'll get notified via the Basecamp To-Do when the item has arrived and is ready for you.
+4. **Completion:** HR will mark the To-Do as done once you have the item.
+
+And that's it! Simple ways to get the tools you need.

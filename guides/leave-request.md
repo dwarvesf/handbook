@@ -1,5 +1,6 @@
 ---
-title: Leave request
+title: Submit a leave request
+short_title: Leave request
 date: 2024-08-20
 description: A consistent on leave process prevents a company from being accidentally disrupted when an employee request to be absent. 
 authors: 
@@ -15,11 +16,11 @@ To keep everything running smoothly, it’s important that we all follow a clear
 
 By following these steps, you help ensure that everyone is on the same page and that your work is covered while you're away:
 
-### Before Request Submission
+### Before request submission
 
 Discuss your leave with the client and team in advance to align tasks and minimize the impact on the project.
 
-### How To Submit Request
+### How to submit request
 
 - Log in to Basecamp.
 - Create a ticket in the Woodland channel > On-Leave Request list.
@@ -34,11 +35,11 @@ For example, if Thanh Pham plans to have his day off on both Jul 9th to 12th, th
 
 ![Leave request form example](assets/leave-request-calendar.webp)
 
-### Verification & Notification
+### Verification & notification
 
 After submitting the request, the line manager and leader will discuss the request with you. They will work with you to align the workload and resources to ensure the project remains on track. A working process will be designed to prevent any interruptions during your absence.
 
-### Approval/Denial
+### Approval/denial
 
 If your request is approved, the manager will mark the ticket as done and note your return date. Basecamp will send an approval email to everyone involved, and the Google Calendar will be updated.
 
@@ -48,7 +49,7 @@ Since the client doesn't receive Basecamp notifications, you or the manager must
 
 Once your request is approved, a short informal message should be delivered to the related team channel to notify other team members. On the client side, you must announce your leave to the client’s communication channel and remind them before the leave.
 
-### Holiday Notifications
+### Holiday notifications
 
 1-2 weeks before the holiday starts, Operations will send an official email announcement to all clients about the holiday period. Then, 2-3 days before the holiday begins, your Project Manager or Leader will remind clients informally via Slack or other communication channels.
 
