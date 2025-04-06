@@ -56,7 +56,7 @@ There are two specific policies that are especially important to understand:
 
 ### NDA and intellectual property
 
-When you join Dwarves, you sign agreements covering confidentiality, non-solicitation, and intellectual property. These protect our work, our clients, and our competitive position. Full details are in our [NDA policy](nda.md), covering:
+When you join Dwarves, you sign agreements covering confidentiality, non-solicitation, and intellectual property. These protect our work, our clients, and our competitive position. Full details are in our [NDA policy](guides/nda.md), covering:
 
 * What information must be kept confidential
 * Your responsibilities during and after employment
@@ -111,4 +111,4 @@ Remember, compliance isn't just ticking boxes. It's about **building a trustwort
 
 ---
 
-> Next: [Moonlighting](moonlighting.md) | [NDA](nda.md)
+> Next: [Moonlighting](moonlighting.md) | [NDA](guides/nda.md)
