@@ -37,7 +37,7 @@ The valuable stuff that comes out of that work? It lands on Memo.
 
 How does stuff actually get published? It looks something like this:
 
-![Content Pipeline](assets/content-pipeline.png)
+![Content Pipeline](assets/content-pipeline.webp)
 
 1. **News & curiosity:** We learn something new, work on a project, or just get curious.
 2. **Question & answer:** We explore it, document findings, answer the questions that arise.

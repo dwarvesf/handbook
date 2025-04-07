@@ -15,7 +15,7 @@ tags:
 
 Basically, think of the knowledge base as our team's shared memory, or a "second brain." It's the main spot where we keep all the info and notes we need for our work. We made this so we can work together better, make smarter choices, and stop repeating the same work. It's just our record of how we do things and what we learn along the way.
 
-![knowledge base](assets/knowledge-base.png)
+![knowledge base](assets/knowledge-base.webp)
 
 ## What kind of stuff is in here?
 

@@ -18,7 +18,7 @@ Before you begin, you'll need two things: a Bitcoin (BTC) wallet to receive your
 
 First, visit [icy.so](https://icy.so) and click "Connect Wallet" to select your preferred wallet (MetaMask, Coinbase Wallet, etc.). Follow the connection prompts, and make sure you're on the **Base network**.
 
-![Connect wallet interface showing the wallet connection button and network selection](assets/icy-swap-connect-wallet.png)
+![Connect wallet interface showing the wallet connection button and network selection](assets/icy-swap-connect-wallet.webp)
 
 ## Step 2: Make the swap
 
@@ -30,7 +30,7 @@ Once connected, you'll need to select **ICY** as your source token and **BTC** a
 
 After confirming, you can watch your transaction in the "Recent Transactions" section. Hover over the transaction to see details, including the service fee. Wait for the "Pending" status to complete.
 
-![Transaction tracking interface showing pending status and service fee details](assets/icy-swap-transaction-status.png)
+![Transaction tracking interface showing pending status and service fee details](assets/icy-swap-transaction-status.webp)
 
 Processing time varies based on network conditions, gas fees paid, and system load. Don't worry if it takes some time, we ensure 100% of transactions are processed.
 

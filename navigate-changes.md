@@ -22,7 +22,7 @@ To stay relevant, we need a way to look ahead and adapt. This means asking ourse
 - How can we best position our team's knowledge and skills?
 - What lessons did we learn from past tech cycles?
 
-![The chasm](assets/the-chasm.png)
+![The chasm](assets/the-chasm.webp)
 
 ### How we adapt
 

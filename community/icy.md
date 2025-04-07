@@ -31,7 +31,7 @@ ICY's value is backed by Bitcoin (BTC) in our treasury. This means your ICY's wo
 
 We maintain two liquidity pools, one for ICY and one for BTC. We add Bitcoin monthly at market prices and mint ICY weekly to reward activities. This setup ensures your ICY maintains real value backed by Bitcoin.
 
-![ICY tipping feature in Discord](assets/icy-tipping.png)
+![ICY tipping feature in Discord](assets/icy-tipping.webp)
 
 ## Ways to earn ICY
 
