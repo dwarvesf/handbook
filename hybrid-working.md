@@ -7,7 +7,6 @@ authors:
 tags:
   - handbook
   - remote
-
 ---
 
 At Dwarves Foundation, we believe in giving you the freedom to work where you're most productive. While we're primarily a remote-first company, we recognize the value of in-person collaboration. Our hybrid working model gives you flexibility while ensuring we maintain our strong team culture.
@@ -24,6 +23,8 @@ Some guidelines for successful remote work:
 - Set up a dedicated workspace that allows you to focus
 
 Remember that with remote work comes responsibility. We expect you to be responsive during your working hours and to deliver high-quality work consistently.
+
+![hybrid-working.webp](assets/hybrid-working.webp)
 
 ## Office presence
 

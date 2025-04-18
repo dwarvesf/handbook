@@ -1,4 +1,15 @@
-# Learning
+---
+title: Tech Radar
+short_title: Radar
+date: 2022-10-19
+description: Our tech radar helps us assess and adopt new technologies, inspired by ThoughtWorks. Learn about its structure and how we use it.
+authors:
+  - thanh
+  - tom
+tags:
+  - handbook
+  - community
+---
 
 At Dwarves Foundation, we believe that learning is one of the most important aspects of any organization. We also believe in creating a culture that fosters learning and innovation.
 
@@ -17,5 +28,5 @@ We also believe that every employee has something to teach others, whether it is
 
 - [Sharing](sharing.md)
 - [Showcase](showcase.md)
-- [tech-radar](tech-radar.md)
+- [tech-radar](radar.md)
 - [Brainery](https://github.com/dwarvesf/brain)
