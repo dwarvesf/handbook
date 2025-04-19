@@ -2,12 +2,11 @@
 title: Marketing assets
 date: 2019-02-21
 description: Dwarves marketing assets
-authors: 
+authors:
   - tieubao
-tags: 
+tags:
   - handbook
-  - company
-
+  - marketing
 ---
 
 - About: <https://d.foundation/about>

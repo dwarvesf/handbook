@@ -2,12 +2,11 @@
 title: How we work
 date: 2017-07-21
 description: We organize our work in 8-week cycles with a focus on autonomy and craftsmanship. This framework helps us deliver high-quality software while maintaining flexibility and work-life balance.
-authors: 
+authors:
   - tieubao
 tags:
   - handbook
   - workflow
-
 ---
 
 ## Our approach to work

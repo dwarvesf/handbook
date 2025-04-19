@@ -2,12 +2,11 @@
 title: Tools and systems
 date: 2019-02-21
 description: tools and systems for work
-authors: 
+authors:
   - tieubao
-tags: 
+tags:
   - handbook
   - tooling
-
 ---
 
 ## Public-facing channel
@@ -45,7 +44,7 @@ G Suite is a set of the business tool provided by Google that we subscribe to.
 
 ### Fortress
 
-Fortress is the statistical dashboard for everything at Dwarves Foundation. It is our invoice, accounting, and resources system. Here you can look up any customer account, other dwarves profiles, projects, and milestones.
+Fortress is the statistical dashboard for everything. It is our invoice, accounting, and resources system. Here you can look up any customer account, other dwarves profiles, projects, and milestones.
 
 Fortress also include two separated app for Company Valuation in real-time and Investment Management dashboard.
 

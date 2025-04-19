@@ -9,7 +9,7 @@ tags:
   - remote
 ---
 
-At Dwarves Foundation, we believe in giving you the freedom to work where you're most productive. While we're primarily a remote-first company, we recognize the value of in-person collaboration. Our hybrid working model gives you flexibility while ensuring we maintain our strong team culture.
+We believe in giving you the freedom to work where you're most productive. While we're primarily a remote-first company, we recognize the value of in-person collaboration. Our hybrid working model gives you flexibility while ensuring we maintain our strong team culture.
 
 ## Working remotely
 

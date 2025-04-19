@@ -23,6 +23,8 @@ Technology is moving at the speed of light, and we want to stay at the forefront
 - [Radar](community/radar.md)
 - [Earn](community/earn.md)
 
+![](assets/dwarves-community-20231215165541626.webp)
+
 ## How our community started
 
 We believe great software comes from working together. Many consulting firms keep knowledge inside their walls. We wanted to try something new. Could we keep clients happy while creating a space for learning and sharing? This led us to create the [Dwarves Network](https://discord.gg/dfoundation), a community that goes beyond our team to include coders, students, and tech lovers who share our passion for good work.

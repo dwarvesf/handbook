@@ -2,7 +2,7 @@
 title: Dwarves Handbook
 short_title: 📔 Handbook
 date: 2024-01-02
-description: 
+description: A comprehensive guide to who we are, how we work, and what we believe
 authors:
   - tieubao
 tags:
@@ -26,40 +26,69 @@ If you've just joined us, you're in a unique position. You can see things we've 
 
 ![Dwarves team](assets/team-photo.webp)
 
-### Getting started
+## Introduction & Onboarding
+- [Getting started](getting-started.md) - First steps for new team members
+- [You are Dwarves Foundation](dwarves-foundation-is-you.md) - Understanding your role as our voice
+- [Who does what](who-does-what.md) - Our team structure and responsibilities
+- [FAQ](faq.md) - Common questions about working at Dwarves
 
-* [You are Dwarves Foundation](dwarves-foundation-is-you.md)
-* [Getting started](getting-started.md)
-* [Benefits & perks](benefits-and-perks.md)
+## Company philosophy & Culture
+- [Our purpose](purpose.md) - Why we exist and what drives us
+- [What we stand for](what-we-stand-for.md) - Our mission and values
+- [What we value](what-we-value.md) - The principles that guide our work
+- [Ethical & compliance](compliance.md) - Our commitment to ethical standards
 
-### Our foundation
+## How we work
+- [How we work](how-we-work.md) - Our approach to delivering quality software
+- [Work routine](routine.md) - Our daily, weekly, and cycle-based workflows
+- [Where we work](where-we-work.md) - Office, remote, and hybrid options
+- [Hybrid working](hybrid-working.md) - Balancing remote and office work
+- [Places to work](places-to-work.md) - Finding productive environments
+- [How we hire](how-we-hire.md) - Our approach to finding the right people
+- [How we spend money](how-we-spend-money.md) - Our financial principles
+- [Security rules](security-rules.md) - Keeping data and devices secure
+- [Navigate changes](navigate-changes.md) - How we adapt to tech changes
 
-* [What we stand for](what-we-stand-for.md)
-* [What we value](what-we-value.md)
-* [Who does what](who-does-what.md)
-* [How we work](how-we-work.md)
-* [Where we work](where-we-work.md)
-* [Making a career](making-a-career.md)
-* [How we hire](how-we-hire.md)
-* [How we spend money](how-we-spend-money.md)
-* [Tools & systems](tools-and-systems.md)
+## Career & Professional growth
+- [Making a career](making-a-career.md) - Long-term growth at Dwarves
+- [MMA](mma.md) - Our Mastery, Meaning, Autonomy framework
+- [Moonlighting](moonlighting.md) - Policy on outside work
 
-### Guides & Resources
+## Community & Learning
+- [As a community](as-a-community.md) - How we operate as an open network
+- [Knowledge base](knowledge-base.md) - Our "second brain" shared resources
+- [ICY as community token](community/icy.md) - Understanding our token system
+- [ICY worth](community/icy-worth.md) - How ICY's value is determined
+- [ICY swap](community/icy-swap.md) - Converting ICY to other currencies
+- [Discord](community/discord.md) - Our community hub and how it works
+- [Memo](community/memo.md) - Our knowledge sharing platform
+- [Tech radar](community/radar.md) - How we assess new technologies
+- [Earn extra](community/earn.md) - Bounties and additional earning opportunities
+- [Sharing knowledge](community/sharing.md) - Our culture of learning and teaching
+- [Showcase](community/showcase.md) - Our weekly demo events
 
-* [Moonlighting](moonlighting.md)
-* [Effective meeting](guides/effective-meeting.md)
-* [Security rules](security-rules.md)
-* [Places to work](places-to-work.md)
-* [Marketing assets](marketing-assets.md)
-* [FAQ](faq.md)
+## Benefits & Policies
+- [Benefits & perks](benefits-and-perks.md) - What we offer our team
+- [Stock option plan](stock-option-plan.md) - Employee ownership opportunities
+- [NDA](guides/nda.md) - Understanding your confidentiality agreements
+- [Ventures](ventures.md) - How we invest in and build startups
 
-### Processes
+## Practical guides
+- [Check-in at the office](guides/check-in-at-office.md) - Office check-in procedures
+- [Conduct a meeting](guides/conduct-a-meeting.md) - Meeting best practices
+- [Effective meeting](guides/effective-meeting.md) - Making meetings productive
+- [1-on-1 meeting](guides/one-on-one-meeting.md) - Manager-report discussions
+- [Email config](guides/configure-company-email.md) - Setting up your work email
+- [Email communication](guides/email-communication-and-use.md) - Email guidelines
+- [Password sharing](guides/password-sharing.md) - Secure credential management
+- [Leave request](guides/leave-request.md) - How to request time off
+- [Asset request](guides/asset-request.md) - Borrowing or requesting company equipment
+- [Reimbursement](guides/reimbursement.md) - Getting reimbursed for expenses
+- [Continuing education allowance](guides/continuing-education-allowance.md) - Learning budget
 
-* [Leave request](guides/leave-request.md)
-* [Assets](guides/assets.md)
-* [Email communication and use](guides/email-communication-and-uses.md)
-* [Continuing education allowance](guides/continuing-education-allowance.md)
-* [Reimbursement](guides/reimbursement.md)
+## Tools & Resources
+- [Tools and systems](tools-and-systems.md) - Software and platforms we use
+- [Marketing assets](misc/marketing-assets.md) - Brand resources and information
 
 ## Contributing
 

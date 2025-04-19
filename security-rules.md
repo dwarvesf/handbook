@@ -2,12 +2,11 @@
 title: Security rules
 date: 2019-02-21
 description: Keeping laptops and phones secure is vitally important. We're a software company and many of us have access to secure systems (both our own and our customers). The following guidelines apply to how we physically secure our laptops and mobile devices that may contain customer or user data.
-authors: 
-    - tieubao
-tags: 
-    - handbook
-    - security
-
+authors:
+  - tieubao
+tags:
+  - handbook
+  - security
 ---
 
 ## Basic Security

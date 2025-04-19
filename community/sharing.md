@@ -10,13 +10,21 @@ tags:
   - community
 ---
 
-At Dwarves Foundation, sharing is fundamental to our culture. We share frequently through public events, many of which are recorded for wider learning. While sharing extensively might seem unusual, we believe it offers significant benefits.
+Sharing is fundamental to our culture. We share frequently through public events, many of which are recorded for wider learning. While sharing extensively might seem unusual, we believe it offers significant benefits.
 
 The primary goal isn't just disseminating information; it's about enhancing the presenter's ability to communicate clearly and deepen their own understanding. Teaching others forces you to solidify your knowledge.
 
 It's common to find skilled programmers who struggle to teach effectively. This often stems from a lack of practice in either teaching or learning from others. When you share, you must articulate your understanding, revealing both strengths and areas needing improvement. Feedback sessions, where others offer constructive criticism, are valuable. They highlight where explanations are unclear and help you strengthen those areas.
 
 This cycle of sharing and feedback is how we collectively learn and grow.
+
+## OGIF
+
+**OGIF** (Oh God It’s Friday) brings our knowledge-sharing culture to life every Friday. Unlike a typical end-of-week wind-down, OGIF is a vibrant platform where we celebrate achievements, exchange ideas, and inspire each other. It’s a dedicated time to explore diverse topics—from cutting-edge tech and coding techniques to career insights and societal impact.
+
+OGIF sessions create an open environment where everyone, from seasoned engineers to newcomers, can present, learn, and contribute. Whether you’re sharing a project’s lessons or tips for personal growth, OGIF amplifies our collective expertise through collaboration and constructive feedback, as outlined above. It’s your stage to shine and grow.
+
+TGIF may mark the weekend for some, but OGIF propels us forward with enthusiasm, ready to make an impact together.
 
 ## Sharing guidelines
 

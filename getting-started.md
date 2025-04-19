@@ -7,7 +7,6 @@ authors:
 tags:
   - handbook
   - onboarding
-
 ---
 
 ## What to expect

@@ -8,7 +8,6 @@ tags:
   - handbook
   - community
   - showcase
-
 ---
 
 ## Showcase: sharing our work

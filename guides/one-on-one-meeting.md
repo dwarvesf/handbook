@@ -10,7 +10,7 @@ tags:
   - guide
 ---
 
-Strong relationships are core to our culture, and **1-on-1 meetings are how we build them**. Every manager has a 1-on-1 with each direct report, usually weekly or whenever works best for both. This guide explains how we approach 1-on-1s at Dwarves Foundation and offers tips to keep them productive.
+Strong relationships are core to our culture, and **1-on-1 meetings are how we build them**. Every manager has a 1-on-1 with each direct report, usually weekly or whenever works best for both. This guide explains how we approach 1-on-1s and offers tips to keep them productive.
 
 ## Your first meeting
 

@@ -33,6 +33,8 @@ We maintain two liquidity pools, one for ICY and one for BTC. We add Bitcoin mon
 
 ![ICY tipping feature in Discord](assets/icy-tipping.webp)
 
+More at: [icy worth](icy-worth.md)
+
 ## Ways to earn ICY
 
 ### Easy ways to get started
@@ -63,7 +65,7 @@ We love celebrating life events and achievements within our community. These spe
 
 ## Research and development opportunities
 
-You can contribute to our knowledge base through various activities that help us all learn and grow. This includes sharing valuable links in tech channels, creating fleeting notes to capture initial ideas, writing permanent notes that solidify concepts, completing full topic research that dives deep into subjects, and participating in OGIF (Open Garage Innovation Friday) sessions where we explore new technologies together.
+You can contribute to our knowledge base through various activities that help us all learn and grow. This includes sharing valuable links in tech channels, creating fleeting notes to capture initial ideas, writing permanent notes that solidify concepts, completing full topic research that dives deep into subjects, and participating in [OGIF](sharing.md) sessions where we explore new technologies together.
 
 ![ICY intro](assets/icy-intro.webp)
 
@@ -71,7 +73,7 @@ You can contribute to our knowledge base through various activities that help us
 
 Visit [icy.so](https://icy.so) to redeem your ICY. You can:
 
-- Exchange it for USDC or Bitcoin
+- Exchange it for USDC or Bitcoin at [icy swap](icy-swap.md)
 - Withdraw it to your wallet
 - Use it in our upcoming ICY store
 

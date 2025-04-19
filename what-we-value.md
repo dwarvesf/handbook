@@ -1,17 +1,16 @@
 ---
 title: What we value
 date: 2019-02-21
-description: Our core values guide our strategies and individual actions so that we create a company whose character is as radical as our work. 
-authors: 
+description: Our core values guide our strategies and individual actions so that we create a company whose character is as radical as our work.
+authors:
   - tieubao
   - duy
-tags: 
+tags:
   - handbook
   - culture
-
 ---
 
-Values come first. They guide our decisions, shape our culture, and define who we are as a company. They're what we're proud of and what helps us navigate difficult choices. They'll likely be what you appreciate most about working with us at Dwarves Foundation.
+Values come first. They guide our decisions, shape our culture, and define who we are as a company. They're what we're proud of and what helps us navigate difficult choices. They'll likely be what you appreciate most about working with us.
 
 Our core values guide both our strategic direction and our day-to-day actions, creating a company whose character is as distinctive as our work:
 
@@ -124,7 +123,7 @@ Our team operates across different time zones, staying connected around the cloc
 
 ### Automation mindset
 
-Time is our most precious resource. The techniques and technologies we embrace at Dwarves Foundation help us save time through automation. If something happens more than three times and will likely recur, we find a way to automate it.
+Time is our most precious resource. The techniques and technologies we embrace help us save time through automation. If something happens more than three times and will likely recur, we find a way to automate it.
 
 As software transforms the world, tasks we perform today can be automated tomorrow. With our engineering capabilities, we can eliminate repetitive work and focus on what truly matters. Don't repeat yourself.
 

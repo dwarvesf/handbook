@@ -1,27 +1,22 @@
 ---
-title: FAQ
+title: FAQs
 date: 2018-10-18
 description: Common questions (and answers) about working with us
 authors:
   - tieubao
 tags:
   - handbook
-
 ---
 
 ## Frequently Asked Questions
 
-Here are answers to common questions about working at Dwarves Foundation. If you don't find what you're looking for, please reach out to us directly.
+Here are answers to common questions about working at Dwarves. If you don't find what you're looking for, please reach out to us directly.
 
 ## Practicalities
 
-### How do I change my personal information at Dwarves Foundation?
+### How do I change my personal information?
 
 Your personal information is secure in our HR system. To update your details, reach out to our HR team at <ops@d.foundation>. They'll guide you through the process.
-
-### How do I get my gear and equipment?
-
-If you need new equipment, complete the [Equipment Request form](https://d.foundation/equipment). Once approved, we'll ship your gear directly to you. For maintenance or repairs, contact <ops@d.foundation> and we'll help resolve any issues.
 
 ### I'm thinking about moving. How should I prepare?
 
@@ -110,10 +105,6 @@ We're committed to your growth and development:
 
 Speak with your team lead about your professional development goals, and we'll help support your journey.
 
----
-
-> Next: [Hybrid working](hybrid-working.md)
-
 ## People Operations
 
 ### The Culture
@@ -158,9 +149,9 @@ We don't really have the dress code, but everyone is expected to be well-groomed
 
 Clothing with offensive or inappropriate designs or stamps is not allowed. Clothing should not be too revealing.
 
-### Employee Contract
+### Employee contract
 
-As our employees demand having a credit card or borrowing from the bank, which requires proof of income, our team supports members by providing the proof of income letter and labor contract.  
+As our employees demand having a credit card or borrowing from the bank, which requires proof of income, our team supports members by providing the proof of income letter and labor contract.
 
 **How does the team provide proof of income letter?**
 
@@ -177,7 +168,7 @@ Please open a ticket and ping @Gthan and @hnh.
 
 Please ask the bank to provide the desired form for the income verification letter.
 
-### Team Email
+### Team email
 
 Dwarves Team uses Google Mail service to provide a true mailbox for members working on the client side. For others, the team will provide a virtual mailbox using the alias which is forwarded to the personal mailbox.
 
@@ -185,30 +176,28 @@ Dwarves Team uses Google Mail service to provide a true mailbox for members work
 
 - You can access the email alias when you are an official member of Dwarves Foundation. You will have a walkthrough about this with the ops team.
 - Open a ticket, and ping Quang to activate the alias.
-- Follow the [instructions](https://memo.d.foundation/playground/01_literature/configure-the-company-email/) here to add the alias to your email
+- Follow the [instructions](guides/configure-company-email.md) here to add the alias to your email
 
 **How to send email using alias?**
 
-- Make sure you follow this [instruction](https://memo.d.foundation/playground/01_literature/configure-the-company-email/) and setup this email successfully.
+- Make sure you follow this [instruction](guides/configure-company-email.md) and setup this email successfully.
 - Open the New Message box, select the alias that you want to send from
 
-    ![Alias email setup in Gmail](assets/faq-email-alias.webp)
-  
+![Alias email setup in Gmail](assets/faq-email-alias.webp)
+
 ### Benefit
 
-#### Education Allowance
+#### Education allowance
 
 The Education Allowance is part of our Benefits & Perks package designed to support your growth through learning and experimenting with new technologies. You will receive an annual budget to help you achieve your learning and development goals, whether it's for books, courses, or conferences.
 
 If you're interested in taking classes that you feel will improve you professionally or personally, here's what you need to know:
 
-**Who is eligible to receive it?**
+**Who is eligible to receive it?** \
+This benefit is available to any full-time Dwarf who has been with us for more than 6 months.
 
-  This benefit is available to any full-time Dwarf who has been with us for more than 6 months.
-
-**What is the limit?**
-
-  You have a $300 annual stipend for your educational pursuits.
+**What is the limit?** \
+You have a $300 annual stipend for your educational pursuits.
 
 **How do I submit a request?**
 
@@ -216,11 +205,11 @@ If you're interested in taking classes that you feel will improve you profession
 
   ![Education allowance submission process](assets/faq-education.webp)
 
-#### Bao Minh Insurance
+#### Bao Minh insurance
 
 [Bao Minh Insurance](https://www.baominh.com.vn/) is a health insurance provided by Bao Minh Company. All employees have a quota for medical check-ups based on specific categories.
 
-### Basic conditions for receiving the Bao Minh Health Insurance card for full-time employees
+**Basic conditions for receiving the Bao Minh Health Insurance card for full-time employees**
 
 - Passed probation
 - Do not require the company to pay Social Insurance (SI) and Health Insurance (HI).
@@ -310,21 +299,19 @@ We have a short note on this topic [Moonlighting](moonlighting.md).
 We build a small web app for it: [sign.d.foundation](https://sign.d.foundation).
 
 **How to raise an issue?** \
-Depend on the particular circumstances, you can follow the section [Raising an Issue](how-we-work.md#raising-an-issue) or just post a pitch to Basecamp.
+Depend on the particular circumstances, you can follow the section [Raising an issue](how-we-work.md#raising-an-issue) or just post a pitch to Basecamp.
 
 We also have the anonymous feedback form for those who're shy. Check the Woodland HQ message board.
 
-#### Project Bonus
+#### Project bonus
 
 Essentially, anyone participating in project consulting will receive a bonus. If certain projects have extra bonuses for the team, there will be an announcement beforehand on a case-by-case basis. Bonuses are calculated and allocated based on the customer's billing.
 
-**When will the project bonus be received?**
+**When will the project bonus be received?** \
+Project bonuses are received monthly after the client has paid the bill.
 
-  Project bonuses are received monthly after the client has paid the bill.
-
-**How is it calculated?**
-
-  The bonus from the client is evenly distributed among all members participating in the project, including the account manager, project manager (PM), and delivery manager (DM).
+**How is it calculated?** \
+The bonus from the client is evenly distributed among all members participating in the project, including the account manager, project manager (PM), and delivery manager (DM).
 
 **What is the responsibility of the Project Lead?**
 
@@ -348,4 +335,4 @@ Bonuses are based on your impact on the project and how much you contribute to i
 
 Our goal is to ensure that projects meet our quality standards. We may ask an engineer to join a project as a supporter at first, in order to learn the ropes under his or her mentor/lead.
 
-As soon as the engineer is ready to work on his or her own, we'll convert him or her into a full-time team member and begin charging clients for his or her billable hours. For more information, please check out [How We Hire](https://github.com/dwarvesf/handbook/blob/master/how-we-hire.md#referral).  
+As soon as the engineer is ready to work on his or her own, we'll convert him or her into a full-time team member and begin charging clients for his or her billable hours. For more information, please check out [How we hire](how-we-hire.md#referral).

@@ -2,18 +2,17 @@
 title: Moonlighting
 date: 2019-02-21
 description: We support your growth through side projects while ensuring they don't conflict with your work at Dwarves Foundation. This policy helps you balance outside work with your primary responsibilities.
-authors: 
+authors:
   - tieubao
-tags: 
+tags:
   - handbook
-
 ---
 
 ## Balancing outside work
 
-Moonlighting means working on professional, paid jobs outside your work at Dwarves Foundation. We recognize this isn't a black-and-white topic. One-time gigs, personal pursuits, and opportunities that help you grow can make life more interesting and fulfilling. We want to support these endeavors.
+Moonlighting means working on professional, paid jobs outside your work. We recognize this isn't a black-and-white topic. One-time gigs, personal pursuits, and opportunities that help you grow can make life more interesting and fulfilling. We want to support these endeavors.
 
-At the same time, we need to ensure outside work doesn't create conflicts of interest or affect your focus, dedication, or performance at Dwarves Foundation. Finding this balance requires thoughtful consideration.
+At the same time, we need to ensure outside work doesn't create conflicts of interest or affect your focus, dedication, or performance. Finding this balance requires thoughtful consideration.
 
 ## Activities we support
 
@@ -33,7 +32,7 @@ Here are situations we consider problematic:
 2. **Regular speaking tours** requiring multiple days of travel several times per year. This level of absence disrupts our work schedule and affects your teammates.
 3. **Consulting for potential competitors** or companies with products related to Dwarves Foundation where conflicts of interest might arise.
 4. **Aggressively marketing yourself** for side work. If opportunities come through friends or connections, that's acceptable, but actively promoting your availability for side work will eventually create conflicts with your work here.
-5. **Outside commitments that divert attention from your work**. For example, launching an app that requires timely customer support would pull focus from your responsibilities at Dwarves Foundation.
+5. **Outside commitments that divert attention from your work**. For example, launching an app that requires timely customer support would pull focus from your responsibilities.
 
 ## Guiding principles
 

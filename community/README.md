@@ -11,7 +11,7 @@ tags:
   - community
 ---
 
-At Dwarves Foundation, we believe that learning is one of the most important aspects of any organization. We also believe in creating a culture that fosters learning and innovation.
+We believe that learning is one of the most important aspects of any organization. We also believe in creating a culture that fosters learning and innovation.
 
 We want to demonstrate and encourage individual and organizational learning, where both gaining and sharing knowledge is prioritized, valued, and rewarded. Learning is an ongoing process that never ends in our fast-moving industry. The concept of continued learning at Dwarves Foundation has become synonymous with having a growth mindset ,  a belief in your own ability to change or grow through experience or study.
 
@@ -28,5 +28,5 @@ We also believe that every employee has something to teach others, whether it is
 
 - [Sharing](sharing.md)
 - [Showcase](showcase.md)
-- [tech-radar](radar.md)
-- [Brainery](https://github.com/dwarvesf/brain)
+- [Tech radar](radar.md)
+- [Brainery](https://github.com/dwarvesf/playgroud)

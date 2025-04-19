@@ -2,14 +2,13 @@
 title: Who does what
 date: 2019-02-21
 description: Figuring out who to ask about a specific issue or question shouldn't be a guessing game. This guide outlines our main areas of focus and who helps lead them.
-authors: 
+authors:
   - tieubao
-tags: 
+tags:
   - handbook
-
 ---
 
-Knowing who to bring a question or issue to should be straightforward. Most things fall within the focus of a specific group or "chair" at Dwarves Foundation. While the people mentioned here are good starting points, remember everyone at Dwarves is approachable and happy to point you in the right direction. If you have a question, ask it – chances are you're not the first.
+Knowing who to bring a question or issue to should be straightforward. Most things fall within the focus of a specific group or "chair" at Dwarves. While the people mentioned here are good starting points, remember everyone at Dwarves is approachable and happy to point you in the right direction. If you have a question, ask it – chances are you're not the first.
 
 ## Our expectations
 
