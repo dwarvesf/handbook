@@ -5,8 +5,7 @@ description: Learn how to create a Map of Content (MOC) for knowledge hubs. This
 authors:
   - zlatanpham
 tags:
-  - instructions
-  - guideline
+  - guide
   - moc
 ---
 
@@ -27,10 +26,10 @@ Knowing when to create an MOC is crucial for effective project and idea manageme
 
 MOCs offer several advantages:
 
-- **Reduces Overwhelm:** Organizes notes to ease anxiety and prevent slowdowns.
-- **Encourages Ideation:** Promotes rapid idea development and interaction.
-- **Enhances Navigation:** Simplifies finding and recalling information.
-- **Supports Scalability:** Grows with thoughts, enhancing understanding.
+- **Reduces overwhelm:** Organizes notes to ease anxiety and prevent slowdowns.
+- **Encourages ideation:** Promotes rapid idea development and interaction.
+- **Enhances navigation:** Simplifies finding and recalling information.
+- **Supports scalability:** Grows with thoughts, enhancing understanding.
 - **Flexibility:** Provides a non-restrictive way to organize and link information.
 
 ## **How to Create a MOC**

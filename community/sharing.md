@@ -20,7 +20,7 @@ This cycle of sharing and feedback is how we collectively learn and grow.
 
 ## OGIF
 
-**OGIF** (Oh God It’s Friday) brings our knowledge-sharing culture to life every Friday. Unlike a typical end-of-week wind-down, OGIF is a vibrant platform where we celebrate achievements, exchange ideas, and inspire each other. It’s a dedicated time to explore diverse topics—from cutting-edge tech and coding techniques to career insights and societal impact.
+**OGIF** (Oh God It’s Friday) brings our knowledge-sharing culture to life every Friday. Unlike a typical end-of-week wind-down, OGIF is a vibrant platform where we celebrate achievements, exchange ideas, and inspire each other. It’s a dedicated time to explore diverse topics, from cutting-edge tech and coding techniques to career insights and societal impact.
 
 OGIF sessions create an open environment where everyone, from seasoned engineers to newcomers, can present, learn, and contribute. Whether you’re sharing a project’s lessons or tips for personal growth, OGIF amplifies our collective expertise through collaboration and constructive feedback, as outlined above. It’s your stage to shine and grow.
 

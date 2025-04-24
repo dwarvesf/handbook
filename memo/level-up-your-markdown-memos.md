@@ -1,13 +1,12 @@
 ---
-title: "Level up your Markdown memos: Avoiding Common Pitfalls"
+title: 'Avoid common pitfalls in Memo'
 date: 2024-04-05
 description: null
 authors:
   - bringastar
 tags:
   - community
-  - instructions
-  - guideline
+  - guide
 ---
 
 Markdown uses symbols and stuff to make your text look fancy. It's like learning a new skill, game, or design program - there will be bumps in the road before you're a pro. This article will show you some common mistakes people make when writing Memo posts with Markdown and how to fix them. Here's what we'll cover:
@@ -145,7 +144,7 @@ We all know a picture is worth a thousand words, and screenshots are like tiny p
 - **Display images with incorrect aspect ratio:** Design your images in a horizontal rectangular frame with an aspect ratio of `21:9`, `16:9`, or `4:3`. Avoid using vertical rectangles as it will enlarge the image and affect the layout of your document.
 - **Low Resolution:** A blurry or pixelated screenshot can be frustrating and impede understanding. Make sure the screenshot resolution is high enough to clearly.
 
-Lots of people use different screenshot tools, kind of like having a favorite app for every task. For instance, on my Windows, I rock ShareX, while on Mac, [Cleanshot](https://memo.d.foundation/playground/how-to-take-better-screenshots-on-mac/) is my go-to. Because different tools offer different features! The point is, if you need more than the basics, there's a whole world of screenshot tools out there to explore. They cater to all sorts of needs, from quick captures to fancy edits.
+Lots of people use different screenshot tools, kind of like having a favorite app for every task. For instance, on my Windows, I rock ShareX, while on Mac, [Cleanshot](../guides/take-better-screenshots-on-mac.md) is my go-to. Because different tools offer different features! The point is, if you need more than the basics, there's a whole world of screenshot tools out there to explore.  They cater to all sorts of needs, from quick captures to fancy edits.
 
 Remember, a well-made screenshot can be a superhero in presentations, tutorials, or any situation where you need crystal-clear visuals. Think of it as a shortcut – a way to explain something complex with a simple picture. So go forth and conquer the world of screenshots – you've got this!
 

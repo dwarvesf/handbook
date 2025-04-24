@@ -3,18 +3,16 @@ title: Set up crypto wallet
 date: 2024-03-13
 description: To withdraw ICY to bank or other fiat, you need set up 2 types of wallet in advance. This guide will show you how to setup crypto wallet.
 authors:
-  - minhcloud
+  - minh_cloud
 tags:
   - icy
-  - dfg
-  - tutorial
 ---
 
 To withdraw ICY to bank or other fiat, you need set up 2 types of wallet in advance.
 
 1. On-chain wallet (Non-custodial wallet, such as: Coinbase, Metamask): This kind of wallet is needed to receive ICY and swap ICY to USDT.
 2. Custodial wallet (such as: Binance): This kind of wallet is used to convert USDT to VND.
-   After setup these two wallet, please follow this [guidline](https://memo.d.foundation/playground/01_literature/_how-to-withdraw-icy) to withdraw ICY.
+After setup these two wallet, please follow this [guidline](icy-withdraw.md) to withdraw ICY.
 
 ### Set up Coinbase wallet
 

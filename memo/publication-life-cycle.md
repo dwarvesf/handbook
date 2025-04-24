@@ -1,13 +1,12 @@
 ---
-title: Life cycle of a publication
+title: Memo publication life cycle
 date: 2024-03-21
-description: Following the core theme of MMA (Mastery, Meaning, Autonomy), every piece of content we put out requires a strategic approach, so it can cut through the noise, serve purposes and meanings to readers. Whether we're crafting a note, article, research report, or digital post, the process and cycle remain largely the same...
+description: Following the core theme of MMA (Mastery, Meaning, Autonomy), every piece of content we put out requires a strategic approach, so it can cut through the noise, serve purposes and meanings to readers.
 authors:
   - nikkingtr
 tags:
-  - communications
-  - content
-  - guidelines
+  - memo
+  - guide
 ---
 
 Following the core theme of MMA (Mastery, Meaning, Autonomy), every piece of content we put out requires a strategic approach, so it can cut through the noise, serve purposes and meanings to readers.
@@ -15,7 +14,7 @@ Whether we're crafting a note, article, research report, or digital post, the pr
 
 ## Recording knowledge
 
-We follow the [Zettelkasten Method](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjd1sqOxYSFAxWJma8BHS9-CmoQFnoECBAQAQ&url=https%3A%2F%2Fzettelkasten.de%2Foverview%2F&usg=AOvVaw3FPgOjz3YA4-_7PSvM22et&opi=89978449) to record and organize knowledge. In short, every new thing we learn is stored as a fleeting note. Fleeting notes are conntected to one another by headings and metadata such as tags or numbers.
+We follow the [Zettelkasten Method](organize-team-know-how-with-zettelkasten-method.md) to record and organize knowledge. In short, every new thing we learn is stored as a fleeting note. Fleeting notes are conntected to one another by headings and metadata such as tags or numbers.
 
 Fleeting notes can be personal to each team members, or can be shared through our Playground. When we need to craft a piece of content for a certain topic, we can just pull up related fleeting notes to start.
 

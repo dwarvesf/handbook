@@ -6,8 +6,7 @@ authors:
   - ooohminh
   - innnotruong
 tags:
-  - instructions
-  - guideline
+  - guide
   - memo
 ---
 
@@ -22,7 +21,7 @@ If you’re unsure where your content fits, just message our supporters on Disco
 ### Writing your content
 
 - To set up your local environment for writing a memo, check out [this guide](how-to-set-up-environment-for-editing-memo.md).
-- To learn how to write, submit, and publish your memo, see [this guide](). Before you start, ensure each article includes these **mandatory fields**: title, description, author, date, and tags.
+- To learn how to write, submit, and publish your memo, see [this guide](publish-on-memo.md). Before you start, ensure each article includes these **mandatory fields**: title, description, author, date, and tags.
 
 ![](assets/memo-publication-workflow-metadata.webp)
 

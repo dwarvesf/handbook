@@ -1,13 +1,12 @@
 ---
-title: How to push content on memo.d.foundation
+title: How to publish content on Dwarves Memo
 date: 2024-03-04
-description: This is a guide on how to setup your environment and settings to push content to our notes website, memo.d.foundation.
+description: This is a guide on how to setup your environment and settings to push content to our Dwarves Memo.
 authors:
-  - minhcloud
+  - minh_cloud
 tags:
-  - content
-  - instructions
-  - guideline
+  - memo
+  - guide
 ---
 
 ## Before edit or create a new post
@@ -29,14 +28,14 @@ Everytime you want to edit or create a new post, please make sure that the data 
 
 ```md
 ---
-tags:
-  - [tag1]
-  - [tag2]
-  - [tag3]
 title: [The title]
 date: yyyy-mm-dd
 description: [your description]
 authors: [your name]
+tags: 
+  - [tag1]
+  - [tag2]
+  - [tag3]
 ---
 ```
 

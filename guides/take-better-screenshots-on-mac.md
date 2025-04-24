@@ -5,9 +5,7 @@ description: Taking screenshots of them shouldn’t be that challenging. In this
 authors:
   - innnotruong
 tags:
-  - community
-  - instructions
-  - guideline
+  - guide
 ---
 
 I grab screenshots pretty often. Although macOS’s native screenshot tool is decent for most cases, it’s still a very basic one. Here are a few tips on how to take great-looking screenshots with a simple tool and in less time.
@@ -25,7 +23,8 @@ CleanShot X is actually an app I downloaded as part of my Setapp subscription. I
 
 ## Using CleanShot X
 
-**Added keyboard shortcuts to Quick Access Overlay**
+### **Added keyboard shortcuts to Quick Access Overlay**
+
 You can spend time figuring out what workflow and keyboard shortcuts are best for you. Open settings, here’s what I found works best for my setup.
 
 - `Command Shift 4`: capturse an area / a part of the screen
@@ -38,9 +37,9 @@ You can spend time figuring out what workflow and keyboard shortcuts are best fo
 - `⌘U`: Upload to Cloud
 - `⌘E`: Open annotation tool
 
-CleanShot is highly customizable — you can adjust nearly every behavior and tweak settings for your needs.
+CleanShot is highly customizable, you can adjust nearly every behavior and tweak settings for your needs.
 
-**Annotation and Editing Tools**
+### **Annotation and Editing Tools**
 
 - **Annotate**: Annotate your screenshots with various tools. Highlight or hide specific parts of your screenshots, crop, and add necessary annotations.
 
@@ -50,17 +49,18 @@ CleanShot is highly customizable — you can adjust nearly every behavior and tw
 
 - **Using Dwarves color scheme in Background Tool:** when editing your cropped screenshot in Cleanshot, you have the option to place it on a blank canvas or use Dwarves’ branding color scheme. It's also possible to easily customize the screenshot.
 
-1. **Customization at Pain Color:** choose a custom color using the RGB sliders then enter a Hex code **`F8F8F8`**.
-2. **Dwarves' Branding Scheme:** Set Dwarves' branding colors as the background wallpaper (if different from Pain Color).
-3. **Alignment:** center your screenshot on the canvas for a balanced look.
-4. **Padding:** adjust the padding to 76 for optimal spacing around your content.
-5. **Shadow:** apply a shadow effect with a strength of 28 to enhance the depth of your screenshot.
-6. **Dwarves Logo:** add the Dwarves logo in the top left corner
+  1. **Customization at Pain Color:** choose a custom color using the RGB sliders then enter a Hex code **`F8F8F8`**.
+  2. **Dwarves' Branding Scheme:** Set Dwarves' branding colors as the background wallpaper (if different from Pain Color).
+  3. **Alignment:** center your screenshot on the canvas for a balanced look.
+  4. **Padding:** adjust the padding to 76 for optimal spacing around your content.
+  5. **Shadow:** apply a shadow effect with a strength of 28 to enhance the depth of your screenshot.
+  6. **Dwarves Logo:** add the Dwarves logo in the top left corner
 
 ![](assets/how-to-take-better-screenshots-on-mac_df-color-scheme.webp)
+
 ![](assets/how-to-take-better-screenshots-on-mac_rgb-df.webp)
 
-**Screen Capture Features**
+### **Screen Capture Features**
 
 - **Scrolling capture**: refers to taking a screenshot of a webpage while scrolling down. Select the Scrolling screenshot, start scrolling slowly, or use auto-scrolling.
   This feature is used when using VSCode to write articles/publications and will submit screenshots to the manager for feedback on both content and visual.
@@ -77,4 +77,4 @@ CleanShot is highly customizable — you can adjust nearly every behavior and tw
 
 ## Overall
 
-This guide will help you quickly make great screenshots with this tool. It does exactly what we need it to do, and I think you'll love it, too. Keep practicing with these tools—they're like the cherry on top, adding that extra something to your work.
+This guide will help you quickly make great screenshots with this tool. It does exactly what we need it to do, and I think you'll love it, too. Keep practicing with these tools, they're like the cherry on top, adding that extra something to your work.

@@ -5,9 +5,7 @@ description: Peeps NFT is an NFT collection specialized for Dwarves Foundation m
 authors:
   - minhcloud
 tags:
-  - ops
   - icy
-  - nft
 ---
 
 ### What is Peeps NFT

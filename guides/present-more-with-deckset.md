@@ -6,8 +6,7 @@ authors:
   - bringastar
 tags:
   - community
-  - instructions
-  - guideline
+  - guide
 ---
 
 Do you ever feel overwhelmed by the myriad of design tools and options in PowerPoint, or the countless books and tutorials dedicated to beautifying a single sentence on a 100-inch screen?You're not alone! As a designer myself, I used to get caught up in the "beautification" trap, spending hours tweaking layouts, colors, fonts, and more, only to realize that the content of my presentation was the key factor.
@@ -40,7 +39,7 @@ To install Deckset, first download the [software version](https://drive.google.c
 
 ## Add content to slides
 
-The beauty of Deckset is, it lets you focus on what truly matters – the content of your presentation! Don't worry about fiddling with design elements; Deckset gives you a handy preview of each slide. Want to see a full view? Just double click on it. Made a typo or have more ideas? Click "Edit" and Deckset will open your presentation in your markdown document (like VSCode).
+The beauty of Deckset is, it lets you focus on what truly matters, the content of your presentation! Don't worry about fiddling with design elements; Deckset gives you a handy preview of each slide. Want to see a full view? Just double click on it. Made a typo or have more ideas? Click "Edit" and Deckset will open your presentation in your markdown document (like VSCode).
 
 Here's the cool part: you get a tiny Deckset preview window floating beside you as you edit. Even better, the preview updates live as you make changes! This makes editing text a breeze and lets you experiment with quotes, code, and other content types to see how they translate into Deckset's stylish themes. It's a small feature, but a powerful one that builds confidence in your editing and lets you explore the unique styles your presentation can take.
 
@@ -61,8 +60,7 @@ Deckset also provides a variety of tools to add content to your slides, includin
 
 **Code block:**
 
-````javascript
-```javascript
+``` javascript
 $.ajax({
   url: "/api/getWeather",
   data: {
@@ -72,8 +70,7 @@ $.ajax({
     $( "#weather-temp" ).html( "" + data + " degrees" );
   }
 });
-```;
-````
+```
 
 **Table:**
 

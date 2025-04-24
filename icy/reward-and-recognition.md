@@ -3,28 +3,31 @@ title: ICY reward and recognition
 description: null
 authors:
   - zlatanpham
+tags:
+  - icy
+  - recognition
 ---
 
-We have recently moved to [ICY](https://icy.d.foundation/), a cryptocurrency we use to reward writers in our [Discord server](http://discord.gg/dfoundation).
+We have recently moved to [ICY](https://icy.d.foundation/), a token we use to reward writers in our [Discord server](http://discord.gg/dfoundation).
 
 Prior to ICY, we had given out rewards based on what we felt our writers deserved for their work. This page is a more concrete criteria to inform writers the value of their content when contributing to our Brainery.
 
-## Reward Criteria
+## Reward criteria
 
 Our monthly budget for rewarding ICY is around **260-300 ICY per month**. _This may change in the future_, especially if we see greater traction and inputs to our Brainery. As such, starting as of December 14, 2022, the criteria to claim ICY for notes are:
 
-### Permanent Notes Criteria
+### Permanent notes criteria
 
-| Range ICY | Criteria                                                                                                                                                                                                                                                           |
-| --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Range ICY | Criteria |
+| --------- | -------- |
 | 7.5 - 10  | The note is above 200 words and is succinctly composed of proper sentences and paragraphs. The note is relatively coherent and may have some visuals or images to better explain the entry.                                                                        |
 | 5 - 7.5   | The note is around 200 words or less, containing some sentences, but may be mainly composed of bullet points. The entry is somewhat coherent, but may be obscured due to a lack of written words.                                                                  |
 | 0 - 5     | The note is around 200 words or less, containing some or no complete sentences and is mostly composed of bullet points. The entry is mostly in the form of a fleeting note, such that the audience for the summary is more for the writer, rather than the reader. |
 
-### Fleeting Notes Criteria
+### Fleeting notes criteria
 
-| Range ICY | Criteria                                                                                                                                                                              |
-| --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Range ICY | Criteria |
+| --------- | -------- |
 | 2.5 - 5   | The note is around 200 words or less, containing has some sentences, but may be mainly composed of bullet points. The entry is contextually coherent.                                 |
 | 0 - 2.5   | The note is around 100 words or less, containing no complete sentences and is mostly composed of bullet points. The entry is not apparently coherent, and may contain copied phrases. |
 
