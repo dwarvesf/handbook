@@ -4,7 +4,7 @@ date: 2019-02-21
 description: Our core values guide our strategies and individual actions so that we create a company whose character is as radical as our work.
 authors:
   - tieubao
-  - duy
+  - duynglam
 tags:
   - handbook
   - culture

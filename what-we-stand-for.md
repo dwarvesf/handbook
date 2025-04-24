@@ -4,7 +4,7 @@ date: 2019-02-21
 description: How we empower innovation through software craftsmanship and build products that matter
 authors:
   - tieubao
-  - duy
+  - duynglam
 tags:
   - handbook
   - purpose
