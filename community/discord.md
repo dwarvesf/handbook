@@ -1,12 +1,13 @@
 ---
+
 title: Dwarves Network Discord
 short_title: Discord
 date: 2024-03-13
 description: Our Discord isn't just another company server; it's a place for both our team and the wider developer community. This guide explains how it works and where you fit in.
 authors:
-  - innno_
+  - innnotruong
   - monotykamary
-  - hnh
+  - huynguyenh
 tags:
   - handbook
   - community

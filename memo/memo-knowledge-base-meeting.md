@@ -1,9 +1,10 @@
 ---
+
 title: Memo meeting
 date: 2024-06-20
 description: Here are the simple steps we follow each week to keep the Memo content pipeline organized and our team informed. 
 authors:
-  - innno_
+  - innnotruong
 tags:
   - memo
   - instructions

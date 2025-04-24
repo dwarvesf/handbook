@@ -1,8 +1,9 @@
 ---
+
 title: ICY reward and recognition
 description: null
 authors:
- - thanh
+  - zlatanpham
 ---
 
 We have recently moved to [ICY](https://icy.d.foundation/), a cryptocurrency we use to reward writers in our [Discord server](http://discord.gg/dfoundation).

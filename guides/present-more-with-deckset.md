@@ -1,9 +1,10 @@
 ---
+
 title: Present more with Deckset
 date: 2024-04-05
 description: null
-authors: 
-  - anna
+authors:
+  - bringastar
 tags: 
   - community
   - instructions

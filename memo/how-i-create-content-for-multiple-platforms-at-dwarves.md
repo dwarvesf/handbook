@@ -1,9 +1,10 @@
 ---
+
 title: How I create content for multiple platforms
 date: 2024-05-03
 description: To help all our Dwarves team members, create original, helpful, and consistent writing across various platforms, we've put together this content guideline as a reference whenever we're writing for Dwarves.
 authors:
-  - innno_
+  - innnotruong
   - nikkingtr
 tags:
   - content

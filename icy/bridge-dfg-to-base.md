@@ -1,9 +1,10 @@
 ---
+
 title: How to bridge $DFG from Ethereum to Base for staking
 date: 2024-04-19
 description: This guide will show you how to move $DFG from Ethereum to Base using a bridge. 
-authors: 
-  - minh
+authors:
+  - ooohminh
   - jack
 tags: 
   - dfg

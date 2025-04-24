@@ -1,9 +1,10 @@
 ---
+
 title: $icy salary advance
 date: 2023-11-23
 description: A short-term credit benefit for full-time peeps.
 authors:
-  - hnh
+  - huynguyenh
 tags:
   - dwarves
   - icy

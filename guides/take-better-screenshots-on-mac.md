@@ -1,9 +1,10 @@
 ---
+
 title: How to take better screenshots on Mac
 date: 2024-03-13
 description: Taking screenshots of them shouldn’t be that challenging. In this article, I’ll take you through my screenshot workflow with a handful of simple tools and techniques and grab screenshots with negligible effort.
 authors:
-  - innno_
+  - innnotruong
 tags:
   - community
   - instructions

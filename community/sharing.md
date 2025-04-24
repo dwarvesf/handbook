@@ -1,9 +1,10 @@
 ---
+
 title: Sharing knowledge
 date: 2022-09-05
 description: Sharing knowledge and skills is core to our culture. Learn why it's vital for growth, how it improves communication, and see guidelines for effective sharing.
 authors:
-  - thanh
+  - zlatanpham
 tags:
   - handbook
   - culture

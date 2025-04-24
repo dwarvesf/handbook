@@ -1,9 +1,10 @@
 ---
+
 title: How much is your ICY worth
 date: 2025-03-06
 description: Learn how ICY's value has evolved from a fixed USDC-backed model to a dynamic Bitcoin-backed system. We'll explain what this means for your holdings and how to track your ICY's value.
 authors:
-  - hnh
+  - huynguyenh
 tags:
   - icy
 ---

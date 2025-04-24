@@ -1,9 +1,10 @@
 ---
+
 title: How to swap ICY to BTC
 date: 2025-03-04
 description: A friendly guide to converting your ICY tokens to Bitcoin (BTC) using our platform. We'll walk you through the process step by step, from wallet setup to transaction monitoring.
 authors:
-  - quang
+  - lmquang
 tags:
   - icy
 ---

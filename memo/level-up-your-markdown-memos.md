@@ -1,9 +1,10 @@
 ---
+
 title: 'Level up your Markdown memos: Avoiding Common Pitfalls'
 date: 2024-04-05
 description: null
 authors:
-  - anna
+  - bringastar
 tags: 
   - community
   - instructions

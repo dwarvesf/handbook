@@ -1,10 +1,11 @@
 ---
+
 title: Memo publication workflow
 date: 2024-06-12
 description: This guide will help you step-by-step create content and publish on memo. 
 authors:
-  - minh
-  - innno_
+  - ooohminh
+  - innnotruong
 tags:
   - instructions
   - guideline
