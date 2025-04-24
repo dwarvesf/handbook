@@ -1,5 +1,4 @@
 ---
-
 title: Office check-in process for earning ICY
 date: 2024-09-25
 description: A guide on how to check in at the office and claim ICY token rewards.

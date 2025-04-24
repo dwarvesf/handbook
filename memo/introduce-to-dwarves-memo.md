@@ -2,7 +2,7 @@
 title: Introduce to Dwarves Memo
 date: 2020-05-17
 description: null
-tags: 
+tags:
   - updates
 ---
 
@@ -21,21 +21,21 @@ Memo is our medium, takes place as the 3rd tab on our current [Dwarves Website]
 
 The CMS for Memo is [Outline](https://outline.d.foundation/home). The document tree is classified into these categories
 
-* Company: company updates & year-end recaps
-* Culture: the culture values, or facts & figures
-* Design: blog post & team research of Design
-* Engineering: blog post & team research of Engineering
-* Podcast: transcript from webinar & interview
-* Workflow: short write-up of our working system
+- Company: company updates & year-end recaps
+- Culture: the culture values, or facts & figures
+- Design: blog post & team research of Design
+- Engineering: blog post & team research of Engineering
+- Podcast: transcript from webinar & interview
+- Workflow: short write-up of our working system
 
 ### Metadata
 
 A direct parse was conducted from Outline to Memo. Once you hit the 'publish' button on your Outline document, it should be successfully landed on Memo a few secs later. To make sure a blog post can make it, please input these metadata at first  
 
-* spoiler: A brief introduction of the blog content
-* tags: keywords that distinguishes your post. If you don't want to make it detailedly, try blog, engineering, design at least
-* authors: Use the naming convention of your team email address
-* dates: YYYY-MM-DD
+- spoiler: A brief introduction of the blog content
+- tags: keywords that distinguishes your post. If you don't want to make it detailedly, try blog, engineering, design at least
+- authors: Use the naming convention of your team email address
+- dates: YYYY-MM-DD
 
 A qualified draft for a blog post should appear like this
 
@@ -45,9 +45,9 @@ A qualified draft for a blog post should appear like this
 
 Headlines in Memo should follow the order of Markdown, which is H1 - H2 & H3. For those who haven't gotten familiarized with this:
 
-* H1: put 1 # before your headline
-* H2: put 2 ## before your headline
-* H3: pit 3 ### before your headline
+- H1: put 1 # before your headline
+- H2: put 2 ## before your headline
+- H3: pit 3 ### before your headline
 
 H3 should be the smallest level of headlines here. Any titles smaller than that can be marked as **bold**, or put it in numeric/ alphabetical order.
 

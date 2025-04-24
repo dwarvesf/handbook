@@ -30,9 +30,9 @@ Also, important chats and decisions from **Basecamp** and **Discord** get added 
 
 It's not just a pile of files; it helps us work smarter. We build tools using this info so you can easily:
 
-* Find answers about how we do things or company policies.
-* Look up past projects or check reports.
-* See what's new in our industry.
+- Find answers about how we do things or company policies.
+- Look up past projects or check reports.
+- See what's new in our industry.
 
 Think of it like this: it's our team's collective know-how. As we keep working and learning, this place grows with us. It shows we're serious about getting better at what we do.
 

@@ -1,12 +1,11 @@
 ---
-
 title: How to bridge $DFG from Ethereum to Base for staking
 date: 2024-04-19
-description: This guide will show you how to move $DFG from Ethereum to Base using a bridge. 
+description: This guide will show you how to move $DFG from Ethereum to Base using a bridge.
 authors:
   - ooohminh
   - jack
-tags: 
+tags:
   - dfg
   - icy
   - tutorial
@@ -28,7 +27,7 @@ Here is how it goes:
 
 1. Head on over to [DFG Bridge](https://bridge.d.foundation/), lovingly crafted by Jack, one of our awesome community members. Connect your wallet to the site.
 
-    ![](assets/how-to-transfer-dfg-from-eth-to-base-for-staking_bridge.d.foundation.webp)
+   ![](assets/how-to-transfer-dfg-from-eth-to-base-for-staking_bridge.d.foundation.webp)
 
 2. Once your wallet is connected, your address will show up in the blue box, fill out these:
 
@@ -37,15 +36,15 @@ Here is how it goes:
 - Enter the amount you want to send.
 - The address on the Base network should be your connected wallet by default.
 
-    ![](assets/how-to-transfer-dfg-from-eth-to-base-for-staking_bride_amount.webp)
+  ![](assets/how-to-transfer-dfg-from-eth-to-base-for-staking_bride_amount.webp)
 
 3. Once you've filled in those blanks, hit Approve, and confirm a couple of transactions on Coinbase Wallet.
 
-    ![](assets/how-to-transfer-dfg-from-eth-to-base-for-staking_approve_bride.webp)
+   ![](assets/how-to-transfer-dfg-from-eth-to-base-for-staking_approve_bride.webp)
 
-    - **Spending Cap**: The spending cap limits how much cryptocurrency you can spend at once or over time.
-    - **Approval**: Each transaction must be approved to ensure awareness and consent, enhancing security and preventing unauthorized or accidental transactions.
+   - **Spending Cap**: The spending cap limits how much cryptocurrency you can spend at once or over time.
+   - **Approval**: Each transaction must be approved to ensure awareness and consent, enhancing security and preventing unauthorized or accidental transactions.
 
 4. Then just sit back and wait for your DFG to roll into your Base wallet.
 
-    ![](assets/how-to-transfer-dfg-from-eth-to-base-for-staking_approve_bride_3.webp)
+   ![](assets/how-to-transfer-dfg-from-eth-to-base-for-staking_approve_bride_3.webp)

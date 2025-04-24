@@ -1,5 +1,4 @@
 ---
-
 title: How to take better screenshots on Mac
 date: 2024-03-13
 description: Taking screenshots of them shouldn’t be that challenging. In this article, I’ll take you through my screenshot workflow with a handful of simple tools and techniques and grab screenshots with negligible effort.
@@ -31,7 +30,7 @@ You can spend time figuring out what workflow and keyboard shortcuts are best fo
 
 - `Command Shift 4`: capturse an area / a part of the screen
 - `Command Shift 3`: captures full screen
-- `Command Shift 5`: captures  all-in-one
+- `Command Shift 5`: captures all-in-one
 - `Command Shift 5`: captures window
 - `⌘C`: Copy to clipboard
 - `⌘S`: Save
@@ -64,7 +63,7 @@ CleanShot is highly customizable — you can adjust nearly every behavior and tw
 **Screen Capture Features**
 
 - **Scrolling capture**: refers to taking a screenshot of a webpage while scrolling down. Select the Scrolling screenshot, start scrolling slowly, or use auto-scrolling.
-This feature is used when using VSCode to write articles/publications and will submit screenshots to the manager for feedback on both content and visual.
+  This feature is used when using VSCode to write articles/publications and will submit screenshots to the manager for feedback on both content and visual.
 
 ![](assets/how-to-take-better-screenshots-on-mac_scrolling-capture_compressed.mp4)
 

@@ -3,8 +3,8 @@ title: Borrowing & requesting company assets
 short_title: Request an asset
 date: 2019-02-21
 description: How to borrow company assets like books or devices, or request new ones. Simple steps for getting the gear you need.
-authors: 
-tags: ['handbook', 'assets', 'guide']
+authors:
+tags: ["handbook", "assets", "guide"]
 ---
 
 Need a piece of gear to get your job done? We've got company assets like books and devices available, and we're happy for you to use them! Here's how the process works for borrowing, returning, and requesting new items.
@@ -18,7 +18,7 @@ We use **Basecamp** for tracking this. Here's how to make a borrow request:
 1. Go to the **Woodland** project in Basecamp.
 2. Find the **"Request"** To-Do list ([link here](https://3.basecamp.com/4108948/buckets/9403032/todolists/1557155199)).
 3. Create a new To-Do using this format:
-    > **Your name | Type - Name/Id of the asset | Borrowing date | Returning date**
+   > **Your name | Type - Name/Id of the asset | Borrowing date | Returning date**
 4. **Important:** Upload a quick photo of the asset when you pick it up.
 5. Assign the To-Do to **HR**.
 
@@ -53,16 +53,16 @@ The process is similar to borrowing:
 1. Go to the **Woodland** project in Basecamp.
 2. Find the **"Asset Requests"** To-Do list.
 3. Create a new To-Do like this:
-    > **Your name | Item type - Item name/description | Reason for request**
+   > **Your name | Item type - Item name/description | Reason for request**
 4. Assign the To-Do to **HR**.
 
 **Example:**
 
 > **Huy Nguyen | Book - Start With Why | Note: For further understanding in inspiration**
 
-* **Be specific:** Provide details like the exact name, model, or link if possible.
-* **Explain the 'why':** Briefly explain how this item will help you or the team.
-* **Budget:** If it's an expensive item that might be over budget, HR might discuss alternative options with you.
+- **Be specific:** Provide details like the exact name, model, or link if possible.
+- **Explain the 'why':** Briefly explain how this item will help you or the team.
+- **Budget:** If it's an expensive item that might be over budget, HR might discuss alternative options with you.
 
 ### What happens next?
 

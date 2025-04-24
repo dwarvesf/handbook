@@ -1,5 +1,4 @@
 ---
-
 title: How I create content for multiple platforms
 date: 2024-05-03
 description: To help all our Dwarves team members, create original, helpful, and consistent writing across various platforms, we've put together this content guideline as a reference whenever we're writing for Dwarves.
@@ -103,7 +102,7 @@ When crafting newsletter:
 
 Dwarves Discord network is where we discuss new tech, industry practices, hang out with friends, and spread positive vibes. If I want to use the platform reflected in what I do, then our copy needs to do just that.
 
- To maintain consistency with our platform's culture:
+To maintain consistency with our platform's culture:
 
 - Keep our posts original, relatable, and reliable content that resonates with the audience.
 - Add a bit of joy, making memorable moments around Discord.

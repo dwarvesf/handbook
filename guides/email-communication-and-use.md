@@ -1,12 +1,11 @@
 ---
-
 title: Email Communication and Use
 short_title: Email use
 date: 2020-01-01
-description: We use email as our formal tool for both internal and external communication. Every email is utilized for a specific field, which comes along with different instructions.  
+description: We use email as our formal tool for both internal and external communication. Every email is utilized for a specific field, which comes along with different instructions.
 authors:
   - huynguyenh
-tags: 
+tags:
   - handbook
   - email
   - guide
@@ -34,7 +33,7 @@ For internal communication. Everything happens in the company, the operation ema
 For hiring. <spawn@d.foundation> stores every material used for the hiring process, which includes
 
 - Invitation for tests ( Pre-Assessment/ Assignment)
-- Receive *DO-NOT-REPLY* notification from CCAT (our resource to assess applicant's competence )
+- Receive _DO-NOT-REPLY_ notification from CCAT (our resource to assess applicant's competence )
 - Confirmation/Reject email for applicants
 - Job offer
 - Automated receive CV from job sites

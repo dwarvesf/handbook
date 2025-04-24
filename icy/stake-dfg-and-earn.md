@@ -1,13 +1,12 @@
 ---
-
-title: How to earn reward from staking DFG 
+title: How to earn reward from staking DFG
 date: 2024-04-19
 description: This guide will show you how to use $DFG staking to earn $USDC, cool merch, and more.
 authors:
   - ooohminh
   - jack
   - minhcloud
-tags: 
+tags:
   - dfg
   - icy
   - tutorial
@@ -35,27 +34,27 @@ Now it’s time to stake your DFG on Base to earn rewards like USDC or merch wit
 
 1. Head over to [Dwarves Foundation Earning](https://tono.gg/dwarves), and log in by your Coinbase wallet.
 
-    ![](assets/how-to-earn-reward-from-staking-dfg_how-to-transfer-dfg-from-eth-to-base-for-staking_tono_stake.webp)
+   ![](assets/how-to-earn-reward-from-staking-dfg_how-to-transfer-dfg-from-eth-to-base-for-staking_tono_stake.webp)
 
 2. Once you’re logged in, if you have your DFG already bridged from Ethereum, you should see your balance just like this
 
-    ![](assets/how-to-earn-reward-from-staking-dfg_how-to-transfer-dfg-from-eth-to-base-for-staking_tono_balance.webp)
+   ![](assets/how-to-earn-reward-from-staking-dfg_how-to-transfer-dfg-from-eth-to-base-for-staking_tono_balance.webp)
 
 3. Now hit “Stake”, and choose the amount that you want to stake like this:
 
-    ![](assets/how-to-earn-reward-from-staking-dfg_how-to-transfer-dfg-from-eth-to-base-for-staking_tono_stake_amount.webp)
+   ![](assets/how-to-earn-reward-from-staking-dfg_how-to-transfer-dfg-from-eth-to-base-for-staking_tono_stake_amount.webp)
 
 4. Hit “Stake” again, and confirm your 2 transactions on your Coinbase Wallet
 
-    ![](assets/how-to-earn-reward-from-staking-dfg_how-to-transfer-dfg-from-eth-to-base-for-staking_tono_stake_preview.webp)
+   ![](assets/how-to-earn-reward-from-staking-dfg_how-to-transfer-dfg-from-eth-to-base-for-staking_tono_stake_preview.webp)
 
 5. And that’s it! You’ve successfully staked your DFG and now you can sit back and enjoy passive rewards from this.
 
-    ![](assets/how-to-earn-reward-from-staking-dfg_how-to-transfer-dfg-from-eth-to-base-for-staking_tono_stake_successful.webp)
+   ![](assets/how-to-earn-reward-from-staking-dfg_how-to-transfer-dfg-from-eth-to-base-for-staking_tono_stake_successful.webp)
 
 6. You can keep track of your earnings with “My Earn” dashboard
 
-    ![](assets/how-to-earn-reward-from-staking-dfg_how-to-transfer-dfg-from-eth-to-base-for-staking_tono_stake_successful_2.webp)
+   ![](assets/how-to-earn-reward-from-staking-dfg_how-to-transfer-dfg-from-eth-to-base-for-staking_tono_stake_successful_2.webp)
 
 The reward will be calculated with the APY is 9.99%/year.
 
@@ -66,14 +65,14 @@ Now, after a long time locking your DFG and having a decent claimable reward amo
 1. Go to [Dwarves Foundation Earning](https://tono.gg/dwarves), and log in. Once you’re logged in, if you have staked $DFG, you will see the staked amount in the Total Staked section.
 2. Now hit “Unstake” button and choose amount you want to withdraw and hit “Unstake” again.
 
-    ![](assets/how-to-earn-reward-from-staking-dfg_clean-shot-2024-05-13-at-16-34-02-2x.webp)
+   ![](assets/how-to-earn-reward-from-staking-dfg_clean-shot-2024-05-13-at-16-34-02-2x.webp)
 
-    ![](assets/how-to-earn-reward-from-staking-dfg_clean-shot-2024-05-13-at-16-35-22-2x_1715619303.webp)
+   ![](assets/how-to-earn-reward-from-staking-dfg_clean-shot-2024-05-13-at-16-35-22-2x_1715619303.webp)
 
 3. Confirm 2 transactions on your Coinbase wallet.
 
-    ![](assets/how-to-earn-reward-from-staking-dfg_clean-shot-2024-05-13-at-16-37-11-2x_1715619304.webp)
+   ![](assets/how-to-earn-reward-from-staking-dfg_clean-shot-2024-05-13-at-16-37-11-2x_1715619304.webp)
 
 4. And that’s it! You’ve successfully withdraw $DFG and all of the recent reward to your wallet.
 
-    ![](assets/how-to-earn-reward-from-staking-dfg_clean-shot-2024-05-13-at-16-39-16-2x_1715619306.webp)
+   ![](assets/how-to-earn-reward-from-staking-dfg_clean-shot-2024-05-13-at-16-39-16-2x_1715619306.webp)

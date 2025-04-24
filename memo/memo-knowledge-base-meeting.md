@@ -1,8 +1,7 @@
 ---
-
 title: Memo meeting
 date: 2024-06-20
-description: Here are the simple steps we follow each week to keep the Memo content pipeline organized and our team informed. 
+description: Here are the simple steps we follow each week to keep the Memo content pipeline organized and our team informed.
 authors:
   - innnotruong
 tags:
@@ -25,7 +24,7 @@ Here are the simple steps we follow each week to keep the Memo pipeline organize
 
 - Prepare a quick update on any changes or new info.
 - Share this update in our Friday meeting.
-- Make sure [memo.d.foundation](http://memo.d.foundation) >  ``Home``shows the latest content.
+- Make sure [memo.d.foundation](http://memo.d.foundation) > `Home`shows the latest content.
 
 ![](assets/memo-knowledge-base-meeting-2.webp)
 
@@ -35,8 +34,8 @@ Here are the simple steps we follow each week to keep the Memo pipeline organize
 
 ![](assets/memo-knowledge-base-meeting-3.webp)
 
-- If content needs to be done soon, move it to the ``Soon``. This section includes articles that are prioritized for upcoming publication.
-- Keep the to-do list in ``Soon`` less than 10 items.
+- If content needs to be done soon, move it to the `Soon`. This section includes articles that are prioritized for upcoming publication.
+- Keep the to-do list in `Soon` less than 10 items.
 - Focus on the most important tasks first and meet the deadline.
 
 ![](assets/memo-knowledge-base-meeting-4.webp)

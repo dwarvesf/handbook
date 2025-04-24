@@ -11,7 +11,7 @@ tags:
   - learning
 ---
 
-Every company has stories. We just happen to have *lots* of them – tales of building teams, surviving milestones, how we live, how we work. We share these stories, our learnings, and pretty much everything else on [Dwarves Memo](https://memo.d.foundation). Think of it as pulling back the curtain so you can understand us better.
+Every company has stories. We just happen to have _lots_ of them – tales of building teams, surviving milestones, how we live, how we work. We share these stories, our learnings, and pretty much everything else on [Dwarves Memo](https://memo.d.foundation). Think of it as pulling back the curtain so you can understand us better.
 
 ## What's memo all about?
 
@@ -19,11 +19,11 @@ Fundamentally, Memo is our **public learning engine**. It's where we capture the
 
 You'll find:
 
-* **Team research & deep dives:** Notes on new tech, case studies, technical blogs.
-* **Company stuff:** Updates, year-end recaps, how we operate.
-* **Culture bits:** Our values, facts, figures, what makes us tick.
-* **Podcast transcripts:** Notes from webinars and interviews.
-* **Playbooks & handbooks:** Like this very page!
+- **Team research & deep dives:** Notes on new tech, case studies, technical blogs.
+- **Company stuff:** Updates, year-end recaps, how we operate.
+- **Culture bits:** Our values, facts, figures, what makes us tick.
+- **Podcast transcripts:** Notes from webinars and interviews.
+- **Playbooks & handbooks:** Like this very page!
 
 Basically, if it's documented and worth sharing, it probably lives on Memo.
 
@@ -50,15 +50,15 @@ Our comms team helps polish and schedule posts, making sure things look good bef
 Please do! Memo is built on Markdown files stored directly in our [GitHub repository](https://github.com/dwarvesf/memo.d.foundation) (the same one that powers the site via GitHub Pages). Getting your thoughts published is pretty straightforward:
 
 1. **Create or edit a markdown file:** Find the right spot within the `vault/` directory structure (e.g., `vault/engineering/`, `vault/culture/`). Create a new `.md` file or edit an existing one.
-2. **Add frontmatter:** This YAML metadata at the *very top* of your file is crucial for the site generator. Include at least these fields:
-    * `title`: The main title for your post.
-    * `description`: A short, tweet-length summary of your post.
-    * `tags`: Relevant keywords (e.g., `blog`, `engineering`, `react`, `case-study`). `handbook` and `memo` are good general tags.
-    * `author`: Your GitHub username or identifier used in the system (e.g., `tieubao`).
-    * `date`: `YYYY-MM-DD`.
+2. **Add frontmatter:** This YAML metadata at the _very top_ of your file is crucial for the site generator. Include at least these fields:
+   - `title`: The main title for your post.
+   - `description`: A short, tweet-length summary of your post.
+   - `tags`: Relevant keywords (e.g., `blog`, `engineering`, `react`, `case-study`). `handbook` and `memo` are good general tags.
+   - `author`: Your GitHub username or identifier used in the system (e.g., `tieubao`).
+   - `date`: `YYYY-MM-DD`.
 3. **Formatting:**
-    * Use standard Markdown headings (`#`, `##`, `###`). Keep it simple – `###` should generally be the deepest level. Use **bold** for emphasis if needed, not smaller headings.
-    * Keep paragraphs relatively short and focused. Use lists, images, and code blocks where helpful.
+   - Use standard Markdown headings (`#`, `##`, `###`). Keep it simple – `###` should generally be the deepest level. Use **bold** for emphasis if needed, not smaller headings.
+   - Keep paragraphs relatively short and focused. Use lists, images, and code blocks where helpful.
 4. **Submit a pull request:** Commit your changes and open a PR against the main branch of the repository. Once reviewed and merged, GitHub Pages will automatically rebuild the site, and your post will appear on [memo.d.foundation](https://memo.d.foundation).
 
 ## Content elevation

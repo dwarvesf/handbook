@@ -1,5 +1,4 @@
 ---
-
 title: ICY reward and recognition
 description: null
 authors:
@@ -12,14 +11,14 @@ Prior to ICY, we had given out rewards based on what we felt our writers deserve
 
 ## Reward Criteria
 
-Our monthly budget for rewarding ICY is around **260-300 ICY per month**. *This may change in the future*, especially if we see greater traction and inputs to our Brainery. As such, starting as of December 14, 2022, the criteria to claim ICY for notes are:
+Our monthly budget for rewarding ICY is around **260-300 ICY per month**. _This may change in the future_, especially if we see greater traction and inputs to our Brainery. As such, starting as of December 14, 2022, the criteria to claim ICY for notes are:
 
 ### Permanent Notes Criteria
 
 | Range ICY | Criteria                                                                                                                                                                                                                                                           |
 | --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | 7.5 - 10  | The note is above 200 words and is succinctly composed of proper sentences and paragraphs. The note is relatively coherent and may have some visuals or images to better explain the entry.                                                                        |
-| 5 - 7.5   | The note is around 200 words or less, containing some sentences, but may be mainly composed of bullet points. The entry is somewhat coherent, but may be obscured due to a lack of written words.                                                              |
+| 5 - 7.5   | The note is around 200 words or less, containing some sentences, but may be mainly composed of bullet points. The entry is somewhat coherent, but may be obscured due to a lack of written words.                                                                  |
 | 0 - 5     | The note is around 200 words or less, containing some or no complete sentences and is mostly composed of bullet points. The entry is mostly in the form of a fleeting note, such that the audience for the summary is more for the writer, rather than the reader. |
 
 ### Fleeting Notes Criteria
@@ -47,7 +46,7 @@ The **exception** to this criteria is if the submitted note **[links](https://he
 
 ## Overbudget
 
-Any notes that go above our 260-300 ICY per month will be **carried over to the next month**. This will also help us re-evaluate and update the reward pool in cases of high output of content, if we find it necessary.  *This is subject to change in the future.*
+Any notes that go above our 260-300 ICY per month will be **carried over to the next month**. This will also help us re-evaluate and update the reward pool in cases of high output of content, if we find it necessary. _This is subject to change in the future._
 
 ## Recognition
 

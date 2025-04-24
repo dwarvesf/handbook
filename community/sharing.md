@@ -1,5 +1,4 @@
 ---
-
 title: Sharing knowledge
 date: 2022-09-05
 description: Sharing knowledge and skills is core to our culture. Learn why it's vital for growth, how it improves communication, and see guidelines for effective sharing.
@@ -31,18 +30,18 @@ TGIF may mark the weekend for some, but OGIF propels us forward with enthusiasm,
 
 When preparing to share, keep these guidelines in mind:
 
-* **Scope:** Choose a focused topic rather than something overly broad. This keeps the audience engaged.
-* **Time:** Aim for presentations under 60 minutes.
-* **Language:** Use English for slides to reach a wider audience.
-* **Preparation:** Discuss your topic with a manager or senior team members beforehand. They can offer valuable perspectives.
-* **Structure:** A good presentation typically covers:
-  * The problem being addressed.
-  * How the problem can be solved.
-  * The recommended solution or best practice.
-  * Key mechanisms, techniques, or relevant code.
-  * Pros and cons of the approach.
-  * References for further learning.
-* **Template:** Please use the official [Dwarves presentation template](https://docs.google.com/presentation/d/14n3DFDkroCTWx3y3GutLc8Ous3RWgza9_gi784tGmMo) for your slides.
+- **Scope:** Choose a focused topic rather than something overly broad. This keeps the audience engaged.
+- **Time:** Aim for presentations under 60 minutes.
+- **Language:** Use English for slides to reach a wider audience.
+- **Preparation:** Discuss your topic with a manager or senior team members beforehand. They can offer valuable perspectives.
+- **Structure:** A good presentation typically covers:
+  - The problem being addressed.
+  - How the problem can be solved.
+  - The recommended solution or best practice.
+  - Key mechanisms, techniques, or relevant code.
+  - Pros and cons of the approach.
+  - References for further learning.
+- **Template:** Please use the official [Dwarves presentation template](https://docs.google.com/presentation/d/14n3DFDkroCTWx3y3GutLc8Ous3RWgza9_gi784tGmMo) for your slides.
 
 ---
 

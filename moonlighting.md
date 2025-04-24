@@ -38,10 +38,10 @@ Here are situations we consider problematic:
 
 When considering outside work, ask yourself these questions:
 
-* Is it competitive with what we do?
-* Will it take up too much of your time?
-* Does it require you to be absent during times when your team needs you?
-* Is it another paid opportunity using the same skills Dwarves Foundation is paying you for?
+- Is it competitive with what we do?
+- Will it take up too much of your time?
+- Does it require you to be absent during times when your team needs you?
+- Is it another paid opportunity using the same skills Dwarves Foundation is paying you for?
 
 We aim to be reasonable about outside work, but we need to be firm when it affects your time, attention, or performance here.
 

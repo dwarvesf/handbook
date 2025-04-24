@@ -32,10 +32,10 @@ This chair focuses on building and maintaining strong relationships with our cli
 
 The delivery chair is all about crafting and shipping high-quality products and technical solutions. **Huy N** helps manage our delivery efforts. This includes:
 
-* **Product strategy & design:** Defining product direction and ensuring intuitive, well-designed user experiences. **Anna** contributes significantly to our design efforts.
-* **Engineering:** Building robust backend systems, APIs, web frontends, and mobile/desktop applications. **Thanh P** helps guide our web engineering efforts.
-* **Infrastructure:** Ensuring our systems and our clients' infrastructure are reliable, scalable, and secure. **Quang** helps lead our infrastructure operations (SRE).
-* **Quality assurance:** Rigorously testing our work to catch issues before they reach users.
+- **Product strategy & design:** Defining product direction and ensuring intuitive, well-designed user experiences. **Anna** contributes significantly to our design efforts.
+- **Engineering:** Building robust backend systems, APIs, web frontends, and mobile/desktop applications. **Thanh P** helps guide our web engineering efforts.
+- **Infrastructure:** Ensuring our systems and our clients' infrastructure are reliable, scalable, and secure. **Quang** helps lead our infrastructure operations (SRE).
+- **Quality assurance:** Rigorously testing our work to catch issues before they reach users.
 
 ### Learning
 

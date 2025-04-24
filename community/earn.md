@@ -1,5 +1,4 @@
 ---
-
 title: Earning with sidegig
 short_title: Earn
 date: 2023-06-21
@@ -7,7 +6,7 @@ description: Bounties reward community members with $ICY for contributing work t
 authors:
   - nikkingtr
   - innnotruong
-tags: 
+tags:
   - handbook
   - community
   - earn
@@ -21,8 +20,8 @@ One way we encourage collaboration and skill growth is through **bounties**. The
 
 Our bounty program provides opportunities for developers looking for interesting challenges and a way to connect with others.
 
-* The program is open to anyone with the necessary skills for a specific bounty.
-* Common skills needed include writing, design, research, development, and finance analysis.
+- The program is open to anyone with the necessary skills for a specific bounty.
+- Common skills needed include writing, design, research, development, and finance analysis.
 
 ### How it works
 
@@ -38,7 +37,7 @@ We allocate a monthly pool of **1700 $ICY** (roughly equivalent to $2,500 USD, t
 
 You can use your earned **$ICY** to redeem exclusive Dwarves swag or swap it for USDC.
 
-Please note: Rewards are paid out *after* the corresponding Pull Request (PR) is accepted and merged into the relevant Dwarves GitHub repository. We aim to create a welcoming environment for contributors, and bounties are a key part of that.
+Please note: Rewards are paid out _after_ the corresponding Pull Request (PR) is accepted and merged into the relevant Dwarves GitHub repository. We aim to create a welcoming environment for contributors, and bounties are a key part of that.
 
 ![Dwarves Foundation Community Bounty Program](assets/community-bounty-program.webp)
 

@@ -16,9 +16,9 @@ If you are using a team email alias and want to send emails from that address us
 
 First things first: **You need two-factor authentication (2FA) enabled** on your personal Google account for this setup to work.
 
-* If you already have 2FA set up, great! You can skip to the next step.
-* If not, head over to Google's 2FA setup page and enable it now:
-    [https://www.google.com/landing/2step/](https://www.google.com/landing/2step/)
+- If you already have 2FA set up, great! You can skip to the next step.
+- If not, head over to Google's 2FA setup page and enable it now:
+  [https://www.google.com/landing/2step/](https://www.google.com/landing/2step/)
 
 ## 2. Create an app password
 
@@ -77,7 +77,7 @@ Gmail needs to verify you own the `@d.foundation` address.
 
 You're all set! Now when you compose a new email in Gmail, you'll see a "From" dropdown menu. You can select your `@d.foundation` address to send from that alias.
 
-* **Tip:** In Gmail's "Accounts and Import" settings, you can choose whether to default to replying from the same address the message was sent to, or always reply from your default (personal) address.
+- **Tip:** In Gmail's "Accounts and Import" settings, you can choose whether to default to replying from the same address the message was sent to, or always reply from your default (personal) address.
 
 ## 8. Send from Mac Mail (Optional)
 
@@ -88,7 +88,7 @@ If you use the Mail app on macOS and want to send from your alias there:
 3. Click the **Accounts** tab.
 4. Select your personal Gmail account from the list on the left.
 5. Click the **Server Settings** tab (or similar, depending on macOS version).
-6. In the "Outgoing Mail Account" (SMTP) section, you might need to edit the server list or add the alias directly. *Alternatively, and often simpler:* Click the **Account Information** tab.
+6. In the "Outgoing Mail Account" (SMTP) section, you might need to edit the server list or add the alias directly. _Alternatively, and often simpler:_ Click the **Account Information** tab.
 7. Find the **Email Address** dropdown menu and click **Edit Email Addresses...**.
 8. Click the **+** button.
 9. Enter your **Name** and your full `@d.foundation` **Email Address**.

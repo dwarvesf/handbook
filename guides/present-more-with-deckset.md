@@ -1,11 +1,10 @@
 ---
-
 title: Present more with Deckset
 date: 2024-04-05
 description: null
 authors:
   - bringastar
-tags: 
+tags:
   - community
   - instructions
   - guideline
@@ -73,7 +72,7 @@ $.ajax({
     $( "#weather-temp" ).html( "" + data + " degrees" );
   }
 });
-```
+```;
 ````
 
 **Table:**

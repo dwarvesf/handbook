@@ -1,5 +1,4 @@
 ---
-
 title: Tech Radar
 short_title: Radar
 date: 2022-10-19
@@ -26,18 +25,18 @@ The radar visually represents our views on various technologies based on their u
 
 Technologies are categorized into four areas:
 
-* **Languages & frameworks:** Programming languages, libraries, and frameworks (e.g., Elixir, Svelte, React).
-* **Techniques:** Methods and approaches for structuring software or processes (e.g., microservices, Domain-Driven Design).
-* **Tools:** Software used in development, deployment, or operations (e.g., Docker, Figma, PostgreSQL).
-* **Platforms:** Third-party services or foundations we build upon (e.g., AWS, Kubernetes, Stripe).
+- **Languages & frameworks:** Programming languages, libraries, and frameworks (e.g., Elixir, Svelte, React).
+- **Techniques:** Methods and approaches for structuring software or processes (e.g., microservices, Domain-Driven Design).
+- **Tools:** Software used in development, deployment, or operations (e.g., Docker, Figma, PostgreSQL).
+- **Platforms:** Third-party services or foundations we build upon (e.g., AWS, Kubernetes, Stripe).
 
 ### Rings
 
 The rings indicate our adoption stage for a technology, moving from the outer ring inwards:
 
-* **Hold:** Technologies we're watching but aren't actively exploring yet.
-* **Assess:** Items worth exploring and researching to understand their potential impact.
-* **Trial:** Technologies we consider worth pursuing. We may use these in projects willing to adopt newer tech.
-* **Adopt:** Technologies we confidently use in projects when appropriate. We believe these are solid choices for the industry.
+- **Hold:** Technologies we're watching but aren't actively exploring yet.
+- **Assess:** Items worth exploring and researching to understand their potential impact.
+- **Trial:** Technologies we consider worth pursuing. We may use these in projects willing to adopt newer tech.
+- **Adopt:** Technologies we confidently use in projects when appropriate. We believe these are solid choices for the industry.
 
 Explore our current [tech radar board](https://radar.d.foundation/) to see our latest assessments.

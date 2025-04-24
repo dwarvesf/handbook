@@ -47,17 +47,17 @@ Should you leave Dwarves, you'll need to return all company gear, materials, and
 
 Ignoring these agreements isn't just a legal headache; it damages the trust we rely on. Violations could lead to serious consequences, including:
 
-* Legal action
-* Financial claims for damages
-* Court orders to stop certain activities
-* Harm to your professional reputation
+- Legal action
+- Financial claims for damages
+- Court orders to stop certain activities
+- Harm to your professional reputation
 
 ## Got questions?
 
 These agreements are important, but hopefully straightforward. If anything's unclear:
 
-* Re-read the agreements you signed (HR can send you copies).
-* Chat with your manager about specific situations.
-* Reach out to HR for clarification on any points.
+- Re-read the agreements you signed (HR can send you copies).
+- Chat with your manager about specific situations.
+- Reach out to HR for clarification on any points.
 
 Thanks for honoring these agreements. Your commitment protects our work, our team, and our future. We trust you to handle these responsibilities with the same care and integrity you bring to your craft every day.

@@ -29,7 +29,7 @@ Everytime you want to edit or create a new post, please make sure that the data 
 
 ```md
 ---
-tags: 
+tags:
   - [tag1]
   - [tag2]
   - [tag3]

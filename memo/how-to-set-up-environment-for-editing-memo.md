@@ -12,10 +12,10 @@ tags:
 
 ## Set up SSH key
 
-SSH key is a secure authentication method which includes  a public key and a private key.
+SSH key is a secure authentication method which includes a public key and a private key.
 
-* The public key is shared with others (like GitHub), while the private key is kept secret on your Mac.
-* When you connect to a server (like GitHub) using SSH, the server verifies your identity by comparing a fingerprint derived from your public key with the key it has on record.
+- The public key is shared with others (like GitHub), while the private key is kept secret on your Mac.
+- When you connect to a server (like GitHub) using SSH, the server verifies your identity by comparing a fingerprint derived from your public key with the key it has on record.
 
 During SSH authentication, the server you're connecting to (like GitHub) checks the fingerprint of your public key against the one it has on record. If they match, and you provide the correct passphrase to unlock your private key (if you set one), the connection is established securely.
 
@@ -32,7 +32,7 @@ Firstly, you have to install Visual Studio Code, [here](https://code.visualstudi
 ## Install the Devbox
 
 1. Open the Terminal on VScode
-You can use the shortcut `Control + ~` to open Terminal.
+   You can use the shortcut `Control + ~` to open Terminal.
 
 ![](assets/how-to-set-up-environment-for-editing-memo-1.webp)
 

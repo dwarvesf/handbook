@@ -49,7 +49,7 @@ Working with us is like rowing a boat together, requiring perfect coordination. 
 
 As a team member, remember that everyone has room to grow, including yourself. Be supportive. Offer constructive feedback. And most importantly, listen. Those who only talk without listening limit their own growth.
 
-> "Everyone you will ever meet knows something you don't." ,  Bill Nye
+> "Everyone you will ever meet knows something you don't." , Bill Nye
 
 We've created an environment where healthy competition and collaboration coexist and strengthen each other. Whether competing or collaborating, making the boat move faster is always the goal. Remember, even if you work harder than anyone else, if you're not in sync with the team, you'll slow everyone down.
 

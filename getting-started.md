@@ -82,4 +82,5 @@ The most fulfilled Dwarves discover their personal purpose within our collective
 As you move forward, ask yourself: How does your work contribute to our shared vision? What impact do you want to make? Where do your talents and passions intersect with our goals? Finding these answers transforms a job into a calling.
 
 ---
+
 > Next: [You are Dwarves Foundation](dwarves-foundation-is-you.md)

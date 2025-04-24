@@ -1,11 +1,10 @@
 ---
-
-title: 'Level up your Markdown memos: Avoiding Common Pitfalls'
+title: "Level up your Markdown memos: Avoiding Common Pitfalls"
 date: 2024-04-05
 description: null
 authors:
   - bringastar
-tags: 
+tags:
   - community
   - instructions
   - guideline
@@ -43,7 +42,7 @@ You should follow the following heading structure:
 
 - heading 1: for the main title of the memo (`title:` located at the first line of the markdown)
 - heading 2: for subheadings (`##`)
-- heading 3: for more detailed headings  (`###`)
+- heading 3: for more detailed headings (`###`)
 - heading 4, 5, 6: for sub-subheadings (`####`...) (optional)
 
 Aside from the main points mentioned, there are a few other **things to keep in mind** when using headings: Headings shouldn't be SHOUTING (all caps) - they should be clear and easy to read. Keep your heading colors consistent throughout your writing, and use different colors only for hyperlinks or notes to make them pop. Finally, skip the numbering or lettering within headings - make them short and clear.
@@ -105,9 +104,9 @@ For example:
 Result:
 
 1. First list item
-    1. Ordered nested list item
+   1. Ordered nested list item
 2. Second list item
-    - Unordered nested list item
+   - Unordered nested list item
 
 ## Task list glitches
 
@@ -146,9 +145,9 @@ We all know a picture is worth a thousand words, and screenshots are like tiny p
 - **Display images with incorrect aspect ratio:** Design your images in a horizontal rectangular frame with an aspect ratio of `21:9`, `16:9`, or `4:3`. Avoid using vertical rectangles as it will enlarge the image and affect the layout of your document.
 - **Low Resolution:** A blurry or pixelated screenshot can be frustrating and impede understanding. Make sure the screenshot resolution is high enough to clearly.
 
-Lots of people use different screenshot tools, kind of like having a favorite app for every task. For instance, on my Windows, I rock ShareX, while on Mac, [Cleanshot](https://memo.d.foundation/playground/how-to-take-better-screenshots-on-mac/) is my go-to. Because different tools offer different features! The point is, if you need more than the basics, there's a whole world of screenshot tools out there to explore.  They cater to all sorts of needs, from quick captures to fancy edits.
+Lots of people use different screenshot tools, kind of like having a favorite app for every task. For instance, on my Windows, I rock ShareX, while on Mac, [Cleanshot](https://memo.d.foundation/playground/how-to-take-better-screenshots-on-mac/) is my go-to. Because different tools offer different features! The point is, if you need more than the basics, there's a whole world of screenshot tools out there to explore. They cater to all sorts of needs, from quick captures to fancy edits.
 
-Remember, a well-made screenshot can be a superhero in presentations, tutorials, or any situation where you need crystal-clear visuals.  Think of it as a shortcut – a way to explain something complex with a simple picture. So go forth and conquer the world of screenshots – you've got this!
+Remember, a well-made screenshot can be a superhero in presentations, tutorials, or any situation where you need crystal-clear visuals. Think of it as a shortcut – a way to explain something complex with a simple picture. So go forth and conquer the world of screenshots – you've got this!
 
 > **Tip**: You can use [**Backr**](https://getbackr.vercel.app/) tool to set stunning backgrounds and create visuals that grab attention for your Memo posts.
 
@@ -233,6 +232,9 @@ You can break callouts in multiple levels.
 ```
 
 Result:
+
 > Can callouts break the line?
+>
 > > Yes!, they can.
+> >
 > > > You can even use multiple layers of breaking.

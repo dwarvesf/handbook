@@ -1,5 +1,4 @@
 ---
-
 title: Showcase
 date: 2022-09-05
 description: Our weekly internal demo event where teams share their latest projects and insights. Learn about our culture of sharing, collaboration, and continuous improvement.
@@ -23,10 +22,10 @@ We aim for demos that are short, interesting, and easy to understand, not length
 
 Demos should walk the team through recently completed work or work in progress. This can include new features, bug fixes, performance improvements, new tooling, integrations, prototypes, or refactors. Keep demos concise, around **5-10 minutes**, and generally include:
 
-* A brief description: What is it? Why does it matter? Who benefits?
-* A working example: Show how it works in practice, not just a code walkthrough.
-* Before and after: If it's an improvement, show the difference.
-* Next steps: Briefly mention what might come next.
+- A brief description: What is it? Why does it matter? Who benefits?
+- A working example: Show how it works in practice, not just a code walkthrough.
+- Before and after: If it's an improvement, show the difference.
+- Next steps: Briefly mention what might come next.
 
 Sharing bug fixes, performance boosts, or internal tooling improvements is highly encouraged. Prototypes and design mocks are also great showcase material. We value seeing all stages of the process.
 
@@ -34,10 +33,10 @@ Sharing bug fixes, performance boosts, or internal tooling improvements is highl
 
 To keep the showcase positive and focused:
 
-* **No shaming:** We encourage sharing, regardless of how polished the work is. This is a supportive space to learn from colleagues.
-* **No PowerPoint:** Showcases are for demonstrating builds and progress, not presenting slideshows.
-* **No selling:** Demos are for understanding and sharing progress, not sales pitches. What you see is often work in progress and might change.
-* **No blaming:** Respect the work that came before. Focus on the progress and learnings, not fault-finding.
+- **No shaming:** We encourage sharing, regardless of how polished the work is. This is a supportive space to learn from colleagues.
+- **No PowerPoint:** Showcases are for demonstrating builds and progress, not presenting slideshows.
+- **No selling:** Demos are for understanding and sharing progress, not sales pitches. What you see is often work in progress and might change.
+- **No blaming:** Respect the work that came before. Focus on the progress and learnings, not fault-finding.
 
 ## Come and join us
 

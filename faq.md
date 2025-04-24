@@ -201,9 +201,9 @@ You have a $300 annual stipend for your educational pursuits.
 
 **How do I submit a request?**
 
-  To get approval, you need to provide some form of output, such as a certificate (for courses) or a report (for conferences). Once approved, you will receive the reimbursement through [Woodland > Expense.](https://3.basecamp.com/4108948/buckets/9403032/todolists/1557155199)
+To get approval, you need to provide some form of output, such as a certificate (for courses) or a report (for conferences). Once approved, you will receive the reimbursement through [Woodland > Expense.](https://3.basecamp.com/4108948/buckets/9403032/todolists/1557155199)
 
-  ![Education allowance submission process](assets/faq-education.webp)
+![Education allowance submission process](assets/faq-education.webp)
 
 #### Bao Minh insurance
 
@@ -215,7 +215,7 @@ You have a $300 annual stipend for your educational pursuits.
 - Do not require the company to pay Social Insurance (SI) and Health Insurance (HI).
 - Be one of the core members of the DF team, voted as an outstanding employee of the previous year, or a top contributor to the team's advocacy & learning activities.
 
-- *Note: Some members have SI and HI still receive the Bao Minh insurance card due to needing extra coverage or as a reward for their contributions. These cases are handled individually, and the team may consider publicizing this policy to motivate employees.*
+- _Note: Some members have SI and HI still receive the Bao Minh insurance card due to needing extra coverage or as a reward for their contributions. These cases are handled individually, and the team may consider publicizing this policy to motivate employees._
 
 Starting in 2023, the team switched to using Bao Minh virtual cards for easier use and information storage.
 
@@ -287,7 +287,7 @@ If after 7 days from the payroll date you haven't received any notification from
 I suppose you can go to [Fortress](fort.d.foundation) to view all of that information and if you want to join any of them, you can ask the team lead.
 
 **How about my career path?** \
-You can check up the [Making a Career](making-a-career.md) section where we've mapped our trajectory of mastery to *six different levels*.
+You can check up the [Making a Career](making-a-career.md) section where we've mapped our trajectory of mastery to _six different levels_.
 
 **What are we heading to this month?** \
 Planning is guessing. It's why we don't really have a business plan. However, we do have an all-hands meeting every months that you can join and get updated.
