@@ -1,8 +1,8 @@
 ---
 title: Understanding your NDA & other agreements
 short_title: NDA & Agreements
-date: 2024-08-20
 description: A guide to the Non-Disclosure, Non-Solicitation, and IP agreements you signed when joining Dwarves.
+date: 2024-08-20
 authors:
   - tieubao
 tags:
@@ -61,3 +61,4 @@ These agreements are important, but hopefully straightforward. If anything's unc
 - Reach out to HR for clarification on any points.
 
 Thanks for honoring these agreements. Your commitment protects our work, our team, and our future. We trust you to handle these responsibilities with the same care and integrity you bring to your craft every day.
+

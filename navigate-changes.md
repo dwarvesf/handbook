@@ -1,8 +1,8 @@
 ---
 title: Navigate changes
-short_title:
-date: 2025-03-31
+short_title: null
 description: How we deal with technology changes
+date: 2025-03-31
 authors:
   - zlatanpham
 tags:
@@ -50,3 +50,4 @@ The aim is to manage tech changes predictably, support our growth, and keep our 
 This process works best when everyone adds to it. Understanding how we adapt to tech changes is the first step. You can get involved by sharing relevant articles, news, or insights you find, sharing your observations from projects or client talks, and helping organize information in our knowledge base or suggesting ways to improve our tools and process.
 
 Your input strengthens our ability to handle the future. It shows you're thinking not just about your daily tasks, but about how we collectively stay ahead. Your involvement helps keep us all prepared for what comes next.
+

@@ -1,7 +1,7 @@
 ---
 title: What we stand for
-date: 2019-02-21
 description: How we empower innovation through software craftsmanship and build products that matter
+date: 2019-02-21
 authors:
   - tieubao
   - duynglam
@@ -59,3 +59,4 @@ We've chosen innovation as a core value because we believe in forming ideas that
 ---
 
 > Next: [The Purpose](purpose.md)
+

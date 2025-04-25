@@ -1,8 +1,8 @@
 ---
 title: Our second brain
 short_title: Knowledge base
+description: "This page explains our knowledge base, which is basically our team's shared brain where we keep important stuff. Using it helps us work smarter together and makes sure we don't lose good ideas or lessons learned."
 date: 2024-03-21
-description: This page explains our knowledge base, which is basically our team's shared brain where we keep important stuff. Using it helps us work smarter together and makes sure we don't lose good ideas or lessons learned.
 authors:
   - tieubao
 tags:
@@ -39,3 +39,4 @@ Think of it like this: it's our team's collective know-how. As we keep working a
 ## Keeping it useful
 
 Making sure this knowledge base stays useful takes work. The core team looks after how it's organized and kept up, trying to keep things simple. But it really works best when everyone chips in. We hope you'll add to it, fix things that are out of date, and share ideas to make it better. Keeping our shared brain sharp is something we all do together, showing we care about doing good work.
+

@@ -1,7 +1,7 @@
 ---
 title: Ventures arm
-date: 2020-07-02
 description: How we invest in and build the future through our ventures initiatives
+date: 2020-07-02
 authors:
   - tieubao
 tags:
@@ -36,3 +36,4 @@ Feel free to register your interest in any of these categories, ventures, maker 
 Building your own products comes with unique challenges. Unlike client work, there's often no pre-defined roadmap or someone to break down tasks for you. You won't have someone coaching you through every step or providing ready solutions when you get stuck.
 
 This is the essence of being a "manager of one", you'll need to define your direction, solve your own problems, and push through obstacles independently. It's challenging work, but the rewards, both in growth and potential ownership, can be substantial.
+

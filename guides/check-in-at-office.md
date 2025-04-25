@@ -1,7 +1,7 @@
 ---
 title: Office check-in process for earning ICY
-date: 2024-09-25
 description: A guide on how to check in at the office and claim ICY token rewards.
+date: 2024-09-25
 authors:
   - innnotruong
   - monotykamary
@@ -38,3 +38,4 @@ After your "gm" message, our system will credit you with 5 ICY tokens, worth abo
 ## Making the most of your time
 
 You’re all set. Now’s your chance to catch up with teammates, share ideas, or just enjoy the office vibe. These face-to-face moments make all the difference.
+

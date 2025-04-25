@@ -1,7 +1,7 @@
 ---
 title: Configure your company email
-date: 2022-11-29
 description: A step-by-step guide to setting up your @d.foundation email alias to send and receive mail directly within your personal Gmail account.
+date: 2022-11-29
 authors:
   - tieubao
 tags:
@@ -101,3 +101,4 @@ If you use the Mail app on macOS and want to send from your alias there:
 Now, when composing a new message in Mac Mail, you can select your `@d.foundation` alias from the "From" dropdown.
 
 ![Mac Mail select alias in From field](assets/email-mac-select-alias.webp)
+

@@ -1,7 +1,7 @@
 ---
 title: How to publish content on Dwarves Memo
-date: 2024-03-04
 description: This is a guide on how to setup your environment and settings to push content to our Dwarves Memo.
+date: 2024-03-04
 authors:
   - minh_cloud
 tags:
@@ -78,3 +78,4 @@ Now, you should go to your [Github](https://github.com/) and log in. After that 
 4. Choose the commit and Create the pull request.
 
 Now all you need is waiting for admin to review your request!
+

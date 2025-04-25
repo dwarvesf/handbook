@@ -1,6 +1,7 @@
 ---
 title: ICY reward and recognition
 description: null
+date: null
 authors:
   - zlatanpham
 tags:
@@ -54,3 +55,4 @@ Any notes that go above our 260-300 ICY per month will be **carried over to the 
 ## Recognition
 
 Check our [[Latest Notes]] to see recent notes, major contributors, and newest contributors to our Brainery. We will regularly update the format, so that we can give active recognition to everyone who participates.
+

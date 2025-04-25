@@ -1,7 +1,7 @@
 ---
 title: How to earn reward from staking DFG
-date: 2024-04-19
 description: This guide will show you how to use $DFG staking to earn $USDC, cool merch, and more.
+date: 2024-04-19
 authors:
   - ooohminh
   - jack
@@ -76,3 +76,4 @@ Now, after a long time locking your DFG and having a decent claimable reward amo
 4. And that’s it! You’ve successfully withdraw $DFG and all of the recent reward to your wallet.
 
 ![](assets/how-to-earn-reward-from-staking-dfg_clean-shot-2024-05-13-at-16-39-16-2x_1715619306.webp)
+

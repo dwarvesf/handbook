@@ -1,7 +1,7 @@
 ---
 title: FAQs
-date: 2018-10-18
 description: Common questions (and answers) about working with us
+date: 2018-10-18
 authors:
   - tieubao
 tags:
@@ -336,3 +336,4 @@ Bonuses are based on your impact on the project and how much you contribute to i
 Our goal is to ensure that projects meet our quality standards. We may ask an engineer to join a project as a supporter at first, in order to learn the ropes under his or her mentor/lead.
 
 As soon as the engineer is ready to work on his or her own, we'll convert him or her into a full-time team member and begin charging clients for his or her billable hours. For more information, please check out [How we hire](how-we-hire.md#referral).
+

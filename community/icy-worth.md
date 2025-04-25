@@ -1,7 +1,7 @@
 ---
 title: How much is your ICY worth
+description: "Learn how ICY's value has evolved from a fixed USDC-backed model to a dynamic Bitcoin-backed system. We'll explain what this means for your holdings and how to track your ICY's value."
 date: 2025-03-06
-description: Learn how ICY's value has evolved from a fixed USDC-backed model to a dynamic Bitcoin-backed system. We'll explain what this means for your holdings and how to track your ICY's value.
 authors:
   - huynguyenh
 tags:
@@ -48,3 +48,4 @@ We follow a structured approach to maintain the pools. We add Bitcoin monthly at
 While the USDC model was simple and effective, we believe in evolving with the crypto ecosystem. This new model offers several advantages: it provides growth potential tied to Bitcoin's performance, reduces our dependency on stablecoins, creates a more dynamic and market-driven system, and better reflects real-world trading conditions.
 
 The value of your ICY will now fluctuate based on market conditions. We recommend staying informed about Bitcoin's performance and liquidity pool dynamics to make informed decisions about your ICY holdings.
+

@@ -1,7 +1,7 @@
 ---
 title: Security rules
+description: "Keeping laptops and phones secure is vitally important. We're a software company and many of us have access to secure systems (both our own and our customers). The following guidelines apply to how we physically secure our laptops and mobile devices that may contain customer or user data."
 date: 2019-02-21
-description: Keeping laptops and phones secure is vitally important. We're a software company and many of us have access to secure systems (both our own and our customers). The following guidelines apply to how we physically secure our laptops and mobile devices that may contain customer or user data.
 authors:
   - tieubao
 tags:
@@ -54,3 +54,4 @@ We all use personal mobile devices, so your options are either not to add any co
 When someone finds a possible security issue in our software, we encourage them to report it to our <security@d.foundation> email address.
 
 When an email comes in through this channel, reply quickly with confirmation (and CC <security@d.foundation> so others know that it has been handled) and the information for our PGP key, which is located at <https://d.foundation/security>.
+

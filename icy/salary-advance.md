@@ -1,7 +1,7 @@
 ---
 title: 🧊 $icy salary advance
-date: 2023-11-23
 description: A short-term credit benefit for full-time peeps.
+date: 2023-11-23
 authors:
   - huynguyenh
 tags:
@@ -26,3 +26,4 @@ e.g:
 - type `?salary advance`
 - input credit amount in icy.
 - done.
+

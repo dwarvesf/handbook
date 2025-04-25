@@ -1,7 +1,7 @@
 ---
 title: How we work
-date: 2017-07-21
 description: We organize our work in 8-week cycles with a focus on autonomy and craftsmanship. This framework helps us deliver high-quality software while maintaining flexibility and work-life balance.
+date: 2017-07-21
 authors:
   - tieubao
 tags:
@@ -126,3 +126,4 @@ While craftsmanship alone doesn't guarantee a project's success, its absence is 
 ---
 
 > Next: [Work routine](routine.md)
+

@@ -1,8 +1,8 @@
 ---
 title: Submit a leave request
 short_title: Leave request
-date: 2024-08-20
 description: A consistent on leave process prevents a company from being accidentally disrupted when an employee request to be absent.
+date: 2024-08-20
 authors:
   - duynglam
   - innnotruong
@@ -54,3 +54,4 @@ Once your request is approved, a short informal message should be delivered to t
 1-2 weeks before the holiday starts, Operations will send an official email announcement to all clients about the holiday period. Then, 2-3 days before the holiday begins, your Project Manager or Leader will remind clients informally via Slack or other communication channels.
 
 **Note**: During holidays or days off, unless stated as URGENT, we should NOT respond to clients on that day.
+

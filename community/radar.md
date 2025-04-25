@@ -1,8 +1,8 @@
 ---
 title: Tech Radar
 short_title: Radar
-date: 2022-10-19
 description: Our tech radar helps us assess and adopt new technologies, inspired by ThoughtWorks. Learn about its structure and how we use it.
+date: 2022-10-19
 authors:
   - zlatanpham
   - monotykamary
@@ -40,3 +40,4 @@ The rings indicate our adoption stage for a technology, moving from the outer ri
 - **Adopt:** Technologies we confidently use in projects when appropriate. We believe these are solid choices for the industry.
 
 Explore our current [tech radar board](https://radar.d.foundation/) to see our latest assessments.
+

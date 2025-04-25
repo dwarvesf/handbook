@@ -1,8 +1,8 @@
 ---
 title: Dwarves Network Discord
 short_title: Discord
+description: "Our Discord isn't just another company server; it's a place for both our team and the wider developer community. This guide explains how it works and where you fit in."
 date: 2024-03-13
-description: Our Discord isn't just another company server; it's a place for both our team and the wider developer community. This guide explains how it works and where you fit in.
 authors:
   - innnotruong
   - monotykamary
@@ -123,3 +123,4 @@ See you [on the server!](http://discord.gg/dfoundation)
 ---
 
 > Next: [Earn](earn.md)
+

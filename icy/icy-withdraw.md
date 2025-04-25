@@ -1,7 +1,7 @@
 ---
 title: How to withdraw ICY to fiat
-date: 2024-03-13
 description: This guide show how to swap and withdraw ICY to fiat
+date: 2024-03-13
 authors:
   - minh_cloud
 tags:
@@ -74,3 +74,4 @@ After bridge, the token is stil on the Coinbase wallet which cost a high fee to 
 Go to P2P trading and choose the suitable service to withdraw to the bank account
 
 ![](assets/how-to-withdraw-icy-20240313145106740.webp)
+

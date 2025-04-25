@@ -1,13 +1,13 @@
 ---
 title: Dwarves handbook
 short_title: 📔 Handbook
-date: 2024-01-02
 description: A comprehensive guide to who we are, how we work, and what we believe
+date: 2024-01-02
 authors:
   - tieubao
+hide_title: true
 tags:
   - handbook
-hide_title: true
 ---
 
 Dwarves are a group of software engineers, designers, and innovation advocates. We serve a single purpose: To empower innovations and co-create the next big things.
@@ -110,3 +110,4 @@ Our handbook was inspired by [Basecamp](https://github.com/basecamp/handbook) an
 
 Creative Commons Attribution 4.0 International (CC BY 4.0)
 @ [Dwarves Foundation](https://d.foundation)
+

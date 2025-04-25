@@ -1,7 +1,7 @@
 ---
 title: Sharing knowledge
+description: "Sharing knowledge and skills is core to our culture. Learn why it's vital for growth, how it improves communication, and see guidelines for effective sharing."
 date: 2022-09-05
-description: Sharing knowledge and skills is core to our culture. Learn why it's vital for growth, how it improves communication, and see guidelines for effective sharing.
 authors:
   - zlatanpham
 tags:
@@ -46,3 +46,4 @@ When preparing to share, keep these guidelines in mind:
 ---
 
 > Next: [Showcase](showcase.md)
+

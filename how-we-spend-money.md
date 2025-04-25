@@ -1,7 +1,7 @@
 ---
 title: How we spend money
-date: 2019-02-21
 description: We do the business to provide engineering capabilities to help customers on their business. A part of the benefits package is the Stock Option Plan, and the money is the sensitive topic in most companies, but we want you to understand so you could commit your best to make Dwarves Foundation a right place to work.
+date: 2019-02-21
 authors:
   - tieubao
 tags:
@@ -19,3 +19,4 @@ Besides the paycheck that we agreed on the employment contract, the revenue spli
 - The last portion is the profit with the estimation of 20% before taxes which 5% of that will be turned into dividend payment at the end of the year.
 
 That’s it. Read more about the [Stock Option Plan](stock-option-plan.md)
+

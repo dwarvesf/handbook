@@ -1,8 +1,8 @@
 ---
 title: Dwarves as a community
 short_title: As a community
-date: 2024-06-26
 description: How we blend software consulting with an open learning community where tech enthusiasts share knowledge, collaborate, and grow together.
+date: 2024-06-26
 authors:
   - tieubao
 tags:
@@ -91,3 +91,4 @@ If you're part of Dwarves, as an employee or community member, we want your thou
 ---
 
 > Next: [ICY](community/icy.md)
+

@@ -1,7 +1,7 @@
 ---
 title: Memo meeting
-date: 2024-06-20
 description: Here are the simple steps we follow each week to keep the Memo content pipeline organized and our team informed.
+date: 2024-06-20
 authors:
   - innnotruong
 tags:
@@ -45,3 +45,4 @@ Here are the simple steps we follow each week to keep the Memo pipeline organize
 - Check out this guide to create [map of content.](how-to-make-a-moc.md)
 
 By sticking to the checklist each week, we can ensure our memo is in the loop, and our projects stay on track.
+

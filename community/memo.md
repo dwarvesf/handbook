@@ -1,8 +1,8 @@
 ---
 title: Memo Handbook
 short_title: Memo
+description: "Memo is where we share everything we learn, build, and think about product craftsmanship, engineering, and our culture. It's our commitment to learning in public."
 date: 2021-03-21
-description: Memo is where we share everything we learn, build, and think about product craftsmanship, engineering, and our culture. It's our commitment to learning in public.
 authors:
   - tieubao
 tags:
@@ -66,3 +66,4 @@ Please do! Memo is built on Markdown files stored directly in our [GitHub reposi
 We loosely follow a Zettelkasten-like idea. Quick notes or initial findings might start as simple Markdown files or drafts within the repository (perhaps in a personal fork or a specific drafts area). As ideas mature and become more robust, they get refined, given proper frontmatter, and moved into the main `vault/` structure to become official Memo posts via the PR process.
 
 We genuinely encourage everyone to contribute. Your voice, your experiences – that's what makes Memo valuable. Nothing reveals who we are better than the people living it every day.
+

@@ -1,7 +1,7 @@
 ---
 title: Who does what
+description: "Figuring out who to ask about a specific issue or question shouldn't be a guessing game. This guide outlines our main areas of focus and who helps lead them."
 date: 2019-02-21
-description: Figuring out who to ask about a specific issue or question shouldn't be a guessing game. This guide outlines our main areas of focus and who helps lead them.
 authors:
   - tieubao
 tags:
@@ -58,3 +58,4 @@ The Engagement chair works to make Dwarves Foundation an excellent place to work
 ---
 
 > Next: [How we work](how-we-work.md)
+

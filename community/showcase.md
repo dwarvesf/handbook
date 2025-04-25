@@ -1,7 +1,7 @@
 ---
 title: Showcase
-date: 2022-09-05
 description: Our weekly internal demo event where teams share their latest projects and insights. Learn about our culture of sharing, collaboration, and continuous improvement.
+date: 2022-09-05
 authors:
   - zlatanpham
 tags:
@@ -45,3 +45,4 @@ We encourage everyone to participate in the showcase. Coordinating with your tea
 ---
 
 > Next: [Tech radar](radar.md)
+

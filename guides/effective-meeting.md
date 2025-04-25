@@ -1,7 +1,7 @@
 ---
 title: Effective meetings
+description: "To make working together flexible and productive, we follow a few simple rules for meetings and group work. Here's how we keep meetings effective."
 date: 2019-02-21
-description: To make working together flexible and productive, we follow a few simple rules for meetings and group work. Here's how we keep meetings effective.
 authors:
   - tieubao
 tags:
@@ -55,3 +55,4 @@ These are essential, especially for remote collaboration:
 - **Quiet space:** Find somewhere you can focus and hear clearly. If meeting rooms are limited and you're near others not in the meeting, please respect the ongoing discussion – avoid interrupting or side conversations.
 
 Make sure you have these basics covered if you plan to meet or pair program with teammates.
+

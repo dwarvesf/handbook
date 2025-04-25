@@ -1,7 +1,7 @@
 ---
 title: What we value
-date: 2019-02-21
 description: Our core values guide our strategies and individual actions so that we create a company whose character is as radical as our work.
+date: 2019-02-21
 authors:
   - tieubao
   - duynglam
@@ -256,3 +256,4 @@ As an ambitious team co-creating the future with startups and makers, we must re
 ![Resilient future](assets/value-resilience.webp)
 
 ![Documentation importance](assets/value-documentation.webp)
+

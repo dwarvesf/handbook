@@ -1,7 +1,7 @@
 ---
 title: Memo publication workflow
-date: 2024-06-12
 description: This guide will help you step-by-step create content and publish on memo.
+date: 2024-06-12
 authors:
   - ooohminh
   - innnotruong
@@ -44,3 +44,4 @@ After writing your article, let a reviewer know if it's a draft or the final ver
 ### Feedback
 
 Gather all of the feedback, and work on them. For detailed instructions, read the article [Life cycle of a publication](lifecycle-of-a-publication.md).
+

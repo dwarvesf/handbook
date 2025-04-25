@@ -1,7 +1,7 @@
 ---
-title: 'Avoid common pitfalls in Memo'
-date: 2024-04-05
+title: Avoid common pitfalls in Memo
 description: null
+date: 2024-04-05
 authors:
   - bringastar
 tags:
@@ -237,3 +237,4 @@ Result:
 > > Yes!, they can.
 > >
 > > > You can even use multiple layers of breaking.
+

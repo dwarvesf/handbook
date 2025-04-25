@@ -1,7 +1,7 @@
 ---
 title: Password Sharing
+description: "How to access to team's password folder"
 date: 2020-01-01
-description: How to access to team's password folder
 authors:
   - huynguyenh
 tags:
@@ -23,3 +23,4 @@ In order to keep the confidential information from leaking out, Operation team w
 The latest key will be stored here: https://drive.google.com/open?id=1x2JzetR_8CkQcoHFo4J1U99zLynPZYmz
 
 Master password will be sent out separately upon request
+

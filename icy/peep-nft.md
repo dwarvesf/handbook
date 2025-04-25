@@ -1,7 +1,7 @@
 ---
 title: Claim your Peeps NFT
-date: 2024-06-15
 description: Peeps NFT is an NFT collection specialized for Dwarves Foundation members. This post will guide you how to earn a peep NFT.
+date: 2024-06-15
 authors:
   - minhcloud
 tags:
@@ -22,3 +22,4 @@ Peeps NFT is an NFT collection specialized for Dwarves Foundation members. This 
 
 4. Open the support ticket and ping @hnh to get the Peeps NFT
 5. Get the NFT minted and access to Dwarves Internal channel
+

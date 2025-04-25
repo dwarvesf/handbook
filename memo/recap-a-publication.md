@@ -1,7 +1,7 @@
 ---
 title: Recap a publication
+description: "Recap a publication is the work of summarizing its key points, analyzing why it matters, and providing insights or opinions on its content. At Dwarves, we follow a set of must-dos and set expectations for Recap a publication, to ensure we have a clear and insightful summary that can contribute to readers' understanding of the topic."
 date: 2024-03-27
-description: Recap a publication is the work of summarizing its key points, analyzing why it matters, and providing insights or opinions on its content. At Dwarves, we follow a set of must-dos and set expectations for Recap a publication, to ensure we have a clear and insightful summary that can contribute to readers' understanding of the topic.
 authors:
   - nikkingtr
 tags:
@@ -47,3 +47,4 @@ Finish by summarizing your main points and saying your final thoughts.
 - Stay organized: arrange our recap in a way that makes sense, with clear sections and transitions between ideas.
 - Think critically: say what we think about the publication whether it's good or bad, **and why**.
 - Be ethical: give credit to the author of the publication and don't copy their work without saying where it's from.
+

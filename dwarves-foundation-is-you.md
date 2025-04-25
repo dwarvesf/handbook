@@ -1,7 +1,7 @@
 ---
 title: You are Dwarves Foundation
-date: 2019-02-21
 description: Every team member embodies our values and represents our brand in every interaction.
+date: 2019-02-21
 authors:
   - tieubao
 tags:
@@ -28,3 +28,4 @@ We value what you have to say, and so does our audience. Don't keep your knowled
 ---
 
 > Next: [Who does what](who-does-what.md)
+

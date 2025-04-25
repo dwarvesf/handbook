@@ -1,7 +1,7 @@
 ---
 title: How we hire
-date: 2019-02-21
 description: Hiring means we need help. We only hire people who tell us what to do, not the other way around. We always look for long-term teammates that why we want to ensure the new hire is a value fit and culture fit.
+date: 2019-02-21
 authors:
   - tieubao
 tags:
@@ -81,3 +81,4 @@ Here's a simple example:
 - Each time the client pays their monthly invoice, you receive a referral bonus of $100
 
 This approach helps us find great people through our trusted network while rewarding team members who help us grow.
+

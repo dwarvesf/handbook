@@ -1,7 +1,7 @@
 ---
 title: 1-on-1 meetings
+description: "Strong relationships are core to our culture, and 1-on-1 meetings are how we build them. Managers meet with direct reports regularly (usually weekly) to connect. Here's how we do 1-on-1s and tips to make them count."
 date: 2021-11-01
-description: Strong relationships are core to our culture, and 1-on-1 meetings are how we build them. Managers meet with direct reports regularly (usually weekly) to connect. Here's how we do 1-on-1s and tips to make them count.
 authors:
   - tieubao
 tags:
@@ -51,3 +51,4 @@ Frequency and length can vary.
 - **Try not to:** Go longer than two weeks between meetings. Relationships need regular connection.
 
 Once scheduled, **treat it as a priority**. Rescheduling occasionally is okay, but cancelling sends the wrong message. **Don't cancel your 1-on-1s.**
+

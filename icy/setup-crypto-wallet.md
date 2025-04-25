@@ -1,7 +1,7 @@
 ---
 title: Set up crypto wallet
-date: 2024-03-13
 description: To withdraw ICY to bank or other fiat, you need set up 2 types of wallet in advance. This guide will show you how to setup crypto wallet.
+date: 2024-03-13
 authors:
   - minh_cloud
 tags:
@@ -35,3 +35,4 @@ Go to this link and install Binance on your mobile at [here](https://www.binance
 5. **Verify your identity**: Choose the document you want to use for verification and take a shot of that document.
 
 ![](assets/how-to-setup-crypto-wallet-to-withdraw-icy_how-to-withdraw-icy-4.webp)
+

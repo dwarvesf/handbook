@@ -1,8 +1,8 @@
 ---
 title: Tech Radar
 short_title: Radar
-date: 2022-10-19
 description: Our tech radar helps us assess and adopt new technologies, inspired by ThoughtWorks. Learn about its structure and how we use it.
+date: 2022-10-19
 authors:
   - zlatanpham
   - monotykamary
@@ -30,3 +30,4 @@ We also believe that every employee has something to teach others, whether it is
 - [Showcase](showcase.md)
 - [Tech radar](radar.md)
 - [Brainery](https://github.com/dwarvesf/playgroud)
+

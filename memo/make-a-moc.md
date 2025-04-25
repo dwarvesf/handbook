@@ -1,7 +1,7 @@
 ---
 title: How to make a MOC
+description: "Learn how to create a Map of Content (MOC) for knowledge hubs. This guide introduces MOC's benefits and providing a step-by-step process for organizing and linking notes effectively"
 date: 2024-06-10
-description: Learn how to create a Map of Content (MOC) for knowledge hubs. This guide introduces MOC's benefits and providing a step-by-step process for organizing and linking notes effectively
 authors:
   - zlatanpham
 tags:
@@ -95,3 +95,4 @@ Link various MOCs together. For example, the "_§ Microservices Architecture_" m
 ## **Conclusion**
 
 A Map of Content (MOC) structure is a valuable tool for managing information. At Dwarves, we strive to create content that contributes meaningfully to the tech community while supporting our engineering team's collective knowledge. By developing and sharing well-crafted MOCs, we aim to maintain our standards and ensure that our insights remain accessible and useful to our audience.
+

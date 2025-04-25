@@ -1,7 +1,7 @@
 ---
 title: Present more with Deckset
-date: 2024-04-05
 description: null
+date: 2024-04-05
 authors:
   - bringastar
 tags:
@@ -114,3 +114,4 @@ While Deckset doesn't allow you to customize everything to your heart's desire, 
 However, Deckset is still a great tool that helps me create beautiful presentations quickly and easily. It allows me to have a moderate level of control, focusing on the content without getting distracted by complex design details.
 
 Therefore, even though Deckset is not truly perfect, I still hope you will like it. Give Deckset a try and share your experience with me!
+

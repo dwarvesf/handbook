@@ -1,7 +1,7 @@
 ---
 title: How to take better screenshots on Mac
-date: 2024-03-13
 description: Taking screenshots of them shouldn’t be that challenging. In this article, I’ll take you through my screenshot workflow with a handful of simple tools and techniques and grab screenshots with negligible effort.
+date: 2024-03-13
 authors:
   - innnotruong
 tags:
@@ -78,3 +78,4 @@ CleanShot is highly customizable, you can adjust nearly every behavior and tweak
 ## Overall
 
 This guide will help you quickly make great screenshots with this tool. It does exactly what we need it to do, and I think you'll love it, too. Keep practicing with these tools, they're like the cherry on top, adding that extra something to your work.
+

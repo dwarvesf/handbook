@@ -1,7 +1,7 @@
 ---
 title: How to swap ICY to BTC
+description: "A friendly guide to converting your ICY tokens to Bitcoin (BTC) using our platform. We'll walk you through the process step by step, from wallet setup to transaction monitoring."
 date: 2025-03-04
-description: A friendly guide to converting your ICY tokens to Bitcoin (BTC) using our platform. We'll walk you through the process step by step, from wallet setup to transaction monitoring.
 authors:
   - lmquang
 tags:
@@ -44,3 +44,4 @@ Keep these key points in mind when swapping your ICY:
 - Processing may be delayed during high network activity
 
 Need help? Our team is always ready to assist on the Dwarves Foundation Discord. We're here to make your ICY swap experience smooth and successful!
+

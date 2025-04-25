@@ -1,7 +1,7 @@
 ---
 title: Memo publication life cycle
-date: 2024-03-21
 description: Following the core theme of MMA (Mastery, Meaning, Autonomy), every piece of content we put out requires a strategic approach, so it can cut through the noise, serve purposes and meanings to readers.
+date: 2024-03-21
 authors:
   - nikkingtr
 tags:
@@ -70,3 +70,4 @@ We want to contribute as much as we can to the tech community, so making and sha
 We already have standards and processes in place, following them and adapting them to fit our style and audience will get us high-quality content and become a true contributor to tech.
 
 ![](assets/lifecycle-of-a-publication.pdf)
+
