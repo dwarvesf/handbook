@@ -144,7 +144,7 @@ We all know a picture is worth a thousand words, and screenshots are like tiny p
 - **Display images with incorrect aspect ratio:** Design your images in a horizontal rectangular frame with an aspect ratio of `21:9`, `16:9`, or `4:3`. Avoid using vertical rectangles as it will enlarge the image and affect the layout of your document.
 - **Low Resolution:** A blurry or pixelated screenshot can be frustrating and impede understanding. Make sure the screenshot resolution is high enough to clearly.
 
-Lots of people use different screenshot tools, kind of like having a favorite app for every task. For instance, on my Windows, I rock ShareX, while on Mac, [Cleanshot](../guides/take-better-screenshots-on-mac.md) is my go-to. Because different tools offer different features! The point is, if you need more than the basics, there's a whole world of screenshot tools out there to explore.  They cater to all sorts of needs, from quick captures to fancy edits.
+Lots of people use different screenshot tools, kind of like having a favorite app for every task. For instance, on my Windows, I rock ShareX, while on Mac, [Cleanshot](../guides/take-better-screenshots-on-mac.md) is my go-to. Because different tools offer different features! The point is, if you need more than the basics, there's a whole world of screenshot tools out there to explore. They cater to all sorts of needs, from quick captures to fancy edits.
 
 Remember, a well-made screenshot can be a superhero in presentations, tutorials, or any situation where you need crystal-clear visuals. Think of it as a shortcut – a way to explain something complex with a simple picture. So go forth and conquer the world of screenshots – you've got this!
 
@@ -237,4 +237,3 @@ Result:
 > > Yes!, they can.
 > >
 > > > You can even use multiple layers of breaking.
-

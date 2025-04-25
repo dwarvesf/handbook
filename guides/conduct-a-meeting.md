@@ -55,4 +55,3 @@ Keeping track of what was discussed and decided is crucial. Meeting notes (or mi
 - Decisions reached
 - Action items (with owners and due dates)
 - Details for any follow-up meeting
-

@@ -44,4 +44,3 @@ Please note: Rewards are paid out _after_ the corresponding Pull Request (PR) is
 ---
 
 > Next: [Sharing](sharing.md)
-

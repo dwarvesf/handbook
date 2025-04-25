@@ -110,4 +110,3 @@ Our handbook was inspired by [Basecamp](https://github.com/basecamp/handbook) an
 
 Creative Commons Attribution 4.0 International (CC BY 4.0)
 @ [Dwarves Foundation](https://d.foundation)
-

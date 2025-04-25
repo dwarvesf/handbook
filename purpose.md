@@ -37,4 +37,3 @@ When you join Dwarves Foundation, you become part of this larger purpose, creati
 ---
 
 > Next: [Navigate changes](navigate-changes.md)
-

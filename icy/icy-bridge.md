@@ -46,5 +46,4 @@ Here is how it goes:
 ![](assets/how-to-transfer-dfg-from-eth-to-base-for-staking_approve_bride.webp)
 
 4. Then just sit back and wait for your DFG to roll into your Base wallet.
-![](assets/how-to-transfer-dfg-from-eth-to-base-for-staking_approve_bride_3.webp)
-
+   ![](assets/how-to-transfer-dfg-from-eth-to-base-for-staking_approve_bride_3.webp)

@@ -51,4 +51,3 @@ Frequency and length can vary.
 - **Try not to:** Go longer than two weeks between meetings. Relationships need regular connection.
 
 Once scheduled, **treat it as a priority**. Rescheduling occasionally is okay, but cancelling sends the wrong message. **Don't cancel your 1-on-1s.**
-

@@ -49,4 +49,3 @@ As it sounds, <accounting@d.foundation> is all for the issue that relates to mon
 ### <thug@d.foundation>
 
 For Infras registration e.g. Cloudflare, Google Cloud, AWS ...
-

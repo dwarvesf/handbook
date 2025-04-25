@@ -66,4 +66,3 @@ Please do! Memo is built on Markdown files stored directly in our [GitHub reposi
 We loosely follow a Zettelkasten-like idea. Quick notes or initial findings might start as simple Markdown files or drafts within the repository (perhaps in a personal fork or a specific drafts area). As ideas mature and become more robust, they get refined, given proper frontmatter, and moved into the main `vault/` structure to become official Memo posts via the PR process.
 
 We genuinely encourage everyone to contribute. Your voice, your experiences – that's what makes Memo valuable. Nothing reveals who we are better than the people living it every day.
-

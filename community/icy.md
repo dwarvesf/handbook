@@ -88,4 +88,3 @@ We're working on exciting new features for ICY's future development. Our roadmap
 ---
 
 > Next: [Discord](discord.md)
-

@@ -45,4 +45,3 @@ We encourage everyone to participate in the showcase. Coordinating with your tea
 ---
 
 > Next: [Tech radar](radar.md)
-

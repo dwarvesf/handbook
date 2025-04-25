@@ -78,4 +78,3 @@ Remember, the goal of our hybrid model is to give you the flexibility to do your
 ---
 
 > Next: [What we stand for](what-we-stand-for.md)
-

@@ -47,4 +47,3 @@ Finish by summarizing your main points and saying your final thoughts.
 - Stay organized: arrange our recap in a way that makes sense, with clear sections and transitions between ideas.
 - Think critically: say what we think about the publication whether it's good or bad, **and why**.
 - Be ethical: give credit to the author of the publication and don't copy their work without saying where it's from.
-

@@ -256,4 +256,3 @@ As an ambitious team co-creating the future with startups and makers, we must re
 ![Resilient future](assets/value-resilience.webp)
 
 ![Documentation importance](assets/value-documentation.webp)
-

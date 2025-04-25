@@ -101,4 +101,3 @@ If you use the Mail app on macOS and want to send from your alias there:
 Now, when composing a new message in Mac Mail, you can select your `@d.foundation` alias from the "From" dropdown.
 
 ![Mac Mail select alias in From field](assets/email-mac-select-alias.webp)
-

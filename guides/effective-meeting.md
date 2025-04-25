@@ -55,4 +55,3 @@ These are essential, especially for remote collaboration:
 - **Quiet space:** Find somewhere you can focus and hear clearly. If meeting rooms are limited and you're near others not in the meeting, please respect the ongoing discussion – avoid interrupting or side conversations.
 
 Make sure you have these basics covered if you plan to meet or pair program with teammates.
-

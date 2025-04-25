@@ -53,4 +53,3 @@ In other studies, people has found that exposure to certain colors can play a ro
 - The Morning Cafe
 - Oromia Coffee
 - L’Usine Le Loi
-

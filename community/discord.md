@@ -123,4 +123,3 @@ See you [on the server!](http://discord.gg/dfoundation)
 ---
 
 > Next: [Earn](earn.md)
-

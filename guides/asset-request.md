@@ -76,4 +76,3 @@ HR takes it from here:
 4. **Completion:** HR will mark the To-Do as done once you have the item.
 
 And that's it! Simple ways to get the tools you need.
-

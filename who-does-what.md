@@ -58,4 +58,3 @@ The Engagement chair works to make Dwarves Foundation an excellent place to work
 ---
 
 > Next: [How we work](how-we-work.md)
-

@@ -63,4 +63,3 @@ Slack is the secondary communication tool that we use to collaborate with the cu
 ### 1Password
 
 1Password is where we store the credential to other cloud services. A different group of people has access to particular vaults. Using 1Password help to simplify our workflow and ease our mind by seamlessly integrated into the OS and web browsers.
-

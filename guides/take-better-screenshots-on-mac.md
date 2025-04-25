@@ -78,4 +78,3 @@ CleanShot is highly customizable, you can adjust nearly every behavior and tweak
 ## Overall
 
 This guide will help you quickly make great screenshots with this tool. It does exactly what we need it to do, and I think you'll love it, too. Keep practicing with these tools, they're like the cherry on top, adding that extra something to your work.
-

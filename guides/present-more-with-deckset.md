@@ -60,15 +60,15 @@ Deckset also provides a variety of tools to add content to your slides, includin
 
 **Code block:**
 
-``` javascript
+```javascript
 $.ajax({
   url: "/api/getWeather",
   data: {
-    zipcode: 97201
+    zipcode: 97201,
   },
-  success: function( data ) {
-    $( "#weather-temp" ).html( "" + data + " degrees" );
-  }
+  success: function (data) {
+    $("#weather-temp").html("" + data + " degrees");
+  },
 });
 ```
 
@@ -114,4 +114,3 @@ While Deckset doesn't allow you to customize everything to your heart's desire, 
 However, Deckset is still a great tool that helps me create beautiful presentations quickly and easily. It allows me to have a moderate level of control, focusing on the content without getting distracted by complex design details.
 
 Therefore, even though Deckset is not truly perfect, I still hope you will like it. Give Deckset a try and share your experience with me!
-

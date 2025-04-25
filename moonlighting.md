@@ -46,4 +46,3 @@ When considering outside work, ask yourself these questions:
 We aim to be reasonable about outside work, but we need to be firm when it affects your time, attention, or performance here.
 
 Since every situation is unique, reach out to Han or An if you're uncertain about a specific opportunity. We're happy to discuss it before you make any commitments.
-

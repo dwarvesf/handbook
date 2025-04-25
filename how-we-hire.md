@@ -81,4 +81,3 @@ Here's a simple example:
 - Each time the client pays their monthly invoice, you receive a referral bonus of $100
 
 This approach helps us find great people through our trusted network while rewarding team members who help us grow.
-

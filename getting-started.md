@@ -84,4 +84,3 @@ As you move forward, ask yourself: How does your work contribute to our shared v
 ---
 
 > Next: [You are Dwarves Foundation](dwarves-foundation-is-you.md)
-

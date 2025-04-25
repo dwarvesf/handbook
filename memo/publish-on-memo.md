@@ -32,7 +32,7 @@ title: [The title]
 date: yyyy-mm-dd
 description: [your description]
 authors: [your name]
-tags: 
+tags:
   - [tag1]
   - [tag2]
   - [tag3]
@@ -78,4 +78,3 @@ Now, you should go to your [Github](https://github.com/) and log in. After that 
 4. Choose the commit and Create the pull request.
 
 Now all you need is waiting for admin to review your request!
-

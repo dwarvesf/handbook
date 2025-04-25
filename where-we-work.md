@@ -28,4 +28,3 @@ Working from home all the time isn’t everyone’s cup of coffee. Thus, lots of
 If working from home or from a coffee shop doesn’t suit you, then trying a coworking space might just do the trick. We support a $50/month stipend towards a desk in such a place.
 
 There are a few [places](places-to-work.md) that we usually visit.
-

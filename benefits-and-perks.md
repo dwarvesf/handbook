@@ -101,4 +101,3 @@ If you request further checkup, a 5-25% discount will be applied for full-time e
 When you welcome a new child, we encourage you to take up to 6 months leave for primary caregivers not more than 2 months before giving birth. The father is allowed up to 5 days of leave as a secondary caregiver. And if you have twins, you can take up to 10 fully paid days off. All parental leaves are at 100% base salary.
 
 These benefits only applied for full-time Dwarves who have been on-boarded for more than 6 months in advance of pregnancy (internship and probation period are omitted).
-

@@ -65,4 +65,3 @@ Remember: MMA isn't about checking boxesit's about creating an environment where
 ---
 
 > Next: [MMA](mma.md)
-

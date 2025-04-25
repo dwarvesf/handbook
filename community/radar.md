@@ -40,4 +40,3 @@ The rings indicate our adoption stage for a technology, moving from the outer ri
 - **Adopt:** Technologies we confidently use in projects when appropriate. We believe these are solid choices for the industry.
 
 Explore our current [tech radar board](https://radar.d.foundation/) to see our latest assessments.
-

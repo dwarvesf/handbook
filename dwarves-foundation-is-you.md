@@ -28,4 +28,3 @@ We value what you have to say, and so does our audience. Don't keep your knowled
 ---
 
 > Next: [Who does what](who-does-what.md)
-

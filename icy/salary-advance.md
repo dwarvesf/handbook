@@ -26,4 +26,3 @@ e.g:
 - type `?salary advance`
 - input credit amount in icy.
 - done.
-

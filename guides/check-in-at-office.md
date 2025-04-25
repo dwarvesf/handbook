@@ -38,4 +38,3 @@ After your "gm" message, our system will credit you with 5 ICY tokens, worth abo
 ## Making the most of your time
 
 You’re all set. Now’s your chance to catch up with teammates, share ideas, or just enjoy the office vibe. These face-to-face moments make all the difference.
-

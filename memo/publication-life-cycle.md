@@ -70,4 +70,3 @@ We want to contribute as much as we can to the tech community, so making and sha
 We already have standards and processes in place, following them and adapting them to fit our style and audience will get us high-quality content and become a true contributor to tech.
 
 ![](assets/lifecycle-of-a-publication.pdf)
-

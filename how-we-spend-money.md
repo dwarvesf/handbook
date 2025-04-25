@@ -19,4 +19,3 @@ Besides the paycheck that we agreed on the employment contract, the revenue spli
 - The last portion is the profit with the estimation of 20% before taxes which 5% of that will be turned into dividend payment at the end of the year.
 
 That’s it. Read more about the [Stock Option Plan](stock-option-plan.md)
-

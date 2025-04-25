@@ -59,4 +59,3 @@ We've chosen innovation as a core value because we believe in forming ideas that
 ---
 
 > Next: [The Purpose](purpose.md)
-

@@ -61,4 +61,3 @@ These agreements are important, but hopefully straightforward. If anything's unc
 - Reach out to HR for clarification on any points.
 
 Thanks for honoring these agreements. Your commitment protects our work, our team, and our future. We trust you to handle these responsibilities with the same care and integrity you bring to your craft every day.
-

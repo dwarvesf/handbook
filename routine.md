@@ -75,4 +75,3 @@ Staying current in software development requires continuous learning. Every two 
 ---
 
 > Next: [Who does what](who-does-what.md)
-

@@ -22,4 +22,3 @@ Peeps NFT is an NFT collection specialized for Dwarves Foundation members. This 
 
 4. Open the support ticket and ping @hnh to get the Peeps NFT
 5. Get the NFT minted and access to Dwarves Internal channel
-

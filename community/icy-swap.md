@@ -44,4 +44,3 @@ Keep these key points in mind when swapping your ICY:
 - Processing may be delayed during high network activity
 
 Need help? Our team is always ready to assist on the Dwarves Foundation Discord. We're here to make your ICY swap experience smooth and successful!
-

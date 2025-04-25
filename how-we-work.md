@@ -126,4 +126,3 @@ While craftsmanship alone doesn't guarantee a project's success, its absence is 
 ---
 
 > Next: [Work routine](routine.md)
-

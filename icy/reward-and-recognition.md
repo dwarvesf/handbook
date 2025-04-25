@@ -19,16 +19,16 @@ Our monthly budget for rewarding ICY is around **260-300 ICY per month**. _This 
 
 ### Permanent notes criteria
 
-| Range ICY | Criteria |
-| --------- | -------- |
+| Range ICY | Criteria                                                                                                                                                                                                                                                           |
+| --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | 7.5 - 10  | The note is above 200 words and is succinctly composed of proper sentences and paragraphs. The note is relatively coherent and may have some visuals or images to better explain the entry.                                                                        |
 | 5 - 7.5   | The note is around 200 words or less, containing some sentences, but may be mainly composed of bullet points. The entry is somewhat coherent, but may be obscured due to a lack of written words.                                                                  |
 | 0 - 5     | The note is around 200 words or less, containing some or no complete sentences and is mostly composed of bullet points. The entry is mostly in the form of a fleeting note, such that the audience for the summary is more for the writer, rather than the reader. |
 
 ### Fleeting notes criteria
 
-| Range ICY | Criteria |
-| --------- | -------- |
+| Range ICY | Criteria                                                                                                                                                                              |
+| --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 2.5 - 5   | The note is around 200 words or less, containing has some sentences, but may be mainly composed of bullet points. The entry is contextually coherent.                                 |
 | 0 - 2.5   | The note is around 100 words or less, containing no complete sentences and is mostly composed of bullet points. The entry is not apparently coherent, and may contain copied phrases. |
 
@@ -55,4 +55,3 @@ Any notes that go above our 260-300 ICY per month will be **carried over to the 
 ## Recognition
 
 Check our [[Latest Notes]] to see recent notes, major contributors, and newest contributors to our Brainery. We will regularly update the format, so that we can give active recognition to everyone who participates.
-

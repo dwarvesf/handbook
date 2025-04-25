@@ -46,4 +46,3 @@ When preparing to share, keep these guidelines in mind:
 ---
 
 > Next: [Showcase](showcase.md)
-

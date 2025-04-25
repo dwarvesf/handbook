@@ -74,4 +74,3 @@ After bridge, the token is stil on the Coinbase wallet which cost a high fee to 
 Go to P2P trading and choose the suitable service to withdraw to the bank account
 
 ![](assets/how-to-withdraw-icy-20240313145106740.webp)
-

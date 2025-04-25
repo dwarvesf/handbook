@@ -12,7 +12,7 @@ To withdraw ICY to bank or other fiat, you need set up 2 types of wallet in adva
 
 1. On-chain wallet (Non-custodial wallet, such as: Coinbase, Metamask): This kind of wallet is needed to receive ICY and swap ICY to USDT.
 2. Custodial wallet (such as: Binance): This kind of wallet is used to convert USDT to VND.
-After setup these two wallet, please follow this [guidline](icy-withdraw.md) to withdraw ICY.
+   After setup these two wallet, please follow this [guidline](icy-withdraw.md) to withdraw ICY.
 
 ### Set up Coinbase wallet
 
@@ -35,4 +35,3 @@ Go to this link and install Binance on your mobile at [here](https://www.binance
 5. **Verify your identity**: Choose the document you want to use for verification and take a shot of that document.
 
 ![](assets/how-to-setup-crypto-wallet-to-withdraw-icy_how-to-withdraw-icy-4.webp)
-

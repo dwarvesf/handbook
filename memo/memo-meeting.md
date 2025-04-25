@@ -45,4 +45,3 @@ Here are the simple steps we follow each week to keep the Memo pipeline organize
 - Check out this guide to create [map of content.](how-to-make-a-moc.md)
 
 By sticking to the checklist each week, we can ensure our memo is in the loop, and our projects stay on track.
-

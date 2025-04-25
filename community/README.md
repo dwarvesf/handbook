@@ -30,4 +30,3 @@ We also believe that every employee has something to teach others, whether it is
 - [Showcase](showcase.md)
 - [Tech radar](radar.md)
 - [Brainery](https://github.com/dwarvesf/playgroud)
-
