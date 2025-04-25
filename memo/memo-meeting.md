@@ -42,6 +42,6 @@ Here are the simple steps we follow each week to keep the Memo pipeline organize
 ### Map of Content
 
 - Develop and sort out your content map to track existing content, what needs updating, and what new content is planned. e.g: [df-topic](https://docs.google.com/spreadsheets/d/1HzCwXFrWkaCQoYXaZsHnb-Qge6kJEPoSDLVRULJKREc/edit#gid=0).
-- Check out this guide to create [map of content.](how-to-make-a-moc.md)
+- Check out this guide to create [map of content](make-a-moc.md).
 
 By sticking to the checklist each week, we can ensure our memo is in the loop, and our projects stay on track.

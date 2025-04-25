@@ -14,7 +14,7 @@ Whether we're crafting a note, article, research report, or digital post, the pr
 
 ## Recording knowledge
 
-We follow the [Zettelkasten Method](organize-team-know-how-with-zettelkasten-method.md) to record and organize knowledge. In short, every new thing we learn is stored as a fleeting note. Fleeting notes are conntected to one another by headings and metadata such as tags or numbers.
+We follow the [Zettelkasten Method](organize-team-know-how.md) to record and organize knowledge. In short, every new thing we learn is stored as a fleeting note. Fleeting notes are conntected to one another by headings and metadata such as tags or numbers.
 
 Fleeting notes can be personal to each team members, or can be shared through our Playground. When we need to craft a piece of content for a certain topic, we can just pull up related fleeting notes to start.
 
@@ -48,7 +48,7 @@ Once we have in mind how we should shape our content:
 
 Once our work is approved, we have a **literature note** ready for sharing with others. Most written content goes through 5 stages:
 
-- [**Internal recap**](how-to-recap-a-publication.md) within the communications team, so everyone understand it the same way, and can answer to any question readers have.
+- [**Internal recap**](recap-a-publication.md) within the communications team, so everyone understand it the same way, and can answer to any question readers have.
 - Publishing as an article on memo.d.foundation, so everyone has access to it.
 - Summary as slides, so we have training materials for everyone who's interested in the topic.
 - Workshop, tech event or radio talk with related experts/organizations to widen perspectives on the topic.

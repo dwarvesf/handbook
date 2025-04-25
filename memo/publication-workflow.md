@@ -20,15 +20,14 @@ If you’re unsure where your content fits, just message our supporters on Disco
 
 ### Writing your content
 
-- To set up your local environment for writing a memo, check out [this guide](how-to-set-up-environment-for-editing-memo.md).
-- To learn how to write, submit, and publish your memo, see [this guide](publish-on-memo.md). Before you start, ensure each article includes these **mandatory fields**: title, description, author, date, and tags.
+To learn how to write, submit, and publish your memo, see [this guide](publish-on-memo.md). Before you start, ensure each article includes these **mandatory fields**: title, description, author, date, and tags.
 
 ![](assets/memo-publication-workflow-metadata.webp)
 
-- Name your files using kebab case, e.g: [how-to-write-a-memo.md](how-to-write-a-memo.md).
+- Name your files using kebab case, e.g: `how-to-write-a-memo.md`
 - Verify all links in your article by running the repository locally.
 - Upload any images to the `assets` folder and reference them accordingly.
-- For image and screenshot guidelines in your article, refer to [this guide](how-to-take-better-screenshots-on-mac.md).
+- For image and screenshot guidelines in your article, refer to [this guide](../guides/take-better-screenshots-on-mac.md).
 
 ![](assets/memo-publication-workflow-images-format.webp)
 
@@ -43,4 +42,4 @@ After writing your article, let a reviewer know if it's a draft or the final ver
 
 ### Feedback
 
-Gather all of the feedback, and work on them. For detailed instructions, read the article [Life cycle of a publication](lifecycle-of-a-publication.md).
+Gather all of the feedback, and work on them. For detailed instructions, read the article [Life cycle of a publication](publication-life-cycle.md).

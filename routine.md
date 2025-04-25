@@ -70,7 +70,7 @@ Through [Dwarves Ventures](https://dwarves.ventures), our investment arm, we exc
 
 ### Tech radar
 
-Staying current in software development requires continuous learning. Every two months, we conduct Tech Radar sessions where team members research technologies they find interesting or potentially valuable to our work. Outstanding research is recognized internally and published for our wider community. Read more about our [tech radar process](learning/tech-radar.md).
+Staying current in software development requires continuous learning. Every two months, we conduct Tech Radar sessions where team members research technologies they find interesting or potentially valuable to our work. Outstanding research is recognized internally and published for our wider community. Read more about our [tech radar process](community/radar.md).
 
 ---
 
