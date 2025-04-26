@@ -10,7 +10,7 @@ tags:
   - purpose
 ---
 
-## Empower Innovation with Software Craftsmanship
+## Empower innovation with software craftsmanship
 
 Innovation happens constantly. Every day, startups form and secure funding to pursue their visions, striving to create positive change, impact millions of lives, achieve breakthroughs, and build foundations for economic growth.
 

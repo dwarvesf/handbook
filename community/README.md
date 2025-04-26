@@ -1,5 +1,5 @@
 ---
-title: Tech Radar
+title: Tech radar
 short_title: Radar
 description: Our tech radar helps us assess and adopt new technologies, inspired by ThoughtWorks. Learn about its structure and how we use it.
 date: 2022-10-19
@@ -21,7 +21,7 @@ We also believe that every employee has something to teach others, whether it is
 
 - **Monday's radio talk**: a weekly show where people can share their thoughts on a given topic and hear what others have to say as well.
 - **Friday's showcase**: a weekly presentation where people can share what they've been working on lately with the rest of the company.
-- **Tech radar**: we've built a Tech Radar to keep up with the latest technology trends, assess their viability for adoption within our company, and then make those decisions accordingly.
+- **Tech radar**: we've built a Tech radar to keep up with the latest technology trends, assess their viability for adoption within our company, and then make those decisions accordingly.
 - **Brainery**: a collection of learning pieces where we want to build up the 1% improvement habit, learning in public.
 
 #### Read on

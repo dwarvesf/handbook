@@ -36,7 +36,7 @@ Discuss about why the publication is important and how it adds to what we alread
 Give our thoughts about the publication. Say what we think is good or bad about it.
 Discuss its impact on the team/industry, its potential on our future research or practice, and any questions or concerns it raises.
 
-### Wrap it Up
+### Wrap it up
 
 Finish by summarizing your main points and saying your final thoughts.
 

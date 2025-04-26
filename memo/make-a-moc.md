@@ -52,12 +52,12 @@ Every topic folder should have a corresponding MOC. If there are multiple MOCs, 
 
 If it’s a new topic, proceed to the next step. Otherwise, include all related notes, documents, and resources. Link these to the core topic. For example:
 
-- `[[Microservices Design Patterns]]`
+- `[[Microservices Design patterns]]`
 - `[[API Gateway Implementation]]`
 - `[[Event-Driven Architecture]]`
 - `[[Service Discovery Methods]]`
 - `[[Security in Microservices]]`
-- `[[Microservices Best Practices]]`
+- `[[Microservices Best practices]]`
 
 **4. Add Context and Categories**
 
@@ -70,14 +70,14 @@ Organize the links into categories or sections, adding brief descriptions for co
 
 Example:
 
-- **Design Patterns:**
-  - `[[Microservices Design Patterns]]`
+- **Design patterns:**
+  - `[[Microservices Design patterns]]`
   - `[[Event-Driven Architecture]]`
 - **Implementation:**
   - `[[API Gateway Implementation]]`
   - `[[Service Discovery Methods]]`
-- **Best Practices:**
-  - `[[Microservices Best Practices]]`
+- **Best practices:**
+  - `[[Microservices Best practices]]`
   - `[[Security in Microservices]]`
 
 ![](assets/how-to-make-a-moc_how-to-make-moc-ms-map.webp)

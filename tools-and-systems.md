@@ -18,14 +18,14 @@ tags:
 - Careers: [dwarves.careers](https://dwarves.careers)
 - Memo: [memo.d.foundation](https://memo.d.foundation)
 
-### Social Network
+### Social network
 
 - Discord: <>
 - Facebook: [fb/dwarvesf](https://facebook.com/dwarvesf)
 - Twitter: [@dwarvesf](https://twitter.com/dwarvesf)
 - Instagram: <https://instagram.com/dwarves.foundation>
 
-## Tools & Systems
+## Tools & systems
 
 Besides the customer-facing applications, like the different versions of the website, we have a number of internal systems that help us support, report, and operate the company. They are as follows:
 
@@ -35,7 +35,7 @@ Basecamp is where daily work happens. We use Basecamp for task tracking and team
 
 <https://3.basecamp.com/4108948/>
 
-### Email & Storage
+### Email & storage
 
 G Suite is a set of the business tool provided by Google that we subscribe to.
 

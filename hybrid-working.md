@@ -1,5 +1,5 @@
 ---
-title: Hybrid Working
+title: Hybrid working
 description: How we balance remote and office work at Dwarves
 date: 2022-09-19
 authors:

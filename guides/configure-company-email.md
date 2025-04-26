@@ -56,7 +56,7 @@ A popup window will appear.
 
 This step tells Gmail how to send emails using Google's servers.
 
-1. **SMTP Server:** Enter `smtp.gmail.com`.
+1. **SMTP server:** Enter `smtp.gmail.com`.
 2. **Port:** Keep the default (usually 587 for TLS).
 3. **Username:** Enter your **full personal Gmail address** (e.g., `your.personal.email@gmail.com`).
 4. **Password:** Paste the **16-character App Password** you generated in Step 2.

@@ -1,5 +1,5 @@
 ---
-title: You are Dwarves Foundation
+title: You are dwarves foundation
 description: Every team member embodies our values and represents our brand in every interaction.
 date: 2019-02-21
 authors:

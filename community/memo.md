@@ -1,5 +1,5 @@
 ---
-title: Memo Handbook
+title: Memo handbook
 short_title: Memo
 description: "Memo is where we share everything we learn, build, and think about product craftsmanship, engineering, and our culture. It's our commitment to learning in public."
 date: 2021-03-21

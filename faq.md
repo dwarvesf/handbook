@@ -8,7 +8,7 @@ tags:
   - handbook
 ---
 
-## Frequently Asked Questions
+## Frequently asked questions
 
 Here are answers to common questions about working at Dwarves. If you don't find what you're looking for, please reach out to us directly.
 
@@ -105,9 +105,9 @@ We're committed to your growth and development:
 
 Speak with your team lead about your professional development goals, and we'll help support your journey.
 
-## People Operations
+## People operations
 
-### The Culture
+### The culture
 
 **How to pronounce the company name?**
 
@@ -248,7 +248,7 @@ Starting in 2023, the team switched to using Bao Minh virtual cards for easier u
 
 - If you have any questions about how to claim insurance (online and offline), the Bao Minh personnel in charge of your file and support Q&A can be found in the 2023 message here: [Bao Minh Support](https://public.3.basecamp.com/p/HZKduaMQSiwrMMac9nvUGak9).
 
-## Finance Operations
+## Finance operations
 
 ### Payroll
 
@@ -279,7 +279,7 @@ Sometimes Wise proceeds transactions randomly to make sure they are clean, so it
 
 If after 7 days from the payroll date you haven't received any notification from Wise, please open a support ticket so then the ops team can investigate further into the matter further.
 
-## Project Operations
+## Project operations
 
 ### General questions
 

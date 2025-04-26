@@ -10,7 +10,7 @@ tags:
 
 I grab screenshots pretty often. Although macOS’s native screenshot tool is decent for most cases, it’s still a very basic one. Here are a few tips on how to take great-looking screenshots with a simple tool and in less time.
 
-## Installation and Setup
+## Installation and setup
 
 CleanShot X is actually an app I downloaded as part of my Setapp subscription. I use CleanShot every single day. The app offers a wide range of features, from capturing screenshots and recording your screen to annotating and quick editing.
 
@@ -45,16 +45,16 @@ CleanShot is highly customizable, you can adjust nearly every behavior and tweak
 
 ![](assets/how-to-take-better-screenshots-on-mac_annotation-tool.webp)
 
-- **Background Tool in Annotate:** easily create beautiful social media posts that stand out from others. You can even change the padding, shadow, alignment, and border-radius of your screenshot. The Auto Balance option will make your screenshot look perfectly aligned by adjusting the space around the content.
+- **Background tool in Annotate:** easily create beautiful social media posts that stand out from others. You can even change the padding, shadow, alignment, and border-radius of your screenshot. The Auto Balance option will make your screenshot look perfectly aligned by adjusting the space around the content.
 
 - **Using Dwarves color scheme in Background Tool:** when editing your cropped screenshot in Cleanshot, you have the option to place it on a blank canvas or use Dwarves’ branding color scheme. It's also possible to easily customize the screenshot.
 
   1. **Customization at Pain Color:** choose a custom color using the RGB sliders then enter a Hex code **`F8F8F8`**.
-  2. **Dwarves' Branding Scheme:** Set Dwarves' branding colors as the background wallpaper (if different from Pain Color).
+  2. **Dwarves' branding scheme:** Set Dwarves' branding colors as the background wallpaper (if different from Pain Color).
   3. **Alignment:** center your screenshot on the canvas for a balanced look.
   4. **Padding:** adjust the padding to 76 for optimal spacing around your content.
   5. **Shadow:** apply a shadow effect with a strength of 28 to enhance the depth of your screenshot.
-  6. **Dwarves Logo:** add the Dwarves logo in the top left corner
+  6. **Dwarves logo:** add the Dwarves logo in the top left corner
 
 ![](assets/how-to-take-better-screenshots-on-mac_df-color-scheme.webp)
 
@@ -71,9 +71,9 @@ CleanShot is highly customizable, you can adjust nearly every behavior and tweak
 
 - **All-In-One mode**: this mode allows you to specify the size and lock the aspect ratio for your screenshots. It also saves your last selection, making it easier to retake your last screenshot.
 
-- **Recording Features**: choose between recording a video or a GIF, whether to capture a specific window, custom dimensions, a part of the screen, or fullscreen. With our built-in video editor, you will be able to prepare a screen recording for sharing, by reducing its file size or changing the audio settings.
+- **Recording features**: choose between recording a video or a GIF, whether to capture a specific window, custom dimensions, a part of the screen, or fullscreen. With our built-in video editor, you will be able to prepare a screen recording for sharing, by reducing its file size or changing the audio settings.
 
-- **Open History**: access your screenshot history. You can remove files from the Capture History or restore recent captures if you ever need them again.
+- **Open history**: access your screenshot history. You can remove files from the Capture History or restore recent captures if you ever need them again.
 
 ## Overall
 

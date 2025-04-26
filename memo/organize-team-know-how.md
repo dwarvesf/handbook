@@ -31,17 +31,17 @@ Basically, the Zettelkasten method revolves around capturing one idea per note a
 
 There are several different types of notes that you can add into your Zettelkasten. Here’s a quick overview:
 
-1. **Fleeting Notes:** These are for quick, temporary notes that capture in-the-moment ideas and learnings. They're not meant to be comprehensive or polished, but are meant to capture your thoughts so that you can refine them later.
-2. **Literature Notes**: When you learn something from reading, create a literature note. These notes capture the key points and ideas from the books, articles, or other sources that you're studying. Remember to keep each literature note a single idea, as opposed to a collection of learnings from what you read.
-3. **Permanent Notes:** These are the notes that you want to keep for the long-term. They’re made up of the notes you’ve grouped and connected together. Think of it like a summarization of your ideas.
-4. **Reference Notes:** These notes act as “connectors” within your Zettelkasten. Think of them as the table of contents or legend that tell you where to find what information, or which notes connect with which. For example, if you’re using a star to mark notes that came from the same book, you can define that in a reference note. If you’re using a digital Zettelkasten, you might not need to create reference notes.
+1. **Fleeting notes:** These are for quick, temporary notes that capture in-the-moment ideas and learnings. They're not meant to be comprehensive or polished, but are meant to capture your thoughts so that you can refine them later.
+2. **Literature notes**: When you learn something from reading, create a literature note. These notes capture the key points and ideas from the books, articles, or other sources that you're studying. Remember to keep each literature note a single idea, as opposed to a collection of learnings from what you read.
+3. **Permanent notes:** These are the notes that you want to keep for the long-term. They’re made up of the notes you’ve grouped and connected together. Think of it like a summarization of your ideas.
+4. **Reference notes:** These notes act as “connectors” within your Zettelkasten. Think of them as the table of contents or legend that tell you where to find what information, or which notes connect with which. For example, if you’re using a star to mark notes that came from the same book, you can define that in a reference note. If you’re using a digital Zettelkasten, you might not need to create reference notes.
 
 ### How the **Zettelkasten Method improve the way we think and our writing skill**
 
-- **Clarity in Thinking**: Writing forces you to clarify your point, helping you stick to it coherently.
-- **Consistent Development**: Writing down thoughts prevents mental leaps, ensuring consistent development of ideas.
-- **Improved Memorization**: Putting thoughts on paper aids memorization.
-- **Guarding Against Bias**: Written thoughts remain unchanged, tackling hindsight bias effectively.
+- **Clarity in thinking**: Writing forces you to clarify your point, helping you stick to it coherently.
+- **Consistent development**: Writing down thoughts prevents mental leaps, ensuring consistent development of ideas.
+- **Improved memorization**: Putting thoughts on paper aids memorization.
+- **Guarding against bias**: Written thoughts remain unchanged, tackling hindsight bias effectively.
 
 ## How the team applied the Zettelkasten method
 
@@ -55,7 +55,7 @@ When readers choose a tag, all the related post will be listed, with chart on th
 
 ![](assets/organize-team-know-how-with-zettelkasten-method_clean-shot-2024-05-02-at-16-48-38-2x.webp)
 
-### The Map of content
+### The map of content
 
 Our team use the Zettelkasten method to organize the map of content by usiing Obsidian. All of the files are stored in the form of markdown first, then they will be categorized into certain topics. The map of content provides a high-level view of interconnected notes which offers a flexible and connected way to organize notes.
 

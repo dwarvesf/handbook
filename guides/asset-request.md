@@ -40,7 +40,7 @@ Got the item back? Great! Here's what to do:
 
 1. **Report any issues:** Did you have any problems with the item while you had it? Please add a comment to the Basecamp To-Do detailing any issues.
 2. **Return the item:** Bring it back to the office.
-3. **Mark the To-Do as done:** Once the item is back safely and in good condition, mark your request To-Do as complete in Basecamp.
+3. **Mark the to-do as done:** Once the item is back safely and in good condition, mark your request To-Do as complete in Basecamp.
 
 We hope you found the asset useful!
 

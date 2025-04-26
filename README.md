@@ -12,7 +12,7 @@ tags:
 
 Dwarves are a group of software engineers, designers, and innovation advocates. We serve a single purpose: To empower innovations and co-create the next big things.
 
-## Welcome to our Handbook
+## Welcome to our handbook
 
 This handbook offers a quick glance into who we are, how we work, and what we believe. It's for new Dwarves finding their footing, veterans looking to revisit our foundations, and the curious exploring our culture.
 
@@ -26,14 +26,14 @@ If you've just joined us, you're in a unique position. You can see things we've 
 
 ![Dwarves team](assets/team-photo.webp)
 
-## Introduction & Onboarding
+## Introduction & onboarding
 
 - [Getting started](getting-started.md) - First steps for new team members
-- [You are Dwarves Foundation](dwarves-foundation-is-you.md) - Understanding your role as our voice
+- [You are Dwarves foundation](dwarves-foundation-is-you.md) - Understanding your role as our voice
 - [Who does what](who-does-what.md) - Our team structure and responsibilities
 - [FAQ](faq.md) - Common questions about working at Dwarves
 
-## Company philosophy & Culture
+## Company philosophy & culture
 
 - [Our purpose](purpose.md) - Why we exist and what drives us
 - [What we stand for](what-we-stand-for.md) - Our mission and values
@@ -52,13 +52,13 @@ If you've just joined us, you're in a unique position. You can see things we've 
 - [Security rules](security-rules.md) - Keeping data and devices secure
 - [Navigate changes](navigate-changes.md) - How we adapt to tech changes
 
-## Career & Professional growth
+## Career & professional growth
 
 - [Making a career](making-a-career.md) - Long-term growth at Dwarves
 - [MMA](mma.md) - Our Mastery, Meaning, Autonomy framework
 - [Moonlighting](moonlighting.md) - Policy on outside work
 
-## Community & Learning
+## Community & learning
 
 - [As a community](as-a-community.md) - How we operate as an open network
 - [Knowledge base](knowledge-base.md) - Our "second brain" shared resources
@@ -72,7 +72,7 @@ If you've just joined us, you're in a unique position. You can see things we've 
 - [Sharing knowledge](community/sharing.md) - Our culture of learning and teaching
 - [Showcase](community/showcase.md) - Our weekly demo events
 
-## Benefits & Policies
+## Benefits & policies
 
 - [Benefits & perks](benefits-and-perks.md) - What we offer our team
 - [Stock option plan](stock-option-plan.md) - Employee ownership opportunities
@@ -93,7 +93,7 @@ If you've just joined us, you're in a unique position. You can see things we've 
 - [Reimbursement](guides/reimbursement.md) - Getting reimbursed for expenses
 - [Continuing education allowance](guides/continuing-education-allowance.md) - Learning budget
 
-## Tools & Resources
+## Tools & resources
 
 - [Tools and systems](tools-and-systems.md) - Software and platforms we use
 - [Marketing assets](misc/marketing-assets.md) - Brand resources and information

@@ -1,5 +1,5 @@
 ---
-title: Password Sharing
+title: Password sharing
 description: "How to access to team's password folder"
 date: 2020-01-01
 authors:

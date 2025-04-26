@@ -9,7 +9,7 @@ tags:
   - security
 ---
 
-## Basic Security
+## Basic security
 
 Keeping laptops and phones secure is vitally important. We're a software company and many of us have access to secure systems (both our own and our customers).
 
@@ -43,13 +43,13 @@ We all use personal mobile devices, so your options are either not to add any co
 - [ ] [Create a 6 digit passcode (or better)](http://www.cnet.com/uk/how-to/secure-your-ios-device-with-a-six-digit-passcode-on-ios-9/)
 - [ ] [Turn on auto lock after 5 mins](http://www.imore.com/how-change-auto-lock-time-your-iphone-or-ipad)
 
-### Using Passwords
+### Using passwords
 
 - [ ] Use a unique password for every account you create.
 - [ ] Use a tool like [pwgen](https://github.com/jbernard/pwgen) or [1password](https://1password.com) to generate random passwords.
 - [ ] Use a tool like GnuPG to encrypt passwords if you need to share them with somebody.
 
-## Security Report
+## Security report
 
 When someone finds a possible security issue in our software, we encourage them to report it to our <security@d.foundation> email address.
 

@@ -15,7 +15,7 @@ Memo is our team's wiki on how we work, learn, operate the team at Dwarves. It's
 
 Here are the simple steps we follow each week to keep the Memo pipeline organized and our team informed.
 
-### Sort out Memo content
+### Sort out memo content
 
 - Check all memos to-do lists in Basecamp and ensure the content pipeline is up to date.
 
@@ -27,7 +27,7 @@ Here are the simple steps we follow each week to keep the Memo pipeline organize
 
 ![](assets/memo-knowledge-base-meeting-2.webp)
 
-### Basecamp Memo To-Do List
+### Basecamp memo to-do list
 
 - Assign each cluster to the relevant team member, and make sure everyone knows their responsibilities.
 
@@ -39,7 +39,7 @@ Here are the simple steps we follow each week to keep the Memo pipeline organize
 
 ![](assets/memo-knowledge-base-meeting-4.webp)
 
-### Map of Content
+### Map of content
 
 - Develop and sort out your content map to track existing content, what needs updating, and what new content is planned. e.g: [df-topic](https://docs.google.com/spreadsheets/d/1HzCwXFrWkaCQoYXaZsHnb-Qge6kJEPoSDLVRULJKREc/edit#gid=0).
 - Check out this guide to create [map of content](make-a-moc.md).

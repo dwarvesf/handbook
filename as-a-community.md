@@ -81,7 +81,7 @@ The Dwarves Network is still growing. It already brings big benefits: better ide
 
 If you're part of Dwarves, as an employee or community member, we want your thoughts. What works well? What could be better? Let's build this together. Balancing consulting and community isn't always easy, but it creates something better than either could alone. That's the Dwarves way.
 
-## Our Community Channels
+## Our community channels
 
 - [Memo](https://memo.d.foundation/) - Our knowledge repository
 - [Discord](https://discord.gg/dfoundation) - Our main hub for discussions

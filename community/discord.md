@@ -1,5 +1,5 @@
 ---
-title: Dwarves Network Discord
+title: Dwarves network discord
 short_title: Discord
 description: "Our Discord isn't just another company server; it's a place for both our team and the wider developer community. This guide explains how it works and where you fit in."
 date: 2024-03-13
@@ -56,7 +56,7 @@ We needed a role system that reflects contribution and expertise as we grow, not
 
 Why this structure? We want to recognize engagement and skill, eventually linking roles to tangible benefits like NFTs and `$icy` staking (more details soon). It's about creating a system that rewards active participation.
 
-![Dwarves Network Discord Role Structure](assets/discord-role-structure.webp)
+![Dwarves network discord Role Structure](assets/discord-role-structure.webp)
 
 ### The core MMA roles (mastery, meaning, autonomy)
 

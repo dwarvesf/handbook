@@ -14,7 +14,7 @@ Meetings are a staple in our work, helping us share info and tackle issues. But 
 
 Here are the key things to get right:
 
-### Scheduling & Logistics
+### Scheduling & logistics
 
 Get the basics sorted ahead of time:
 

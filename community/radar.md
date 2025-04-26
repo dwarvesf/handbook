@@ -1,5 +1,5 @@
 ---
-title: Tech Radar
+title: Tech radar
 short_title: Radar
 description: Our tech radar helps us assess and adopt new technologies, inspired by ThoughtWorks. Learn about its structure and how we use it.
 date: 2022-10-19
@@ -11,7 +11,7 @@ tags:
   - community
 ---
 
-## The Dwarves tech radar program
+## The dwarves tech radar program
 
 We use a **tech radar** to systematically assess and adopt new technologies. We constantly observe the tech landscape and place promising technologies onto the radar to evaluate their potential.
 

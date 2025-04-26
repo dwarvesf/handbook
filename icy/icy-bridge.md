@@ -40,7 +40,7 @@ Here is how it goes:
 
 3. Once you've filled in those blanks, hit Approve, and confirm a couple of transactions on Coinbase Wallet.
 
-- **Spending Cap**: The spending cap limits how much cryptocurrency you can spend at once or over time.
+- **Spending cap**: The spending cap limits how much cryptocurrency you can spend at once or over time.
 - **Approval**: Each transaction must be approved to ensure awareness and consent, enhancing security and preventing unauthorized or accidental transactions.
 
 ![](assets/how-to-transfer-dfg-from-eth-to-base-for-staking_approve_bride.webp)

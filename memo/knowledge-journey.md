@@ -20,6 +20,6 @@ Our process for evaluating and integrating technology is designed to be thorough
 
 ## Become a Standard in **Playbook**
 
-- **Criteria for Playbook Inclusion**: Once a technology reaches the "Adopt" phase, it undergoes a final evaluation to determine its eligibility for inclusion in our Playbook.
+- **Criteria for Playbook inclusion**: Once a technology reaches the "Adopt" phase, it undergoes a final evaluation to determine its eligibility for inclusion in our Playbook.
 - **Requirements**: For a technology to be considered for the Playbook, it must be successfully applied in at least **two different projects** and receive **approval from all key members of the Labs team**.
 - **Purpose**: This thorough vetting process ensures that only the most effective, reliable, and beneficial technologies become part of our core practices.

@@ -62,7 +62,7 @@ After editing, your post is only saved on local files. To post it to memo, you w
 
 ![](assets/how-to-push-content-on-note-d_how-to-push-content-on-memo-2.webp)
 
-## Create Pull Request
+## Create pull request
 
 Now, you should go to your [Github](https://github.com/) and log in. After that follow the guideline to create pull request:
 
