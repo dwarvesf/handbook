@@ -284,7 +284,7 @@ If after 7 days from the payroll date you haven't received any notification from
 ### General questions
 
 **Any interesting projects that we are working on?** \
-I suppose you can go to [Fortress](fortress.d.foundation) to view all of that information and if you want to join any of them, you can ask the team lead.
+I suppose you can go to [Fortress](https://fortress.d.foundation) to view all of that information and if you want to join any of them, you can ask the team lead.
 
 **How about my career path?** \
 You can check up the [Making a Career](making-a-career.md) section where we've mapped our trajectory of mastery to _six different levels_.
