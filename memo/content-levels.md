@@ -19,7 +19,7 @@ Every idea starts somewhere. In the Memo, new thoughts land in the notes/ folder
 
 Each week, our sorting bot tidies these notes. It updates the frontmatter (metadata like title, tags, and author) and suggests where the note belongs based on its strongest tag. For example, a note about JavaScript might get flagged for `topics/engineering/javascript/`. This keeps our ideas organized and ready for the next step.
 
-!["Content levels"](assets/content-level.png)
+!["Content levels"](assets/content-level.webp)
 
 ### Level 2: Permanent notes in `topics/`
 
