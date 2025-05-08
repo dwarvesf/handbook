@@ -3,7 +3,7 @@ title: Bridge $DFG from Ethereum to Base
 description: This guide will show you how to move $DFG from Ethereum to Base using a bridge.
 date: 2024-04-19
 authors:
-  - minh
+  - ooohminh
   - jack
 tags:
   - dfg

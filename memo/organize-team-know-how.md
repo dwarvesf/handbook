@@ -3,7 +3,7 @@ title: Organize team know-how with Zettelkasten method
 description: We use the Zettelkasten method to enhance engagement by capturing one idea per note and connecting concepts with tags and citations. This method improves clarity, consistency, memorization, and reduces bias. We organize notes with a tag system and content map in Obsidian, making it easy for readers to navigate and see connections between topics.
 date: 2024-06-25
 authors:
-  - minh_cloud
+  - minhcloud
 tags:
   - operations
   - zettelkasten
