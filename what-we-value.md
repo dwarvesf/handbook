@@ -6,8 +6,8 @@ authors:
   - tieubao
   - duynglam
 tags:
-  - handbook
   - culture
+  - handbook
 ---
 
 Values come first. They guide our decisions, shape our culture, and define who we are as a company. They're what we're proud of and what helps us navigate difficult choices. They'll likely be what you appreciate most about working with us.

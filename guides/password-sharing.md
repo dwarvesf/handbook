@@ -5,8 +5,8 @@ date: 2020-01-01
 authors:
   - huynguyenh
 tags:
-  - handbook
   - guide
+  - handbook
 ---
 
 ## 1Password storage

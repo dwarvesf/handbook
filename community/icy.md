@@ -6,9 +6,9 @@ date: 2024-03-21
 authors:
   - tieubao
 tags:
+  - token
   - handbook
   - icy
-  - token
 ---
 
 ## What is ICY? 🧊

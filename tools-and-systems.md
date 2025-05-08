@@ -6,7 +6,7 @@ authors:
   - tieubao
 tags:
   - handbook
-  - tooling
+  - tool
 ---
 
 ## Public-facing channel

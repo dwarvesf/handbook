@@ -5,8 +5,8 @@ date: 2019-02-21
 authors:
   - duynglam
 tags:
-  - remote
   - handbook
+  - remote
 ---
 
 ### Noise levels

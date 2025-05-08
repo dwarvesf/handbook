@@ -5,9 +5,9 @@ date: 2021-11-01
 authors:
   - tieubao
 tags:
+  - guide
   - handbook
   - meeting
-  - guide
 ---
 
 Strong relationships are core to our culture, and **1-on-1 meetings are how we build them**. Every manager has a 1-on-1 with each direct report, usually weekly or whenever works best for both. This guide explains how we approach 1-on-1s and offers tips to keep them productive.

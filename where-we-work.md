@@ -7,8 +7,8 @@ authors:
 hide_title: true
 tags:
   - remote
-  - work
   - team
+  - work
 ---
 
 ### Office

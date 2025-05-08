@@ -5,8 +5,8 @@ date: 2023-11-22
 authors:
   - tieubao
 tags:
-  - icy
   - dfg
+  - icy
 ---
 
 Here's our draft internal map/v0 for 🧊 $icy play, based on our current activities at this borderless software firm.

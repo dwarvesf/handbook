@@ -5,9 +5,9 @@ date: 2019-02-21
 authors:
   - tieubao
 tags:
+  - guide
   - handbook
   - meeting
-  - guide
 ---
 
 To make working together flexible and productive, especially when we're not all in the same place, we follow a few simple rules for meetings and group work. This helps keep things running smoothly.

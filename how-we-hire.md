@@ -5,9 +5,9 @@ date: 2019-02-21
 authors:
   - tieubao
 tags:
+  - career
   - handbook
   - hiring
-  - career
 ---
 
 ## Why we hire the way we do

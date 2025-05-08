@@ -6,9 +6,9 @@ date: 2024-03-21
 authors:
   - tieubao
 tags:
-  - handbook
-  - brain
   - knowledge-base
+  - brain
+  - handbook
 ---
 
 ## What is this knowledge base thing?

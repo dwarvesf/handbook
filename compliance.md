@@ -5,8 +5,8 @@ date: 2024-01-02
 authors:
   - tieubao
 tags:
-  - handbook
   - compliance
+  - handbook
 ---
 
 Doing the right thing matters. We're serious about upholding high ethical standards and following the law. This part of the handbook breaks down our key policies so you know exactly what's expected from everyone on the team.

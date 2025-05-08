@@ -6,9 +6,9 @@ date: 2024-08-20
 authors:
   - tieubao
 tags:
+  - compliance
   - handbook
   - nda
-  - compliance
 ---
 
 When you joined Dwarves, you signed some key agreements. Think of them less like paperwork and more like the bedrock of trust between you, the company, and our clients.

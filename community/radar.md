@@ -7,8 +7,8 @@ authors:
   - zlatanpham
   - monotykamary
 tags:
-  - handbook
   - community
+  - handbook
 ---
 
 ## The dwarves tech radar program

@@ -5,8 +5,8 @@ date: 2024-03-04
 authors:
   - minhcloud
 tags:
-  - memo
   - guide
+  - memo
 ---
 
 ## Before edit or create a new post

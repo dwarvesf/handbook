@@ -6,9 +6,9 @@ authors:
   - grok
   - tieubao
 tags:
+  - knowledge-base
   - memo
   - zettelkasten
-  - knowledge-base
 ---
 
 Our content starts as rough ideas and matures into polished insights. Here’s how we break it down into four levels, each with a clear purpose.

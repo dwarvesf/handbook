@@ -7,9 +7,9 @@ authors:
   - nikkingtr
   - innnotruong
 tags:
-  - handbook
   - community
   - earn
+  - handbook
 ---
 
 Our [Dwarves Discord network](discord.md) is the space where we connect with friends, alumni, and other like-minded developers.

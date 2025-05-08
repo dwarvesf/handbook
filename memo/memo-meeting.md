@@ -5,8 +5,8 @@ date: 2024-06-20
 authors:
   - innnotruong
 tags:
-  - memo
   - guide
+  - memo
 ---
 
 ### Memo knowledge base meeting

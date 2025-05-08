@@ -6,9 +6,9 @@ date: 2020-01-01
 authors:
   - huynguyenh
 tags:
-  - handbook
   - email
   - guide
+  - handbook
 ---
 
 We use email as our formal tool for both internal and external communication.

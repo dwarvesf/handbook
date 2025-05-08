@@ -5,9 +5,9 @@ date: 2024-07-26
 authors:
   - tieubao
 tags:
-  - handbook
   - career
   - engineering
+  - handbook
 ---
 
 Look, the tech industry's relationship with employee tenure is… weird. A year here, a year there. It's often treated like collecting stamps. We think that's a missed opportunity. At Dwarves, the average tenure is around three years (as of late 2018), and frankly, we want it to be longer. The goal? Make it completely feasible for you to build a _life-long career_ here, mastering your craft without being forced into "management" just to feel like you're progressing.

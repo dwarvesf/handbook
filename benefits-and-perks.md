@@ -6,8 +6,8 @@ authors:
   - tieubao
   - duynglam
 tags:
-  - handbook
   - employee
+  - handbook
   - team
 ---
 

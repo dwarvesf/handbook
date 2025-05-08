@@ -6,9 +6,9 @@ date: 2025-03-31
 authors:
   - zlatanpham
 tags:
-  - handbook
   - business
   - growth
+  - handbook
 ---
 
 Technology comes in waves. You've likely noticed this cycle. AI is the current big shift, but before that, we adapted to DevOps, mobile, and the cloud. Each wave brings new tools and changes what clients need from us.

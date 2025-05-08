@@ -5,9 +5,9 @@ date: 2021-04-19
 authors:
   - duynglam
 tags:
+  - guide
   - handbook
   - learning
-  - guide
 ---
 
 You will always grow by learning and playing with new and cool technologies. From books to conferences, you’ll get a yearly budget for your learning and development goals.
