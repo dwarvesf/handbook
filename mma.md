@@ -1,14 +1,15 @@
 ---
-title: MMA
-description: We measure what matters at Dwarves through MMA (Mastery, Meaning, Autonomy). This framework helps us evaluate growth while creating a culture where everyone can thrive and contribute meaningfully.
-date: 2022-12-21
+title: 'MMA'
+description: 'We measure what matters at Dwarves through MMA (Mastery, Meaning, Autonomy). This framework helps us evaluate growth while creating a culture where everyone can thrive and contribute meaningfully.'
+date: 2022-12-21T00:00:00.000Z
 authors:
-  - tieubao
+  - 'tieubao'
 should_deploy_perma_storage: true
 tags:
-  - performance
-  - growth
-  - handbook
+  - 'performance'
+  - 'growth'
+  - 'handbook'
+perma_storage_id: 'ebsVTZVcGlDTC2nI2bwxnUjseBqDLIAtZWrtWiGhIbw'
 ---
 
 ## Why MMA?

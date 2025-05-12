@@ -1,14 +1,15 @@
 ---
-title: Our purpose
-short_title: Purpose
-description: We serve a single purpose, to empower innovations and co-create the next big things.
-date: 2020-07-01
+title: 'Our purpose'
+short_title: 'Purpose'
+description: 'We serve a single purpose, to empower innovations and co-create the next big things.'
+date: 2020-07-01T00:00:00.000Z
 authors:
-  - tieubao
+  - 'tieubao'
 should_deploy_perma_storage: true
 tags:
-  - handbook
-  - purpose
+  - 'handbook'
+  - 'purpose'
+perma_storage_id: '0_ZXQNBT73LOIdfuckM9NHQgFht0Ky71v9ypk7eLv1k'
 ---
 
 We serve a single purpose: To empower innovations and co-create the next big things.

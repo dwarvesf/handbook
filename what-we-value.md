@@ -1,14 +1,15 @@
 ---
-title: What we value
-description: Our core values guide our strategies and individual actions so that we create a company whose character is as radical as our work.
-date: 2019-02-21
+title: 'What we value'
+description: 'Our core values guide our strategies and individual actions so that we create a company whose character is as radical as our work.'
+date: 2019-02-21T00:00:00.000Z
 authors:
-  - tieubao
-  - duynglam
+  - 'tieubao'
+  - 'duynglam'
 should_deploy_perma_storage: true
 tags:
-  - culture
-  - handbook
+  - 'culture'
+  - 'handbook'
+perma_storage_id: 'Yowdf69CBrFnCd3Mx7oKTkYygs7vXJ-7Um-l_7FrULI'
 ---
 
 Values come first. They guide our decisions, shape our culture, and define who we are as a company. They're what we're proud of and what helps us navigate difficult choices. They'll likely be what you appreciate most about working with us.
