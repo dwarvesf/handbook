@@ -5,6 +5,7 @@ date: 2022-12-21T00:00:00.000Z
 authors:
   - 'tieubao'
 should_deploy_perma_storage: true
+should_mint: true
 tags:
   - 'performance'
   - 'growth'

@@ -6,6 +6,7 @@ authors:
   - 'tieubao'
   - 'duynglam'
 should_deploy_perma_storage: true
+should_mint: true
 tags:
   - 'culture'
   - 'handbook'

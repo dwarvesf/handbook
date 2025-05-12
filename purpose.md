@@ -6,6 +6,7 @@ date: 2020-07-01T00:00:00.000Z
 authors:
   - 'tieubao'
 should_deploy_perma_storage: true
+should_mint: true
 tags:
   - 'handbook'
   - 'purpose'
