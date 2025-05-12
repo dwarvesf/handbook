@@ -4,6 +4,7 @@ description: We measure what matters at Dwarves through MMA (Mastery, Meaning, A
 date: 2022-12-21
 authors:
   - tieubao
+should_deploy_perma_storage: true
 tags:
   - performance
   - growth

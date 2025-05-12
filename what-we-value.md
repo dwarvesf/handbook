@@ -5,6 +5,7 @@ date: 2019-02-21
 authors:
   - tieubao
   - duynglam
+should_deploy_perma_storage: true
 tags:
   - culture
   - handbook

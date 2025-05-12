@@ -5,6 +5,7 @@ description: We serve a single purpose, to empower innovations and co-create the
 date: 2020-07-01
 authors:
   - tieubao
+should_deploy_perma_storage: true
 tags:
   - handbook
   - purpose
