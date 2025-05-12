@@ -11,6 +11,8 @@ tags:
   - 'handbook'
   - 'purpose'
 perma_storage_id: '0_ZXQNBT73LOIdfuckM9NHQgFht0Ky71v9ypk7eLv1k'
+minted_at: '2025-05-12'
+token_id: '5'
 ---
 
 We serve a single purpose: To empower innovations and co-create the next big things.

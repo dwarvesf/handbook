@@ -11,6 +11,8 @@ tags:
   - 'culture'
   - 'handbook'
 perma_storage_id: 'Yowdf69CBrFnCd3Mx7oKTkYygs7vXJ-7Um-l_7FrULI'
+minted_at: '2025-05-12'
+token_id: '6'
 ---
 
 Values come first. They guide our decisions, shape our culture, and define who we are as a company. They're what we're proud of and what helps us navigate difficult choices. They'll likely be what you appreciate most about working with us.
