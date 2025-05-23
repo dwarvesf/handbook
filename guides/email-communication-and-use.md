@@ -9,6 +9,8 @@ tags:
   - email
   - guide
   - handbook
+redirect:
+  - /s/v8CYQQ
 ---
 
 We use email as our formal tool for both internal and external communication.

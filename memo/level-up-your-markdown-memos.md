@@ -7,6 +7,8 @@ authors:
 tags:
   - community
   - guide
+redirect:
+  - /s/XyVeEQ
 ---
 
 Markdown uses symbols and stuff to make your text look fancy. It's like learning a new skill, game, or design program - there will be bumps in the road before you're a pro. This article will show you some common mistakes people make when writing Memo posts with Markdown and how to fix them. Here's what we'll cover:

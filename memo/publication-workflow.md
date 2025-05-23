@@ -8,6 +8,8 @@ authors:
 tags:
   - guide
   - memo
+redirect:
+  - /s/urvlQQ
 ---
 
 ### Choosing the right directory for the right topic

@@ -7,6 +7,8 @@ authors:
 tags:
   - culture
   - handbook
+redirect:
+  - /s/tctW6w
 ---
 
 ## You are our voice

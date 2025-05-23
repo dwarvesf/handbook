@@ -7,6 +7,8 @@ authors:
 tags:
   - operation
   - zettelkasten
+redirect:
+  - /s/YmpqGw
 ---
 
 Whenever you dive into a topic, there's always a mix of what you know and what's new to you. It is important to leverage what you already know, learn new information related to it, and see the connection between them. When building memo.d.foundation, our team employs the Zettelkasten method to streamline all our memos, enhancing reader understanding and engagement.

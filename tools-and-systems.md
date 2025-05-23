@@ -7,6 +7,8 @@ authors:
 tags:
   - handbook
   - tool
+redirect:
+  - /s/MYs-LA
 ---
 
 ## Public-facing channel

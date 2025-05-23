@@ -6,6 +6,8 @@ authors:
   - lmquang
 tags:
   - icy
+redirect:
+  - /s/Tqn9nQ
 ---
 
 Ready to convert your ICY to Bitcoin? We've made the process simple and secure. Let's walk through it together.

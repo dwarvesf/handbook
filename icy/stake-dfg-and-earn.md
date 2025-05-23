@@ -10,6 +10,8 @@ tags:
   - dfg
   - icy
   - tutorial
+redirect:
+  - /s/cQgYwA
 ---
 
 This guide will show you how to use $DFG staking to earn $USDC, cool merch, and more. You'll need a computer with a browser. But first, let's understand why you're doing this:

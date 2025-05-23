@@ -7,6 +7,8 @@ authors:
 tags:
   - dfg
   - icy
+redirect:
+  - /s/rUkGNg
 ---
 
 Here's our draft internal map/v0 for 🧊 $icy play, based on our current activities at this borderless software firm.

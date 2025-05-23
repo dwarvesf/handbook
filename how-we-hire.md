@@ -8,6 +8,8 @@ tags:
   - career
   - handbook
   - hiring
+redirect:
+  - /s/BH0fJQ
 ---
 
 ## Why we hire the way we do

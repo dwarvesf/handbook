@@ -7,6 +7,8 @@ authors:
 tags:
   - guide
   - memo
+redirect:
+  - /s/jbA8fA
 ---
 
 ## Before edit or create a new post

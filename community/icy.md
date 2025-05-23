@@ -9,6 +9,8 @@ tags:
   - token
   - handbook
   - icy
+redirect:
+  - /s/uGns_A
 ---
 
 ## What is ICY? 🧊

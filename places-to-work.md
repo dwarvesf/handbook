@@ -7,6 +7,8 @@ authors:
 tags:
   - handbook
   - remote
+redirect:
+  - /s/x_sTRw
 ---
 
 ### Noise levels

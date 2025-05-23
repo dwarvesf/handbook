@@ -7,6 +7,8 @@ authors:
 tags:
   - guide
   - handbook
+redirect:
+  - /s/cB-CWw
 ---
 
 ## 1Password storage

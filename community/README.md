@@ -9,6 +9,8 @@ authors:
 tags:
   - community
   - handbook
+redirect:
+  - /s/PdY6_w
 ---
 
 We believe that learning is one of the most important aspects of any organization. We also believe in creating a culture that fosters learning and innovation.

@@ -8,6 +8,8 @@ tags:
   - community
   - culture
   - handbook
+redirect:
+  - /s/-poNAw
 ---
 
 Sharing is fundamental to our culture. We share frequently through public events, many of which are recorded for wider learning. While sharing extensively might seem unusual, we believe it offers significant benefits.

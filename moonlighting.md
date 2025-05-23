@@ -6,6 +6,8 @@ authors:
   - tieubao
 tags:
   - handbook
+redirect:
+  - /s/kwfpoA
 ---
 
 ## Balancing outside work

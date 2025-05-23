@@ -9,6 +9,8 @@ tags:
   - knowledge-base
   - brain
   - handbook
+redirect:
+  - /s/NHxsAw
 ---
 
 ## What is this knowledge base thing?

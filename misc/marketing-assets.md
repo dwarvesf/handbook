@@ -7,6 +7,8 @@ authors:
 tags:
   - handbook
   - marketing
+redirect:
+  - /s/B9bWHg
 ---
 
 - About: <https://d.foundation/about>

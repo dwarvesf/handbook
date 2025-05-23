@@ -6,6 +6,8 @@ authors:
   - minhcloud
 tags:
   - icy
+redirect:
+  - /s/yT88FQ
 ---
 
 ### What is Peeps NFT

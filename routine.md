@@ -8,6 +8,8 @@ hide_title: true
 tags:
   - handbook
   - workflow
+redirect:
+  - /s/yRSOrw
 ---
 
 As mentioned in [how we work](how-we-work.md), we keep our teams small and embrace agile principles at scale. This approach helps us stay nimble while delivering consistent quality.

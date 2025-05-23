@@ -7,6 +7,8 @@ authors:
 tags:
   - guide
   - memo
+redirect:
+  - /s/vFwH9Q
 ---
 
 Recap a publication is the work of summarizing its key points, analyzing why it matters, and providing insights or opinions on its content.

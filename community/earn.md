@@ -10,6 +10,8 @@ tags:
   - community
   - earn
   - handbook
+redirect:
+  - /s/RKvY2w
 ---
 
 Our [Dwarves Discord network](discord.md) is the space where we connect with friends, alumni, and other like-minded developers.

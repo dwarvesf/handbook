@@ -8,6 +8,8 @@ tags:
   - community
   - handbook
   - showcase
+redirect:
+  - /s/GyoKiQ
 ---
 
 ## Showcase: sharing our work

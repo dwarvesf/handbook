@@ -8,6 +8,8 @@ authors:
 tags:
   - handbook
   - purpose
+redirect:
+  - /s/s_iOVw
 ---
 
 ## Empower innovation with software craftsmanship
