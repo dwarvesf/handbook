@@ -39,3 +39,7 @@ Think of it like this: it's our team's collective know-how. As we keep working a
 ## Keeping it useful
 
 Making sure this knowledge base stays useful takes work. The core team looks after how it's organized and kept up, trying to keep things simple. But it really works best when everyone chips in. We hope you'll add to it, fix things that are out of date, and share ideas to make it better. Keeping our shared brain sharp is something we all do together, showing we care about doing good work.
+
+---
+
+> More at [build-log/brainery](https://github.com/dwarvesf/brainery/tree/main/updates/build-log/brainery)
