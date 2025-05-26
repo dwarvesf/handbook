@@ -6,6 +6,8 @@ authors:
   - minhcloud
 tags:
   - icy
+redirect:
+  - /s/iPRDew
 ---
 
 ### What is Peeps NFT

@@ -6,6 +6,8 @@ authors:
   - minhcloud
 tags:
   - icy
+redirect:
+  - /VCZabQ
 ---
 
 To withdraw ICY to bank or other fiat, you need set up 2 types of wallet in advance.

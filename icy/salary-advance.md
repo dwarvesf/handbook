@@ -6,6 +6,8 @@ authors:
   - huynguyenh
 tags:
   - icy
+redirect:
+  - /97ew7w
 ---
 
 We're launching the first feature from our 2024 roadmap: an $icy salary advance.
