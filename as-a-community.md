@@ -9,6 +9,8 @@ tags:
   - network
   - community
   - handbook
+redirect:
+  - /BlT8Iw
 ---
 
 We run Dwarves as an open company/community.

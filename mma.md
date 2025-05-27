@@ -13,6 +13,8 @@ tags:
 perma_storage_id: 'ebsVTZVcGlDTC2nI2bwxnUjseBqDLIAtZWrtWiGhIbw'
 minted_at: '2025-05-12'
 token_id: '7'
+redirect:
+  - /cyVgBQ
 ---
 
 ## Why MMA?

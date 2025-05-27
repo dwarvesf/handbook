@@ -10,6 +10,8 @@ authors:
 tags:
   - community
   - handbook
+redirect:
+  - /dvzlKQ
 ---
 
 We know there are countless Discord servers out there. Ours aims to be different. From the start, we designed it as a space _for developers_, prioritizing genuine connection and knowledge sharing over corporate speak. We operate it as a blend of company and community because we believe that's the most valuable approach.

@@ -8,6 +8,8 @@ authors:
 tags:
   - handbook
   - purpose
+redirect:
+  - /JFPfeg
 ---
 
 ## Empower innovation with software craftsmanship

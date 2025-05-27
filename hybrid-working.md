@@ -7,6 +7,8 @@ authors:
 tags:
   - handbook
   - remote
+redirect:
+  - /Ca6fjA
 ---
 
 We believe in giving you the freedom to work where you're most productive. While we're primarily a remote-first company, we recognize the value of in-person collaboration. Our hybrid working model gives you flexibility while ensuring we maintain our strong team culture.

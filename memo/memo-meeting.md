@@ -7,6 +7,8 @@ authors:
 tags:
   - guide
   - memo
+redirect:
+  - /9eELaA
 ---
 
 ### Memo knowledge base meeting

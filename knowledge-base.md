@@ -9,6 +9,8 @@ tags:
   - knowledge-base
   - brain
   - handbook
+redirect:
+  - /JnPgrA
 ---
 
 ## What is this knowledge base thing?

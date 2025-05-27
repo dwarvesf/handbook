@@ -8,6 +8,8 @@ tags:
   - community
   - handbook
   - showcase
+redirect:
+  - /RMW9jA
 ---
 
 ## Showcase: sharing our work

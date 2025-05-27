@@ -7,6 +7,8 @@ authors:
 tags:
   - compliance
   - handbook
+redirect:
+  - /eaT8Pw
 ---
 
 Doing the right thing matters. We're serious about upholding high ethical standards and following the law. This part of the handbook breaks down our key policies so you know exactly what's expected from everyone on the team.

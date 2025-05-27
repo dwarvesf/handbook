@@ -7,6 +7,8 @@ authors:
 tags:
   - handbook
   - remote
+redirect:
+  - /0uYpFQ
 ---
 
 ### Noise levels

@@ -7,6 +7,8 @@ authors:
 tags:
   - handbook
   - onboarding
+redirect:
+  - /rHfWfA
 ---
 
 ## What to expect

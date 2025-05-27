@@ -7,6 +7,8 @@ authors:
 tags:
   - guide
   - handbook
+redirect:
+  - /LOadJw
 ---
 
 ## 1Password storage

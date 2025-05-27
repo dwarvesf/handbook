@@ -13,6 +13,8 @@ tags:
 perma_storage_id: '0_ZXQNBT73LOIdfuckM9NHQgFht0Ky71v9ypk7eLv1k'
 minted_at: '2025-05-12'
 token_id: '5'
+redirect:
+  - /9sKTBg
 ---
 
 We serve a single purpose: To empower innovations and co-create the next big things.

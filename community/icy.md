@@ -9,6 +9,8 @@ tags:
   - token
   - handbook
   - icy
+redirect:
+  - /yDoKEw
 ---
 
 ## What is ICY? 🧊

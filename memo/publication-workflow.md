@@ -8,6 +8,8 @@ authors:
 tags:
   - guide
   - memo
+redirect:
+  - /cbnI7g
 ---
 
 ### Choosing the right directory for the right topic

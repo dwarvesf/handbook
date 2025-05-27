@@ -7,6 +7,8 @@ authors:
 tags:
   - handbook
   - workflow
+redirect:
+  - /LWx1wQ
 ---
 
 ## Our approach to work

@@ -7,6 +7,8 @@ authors:
 tags:
   - handbook
   - tool
+redirect:
+  - /HeLQ4Q
 ---
 
 ## Public-facing channel

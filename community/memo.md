@@ -9,6 +9,8 @@ tags:
   - handbook
   - learning
   - memo
+redirect:
+  - /eFskmA
 ---
 
 Every company has stories. We just happen to have _lots_ of them – tales of building teams, surviving milestones, how we live, how we work. We share these stories, our learnings, and pretty much everything else on [Dwarves Memo](https://memo.d.foundation). Think of it as pulling back the curtain so you can understand us better.

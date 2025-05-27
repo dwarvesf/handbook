@@ -9,6 +9,8 @@ tags:
   - email
   - guide
   - handbook
+redirect:
+  - /OBHAlio
 ---
 
 We use email as our formal tool for both internal and external communication.

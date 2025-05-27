@@ -9,6 +9,8 @@ tags:
   - remote
   - team
   - work
+redirect:
+  - /uKflewA
 ---
 
 ### Office

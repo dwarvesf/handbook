@@ -8,6 +8,8 @@ tags:
   - guide
   - handbook
   - meeting
+redirect:
+  - /jBTzlA
 ---
 
 To make working together flexible and productive, especially when we're not all in the same place, we follow a few simple rules for meetings and group work. This helps keep things running smoothly.

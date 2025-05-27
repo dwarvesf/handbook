@@ -6,6 +6,8 @@ authors:
   - tieubao
 tags:
   - handbook
+redirect:
+  - /qAkrEA
 ---
 
 ## Frequently asked questions

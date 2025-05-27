@@ -7,6 +7,8 @@ authors:
 tags:
   - handbook
   - security
+redirect:
+  - /BvLEow
 ---
 
 ## Basic security

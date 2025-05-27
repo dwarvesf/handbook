@@ -8,6 +8,8 @@ tags:
   - email
   - guide
   - handbook
+redirect:
+  - /5mL6TA
 ---
 
 If you are using a team email alias and want to send emails from that address using your personal Gmail account, this guide shows you how to set it up. This allows you to manage communications for the alias without leaving your main inbox.

@@ -6,6 +6,8 @@ authors:
   - tieubao
 tags:
   - handbook
+redirect:
+  - /oWXF6w
 ---
 
 Knowing who to bring a question or issue to should be straightforward. Most things fall within the focus of a specific group or "chair" at Dwarves. While the people mentioned here are good starting points, remember everyone at Dwarves is approachable and happy to point you in the right direction. If you have a question, ask it – chances are you're not the first.

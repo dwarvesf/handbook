@@ -10,6 +10,8 @@ authors:
 tags:
   - guide
   - handbook
+redirect:
+  - /KCC5wQ
 ---
 
 To keep everything running smoothly, it’s important that we all follow a clear process when requesting leave. Whether you’re planning a half-shift or a full day off, we want to make sure your absence doesn’t disrupt the team or the project.

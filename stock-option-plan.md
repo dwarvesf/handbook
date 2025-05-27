@@ -6,4 +6,6 @@ authors:
   - tieubao
 tags:
   - handbook
+redirect:
+  - /ycA5yQ
 ---
