@@ -1,5 +1,5 @@
 ---
-title: Bridge $DFG from Ethereum to Base
+title: Bridge \$DFG from Ethereum to Base
 description: This guide will show you how to move $DFG from Ethereum to Base using a bridge.
 date: 2024-04-19
 authors:
@@ -10,20 +10,20 @@ tags:
   - icy
   - tutorial
 redirect:
-  - /s/ShJugQ
+  - /ShJugQ
 ---
 
-$DFG is a token that represents the shares of Dwarves Foundation for Dwarves and active contributors of our communitiy. Dwarves team introduced a [program](stake-dfg-and-earn.md) to help $DFG holders earn $USDC from staking $DFG on Base. However, the orgin $DFG is on Ethereum Network, which means to stake $DFG and earn reward, $DFG holders need to move $DFG from Ethereum to Base using a bridge.
+\$DFG is a token that represents the shares of Dwarves Foundation for Dwarves and active contributors of our communitiy. Dwarves team introduced a [program](stake-dfg-and-earn.md) to help \$DFG holders earn \$USDC from staking \$DFG on Base. However, the orgin \$DFG is on Ethereum Network, which means to stake \$DFG and earn reward, \$DFG holders need to move \$DFG from Ethereum to Base using a bridge.
 
 Before going to the bridging part, please make sure that you have completed these steps:
 
 - Use Coinbase [wallet](setup-crypto-wallet.md) to store your tokens.
-- Get ETH to transfer $DFG from Ethereum to Base with [Binance P2P](https://www.binance.com/en/blog/p2p/binance-p2p-newbie-guide-7428324997079645557).
+- Get ETH to transfer \$DFG from Ethereum to Base with [Binance P2P](https://www.binance.com/en/blog/p2p/binance-p2p-newbie-guide-7428324997079645557).
 - [Withdraw](https://www.binance.com/en/support/faq/how-to-withdraw-crypto-from-binance-115003670492) ETH from Binance to your Coinbase wallet.
 
 ## How to transfer
 
-Once you've got Coinbase Wallet set up and some ETH in the tank for gas fees, it's time to bridge your $DFG over to Base for staking.
+Once you've got Coinbase Wallet set up and some ETH in the tank for gas fees, it's time to bridge your \$DFG over to Base for staking.
 
 Here is how it goes:
 

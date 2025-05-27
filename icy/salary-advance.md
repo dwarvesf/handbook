@@ -10,7 +10,7 @@ redirect:
   - /97ew7w
 ---
 
-We're launching the first feature from our 2024 roadmap: an $icy salary advance.
+We're launching the first feature from our 2024 roadmap: an \$icy salary advance.
 
 **tl;dr** It's a short-term credit benefit available to all full-time employees in our company.
 

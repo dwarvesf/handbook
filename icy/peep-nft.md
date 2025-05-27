@@ -7,7 +7,7 @@ authors:
 tags:
   - icy
 redirect:
-  - /s/iPRDew
+  - /iPRDew
 ---
 
 ### What is Peeps NFT

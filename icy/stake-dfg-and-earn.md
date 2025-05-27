@@ -14,21 +14,21 @@ redirect:
   - /Lrkyww
 ---
 
-This guide will show you how to use $DFG staking to earn $USDC, cool merch, and more. You'll need a computer with a browser. But first, let's understand why you're doing this:
+This guide will show you how to use \$DFG staking to earn \$USDC, cool merch, and more. You'll need a computer with a browser. But first, let's understand why you're doing this:
 
-- $DFG is a token from Dwarves Foundation.
-- In the future, Dwarves will give out $DFG tokens.
-- You can get $DFG on Ethereum.
+- \$DFG is a token from Dwarves Foundation.
+- In the future, Dwarves will give out \$DFG tokens.
+- You can get \$DFG on Ethereum.
 - Dwarves made a staking pool on Base.
-- Stake your $DFG on Base to get rewards.
+- Stake your \$DFG on Base to get rewards.
 - Rewards will be calculated by this formular
 
 Before going to the staking part, please make sure that you have completed these steps:
 
 - Use Coinbase Wallet to store your tokens (Check [this guide](setup-crypto-wallet.md)).
-- Get ETH to transfer $DFG from Ethereum to Base with Binance P2P (Follow [this guide](https://www.binance.com/en/blog/p2p/binance-p2p-newbie-guide-7428324997079645557)).
+- Get ETH to transfer \$DFG from Ethereum to Base with Binance P2P (Follow [this guide](https://www.binance.com/en/blog/p2p/binance-p2p-newbie-guide-7428324997079645557)).
 - Withdraw ETH from Binance to your Coinbase Wallet (See [this guide](https://www.binance.com/en/support/faq/how-to-withdraw-crypto-from-binance-115003670492)).
-- Move $DFG from Ethereum to Base network (See [this guide](icy-bridge.md))
+- Move \$DFG from Ethereum to Base network (See [this guide](icy-bridge.md))
 
 ## Staking DFG on Base
 
@@ -60,11 +60,11 @@ Now it’s time to stake your DFG on Base to earn rewards like USDC or merch wit
 
 The reward will be calculated with the APY is 9.99%/year.
 
-## Withdraw $DFG and claim reward from the staking pool
+## Withdraw \$DFG and claim reward from the staking pool
 
-Now, after a long time locking your DFG and having a decent claimable reward amount, it’s time to withdraw your $DFG and reward from the staking to the staking pool.
+Now, after a long time locking your DFG and having a decent claimable reward amount, it’s time to withdraw your \$DFG and reward from the staking to the staking pool.
 
-1. Go to [Dwarves Foundation Earning](https://tono.gg/dwarves), and log in. Once you’re logged in, if you have staked $DFG, you will see the staked amount in the Total Staked section.
+1. Go to [Dwarves Foundation Earning](https://tono.gg/dwarves), and log in. Once you’re logged in, if you have staked \$DFG, you will see the staked amount in the Total Staked section.
 2. Now hit “Unstake” button and choose amount you want to withdraw and hit “Unstake” again.
 
 ![](assets/how-to-earn-reward-from-staking-dfg_clean-shot-2024-05-13-at-16-34-02-2x.webp)
@@ -75,6 +75,6 @@ Now, after a long time locking your DFG and having a decent claimable reward amo
 
 ![](assets/how-to-earn-reward-from-staking-dfg_clean-shot-2024-05-13-at-16-37-11-2x_1715619304.webp)
 
-4. And that’s it! You’ve successfully withdraw $DFG and all of the recent reward to your wallet.
+4. And that’s it! You’ve successfully withdraw \$DFG and all of the recent reward to your wallet.
 
 ![](assets/how-to-earn-reward-from-staking-dfg_clean-shot-2024-05-13-at-16-39-16-2x_1715619306.webp)
