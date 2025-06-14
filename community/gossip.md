@@ -10,7 +10,6 @@ tags:
   - handbook
   - icy
   - knowledge-sharing
-pinned: true
 toc: true
 redirect:
   - /gossip
